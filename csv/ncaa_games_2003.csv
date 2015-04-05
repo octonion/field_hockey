@@ -1,0 +1,539 @@
+year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_score,location,neutral_site_location,game_length,attendance
+2003,Albany (NY),14,Saint Francis (PA),600,08/31/2002,3,1,Away,"",-,0
+2003,Albany (NY),14,La Salle,340,09/01/2002,2,3,Away,"",-,0
+2003,Albany (NY),14,Stanford,674,09/05/2002,0,4,Neutral,Syracuse,-,0
+2003,Albany (NY),14,Syracuse,688,09/11/2002,0,3,Neutral,Skidmore,-,0
+2003,Albany (NY),14,Rider,576,09/15/2002,1,2,Home,"",-,0
+2003,Albany (NY),14,Providence,556,09/20/2002,1,2,Away,"",-,0
+2003,Albany (NY),14,Vermont,738,09/25/2002,1,2,Away,"",-,0
+2003,Albany (NY),14,Rhode Island,572,09/28/2002,3,2,Home,"",1 OT,0
+2003,Albany (NY),14,Siena,639,10/01/2002,3,1,Home,"",-,0
+2003,Albany (NY),14,Northeastern,500,10/04/2002,0,6,Home,"",-,0
+2003,Albany (NY),14,Saint Francis (PA),600,10/06/2002,3,1,Home,"",-,0
+2003,Albany (NY),14,New Hampshire,469,10/13/2002,1,13,Away,"",-,0
+2003,Albany (NY),14,Colgate,153,10/16/2002,4,0,Home,"",-,0
+2003,Albany (NY),14,Cornell,167,10/20/2002,0,3,Away,"",-,0
+2003,Albany (NY),14,Maine,380,10/25/2002,2,6,Home,"",-,0
+2003,Albany (NY),14,Boston U.,68,10/27/2002,0,5,Home,"",-,0
+2003,Albany (NY),14,Lafayette,342,10/31/2002,2,10,Away,"",-,0
+2003,American,23,VCU,740,08/31/2002,2,1,Away,"",2 OT,0
+2003,American,23,Richmond,575,09/01/2002,0,2,Away,"",-,0
+2003,American,23,Appalachian St.,27,09/07/2002,3,0,Away,"",-,0
+2003,American,23,Davidson,173,09/08/2002,2,1,Neutral,Winston Salem,-,0
+2003,American,23,Boston U.,68,09/13/2002,1,2,Neutral,College Park,-,0
+2003,American,23,Massachusetts,400,09/15/2002,2,0,Neutral,College Park,-,0
+2003,American,23,James Madison,317,09/18/2002,2,5,Away,"",-,0
+2003,American,23,Lafayette,342,09/22/2002,0,1,Home,"",1 OT,0
+2003,American,23,Lehigh,352,09/28/2002,2,1,Away,"",-,0
+2003,American,23,Temple,690,09/29/2002,0,2,Away,"",-,0
+2003,American,23,Fairfield,220,10/05/2002,2,1,Away,"",-,0
+2003,American,23,Towson,711,10/09/2002,1,0,Away,"",2 OT,0
+2003,American,23,Colgate,153,10/12/2002,2,1,Neutral,College Park,1 OT,0
+2003,American,23,Georgetown,251,10/15/2002,1,2,Away,"",-,0
+2003,American,23,Holy Cross,285,10/19/2002,2,3,Home,"",-,0
+2003,American,23,Bucknell,83,11/02/2002,4,0,Home,"",-,0
+2003,American,23,Maryland,392,11/03/2002,1,6,Away,"",-,0
+2003,American,23,Holy Cross,285,11/08/2002,0,1,Neutral,Easton,-,0
+2003,Appalachian St.,27,James Madison,317,09/01/2002,0,6,Home,"",-,0
+2003,Appalachian St.,27,American,23,09/07/2002,0,3,Home,"",-,0
+2003,Appalachian St.,27,Saint Francis (PA),600,09/08/2002,6,1,Home,"",-,0
+2003,Appalachian St.,27,Miami (OH),414,09/13/2002,2,1,Home,"",-,0
+2003,Appalachian St.,27,Radford,563,09/15/2002,0,5,Away,"",-,0
+2003,Appalachian St.,27,Davidson,173,09/18/2002,1,3,Away,"",-,0
+2003,Appalachian St.,27,Louisville,367,09/22/2002,0,3,Home,"",-,0
+2003,Appalachian St.,27,Catawba,1001,09/25/2002,6,0,Home,"",-,0
+2003,Appalachian St.,27,Northeastern,500,09/27/2002,1,5,Home,"",-,0
+2003,Appalachian St.,27,VCU,740,10/05/2002,0,2,Away,"",-,0
+2003,Appalachian St.,27,Richmond,575,10/06/2002,0,2,Away,"",-,0
+2003,Appalachian St.,27,Radford,563,10/09/2002,0,1,Home,"",-,0
+2003,Appalachian St.,27,Wake Forest,749,10/13/2002,1,10,Away,"",-,0
+2003,Appalachian St.,27,Missouri St.,669,10/18/2002,0,1,Away,"",-,0
+2003,Appalachian St.,27,Missouri St.,669,10/20/2002,1,2,Away,"",1 OT,0
+2003,Appalachian St.,27,Davidson,173,10/23/2002,3,0,Home,"",-,0
+2003,Appalachian St.,27,Duke,193,10/27/2002,1,4,Home,"",-,0
+2003,Appalachian St.,27,Longwood,363,11/02/2002,1,0,Home,"",-,0
+2003,Appalachian St.,27,California,107,11/07/2002,0,6,Neutral,Stanford,-,0
+2003,Appalachian St.,27,Missouri St.,669,11/08/2002,0,1,Neutral,Stanford,-,0
+2003,Ball St.,47,Indiana,306,09/06/2002,3,0,Away,"",-,0
+2003,Ball St.,47,Michigan,418,09/08/2002,1,5,Away,"",-,0
+2003,Ball St.,47,Northwestern,509,09/18/2002,2,1,Home,"",-,0
+2003,Ball St.,47,Indiana,306,09/21/2002,1,0,Home,"",-,0
+2003,Ball St.,47,Saint Louis,609,09/22/2002,8,0,Home,"",-,0
+2003,Ball St.,47,Central Mich.,129,09/28/2002,1,3,Home,"",-,0
+2003,Ball St.,47,Boston U.,68,09/29/2002,2,3,Neutral,Ann Arbor,-,0
+2003,Ball St.,47,Miami (OH),414,10/04/2002,1,0,Away,"",-,0
+2003,Ball St.,47,Louisville,367,10/05/2002,3,2,Away,"",3 OT,0
+2003,Ball St.,47,Ohio,519,10/11/2002,0,1,Home,"",-,0
+2003,Ball St.,47,Kent St.,331,10/12/2002,4,3,Home,"",1 OT,0
+2003,Ball St.,47,Central Mich.,129,10/19/2002,1,2,Away,"",-,0
+2003,Ball St.,47,Michigan St.,416,10/20/2002,0,3,Away,"",-,0
+2003,Ball St.,47,Ohio St.,518,10/22/2002,2,3,Away,"",2 OT,0
+2003,Ball St.,47,Miami (OH),414,10/25/2002,10,0,Home,"",-,0
+2003,Ball St.,47,Louisville,367,10/26/2002,3,0,Home,"",-,0
+2003,Ball St.,47,Kent St.,331,11/01/2002,1,2,Away,"",1 OT,0
+2003,Ball St.,47,Ohio,519,11/02/2002,4,6,Away,"",-,0
+2003,Ball St.,47,Ohio,519,11/08/2002,1,2,Neutral,Oxford,2 OT,0
+2003,Boston College,67,Colgate,153,09/01/2002,4,0,Home,"",-,0
+2003,Boston College,67,Massachusetts,400,09/04/2002,3,1,Home,"",-,0
+2003,Boston College,67,Quinnipiac,562,09/06/2002,3,0,Home,"",-,0
+2003,Boston College,67,Boston U.,68,09/11/2002,1,0,Home,"",-,0
+2003,Boston College,67,Michigan,418,09/14/2002,2,6,Away,"",-,0
+2003,Boston College,67,Northwestern,509,09/15/2002,1,0,Neutral,Ann Arbor,1 OT,0
+2003,Boston College,67,Northeastern,500,09/18/2002,0,4,Away,"",-,0
+2003,Boston College,67,Vermont,738,09/21/2002,2,0,Home,"",-,0
+2003,Boston College,67,Providence,556,09/25/2002,5,1,Home,"",-,0
+2003,Boston College,67,Syracuse,688,09/29/2002,2,0,Away,"",-,0
+2003,Boston College,67,Rhode Island,572,10/02/2002,2,1,Away,"",-,0
+2003,Boston College,67,Brown,80,10/04/2002,2,0,Home,"",-,0
+2003,Boston College,67,Connecticut,164,10/09/2002,0,1,Home,"",1 OT,0
+2003,Boston College,67,Holy Cross,285,10/13/2002,2,1,Away,"",-,0
+2003,Boston College,67,Villanova,739,10/20/2002,0,1,Home,"",-,0
+2003,Boston College,67,Harvard,275,10/23/2002,1,0,Home,"",2 OT,0
+2003,Boston College,67,Rutgers,587,10/26/2002,3,1,Away,"",-,0
+2003,Boston College,67,New Hampshire,469,10/30/2002,1,0,Home,"",-,0
+2003,Boston College,67,James Madison,317,11/02/2002,1,2,Away,"",-,0
+2003,Boston College,67,Radford,563,11/03/2002,1,0,Neutral,Harrisonburg,-,0
+2003,Boston College,67,Villanova,739,11/08/2002,4,5,Neutral,Syracuse,1 OT,0
+2003,Boston U.,68,Massachusetts,400,08/31/2002,2,1,Away,"",-,0
+2003,Boston U.,68,Quinnipiac,562,09/02/2002,7,1,Home,"",-,0
+2003,Boston U.,68,William & Mary,786,09/07/2002,0,1,Home,"",1 OT,0
+2003,Boston U.,68,Boston College,67,09/11/2002,0,1,Away,"",-,0
+2003,Boston U.,68,American,23,09/13/2002,2,1,Neutral,College Park,-,0
+2003,Boston U.,68,Maryland,392,09/15/2002,0,1,Away,"",1 OT,0
+2003,Boston U.,68,Dartmouth,172,09/24/2002,2,3,Home,"",-,0
+2003,Boston U.,68,Michigan,418,09/28/2002,0,3,Away,"",-,0
+2003,Boston U.,68,Ball St.,47,09/29/2002,3,2,Neutral,Ann Arbor,-,0
+2003,Boston U.,68,Yale,813,10/05/2002,1,0,Away,"",-,0
+2003,Boston U.,68,Rhode Island,572,10/06/2002,2,0,Home,"",-,0
+2003,Boston U.,68,Maine,380,10/12/2002,4,1,Home,"",-,0
+2003,Boston U.,68,Princeton,554,10/13/2002,2,0,Neutral,Storrs,-,0
+2003,Boston U.,68,New Hampshire,469,10/18/2002,1,3,Away,"",-,0
+2003,Boston U.,68,California,107,10/20/2002,1,0,Home,"",-,0
+2003,Boston U.,68,Connecticut,164,10/22/2002,5,3,Home,"",-,0
+2003,Boston U.,68,Vermont,738,10/25/2002,1,2,Away,"",2 OT,0
+2003,Boston U.,68,Albany (NY),14,10/27/2002,5,0,Away,"",-,0
+2003,Boston U.,68,Harvard,275,10/30/2002,0,1,Home,"",-,0
+2003,Boston U.,68,Northeastern,500,11/02/2002,1,2,Home,"",-,0
+2003,Brown,80,Dartmouth,172,09/14/2002,4,5,Away,"",-,0
+2003,Brown,80,Vermont,738,09/15/2002,0,2,Neutral,Hanover,-,0
+2003,Brown,80,Rhode Island,572,09/18/2002,2,1,Home,"",-,0
+2003,Brown,80,Columbia,158,09/21/2002,6,1,Home,"",-,0
+2003,Brown,80,Connecticut,164,09/25/2002,1,3,Away,"",-,0
+2003,Brown,80,Harvard,275,09/28/2002,2,3,Home,"",-,0
+2003,Brown,80,Boston College,67,10/04/2002,0,2,Away,"",-,0
+2003,Brown,80,Northeastern,500,10/06/2002,0,3,Away,"",-,0
+2003,Brown,80,Sacred Heart,590,10/09/2002,6,0,Home,"",-,0
+2003,Brown,80,Pacific,534,10/12/2002,3,1,Home,"",-,0
+2003,Brown,80,Princeton,554,10/19/2002,1,9,Away,"",-,0
+2003,Brown,80,Providence,556,10/23/2002,3,2,Home,"",2 OT,0
+2003,Brown,80,Cornell,167,10/26/2002,2,1,Home,"",-,0
+2003,Brown,80,Holy Cross,285,10/30/2002,2,1,Away,"",-,0
+2003,Brown,80,Penn,540,11/03/2002,0,1,Away,"",-,0
+2003,Brown,80,Yale,813,11/09/2002,3,4,Home,"",1 OT,0
+2003,Bucknell,83,Central Mich.,129,08/31/2002,0,1,Neutral,"",-,0
+2003,Bucknell,83,Monmouth,439,09/01/2002,1,2,Home,"",1 OT,0
+2003,Bucknell,83,Drexel,191,09/04/2002,3,4,Away,"",1 OT,0
+2003,Bucknell,83,Colgate,153,09/07/2002,5,0,Home,"",-,0
+2003,Bucknell,83,Towson,711,09/10/2002,0,3,Away,"",-,0
+2003,Bucknell,83,Columbia,158,09/14/2002,2,1,Home,"",2 OT,0
+2003,Bucknell,83,Holy Cross,285,09/21/2002,0,2,Away,"",-,0
+2003,Bucknell,83,La Salle,340,09/24/2002,2,1,Home,"",1 OT,0
+2003,Bucknell,83,Lafayette,342,09/28/2002,0,5,Away,"",-,0
+2003,Bucknell,83,Saint Francis (PA),600,10/02/2002,4,2,Neutral,Philadelphia,-,0
+2003,Bucknell,83,Lehigh,352,10/05/2002,2,0,Home,"",-,0
+2003,Bucknell,83,Penn St.,539,10/08/2002,0,8,Away,"",-,0
+2003,Bucknell,83,Lock Haven,360,10/15/2002,1,3,Home,"",-,0
+2003,Bucknell,83,Vermont,738,10/20/2002,1,2,Away,"",-,0
+2003,Bucknell,83,Siena,639,10/22/2002,2,0,Away,"",-,0
+2003,Bucknell,83,Fairfield,220,10/26/2002,2,1,Home,"",-,0
+2003,Bucknell,83,American,23,11/02/2002,0,4,Away,"",-,0
+2003,Bucknell,83,Georgetown,251,11/03/2002,0,1,Away,"",-,0
+2003,Bucknell,83,Lafayette,342,11/08/2002,1,8,Away,"",-,0
+2003,California,107,Rutgers,587,09/01/2002,3,0,Neutral,Stanford,-,0
+2003,California,107,Ohio St.,518,09/03/2002,0,1,Neutral,Stanford,1 OT,0
+2003,California,107,Saint Louis,609,09/05/2002,2,0,Away,"",-,0
+2003,California,107,Missouri St.,669,09/06/2002,1,0,Neutral,St. Louis,-,0
+2003,California,107,Indiana,306,09/08/2002,1,0,Away,"",-,0
+2003,California,107,Iowa,312,09/21/2002,3,2,Home,"",-,0
+2003,California,107,Georgetown,251,09/26/2002,3,2,Away,"",-1 OT,0
+2003,California,107,Virginia,746,09/27/2002,2,3,Away,"",-,0
+2003,California,107,Maryland,392,09/29/2002,1,3,Away,"",-,0
+2003,California,107,Pacific,534,10/05/2002,2,1,Away,"",-1 OT,0
+2003,California,107,Stanford,674,10/12/2002,2,1,Home,"",-,0
+2003,California,107,Harvard,275,10/17/2002,1,4,Away,"",-,0
+2003,California,107,Northeastern,500,10/18/2002,0,6,Away,"",-,0
+2003,California,107,Boston U.,68,10/20/2002,0,1,Away,"",-,0
+2003,California,107,Saint Louis,609,10/22/2002,7,1,Home,"",-,0
+2003,California,107,Pacific,534,10/26/2002,4,1,Home,"",-,0
+2003,California,107,Stanford,674,11/02/2002,2,1,Away,"",1 OT,0
+2003,California,107,Appalachian St.,27,11/07/2002,6,0,Neutral,Stanford,-,0
+2003,California,107,Pacific,534,11/08/2002,1,0,Neutral,Stanford,-,0
+2003,California,107,Stanford,674,11/09/2002,2,1,Away,"",1 OT,0
+2003,California,107,Lafayette,342,11/12/2002,1,0,Home,"",1 OT,0
+2003,California,107,Wake Forest,749,11/16/2002,0,8,Away,"",-,0
+2003,Central Mich.,129,Bucknell,83,08/31/2002,1,0,Neutral,"",-,0
+2003,Central Mich.,129,Lock Haven,360,09/01/2002,6,2,Away,"",-,0
+2003,Central Mich.,129,Pacific,534,09/05/2002,4,0,Home,"",-,0
+2003,Central Mich.,129,Michigan,418,09/07/2002,0,5,Away,"",-,0
+2003,Central Mich.,129,Michigan St.,416,09/10/2002,0,4,Home,"",-,0
+2003,Central Mich.,129,Missouri St.,669,09/14/2002,1,0,Neutral,St. Louis,-,0
+2003,Central Mich.,129,Saint Louis,609,09/15/2002,4,1,Away,"",-,0
+2003,Central Mich.,129,Northeastern,500,09/20/2002,1,3,Neutral,Ann Arbor,-,0
+2003,Central Mich.,129,Temple,690,09/22/2002,2,1,Neutral,Ann Arbor,-,0
+2003,Central Mich.,129,Ball St.,47,09/28/2002,3,1,Away,"",-,0
+2003,Central Mich.,129,Louisville,367,10/04/2002,1,3,Away,"",-,0
+2003,Central Mich.,129,Miami (OH),414,10/05/2002,2,0,Away,"",-,0
+2003,Central Mich.,129,Ohio,519,10/10/2002,3,1,Home,"",-,0
+2003,Central Mich.,129,Kent St.,331,10/11/2002,2,1,Home,"",2 OT,0
+2003,Central Mich.,129,Northwestern,509,10/18/2002,3,0,Home,"",-,0
+2003,Central Mich.,129,Ball St.,47,10/19/2002,2,1,Home,"",-,0
+2003,Central Mich.,129,Louisville,367,10/25/2002,0,1,Home,"",-,0
+2003,Central Mich.,129,Miami (OH),414,10/27/2002,4,2,Home,"",-,0
+2003,Central Mich.,129,Ohio,519,11/01/2002,3,1,Away,"",-,0
+2003,Central Mich.,129,Kent St.,331,11/02/2002,1,2,Away,"",1 OT,0
+2003,Central Mich.,129,Kent St.,331,11/09/2002,2,3,Neutral,Oxford,2 OT,0
+2003,Colgate,153,Boston College,67,09/01/2002,0,4,Away,"",-,0
+2003,Colgate,153,Bucknell,83,09/07/2002,0,5,Away,"",-,0
+2003,Colgate,153,Stanford,674,09/10/2002,0,5,Home,"",-,0
+2003,Colgate,153,Fairfield,220,09/14/2002,2,1,Home,"",1 OT,0
+2003,Colgate,153,Siena,639,09/17/2002,4,2,Away,"",-,0
+2003,Colgate,153,Lehigh,352,09/21/2002,3,0,Home,"",-,0
+2003,Colgate,153,Holy Cross,285,09/28/2002,1,3,Home,"",-,0
+2003,Colgate,153,Cornell,167,10/02/2002,1,2,Home,"",-,0
+2003,Colgate,153,Hofstra,283,10/05/2002,0,7,Away,"",-,0
+2003,Colgate,153,Columbia,158,10/06/2002,2,1,Away,"",-,0
+2003,Colgate,153,American,23,10/12/2002,1,2,Neutral,College Park,1 OT,0
+2003,Colgate,153,Albany (NY),14,10/16/2002,0,4,Away,"",-,0
+2003,Colgate,153,Lafayette,342,10/19/2002,0,5,Away,"",-,0
+2003,Colgate,153,Syracuse,688,10/23/2002,1,0,Away,"",-,0
+2003,Colgate,153,Rider,576,10/26/2002,3,1,Home,"",-,0
+2003,Colgate,153,Indiana,306,11/02/2002,0,1,Neutral,Evanston,-,0
+2003,Colgate,153,Northwestern,509,11/03/2002,0,3,Away,"",-,0
+2003,Columbia,158,Lehigh,352,09/13/2002,3,2,Away,"",2 OT,0
+2003,Columbia,158,Bucknell,83,09/14/2002,1,2,Away,"",2 OT,0
+2003,Columbia,158,Princeton,554,09/18/2002,1,6,Home,"",-,0
+2003,Columbia,158,Brown,80,09/21/2002,1,6,Away,"",-,0
+2003,Columbia,158,Sacred Heart,590,09/25/2002,3,0,Home,"",-,0
+2003,Columbia,158,La Salle,340,09/28/2002,3,1,Home,"",-,0
+2003,Columbia,158,Hofstra,283,09/29/2002,1,4,Away,"",-,0
+2003,Columbia,158,Lafayette,342,10/02/2002,1,6,Away,"",-,0
+2003,Columbia,158,Cornell,167,10/05/2002,0,3,Home,"",-,0
+2003,Columbia,158,Colgate,153,10/06/2002,1,2,Home,"",-,0
+2003,Columbia,158,Holy Cross,285,10/12/2002,0,4,Away,"",-,0
+2003,Columbia,158,Penn,540,10/18/2002,2,4,Away,"",-,0
+2003,Columbia,158,Fairfield,220,10/20/2002,1,4,Away,"",-,0
+2003,Columbia,158,Dartmouth,172,10/26/2002,0,3,Home,"",-,0
+2003,Columbia,158,Rutgers,587,10/30/2002,2,3,Home,"",-,0
+2003,Columbia,158,Yale,813,11/01/2002,0,2,Away,"",-,0
+2003,Columbia,158,Harvard,275,11/09/2002,0,8,Away,"",-,0
+2003,Cornell,167,Stanford,674,09/13/2002,4,1,Home,"",-,0
+2003,Cornell,167,Lafayette,342,09/15/2002,3,4,Home,"",1 OT,0
+2003,Cornell,167,Kent St.,331,09/16/2002,0,1,Home,"",-,0
+2003,Cornell,167,Penn,540,09/21/2002,1,0,Home,"",-,0
+2003,Cornell,167,Lehigh,352,09/22/2002,4,2,Home,"",-,0
+2003,Cornell,167,Yale,813,09/28/2002,2,1,Home,"",-,0
+2003,Cornell,167,Rhode Island,572,09/29/2002,3,1,Home,"",-,0
+2003,Cornell,167,Colgate,153,10/02/2002,2,1,Away,"",-,0
+2003,Cornell,167,Columbia,158,10/05/2002,3,0,Away,"",-,0
+2003,Cornell,167,Syracuse,688,10/08/2002,0,2,Home,"",-,0
+2003,Cornell,167,Harvard,275,10/12/2002,0,2,Away,"",-,0
+2003,Cornell,167,Maine,380,10/13/2002,0,1,Neutral,Boston,-,0
+2003,Cornell,167,Virginia,746,10/19/2002,2,1,Home,"",2 OT,0
+2003,Cornell,167,Albany (NY),14,10/20/2002,3,0,Home,"",-,0
+2003,Cornell,167,Brown,80,10/26/2002,1,2,Away,"",-,0
+2003,Cornell,167,Princeton,554,10/29/2002,2,5,Home,"",-,0
+2003,Cornell,167,Dartmouth,172,11/10/2002,1,3,Home,"",-,0
+2003,Dartmouth,172,Brown,80,09/14/2002,5,4,Home,"",-,0
+2003,Dartmouth,172,Maine,380,09/18/2002,1,6,Away,"",-,0
+2003,Dartmouth,172,Princeton,554,09/21/2002,1,9,Away,"",-,0
+2003,Dartmouth,172,Fairfield,220,09/22/2002,6,2,Away,"",-,0
+2003,Dartmouth,172,Boston U.,68,09/24/2002,3,2,Away,"",-,0
+2003,Dartmouth,172,Delaware,180,09/29/2002,0,3,Neutral,New Canaan,-,0
+2003,Dartmouth,172,Penn,540,10/05/2002,4,3,Home,"",-,0
+2003,Dartmouth,172,New Hampshire,469,10/09/2002,2,0,Away,"",-,0
+2003,Dartmouth,172,Yale,813,10/12/2002,2,0,Home,"",-,0
+2003,Dartmouth,172,Vermont,738,10/16/2002,1,0,Away,"",-,0
+2003,Dartmouth,172,Virginia,746,10/18/2002,2,1,Neutral,Ithaca,-,0
+2003,Dartmouth,172,Syracuse,688,10/20/2002,0,2,Away,"",-,0
+2003,Dartmouth,172,Massachusetts,400,10/23/2002,1,0,Home,"",1 OT,0
+2003,Dartmouth,172,Columbia,158,10/26/2002,3,0,Away,"",-,0
+2003,Dartmouth,172,Holy Cross,285,10/27/2002,3,4,Home,"",1 OT,0
+2003,Dartmouth,172,Harvard,275,11/02/2002,0,2,Home,"",-,0
+2003,Dartmouth,172,Cornell,167,11/10/2002,3,1,Away,"",-,0
+2003,Davidson,173,Radford,563,08/31/2002,1,0,Home,"",-,0
+2003,Davidson,173,Saint Francis (PA),600,09/06/2002,4,1,Neutral,Boone,-,0
+2003,Davidson,173,American,23,09/08/2002,1,2,Neutral,Winston Salem,-,0
+2003,Davidson,173,Miami (OH),414,09/15/2002,1,0,Neutral,Boone,2 OT,0
+2003,Davidson,173,Appalachian St.,27,09/18/2002,3,1,Home,"",-,0
+2003,Davidson,173,Richmond,575,09/20/2002,0,3,Away,"",-,0
+2003,Davidson,173,Towson,711,09/22/2002,1,4,Away,"",-,0
+2003,Davidson,173,Duke,193,09/24/2002,0,12,Away,"",-,0
+2003,Davidson,173,Missouri St.,669,09/28/2002,0,3,Home,"",-2 OT,0
+2003,Davidson,173,Missouri St.,669,09/29/2002,1,0,Home,"",-2 OT,0
+2003,Davidson,173,Temple,690,10/05/2002,1,2,Home,"",1 OT,0
+2003,Davidson,173,Wake Forest,749,10/09/2002,0,4,Away,"",-,0
+2003,Davidson,173,William & Mary,786,10/12/2002,1,7,Away,"",-,0
+2003,Davidson,173,Maryland,392,10/13/2002,0,3,Away,"",-,0
+2003,Davidson,173,Catawba,1001,10/21/2002,5,0,Home,"",-,0
+2003,Davidson,173,Appalachian St.,27,10/23/2002,0,3,Away,"",-,0
+2003,Davidson,173,Radford,563,10/26/2002,0,1,Away,"",-,0
+2003,Davidson,173,Georgetown,251,10/27/2002,2,0,Home,"",-,0
+2003,Davidson,173,VCU,740,11/02/2002,1,6,Away,"",-,0
+2003,Davidson,173,Stanford,674,11/07/2002,1,3,Away,"",-,0
+2003,Davidson,173,Saint Louis,609,11/08/2002,3,2,Neutral,Stanford,-,0
+2003,Delaware,180,West Chester,765,08/31/2002,2,0,Home,"",-,0
+2003,Delaware,180,Duke,193,09/01/2002,2,4,Home,"",-,0
+2003,Delaware,180,Villanova,739,09/06/2002,1,0,Home,"",-,0
+2003,Delaware,180,Richmond,575,09/08/2002,2,1,Home,"",1 OT,0
+2003,Delaware,180,La Salle,340,09/10/2002,4,0,Home,"",-,0
+2003,Delaware,180,Wake Forest,749,09/14/2002,2,6,Neutral,Louisville,-,0
+2003,Delaware,180,Louisville,367,09/15/2002,3,2,Away,"",-,0
+2003,Delaware,180,Maryland,392,09/18/2002,1,3,Home,"",-,0
+2003,Delaware,180,Temple,690,09/25/2002,2,3,Home,"",1 OT,0
+2003,Delaware,180,Dartmouth,172,09/29/2002,3,0,Neutral,New Canaan,-,0
+2003,Delaware,180,Old Dominion,523,10/06/2002,1,5,Home,"",-,0
+2003,Delaware,180,Princeton,554,10/09/2002,1,5,Away,"",-,0
+2003,Delaware,180,Towson,711,10/13/2002,1,2,Away,"",-,0
+2003,Delaware,180,Lafayette,342,10/15/2002,2,3,Home,"",2 OT,0
+2003,Delaware,180,James Madison,317,10/18/2002,1,0,Away,"",-,0
+2003,Delaware,180,William & Mary,786,10/25/2002,2,3,Home,"",2 OT,0
+2003,Delaware,180,Hofstra,283,11/01/2002,5,0,Home,"",-,0
+2003,Delaware,180,Drexel,191,11/03/2002,4,1,Home,"",-,0
+2003,Delaware,180,VCU,740,11/05/2002,1,0,Away,"",-,0
+2003,Delaware,180,William & Mary,786,11/09/2002,1,4,Neutral,Norfolk,-,0
+2003,Drexel,191,Bucknell,83,09/04/2002,4,3,Home,"",1 OT,0
+2003,Drexel,191,Maryland,392,09/06/2002,0,3,Away,"",-,0
+2003,Drexel,191,Villanova,739,09/10/2002,3,4,Away,"",2 OT,0
+2003,Drexel,191,Penn,540,09/13/2002,4,3,Away,"",-,0
+2003,Drexel,191,Ohio,519,09/14/2002,2,1,Home,"",-,0
+2003,Drexel,191,Rutgers,587,09/25/2002,5,0,Away,"",-,0
+2003,Drexel,191,Fairfield,220,09/28/2002,1,0,Home,"",2 OT,0
+2003,Drexel,191,West Chester,765,10/02/2002,2,1,Away,"",-,0
+2003,Drexel,191,La Salle,340,10/04/2002,2,1,Neutral,Temple,-,0
+2003,Drexel,191,James Madison,317,10/06/2002,1,2,Home,"",-,0
+2003,Drexel,191,Lafayette,342,10/08/2002,0,3,Away,"",-,0
+2003,Drexel,191,Hofstra,283,10/13/2002,3,4,Away,"",-,0
+2003,Drexel,191,William & Mary,786,10/18/2002,0,4,Away,"",-,0
+2003,Drexel,191,Old Dominion,523,10/20/2002,1,8,Away,"",-,0
+2003,Drexel,191,Saint Joseph's,606,10/23/2002,1,0,Home,"",-,0
+2003,Drexel,191,VCU,740,10/25/2002,2,0,Home,"",-,0
+2003,Drexel,191,Towson,711,11/01/2002,3,2,Home,"",2 OT,0
+2003,Drexel,191,Delaware,180,11/03/2002,1,4,Away,"",-,0
+2003,Drexel,191,Boston U.,68,11/16/2002,3,1,Neutral,Yale,-,0
+2003,Drexel,191,Yale,813,11/17/2002,0,1,Away,"",-,0
+2003,Duke,193,La Salle,340,08/31/2002,4,0,Away,"",-,0
+2003,Duke,193,Delaware,180,09/01/2002,4,2,Away,"",-,0
+2003,Duke,193,James Madison,317,09/07/2002,2,3,Away,"",-,0
+2003,Duke,193,Old Dominion,523,09/14/2002,1,8,Away,"",-,0
+2003,Duke,193,VCU,740,09/15/2002,5,2,Away,"",-,0
+2003,Duke,193,Louisville,367,09/21/2002,2,1,Home,"",-,0
+2003,Duke,193,Richmond,575,09/22/2002,6,0,Home,"",-,0
+2003,Duke,193,Davidson,173,09/24/2002,12,0,Home,"",-,0
+2003,Duke,193,Wake Forest,749,09/27/2002,0,3,Away,"",-,0
+2003,Duke,193,Northeastern,500,09/29/2002,3,2,Home,"",-,0
+2003,Duke,193,North Carolina,457,10/05/2002,4,5,Home,"",2 OT,0
+2003,Duke,193,William & Mary,786,10/06/2002,2,0,Home,"",-,0
+2003,Duke,193,Maryland,392,10/12/2002,0,5,Away,"",-,0
+2003,Duke,193,Villanova,739,10/14/2002,2,0,Home,"",-,0
+2003,Duke,193,North Carolina,457,10/19/2002,1,3,Away,"",-,0
+2003,Duke,193,Radford,563,10/20/2002,2,0,Home,"",-,0
+2003,Duke,193,Appalachian St.,27,10/27/2002,4,1,Away,"",-,0
+2003,Duke,193,Virginia,746,11/01/2002,4,2,Home,"",-,0
+2003,Duke,193,Michigan,418,11/03/2002,2,3,Home,"",-,0
+2003,Duke,193,Virginia,746,11/07/2002,5,2,Home,"",-,0
+2003,Duke,193,Wake Forest,749,11/08/2002,1,2,Home,"",-,0
+2003,Duke,193,James Madison,317,11/16/2002,2,1,Neutral,"Wake Forest, N.C.",-,0
+2003,Duke,193,Wake Forest,749,11/17/2002,0,2,Away,"",-,0
+2003,Fairfield,220,Providence,556,09/07/2002,2,1,Home,"",1 OT,0
+2003,Fairfield,220,Rhode Island,572,09/08/2002,4,1,Home,"",-,0
+2003,Fairfield,220,Rutgers,587,09/10/2002,1,2,Home,"",2 OT,0
+2003,Fairfield,220,Colgate,153,09/14/2002,1,2,Away,"",1 OT,0
+2003,Fairfield,220,Hofstra,283,09/20/2002,0,4,Away,"",-,0
+2003,Fairfield,220,Dartmouth,172,09/22/2002,2,6,Home,"",-,0
+2003,Fairfield,220,Holy Cross,285,09/25/2002,2,1,Home,"",-,0
+2003,Fairfield,220,Drexel,191,09/28/2002,0,1,Away,"",2 OT,0
+2003,Fairfield,220,Saint Joseph's,606,09/29/2002,0,1,Away,"",2 OT,0
+2003,Fairfield,220,American,23,10/05/2002,1,2,Home,"",-,0
+2003,Fairfield,220,Pacific,534,10/10/2002,4,0,Home,"",-,0
+2003,Fairfield,220,Northeastern,500,10/13/2002,0,2,Away,"",-,0
+2003,Fairfield,220,Lehigh,352,10/19/2002,3,2,Home,"",-,0
+2003,Fairfield,220,Columbia,158,10/20/2002,4,1,Home,"",-,0
+2003,Fairfield,220,Monmouth,439,10/23/2002,2,0,Away,"",-,0
+2003,Fairfield,220,Bucknell,83,10/26/2002,1,2,Away,"",-,0
+2003,Fairfield,220,Connecticut,164,10/30/2002,2,3,Home,"",2 OT,0
+2003,Fairfield,220,Lafayette,342,11/02/2002,2,3,Home,"",-,0
+2003,Fairfield,220,Yale,813,11/03/2002,2,6,Home,"",-,0
+2003,Georgetown,251,Saint Joseph's,606,08/31/2002,1,3,Away,"",-,172
+2003,Georgetown,251,West Chester,765,09/01/2002,0,1,Neutral,Philadelphia,1 OT,0
+2003,Georgetown,251,UMBC,391,09/04/2002,1,2,Away,"",-,200
+2003,Georgetown,251,Miami (OH),414,09/07/2002,2,0,Neutral,Baltimore,-,0
+2003,Georgetown,251,Monmouth,439,09/15/2002,2,0,Home,"",-,101
+2003,Georgetown,251,Towson,711,09/24/2002,5,2,Home,"",-,63
+2003,Georgetown,251,California,107,09/26/2002,2,3,Home,"",-1 OT,67
+2003,Georgetown,251,Indiana,306,09/28/2002,3,0,Home,"",-,204
+2003,Georgetown,251,Richmond,575,10/02/2002,1,4,Home,"",-,57
+2003,Georgetown,251,Rutgers,587,10/05/2002,3,2,Away,"",-,132
+2003,Georgetown,251,VCU,740,10/12/2002,1,0,Away,"",2 OT,0
+2003,Georgetown,251,American,23,10/15/2002,2,1,Home,"",-,0
+2003,Georgetown,251,Temple,690,10/18/2002,0,3,Away,"",-,100
+2003,Georgetown,251,Holy Cross,285,10/20/2002,1,0,Home,"",-,167
+2003,Georgetown,251,Penn,540,10/23/2002,2,3,Home,"",-,0
+2003,Georgetown,251,Davidson,173,10/27/2002,0,2,Away,"",-,0
+2003,Georgetown,251,Bucknell,83,11/03/2002,1,0,Home,"",-,0
+2003,Harvard,275,Vermont,738,09/13/2002,5,0,Home,"",-,0
+2003,Harvard,275,Penn,540,09/15/2002,4,2,Away,"",-,0
+2003,Harvard,275,Connecticut,164,09/18/2002,2,3,Home,"",-,0
+2003,Harvard,275,Yale,813,09/21/2002,3,0,Home,"",-,0
+2003,Harvard,275,Massachusetts,400,09/25/2002,4,0,Away,"",-,0
+2003,Harvard,275,Brown,80,09/28/2002,3,2,Away,"",-,0
+2003,Harvard,275,Providence,556,10/02/2002,2,0,Home,"",-,0
+2003,Harvard,275,Wake Forest,749,10/05/2002,2,3,Home,"",-,0
+2003,Harvard,275,Northeastern,500,10/09/2002,1,2,Home,"",-,0
+2003,Harvard,275,Cornell,167,10/12/2002,2,0,Home,"",-,0
+2003,Harvard,275,California,107,10/17/2002,4,1,Home,"",-,0
+2003,Harvard,275,New Hampshire,469,10/20/2002,5,0,Away,"",-,0
+2003,Harvard,275,Boston College,67,10/23/2002,0,1,Away,"",2 OT,0
+2003,Harvard,275,Princeton,554,10/26/2002,1,4,Away,"",-,0
+2003,Harvard,275,Boston U.,68,10/30/2002,1,0,Away,"",-,0
+2003,Harvard,275,Dartmouth,172,11/02/2002,2,0,Away,"",-,0
+2003,Harvard,275,Columbia,158,11/09/2002,8,0,Home,"",-,0
+2003,Harvard,275,Michigan St.,416,11/16/2002,3,4,Home,"",-,0
+2003,Hofstra,283,Connecticut,164,08/31/2002,3,1,Away,"",-,0
+2003,Hofstra,283,Providence,556,09/01/2002,1,0,Neutral,Storrs,-,0
+2003,Hofstra,283,Rhode Island,572,09/07/2002,2,1,Home,"",-,0
+2003,Hofstra,283,Quinnipiac,562,09/08/2002,3,2,Home,"",1 OT,0
+2003,Hofstra,283,Sacred Heart,590,09/12/2002,3,0,Home,"",-,0
+2003,Hofstra,283,Temple,690,09/15/2002,2,3,Away,"",1 OT,0
+2003,Hofstra,283,Fairfield,220,09/20/2002,4,0,Home,"",-,0
+2003,Hofstra,283,Syracuse,688,09/25/2002,1,2,Away,"",-,0
+2003,Hofstra,283,Maine,380,09/28/2002,0,2,Home,"",-,0
+2003,Hofstra,283,Columbia,158,09/29/2002,4,1,Home,"",-,0
+2003,Hofstra,283,James Madison,317,10/04/2002,2,3,Home,"",1 OT,0
+2003,Hofstra,283,Colgate,153,10/05/2002,7,0,Home,"",-,0
+2003,Hofstra,283,Drexel,191,10/13/2002,4,3,Home,"",-,0
+2003,Hofstra,283,Old Dominion,523,10/17/2002,0,5,Away,"",-,0
+2003,Hofstra,283,William & Mary,786,10/19/2002,2,5,Away,"",-,0
+2003,Hofstra,283,VCU,740,10/27/2002,0,1,Home,"",1 OT,0
+2003,Hofstra,283,Delaware,180,11/01/2002,0,5,Away,"",-,0
+2003,Hofstra,283,Towson,711,11/03/2002,2,3,Away,"",-,0
+2003,Hofstra,283,Rutgers,587,11/05/2002,2,1,Away,"",-,0
+2003,Holy Cross,285,Vermont,738,09/07/2002,3,2,Home,"",1 OT,0
+2003,Holy Cross,285,Maine,380,09/08/2002,0,2,Home,"",-,0
+2003,Holy Cross,285,Providence,556,09/11/2002,0,1,Home,"",-,0
+2003,Holy Cross,285,Northeastern,500,09/14/2002,0,3,Away,"",-,0
+2003,Holy Cross,285,Yale,813,09/18/2002,0,1,Away,"",-,0
+2003,Holy Cross,285,Bucknell,83,09/21/2002,2,0,Home,"",-,0
+2003,Holy Cross,285,Fairfield,220,09/25/2002,1,2,Away,"",-,0
+2003,Holy Cross,285,Colgate,153,09/28/2002,3,1,Away,"",-,0
+2003,Holy Cross,285,Lafayette,342,10/05/2002,2,3,Home,"",-,0
+2003,Holy Cross,285,Syracuse,688,10/06/2002,3,1,Home,"",-,0
+2003,Holy Cross,285,Columbia,158,10/12/2002,4,0,Home,"",-,0
+2003,Holy Cross,285,Boston College,67,10/13/2002,1,2,Home,"",-,0
+2003,Holy Cross,285,American,23,10/19/2002,3,2,Away,"",-,0
+2003,Holy Cross,285,Georgetown,251,10/20/2002,0,1,Away,"",-,0
+2003,Holy Cross,285,Sacred Heart,590,10/25/2002,5,0,Home,"",-,0
+2003,Holy Cross,285,Dartmouth,172,10/27/2002,4,3,Away,"",1 OT,0
+2003,Holy Cross,285,Brown,80,10/30/2002,1,2,Home,"",-,0
+2003,Holy Cross,285,Lehigh,352,11/02/2002,1,0,Away,"",1 OT,0
+2003,Holy Cross,285,American,23,11/08/2002,1,0,Neutral,Easton,-,0
+2003,Holy Cross,285,Lafayette,342,11/09/2002,1,2,Away,"",-,0
+2003,Indiana,306,Miami (OH),414,08/31/2002,4,1,Away,"",-,75
+2003,Indiana,306,Maine,380,09/03/2002,1,2,Home,"",-,79
+2003,Indiana,306,Ball St.,47,09/06/2002,0,3,Home,"",-,177
+2003,Indiana,306,California,107,09/08/2002,0,1,Home,"",-,125
+2003,Indiana,306,Rutgers,587,09/13/2002,1,2,Neutral,Syracuse,1 OT,235
+2003,Indiana,306,Villanova,739,09/15/2002,3,1,Neutral,Syracuse,-,77
+2003,Indiana,306,Ball St.,47,09/21/2002,0,1,Away,"",-,246
+2003,Indiana,306,Georgetown,251,09/28/2002,0,3,Away,"",-,204
+2003,Indiana,306,Penn St.,539,09/29/2002,1,6,Away,"",-,459
+2003,Indiana,306,Louisville,367,10/02/2002,1,2,Away,"",2 OT,331
+2003,Indiana,306,Ohio St.,518,10/05/2002,3,2,Home,"",-,224
+2003,Indiana,306,Michigan St.,416,10/12/2002,1,5,Away,"",-,0
+2003,Indiana,306,Michigan,418,10/18/2002,0,5,Home,"",-,185
+2003,Indiana,306,Lindenwood (MO),,10/20/2002,3,0,Home,"",-,45
+2003,Indiana,306,Iowa,312,10/25/2002,1,3,Home,"",-,0
+2003,Indiana,306,Saint Louis,609,10/26/2002,2,0,Home,"",-,0
+2003,Indiana,306,Northwestern,509,11/01/2002,0,1,Away,"",-,0
+2003,Indiana,306,Colgate,153,11/02/2002,1,0,Neutral,Evanston,-,0
+2003,Indiana,306,Michigan St.,416,11/08/2002,0,3,Neutral,Columbus,-,0
+2003,Iowa,312,Wake Forest,749,08/31/2002,1,0,Neutral,Chapel Hill,-,0
+2003,Iowa,312,North Carolina,457,09/01/2002,1,2,Away,"",1 OT,0
+2003,Iowa,312,Temple,690,09/07/2002,2,1,Away,"",-,0
+2003,Iowa,312,Louisville,367,09/08/2002,1,3,Neutral,Philadelphia,-,0
+2003,Iowa,312,Connecticut,164,09/14/2002,2,0,Neutral,Ann Arbor,-,75
+2003,Iowa,312,Providence,556,09/15/2002,3,0,Neutral,"",-,35
+2003,Iowa,312,California,107,09/21/2002,2,3,Away,"",-,350
+2003,Iowa,312,Stanford,674,09/22/2002,1,0,Away,"",1 OT,128
+2003,Iowa,312,Northwestern,509,09/28/2002,4,1,Home,"",-,0
+2003,Iowa,312,Northwestern,509,10/09/2002,2,1,Away,"",-,0
+2003,Iowa,312,Michigan,418,10/11/2002,0,2,Home,"",-,0
+2003,Iowa,312,Missouri St.,669,10/13/2002,1,0,Home,"",-,0
+2003,Iowa,312,Michigan St.,416,10/19/2002,1,2,Away,"",-,0
+2003,Iowa,312,Indiana,306,10/25/2002,3,1,Away,"",-,0
+2003,Iowa,312,Ohio St.,518,10/27/2002,0,1,Home,"",2 OT,0
+2003,Iowa,312,Penn St.,539,11/03/2002,2,3,Away,"",1 OT,0
+2003,Iowa,312,Ohio St.,518,11/08/2002,0,2,Away,"",-,0
+2003,James Madison,317,Appalachian St.,27,09/01/2002,6,0,Away,"",-,0
+2003,James Madison,317,Duke,193,09/07/2002,3,2,Home,"",-,0
+2003,James Madison,317,Wake Forest,749,09/08/2002,2,1,Home,"",-,0
+2003,James Madison,317,Virginia,746,09/15/2002,3,1,Home,"",-,0
+2003,James Madison,317,American,23,09/18/2002,5,2,Home,"",-,0
+2003,James Madison,317,Kent St.,331,09/20/2002,1,2,Away,"",1 OT,0
+2003,James Madison,317,Michigan St.,416,09/22/2002,0,1,Away,"",-,0
+2003,James Madison,317,Old Dominion,523,09/26/2002,3,7,Away,"",-,0
+2003,James Madison,317,Richmond,575,09/28/2002,2,1,Away,"",-,0
+2003,James Madison,317,VCU,740,09/29/2002,3,1,Away,"",-,0
+2003,James Madison,317,Hofstra,283,10/04/2002,3,2,Away,"",1 OT,0
+2003,James Madison,317,Drexel,191,10/06/2002,2,1,Away,"",-,0
+2003,James Madison,317,North Carolina,457,10/12/2002,4,3,Home,"",-,0
+2003,James Madison,317,Penn St.,539,10/13/2002,2,4,Home,"",-,0
+2003,James Madison,317,Delaware,180,10/18/2002,0,1,Home,"",-,0
+2003,James Madison,317,Towson,711,10/20/2002,4,0,Home,"",-,0
+2003,James Madison,317,Maryland,392,10/27/2002,0,7,Away,"",-,0
+2003,James Madison,317,Radford,563,10/30/2002,3,0,Home,"",-,0
+2003,James Madison,317,Boston College,67,11/02/2002,2,1,Home,"",-,0
+2003,James Madison,317,William & Mary,786,11/03/2002,3,6,Home,"",-,0
+2003,James Madison,317,Old Dominion,523,11/09/2002,1,14,Away,"",-,0
+2003,James Madison,317,Duke,193,11/16/2002,1,2,Neutral,"at Winston-Salem, N.C.",-,0
+2003,Kent St.,331,William & Mary,786,08/31/2002,3,2,Neutral,Norfolk,1 OT,200
+2003,Kent St.,331,Old Dominion,523,09/01/2002,2,6,Away,"",-,300
+2003,Kent St.,331,Ohio St.,518,09/11/2002,3,1,Home,"",-,150
+2003,Kent St.,331,Stanford,674,09/15/2002,1,0,Neutral,Cornell,-,50
+2003,Kent St.,331,Cornell,167,09/16/2002,1,0,Away,"",-,90
+2003,Kent St.,331,James Madison,317,09/20/2002,2,1,Home,"",1 OT,125
+2003,Kent St.,331,Miami (OH),414,09/27/2002,6,0,Home,"",-,0
+2003,Kent St.,331,Louisville,367,09/28/2002,1,2,Home,"",-,0
+2003,Kent St.,331,Ohio,519,10/04/2002,4,3,Home,"",2 OT,0
+2003,Kent St.,331,North Carolina,457,10/06/2002,2,1,Away,"",2 OT,0
+2003,Kent St.,331,Central Mich.,129,10/11/2002,1,2,Away,"",2 OT,0
+2003,Kent St.,331,Ball St.,47,10/12/2002,3,4,Away,"",1 OT,0
+2003,Kent St.,331,Miami (OH),414,10/18/2002,5,1,Away,"",-,0
+2003,Kent St.,331,Louisville,367,10/19/2002,0,2,Away,"",-,0
+2003,Kent St.,331,Michigan St.,416,10/23/2002,1,3,Away,"",-,0
+2003,Kent St.,331,Ohio,519,10/25/2002,5,2,Away,"",-,0
+2003,Kent St.,331,Missouri St.,669,10/26/2002,4,2,Neutral,Athens,-,0
+2003,Kent St.,331,Ball St.,47,11/01/2002,2,1,Home,"",1 OT,0
+2003,Kent St.,331,Central Mich.,129,11/02/2002,2,1,Home,"",1 OT,0
+2003,Kent St.,331,Miami (OH),414,11/08/2002,5,0,Away,"",-,0
+2003,Kent St.,331,Central Mich.,129,11/09/2002,3,2,Neutral,Oxford,2 OT,0
+2003,Kent St.,331,Ohio,519,11/10/2002,1,0,Neutral,Oxford,-,0
+2003,Kent St.,331,Penn St.,539,11/16/2002,2,3,Away,"",-,0
+2003,La Salle,340,Duke,193,08/31/2002,0,4,Home,"",-,0
+2003,La Salle,340,Albany (NY),14,09/01/2002,3,2,Home,"",-,0
+2003,La Salle,340,Rider,576,09/07/2002,3,2,Away,"",-,0
+2003,La Salle,340,Delaware,180,09/10/2002,0,4,Away,"",-,0
+2003,La Salle,340,Towson,711,09/20/2002,3,4,Home,"",-,0
+2003,La Salle,340,Bucknell,83,09/24/2002,1,2,Away,"",1 OT,0
+2003,La Salle,340,Columbia,158,09/28/2002,1,3,Away,"",-,0
+2003,La Salle,340,Vermont,738,09/29/2002,0,1,Home,"",-,0
+2003,La Salle,340,Drexel,191,10/04/2002,1,2,Neutral,Temple,-,0
+2003,La Salle,340,Villanova,739,10/05/2002,0,5,Away,"",-,0
+2003,La Salle,340,Lehigh,352,10/09/2002,0,3,Away,"",-,0
+2003,La Salle,340,Temple,690,10/13/2002,1,0,Home,"",-,0
+2003,La Salle,340,Penn,540,10/16/2002,3,6,Away,"",-,0
+2003,La Salle,340,Massachusetts,400,10/19/2002,1,3,Away,"",-,0
+2003,La Salle,340,Rhode Island,572,10/20/2002,0,1,Away,"",-,0
+2003,La Salle,340,Richmond,575,10/25/2002,1,3,Away,"",-,0
+2003,La Salle,340,Radford,563,10/27/2002,0,4,Away,"",-,0
+2003,La Salle,340,Saint Joseph's,606,10/30/2002,1,3,Home,"",-,0
+2003,La Salle,340,West Chester,765,11/02/2002,1,2,Home,"",2 OT,0

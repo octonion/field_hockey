@@ -1,0 +1,1469 @@
+year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_score,location,neutral_site_location,game_length,attendance
+2002,Albany (NY),14,Boston U.,68,"",1,5,Away,"",-,0
+2002,Albany (NY),14,Vermont,738,"",2,3,Home,"",1 OT,0
+2002,Albany (NY),14,Connecticut,164,"",1,6,Away,"",-,0
+2002,Albany (NY),14,Cornell,167,"",1,6,Away,"",-,0
+2002,Albany (NY),14,Delaware,180,"",3,1,Home,"",-,0
+2002,Albany (NY),14,Drexel,191,"",1,2,Home,"",-,0
+2002,Albany (NY),14,Hofstra,283,"",2,1,Home,"",-,0
+2002,Albany (NY),14,Maine,380,"",1,5,Away,"",-,0
+2002,Albany (NY),14,New Hampshire,469,"",1,3,Home,"",-,0
+2002,Albany (NY),14,Northeastern,500,"",0,7,Away,"",-,0
+2002,Albany (NY),14,Providence,556,"",1,4,Neutral,Storrs,-,0
+2002,Albany (NY),14,Sacred Heart,590,"",3,2,Away,"",-,0
+2002,Albany (NY),14,Saint Francis (PA),600,"",7,0,Home,"",-,0
+2002,Albany (NY),14,Siena,639,"",5,3,Away,"",-,0
+2002,Albany (NY),14,Syracuse,688,"",0,4,Away,"",-,0
+2002,Albany (NY),14,Towson,711,"",1,2,Away,"",-,0
+2002,Albany (NY),14,Colgate,153,"",4,5,Away,"",-,0
+2002,American,23,Boston College,67,"",1,5,Away,"",-,0
+2002,American,23,VCU,740,"",2,1,Away,"",-,0
+2002,American,23,Colgate,153,"",6,0,Away,"",-,0
+2002,American,23,Cornell,167,"",3,2,Neutral,Princeton,-,0
+2002,American,23,Davidson,173,"",0,1,Neutral,College Park,-,0
+2002,American,23,Fairfield,220,"",1,0,Neutral,Washington,-,0
+2002,American,23,Georgetown,251,"",2,3,Away,"",-,0
+2002,American,23,Holy Cross,285,"",0,4,Away,"",-,0
+2002,American,23,James Madison,317,"",1,4,Away,"",-,0
+2002,American,23,Lafayette,342,"",0,1,Neutral,Worcester,-,0
+2002,American,23,Lafayette,342,"",1,4,Away,"",-,0
+2002,American,23,Lehigh,352,"",3,2,Neutral,Washington,-,0
+2002,American,23,Old Dominion,523,"",0,11,Away,"",-,0
+2002,American,23,Richmond,575,"",1,2,Away,"",1 OT,0
+2002,American,23,Towson,711,"",2,1,Away,"",-,0
+2002,American,23,Ursinus,730,"",4,1,Home,"",-,0
+2002,American,23,Bucknell,83,"",2,3,Away,"",-,0
+2002,Appalachian St.,27,Davidson,173,"",2,1,Away,"",1 OT,0
+2002,Appalachian St.,27,Catawba,1001,"",7,0,Home,"",-,0
+2002,Appalachian St.,27,Davidson,173,"",4,3,Home,"",-,0
+2002,Appalachian St.,27,Duke,193,"",0,7,Away,"",-,0
+2002,Appalachian St.,27,Georgetown,251,"",0,4,Away,"",-,0
+2002,Appalachian St.,27,James Madison,317,"",0,8,Away,"",-,0
+2002,Appalachian St.,27,Longwood,363,"",3,0,Home,"",-,0
+2002,Appalachian St.,27,Louisville,367,"",0,4,Away,"",-,0
+2002,Appalachian St.,27,Miami (OH),414,"",3,2,Away,"",1 OT,0
+2002,Appalachian St.,27,Pacific,534,"",0,1,Home,"",-,0
+2002,Appalachian St.,27,Radford,563,"",1,0,Home,"",-,0
+2002,Appalachian St.,27,Radford,563,"",1,2,Away,"",-,0
+2002,Appalachian St.,27,Radford,563,"",1,2,Home,"",-,0
+2002,Appalachian St.,27,Richmond,575,"",1,3,Home,"",-,0
+2002,Appalachian St.,27,Missouri St.,669,"",0,2,Home,"",-,0
+2002,Appalachian St.,27,Missouri St.,669,"",0,2,Home,"",-,0
+2002,Appalachian St.,27,Ursinus,730,"",4,0,Home,"",-,0
+2002,Appalachian St.,27,Virginia,746,"",0,4,Away,"",-,0
+2002,Appalachian St.,27,Wake Forest,749,"",0,6,Home,"",-,0
+2002,Appalachian St.,27,William & Mary,786,"",0,2,Home,"",-,0
+2002,Appalachian St.,27,Davidson,173,"",2,1,Home,"",-,0
+2002,Ball St.,47,Central Mich.,129,"",0,3,Home,"",-,0
+2002,Ball St.,47,Stanford,674,"",1,0,Home,"",-,0
+2002,Ball St.,47,Central Mich.,129,"",1,2,Away,"",-,0
+2002,Ball St.,47,Hofstra,283,"",3,1,Neutral,Evanston,-,0
+2002,Ball St.,47,Indiana,306,"",3,4,Away,"",-,0
+2002,Ball St.,47,Iowa,312,"",0,1,Home,"",-,0
+2002,Ball St.,47,Kent St.,331,"",1,2,Home,"",-,0
+2002,Ball St.,47,Kent St.,331,"",2,4,Away,"",-,0
+2002,Ball St.,47,Louisville,367,"",0,3,Home,"",-,0
+2002,Ball St.,47,Louisville,367,"",2,3,Away,"",-,0
+2002,Ball St.,47,Miami (OH),414,"",4,0,Away,"",-,0
+2002,Ball St.,47,Miami (OH),414,"",7,0,Home,"",-,0
+2002,Ball St.,47,Michigan St.,416,"",1,3,Home,"",-,0
+2002,Ball St.,47,Michigan,418,"",1,5,Home,"",-,0
+2002,Ball St.,47,Northwestern,509,"",1,0,Away,"",1 OT,0
+2002,Ball St.,47,Ohio,519,"",0,1,Neutral,Louisville,1 OT,0
+2002,Ball St.,47,Ohio,519,"",1,4,Home,"",-,0
+2002,Ball St.,47,Ohio,519,"",3,4,Away,"",-,0
+2002,Ball St.,47,Central Mich.,129,"",1,0,Neutral,Louisville,-,0
+2002,Boston College,67,American,23,"",5,1,Home,"",-,0
+2002,Boston College,67,Yale,813,"",3,2,Home,"",1 OT,0
+2002,Boston College,67,Connecticut,164,"",2,1,Away,"",-,0
+2002,Boston College,67,Dartmouth,172,"",0,5,Away,"",-,0
+2002,Boston College,67,Harvard,275,"",0,5,Away,"",-,0
+2002,Boston College,67,Holy Cross,285,"",2,1,Home,"",-,0
+2002,Boston College,67,James Madison,317,"",1,3,Home,"",-,0
+2002,Boston College,67,Maine,380,"",1,0,Home,"",-,0
+2002,Boston College,67,Massachusetts,400,"",1,2,Away,"",-,0
+2002,Boston College,67,Northeastern,500,"",0,3,Home,"",-,0
+2002,Boston College,67,Ohio,519,"",0,1,Home,"",-,0
+2002,Boston College,67,Providence,556,"",2,0,Away,"",-,0
+2002,Boston College,67,Rhode Island,572,"",3,1,Home,"",-,0
+2002,Boston College,67,Rutgers,587,"",2,1,Home,"",-,0
+2002,Boston College,67,Syracuse,688,"",0,1,Home,"",-,0
+2002,Boston College,67,Vermont,738,"",4,0,Home,"",-,0
+2002,Boston College,67,Villanova,739,"",2,3,Home,"",1 OT,0
+2002,Boston College,67,Villanova,739,"",4,2,Away,"",-,0
+2002,Boston College,67,Boston U.,68,"",4,1,Home,"",-,0
+2002,Boston U.,68,Albany (NY),14,"",5,1,Home,"",-,0
+2002,Boston U.,68,Yale,813,"",5,3,Home,"",-,0
+2002,Boston U.,68,Connecticut,164,"",0,2,Away,"",-,0
+2002,Boston U.,68,Dartmouth,172,"",1,0,Away,"",-,0
+2002,Boston U.,68,Delaware,180,"",1,2,Neutral,Northeastern,-,0
+2002,Boston U.,68,Delaware,180,"",5,4,Away,"",1 OT,0
+2002,Boston U.,68,Drexel,191,"",2,1,Home,"",-,0
+2002,Boston U.,68,Harvard,275,"",0,1,Away,"",-,0
+2002,Boston U.,68,Hofstra,283,"",3,2,Home,"",1 OT,0
+2002,Boston U.,68,Maine,380,"",1,7,Away,"",-,0
+2002,Boston U.,68,Massachusetts,400,"",1,2,Home,"",1 OT,0
+2002,Boston U.,68,New Hampshire,469,"",1,2,Home,"",1 OT,0
+2002,Boston U.,68,Northeastern,500,"",1,2,Away,"",1 OT,0
+2002,Boston U.,68,Old Dominion,523,"",1,4,Away,"",-,0
+2002,Boston U.,68,Princeton,554,"",1,2,Home,"",-,0
+2002,Boston U.,68,Towson,711,"",3,2,Away,"",1 OT,0
+2002,Boston U.,68,Vermont,738,"",2,0,Home,"",-,0
+2002,Boston U.,68,William & Mary,786,"",1,4,Away,"",-,0
+2002,Boston U.,68,Boston College,67,"",1,4,Away,"",-,0
+2002,Brown,80,Columbia,158,"",3,2,Away,"",-,0
+2002,Brown,80,Yale,813,"",3,2,Away,"",1 OT,0
+2002,Brown,80,Cornell,167,"",3,2,Away,"",1 OT,0
+2002,Brown,80,Dartmouth,172,"",0,2,Home,"",-,0
+2002,Brown,80,Fairfield,220,"",3,4,Away,"",-,0
+2002,Brown,80,Harvard,275,"",0,1,Away,"",-,0
+2002,Brown,80,Hofstra,283,"",1,2,Home,"",-,0
+2002,Brown,80,Holy Cross,285,"",3,0,Home,"",-,0
+2002,Brown,80,Northeastern,500,"",0,3,Away,"",-,0
+2002,Brown,80,Penn,540,"",0,1,Home,"",-,0
+2002,Brown,80,Princeton,554,"",1,4,Home,"",-,0
+2002,Brown,80,Providence,556,"",1,4,Home,"",-,0
+2002,Brown,80,Rhode Island,572,"",2,3,Away,"",-,0
+2002,Brown,80,Rutgers,587,"",2,1,Away,"",-,0
+2002,Brown,80,Sacred Heart,590,"",2,0,Away,"",-,0
+2002,Brown,80,Vermont,738,"",2,0,Home,"",-,0
+2002,Brown,80,Connecticut,164,"",4,2,Home,"",-,0
+2002,Bucknell,83,American,23,"",3,2,Home,"",-,0
+2002,Bucknell,83,Yale,813,"",1,4,Away,"",-,0
+2002,Bucknell,83,Columbia,158,"",3,4,Away,"",1 OT,0
+2002,Bucknell,83,Drexel,191,"",1,2,Home,"",-,0
+2002,Bucknell,83,Fairfield,220,"",2,3,Away,"",-,0
+2002,Bucknell,83,Holy Cross,285,"",0,1,Home,"",1 OT,0
+2002,Bucknell,83,La Salle,340,"",1,0,Away,"",1 OT,0
+2002,Bucknell,83,Lafayette,342,"",2,3,Home,"",1 OT,0
+2002,Bucknell,83,Lehigh,352,"",0,2,Away,"",-,0
+2002,Bucknell,83,Lock Haven,360,"",0,4,Away,"",-,0
+2002,Bucknell,83,Monmouth,439,"",4,3,Away,"",1 OT,0
+2002,Bucknell,83,Penn St.,539,"",1,5,Away,"",-,0
+2002,Bucknell,83,Saint Francis (PA),600,"",6,1,Home,"",-,0
+2002,Bucknell,83,Siena,639,"",3,0,Home,"",-,0
+2002,Bucknell,83,Towson,711,"",5,1,Home,"",-,0
+2002,Bucknell,83,Ursinus,730,"",1,0,Home,"",-,0
+2002,Bucknell,83,Colgate,153,"",2,0,Away,"",-,0
+2002,California,107,Dartmouth,172,"",0,3,Neutral,St. Louis,-,0
+2002,California,107,Wittenberg,806,"",7,0,Neutral,Columbus,-,0
+2002,California,107,Delaware,180,"",2,1,Home,"",1 OT,0
+2002,California,107,Fairfield,220,"",3,2,Home,"",-,0
+2002,California,107,Kent St.,331,"",1,3,Away,"",-,0
+2002,California,107,Maryland,392,"",0,8,Neutral,Palo Alto,-,0
+2002,California,107,Miami (OH),414,"",2,0,Neutral,St. Louis,-,0
+2002,California,107,Ohio St.,518,"",5,4,Away,"",1 OT,0
+2002,California,107,Pacific,534,"",2,0,Away,"",-,0
+2002,California,107,Pacific,534,"",3,0,Neutral,Boone,-,0
+2002,California,107,Pacific,534,"",5,0,Home,"",-,0
+2002,California,107,Quinnipiac,562,"",5,1,Home,"",-,0
+2002,California,107,Saint Louis,609,"",4,0,Home,"",-,0
+2002,California,107,Saint Louis,609,"",5,3,Away,"",-,0
+2002,California,107,Stanford,674,"",0,1,Away,"",-,0
+2002,California,107,Stanford,674,"",1,0,Away,"",1 OT,0
+2002,California,107,Stanford,674,"",2,0,Neutral,Boone,-,0
+2002,California,107,Syracuse,688,"",1,2,Neutral,Maryland,1 OT,0
+2002,California,107,Davidson,173,"",5,4,Neutral,Boone,1 OT,0
+2002,Central Mich.,129,Ball St.,47,"",0,1,Neutral,Louisville,-,0
+2002,Central Mich.,129,Virginia,746,"",1,7,Neutral,Ann Arbor,-,0
+2002,Central Mich.,129,Ball St.,47,"",3,0,Away,"",-,0
+2002,Central Mich.,129,Indiana,306,"",2,1,Neutral,Muncie,-,0
+2002,Central Mich.,129,Kent St.,331,"",1,3,Away,"",-,0
+2002,Central Mich.,129,Kent St.,331,"",2,3,Home,"",-,0
+2002,Central Mich.,129,Louisville,367,"",1,3,Home,"",-,0
+2002,Central Mich.,129,Louisville,367,"",2,3,Away,"",-,0
+2002,Central Mich.,129,Miami (OH),414,"",2,0,Away,"",-,0
+2002,Central Mich.,129,Miami (OH),414,"",4,0,Home,"",-,0
+2002,Central Mich.,129,Michigan St.,416,"",0,6,Away,"",-,0
+2002,Central Mich.,129,Michigan,418,"",0,4,Home,"",-,0
+2002,Central Mich.,129,Northwestern,509,"",2,1,Away,"",-,0
+2002,Central Mich.,129,Ohio,519,"",0,4,Away,"",-,0
+2002,Central Mich.,129,Ohio,519,"",1,2,Home,"",-,0
+2002,Central Mich.,129,Saint Louis,609,"",2,0,Home,"",-,0
+2002,Central Mich.,129,Missouri St.,669,"",1,2,Neutral,Evanston,-,0
+2002,Central Mich.,129,Ball St.,47,"",2,1,Home,"",-,0
+2002,Colgate,153,Albany (NY),14,"",5,4,Home,"",-,0
+2002,Colgate,153,Vermont,738,"",0,3,Away,"",-,0
+2002,Colgate,153,Bucknell,83,"",0,2,Home,"",-,0
+2002,Colgate,153,Columbia,158,"",0,8,Home,"",-,0
+2002,Colgate,153,Cornell,167,"",0,2,Away,"",-,0
+2002,Colgate,153,Fairfield,220,"",1,4,Away,"",-,0
+2002,Colgate,153,Hofstra,283,"",1,3,Home,"",-,0
+2002,Colgate,153,Holy Cross,285,"",0,5,Away,"",-,0
+2002,Colgate,153,Iowa,312,"",0,5,Neutral,Orono,-,0
+2002,Colgate,153,Lafayette,342,"",0,3,Home,"",-,0
+2002,Colgate,153,Lehigh,352,"",1,0,Away,"",-,0
+2002,Colgate,153,Maine,380,"",1,3,Away,"",-,0
+2002,Colgate,153,Providence,556,"",0,6,Away,"",-,0
+2002,Colgate,153,Rhode Island,572,"",1,7,Away,"",-,0
+2002,Colgate,153,Siena,639,"",6,0,Home,"",-,0
+2002,Colgate,153,Syracuse,688,"",1,5,Home,"",-,0
+2002,Colgate,153,Ursinus,730,"",1,4,Home,"",-,0
+2002,Colgate,153,American,23,"",0,6,Home,"",-,0
+2002,Columbia,158,Brown,80,"",2,3,Home,"",-,0
+2002,Columbia,158,Yale,813,"",2,3,Home,"",-,0
+2002,Columbia,158,Colgate,153,"",8,0,Away,"",-,0
+2002,Columbia,158,Cornell,167,"",2,3,Away,"",-,0
+2002,Columbia,158,Dartmouth,172,"",0,4,Away,"",-,0
+2002,Columbia,158,Harvard,275,"",1,2,Home,"",-,0
+2002,Columbia,158,Hofstra,283,"",2,4,Home,"",-,0
+2002,Columbia,158,Holy Cross,285,"",1,4,Away,"",-,0
+2002,Columbia,158,La Salle,340,"",2,0,Away,"",-,0
+2002,Columbia,158,Lafayette,342,"",1,2,Home,"",-,0
+2002,Columbia,158,Lehigh,352,"",2,1,Home,"",-,0
+2002,Columbia,158,Penn,540,"",1,0,Home,"",1 OT,0
+2002,Columbia,158,Princeton,554,"",1,7,Away,"",-,0
+2002,Columbia,158,Rutgers,587,"",2,3,Away,"",-,0
+2002,Columbia,158,Sacred Heart,590,"",2,3,Away,"",-,0
+2002,Columbia,158,Bucknell,83,"",4,3,Home,"",1 OT,0
+2002,Cornell,167,Albany (NY),14,"",6,1,Home,"",-,0
+2002,Cornell,167,Yale,813,"",4,3,Away,"",-,0
+2002,Cornell,167,Brown,80,"",2,3,Home,"",1 OT,0
+2002,Cornell,167,Colgate,153,"",2,0,Home,"",-,0
+2002,Cornell,167,Columbia,158,"",3,2,Home,"",-,0
+2002,Cornell,167,Dartmouth,172,"",2,3,Away,"",1 OT,0
+2002,Cornell,167,Harvard,275,"",0,1,Home,"",-,0
+2002,Cornell,167,Lafayette,342,"",1,0,Away,"",1 OT,0
+2002,Cornell,167,Lehigh,352,"",2,1,Away,"",1 OT,0
+2002,Cornell,167,Michigan St.,416,"",3,5,Neutral,University Park,-,0
+2002,Cornell,167,Penn,540,"",1,2,Away,"",-,0
+2002,Cornell,167,Princeton,554,"",0,8,Away,"",-,0
+2002,Cornell,167,Rhode Island,572,"",1,0,Neutral,New Haven,-,0
+2002,Cornell,167,Richmond,575,"",1,2,Neutral,Newark,-,0
+2002,Cornell,167,Syracuse,688,"",2,3,Away,"",1 OT,0
+2002,Cornell,167,American,23,"",2,3,Neutral,Princeton,-,0
+2002,Dartmouth,172,Boston College,67,"",5,0,Home,"",-,0
+2002,Dartmouth,172,Yale,813,"",3,2,Away,"",1 OT,0
+2002,Dartmouth,172,Brown,80,"",2,0,Away,"",-,0
+2002,Dartmouth,172,California,107,"",3,0,Neutral,St. Louis,-,0
+2002,Dartmouth,172,Columbia,158,"",4,0,Home,"",-,0
+2002,Dartmouth,172,Cornell,167,"",3,2,Home,"",1 OT,0
+2002,Dartmouth,172,Drexel,191,"",2,1,Home,"",-,0
+2002,Dartmouth,172,Harvard,275,"",4,2,Away,"",-,0
+2002,Dartmouth,172,Holy Cross,285,"",2,1,Away,"",-,0
+2002,Dartmouth,172,Massachusetts,400,"",2,1,Away,"",1 OT,0
+2002,Dartmouth,172,Miami (OH),414,"",3,1,Neutral,St. Louis,-,0
+2002,Dartmouth,172,New Hampshire,469,"",2,0,Home,"",-,0
+2002,Dartmouth,172,Penn,540,"",1,2,Away,"",-,0
+2002,Dartmouth,172,Princeton,554,"",1,3,Away,"",-,0
+2002,Dartmouth,172,Providence,556,"",2,0,Home,"",-,0
+2002,Dartmouth,172,Saint Louis,609,"",3,0,Away,"",-,0
+2002,Dartmouth,172,Vermont,738,"",4,0,Home,"",-,0
+2002,Dartmouth,172,William & Mary,786,"",0,1,Neutral,Villanova,-,0
+2002,Dartmouth,172,Boston U.,68,"",0,1,Home,"",-,0
+2002,Davidson,173,American,23,"",1,0,Neutral,College Park,-,0
+2002,Davidson,173,Catawba,1001,"",5,0,Neutral,Winston-Salem,-,0
+2002,Davidson,173,Appalachian St.,27,"",1,2,Away,"",-,0
+2002,Davidson,173,Appalachian St.,27,"",3,4,Away,"",-,0
+2002,Davidson,173,California,107,"",4,5,Neutral,Boone,1 OT,0
+2002,Davidson,173,Duke,193,"",0,7,Away,"",-,0
+2002,Davidson,173,Georgetown,251,"",2,1,Away,"",-,0
+2002,Davidson,173,Longwood,363,"",4,0,Home,"",-,0
+2002,Davidson,173,Providence,556,"",0,1,Home,"",-,0
+2002,Davidson,173,Radford,563,"",0,1,Neutral,Winston Salem,1 OT,0
+2002,Davidson,173,Radford,563,"",0,3,Away,"",-,0
+2002,Davidson,173,Saint Francis (PA),600,"",7,0,Home,"",-,0
+2002,Davidson,173,Saint Louis,609,"",1,2,Neutral,Springfield,1 OT,0
+2002,Davidson,173,Missouri St.,669,"",0,2,Away,"",-,0
+2002,Davidson,173,Missouri St.,669,"",1,6,Away,"",-,0
+2002,Davidson,173,Ursinus,730,"",1,2,Home,"",-,0
+2002,Davidson,173,Wake Forest,749,"",0,7,Away,"",-,0
+2002,Davidson,173,William & Mary,786,"",1,3,Home,"",-,0
+2002,Davidson,173,Appalachian St.,27,"",1,2,Home,"",1 OT,0
+2002,Delaware,180,Albany (NY),14,"",1,3,Away,"",-,0
+2002,Delaware,180,West Chester,765,"",2,1,Away,"",1 OT,0
+2002,Delaware,180,Boston U.,68,"",4,5,Home,"",1 OT,0
+2002,Delaware,180,California,107,"",1,2,Away,"",1 OT,0
+2002,Delaware,180,Drexel,191,"",3,1,Home,"",-,0
+2002,Delaware,180,Hofstra,283,"",2,1,Home,"",1 OT,0
+2002,Delaware,180,Lafayette,342,"",2,3,Away,"",1 OT,0
+2002,Delaware,180,Maine,380,"",4,1,Away,"",-,0
+2002,Delaware,180,Maryland,392,"",1,4,Away,"",-,0
+2002,Delaware,180,New Hampshire,469,"",1,0,Away,"",-,0
+2002,Delaware,180,Northeastern,500,"",1,2,Home,"",-,0
+2002,Delaware,180,Northeastern,500,"",1,4,Away,"",-,0
+2002,Delaware,180,Pacific,534,"",4,0,Neutral,Palo Alto,-,0
+2002,Delaware,180,Princeton,554,"",2,3,Home,"",-,0
+2002,Delaware,180,Rutgers,587,"",5,1,Away,"",-,0
+2002,Delaware,180,Stanford,674,"",1,0,Away,"",-,0
+2002,Delaware,180,Temple,690,"",2,1,Away,"",-,0
+2002,Delaware,180,Towson,711,"",3,0,Away,"",-,0
+2002,Delaware,180,Vermont,738,"",2,0,Away,"",-,0
+2002,Delaware,180,VCU,740,"",3,1,Home,"",-,0
+2002,Delaware,180,Boston U.,68,"",2,1,Neutral,Northeastern,-,0
+2002,Drexel,191,Albany (NY),14,"",2,1,Away,"",-,0
+2002,Drexel,191,West Chester,765,"",0,1,Home,"",-,0
+2002,Drexel,191,Bucknell,83,"",2,1,Away,"",-,0
+2002,Drexel,191,Dartmouth,172,"",1,2,Away,"",-,0
+2002,Drexel,191,Delaware,180,"",1,3,Away,"",-,0
+2002,Drexel,191,Georgetown,251,"",1,0,Neutral,Dartmouth,-,0
+2002,Drexel,191,Hofstra,283,"",1,0,Home,"",-,0
+2002,Drexel,191,La Salle,340,"",3,0,Home,"",-,0
+2002,Drexel,191,Maine,380,"",1,2,Home,"",1 OT,0
+2002,Drexel,191,Maryland,392,"",0,6,Away,"",-,0
+2002,Drexel,191,Monmouth,439,"",2,0,Home,"",-,0
+2002,Drexel,191,New Hampshire,469,"",4,3,Home,"",1 OT,0
+2002,Drexel,191,Northeastern,500,"",1,3,Away,"",-,0
+2002,Drexel,191,Ohio St.,518,"",1,2,Home,"",1 OT,0
+2002,Drexel,191,Princeton,554,"",0,4,Away,"",-,0
+2002,Drexel,191,Rutgers,587,"",2,0,Home,"",-,0
+2002,Drexel,191,Saint Joseph's,606,"",2,1,Away,"",-,0
+2002,Drexel,191,Towson,711,"",2,1,Home,"",1 OT,0
+2002,Drexel,191,Ursinus,730,"",2,3,Away,"",1 OT,0
+2002,Drexel,191,Vermont,738,"",2,4,Away,"",-,0
+2002,Drexel,191,Villanova,739,"",2,1,Home,"",1 OT,0
+2002,Drexel,191,Boston U.,68,"",1,2,Away,"",-,0
+2002,Duke,193,Appalachian St.,27,"",7,0,Home,"",-,0
+2002,Duke,193,William & Mary,786,"",1,2,Away,"",-,0
+2002,Duke,193,James Madison,317,"",2,1,Away,"",1 OT,0
+2002,Duke,193,Louisville,367,"",1,2,Away,"",-,0
+2002,Duke,193,Maryland,392,"",5,6,Home,"",1 OT,0
+2002,Duke,193,Michigan St.,416,"",1,0,Neutral,Louisville,-,0
+2002,Duke,193,North Carolina,457,"",0,5,Away,"",-,0
+2002,Duke,193,North Carolina,457,"",1,3,Home,"",-,0
+2002,Duke,193,Radford,563,"",2,0,Neutral,Harrisonburg,-,0
+2002,Duke,193,Richmond,575,"",3,0,Away,"",-,0
+2002,Duke,193,Ursinus,730,"",8,0,Neutral,Villanova,-,0
+2002,Duke,193,Villanova,739,"",3,2,Away,"",-,0
+2002,Duke,193,VCU,740,"",3,1,Home,"",-,0
+2002,Duke,193,Virginia,746,"",1,2,Away,"",1 OT,0
+2002,Duke,193,Virginia,746,"",1,3,Neutral,Chapel Hill,-,0
+2002,Duke,193,Wake Forest,749,"",2,3,Home,"",1 OT,0
+2002,Duke,193,Wake Forest,749,"",3,4,Away,"",-,0
+2002,Duke,193,Davidson,173,"",7,0,Home,"",-,0
+2002,Fairfield,220,American,23,"",0,1,Neutral,Washington,-,0
+2002,Fairfield,220,Yale,813,"",3,4,Away,"",1 OT,0
+2002,Fairfield,220,Bucknell,83,"",3,2,Home,"",-,0
+2002,Fairfield,220,California,107,"",2,3,Away,"",-,0
+2002,Fairfield,220,Colgate,153,"",4,1,Home,"",-,0
+2002,Fairfield,220,Connecticut,164,"",4,6,Away,"",-,0
+2002,Fairfield,220,Hofstra,283,"",1,2,Home,"",1 OT,0
+2002,Fairfield,220,Holy Cross,285,"",0,3,Away,"",-,0
+2002,Fairfield,220,Holy Cross,285,"",2,1,Away,"",-,0
+2002,Fairfield,220,Lafayette,342,"",2,0,Neutral,Worcester,-,0
+2002,Fairfield,220,Lafayette,342,"",5,1,Away,"",-,0
+2002,Fairfield,220,Lehigh,352,"",1,3,Away,"",-,0
+2002,Fairfield,220,Maryland,392,"",1,7,Away,"",-,0
+2002,Fairfield,220,Monmouth,439,"",7,1,Home,"",-,0
+2002,Fairfield,220,Pacific,534,"",2,1,Away,"",1 OT,0
+2002,Fairfield,220,Rhode Island,572,"",2,1,Away,"",-,0
+2002,Fairfield,220,Rutgers,587,"",3,2,Away,"",-,0
+2002,Fairfield,220,Saint Joseph's,606,"",1,2,Home,"",-,0
+2002,Fairfield,220,Stanford,674,"",0,3,Away,"",-,0
+2002,Fairfield,220,Syracuse,688,"",0,5,Home,"",-,0
+2002,Fairfield,220,Ursinus,730,"",4,3,Home,"",1 OT,0
+2002,Fairfield,220,Brown,80,"",4,3,Home,"",-,0
+2002,Georgetown,251,American,23,"",3,2,Home,"",-,0
+2002,Georgetown,251,William & Mary,786,"",0,1,Away,"",-,0
+2002,Georgetown,251,Davidson,173,"",1,2,Home,"",-,0
+2002,Georgetown,251,Drexel,191,"",0,1,Neutral,Dartmouth,-,0
+2002,Georgetown,251,La Salle,340,"",3,0,Home,"",-,0
+2002,Georgetown,251,Penn,540,"",1,2,Away,"",-,0
+2002,Georgetown,251,Rhode Island,572,"",3,2,Home,"",-,0
+2002,Georgetown,251,Richmond,575,"",0,1,Away,"",-,0
+2002,Georgetown,251,Rutgers,587,"",2,1,Home,"",-,0
+2002,Georgetown,251,Saint Joseph's,606,"",2,1,Home,"",-,0
+2002,Georgetown,251,Temple,690,"",2,0,Home,"",-,0
+2002,Georgetown,251,Towson,711,"",3,2,Away,"",1 OT,0
+2002,Georgetown,251,Ursinus,730,"",2,0,Home,"",-,0
+2002,Georgetown,251,VCU,740,"",3,1,Home,"",-,0
+2002,Georgetown,251,Virginia,746,"",0,5,Home,"",-,0
+2002,Georgetown,251,Appalachian St.,27,"",4,0,Home,"",-,0
+2002,Harvard,275,Boston College,67,"",5,0,Home,"",-,0
+2002,Harvard,275,Yale,813,"",3,2,Away,"",-,0
+2002,Harvard,275,Brown,80,"",1,0,Home,"",-,0
+2002,Harvard,275,Columbia,158,"",2,1,Away,"",-,0
+2002,Harvard,275,Connecticut,164,"",1,4,Away,"",-,0
+2002,Harvard,275,Cornell,167,"",1,0,Away,"",-,0
+2002,Harvard,275,Dartmouth,172,"",2,4,Home,"",-,0
+2002,Harvard,275,Massachusetts,400,"",4,2,Home,"",-,0
+2002,Harvard,275,Michigan St.,416,"",0,2,Neutral,Ann Arbor,-,0
+2002,Harvard,275,Michigan,418,"",1,2,Away,"",1 OT,0
+2002,Harvard,275,New Hampshire,469,"",0,1,Home,"",-,0
+2002,Harvard,275,Northeastern,500,"",2,1,Away,"",1 OT,0
+2002,Harvard,275,Penn,540,"",3,0,Home,"",-,0
+2002,Harvard,275,Princeton,554,"",2,5,Home,"",-,0
+2002,Harvard,275,Providence,556,"",5,0,Home,"",-,0
+2002,Harvard,275,Vermont,738,"",3,1,Home,"",-,0
+2002,Harvard,275,Boston U.,68,"",1,0,Home,"",-,0
+2002,Hofstra,283,Albany (NY),14,"",1,2,Away,"",-,0
+2002,Hofstra,283,Vermont,738,"",1,0,Home,"",-,0
+2002,Hofstra,283,Boston U.,68,"",2,3,Away,"",1 OT,0
+2002,Hofstra,283,Brown,80,"",2,1,Away,"",-,0
+2002,Hofstra,283,Colgate,153,"",3,1,Away,"",-,0
+2002,Hofstra,283,Columbia,158,"",4,2,Away,"",-,0
+2002,Hofstra,283,Delaware,180,"",1,2,Away,"",1 OT,0
+2002,Hofstra,283,Drexel,191,"",0,1,Away,"",-,0
+2002,Hofstra,283,Fairfield,220,"",2,1,Away,"",1 OT,0
+2002,Hofstra,283,Holy Cross,285,"",1,2,Away,"",-,0
+2002,Hofstra,283,Maine,380,"",2,1,Home,"",-,0
+2002,Hofstra,283,New Hampshire,469,"",3,1,Home,"",-,0
+2002,Hofstra,283,Northeastern,500,"",0,1,Away,"",-,0
+2002,Hofstra,283,Northwestern,509,"",3,2,Away,"",-,0
+2002,Hofstra,283,Quinnipiac,562,"",2,1,Home,"",-,0
+2002,Hofstra,283,Rutgers,587,"",1,2,Home,"",-,0
+2002,Hofstra,283,Sacred Heart,590,"",3,0,Home,"",-,0
+2002,Hofstra,283,Temple,690,"",3,1,Home,"",-,0
+2002,Hofstra,283,Towson,711,"",3,0,Home,"",-,0
+2002,Hofstra,283,Ball St.,47,"",1,3,Neutral,Evanston,-,0
+2002,Holy Cross,285,American,23,"",4,0,Home,"",-,0
+2002,Holy Cross,285,Yale,813,"",3,1,Home,"",-,0
+2002,Holy Cross,285,Brown,80,"",0,3,Away,"",-,0
+2002,Holy Cross,285,Bucknell,83,"",1,0,Away,"",1 OT,0
+2002,Holy Cross,285,Colgate,153,"",5,0,Home,"",-,0
+2002,Holy Cross,285,Columbia,158,"",4,1,Home,"",-,0
+2002,Holy Cross,285,Dartmouth,172,"",1,2,Home,"",-,0
+2002,Holy Cross,285,Fairfield,220,"",1,2,Home,"",-,0
+2002,Holy Cross,285,Fairfield,220,"",3,0,Home,"",-,0
+2002,Holy Cross,285,Hofstra,283,"",2,1,Home,"",-,0
+2002,Holy Cross,285,Indiana,306,"",3,0,Home,"",-,0
+2002,Holy Cross,285,Lafayette,342,"",2,1,Away,"",-,0
+2002,Holy Cross,285,Lehigh,352,"",1,0,Home,"",-,0
+2002,Holy Cross,285,Providence,556,"",0,1,Away,"",-,0
+2002,Holy Cross,285,Ursinus,730,"",2,3,Away,"",1 OT,0
+2002,Holy Cross,285,Vermont,738,"",7,1,Home,"",-,0
+2002,Holy Cross,285,Villanova,739,"",2,1,Away,"",1 OT,0
+2002,Holy Cross,285,Boston College,67,"",1,2,Away,"",-,0
+2002,Indiana,306,Ball St.,47,"",4,3,Home,"",-,0
+2002,Indiana,306,Stanford,674,"",0,1,Home,"",1 OT,0
+2002,Indiana,306,Holy Cross,285,"",0,3,Away,"",-,0
+2002,Indiana,306,Iowa,312,"",1,8,Away,"",-,0
+2002,Indiana,306,Louisville,367,"",0,3,Home,"",-,0
+2002,Indiana,306,Massachusetts,400,"",1,4,Neutral,Ann Arbor,-,0
+2002,Indiana,306,Miami (OH),414,"",1,2,Home,"",-,0
+2002,Indiana,306,Michigan St.,416,"",2,3,Home,"",1 OT,0
+2002,Indiana,306,Michigan,418,"",1,10,Away,"",-,0
+2002,Indiana,306,Northwestern,509,"",1,4,Home,"",-,0
+2002,Indiana,306,Ohio St.,518,"",0,3,Away,"",-,0
+2002,Indiana,306,Ohio St.,518,"",0,5,Neutral,Chicago,-,0
+2002,Indiana,306,Penn St.,539,"",0,3,Home,"",-,0
+2002,Indiana,306,Rhode Island,572,"",0,1,Neutral,Worcester,-,0
+2002,Indiana,306,Saint Louis,609,"",2,3,Away,"",1 OT,0
+2002,Indiana,306,Missouri St.,669,"",0,1,Neutral,Iowa City,-,0
+2002,Indiana,306,Central Mich.,129,"",1,2,Neutral,Muncie,-,0
+2002,Iowa,312,Ball St.,47,"",1,0,Away,"",-,0
+2002,Iowa,312,Stanford,674,"",3,2,Neutral,Muncie,1 OT,0
+2002,Iowa,312,Indiana,306,"",8,1,Home,"",-,0
+2002,Iowa,312,Maine,380,"",2,0,Away,"",-,0
+2002,Iowa,312,Michigan St.,416,"",1,2,Home,"",-,0
+2002,Iowa,312,Michigan St.,416,"",3,2,Neutral,Chicago,1 OT,0
+2002,Iowa,312,Michigan,418,"",1,4,Away,"",-,0
+2002,Iowa,312,New Hampshire,469,"",3,1,Neutral,Orono,-,0
+2002,Iowa,312,Northwestern,509,"",2,1,Away,"",-,0
+2002,Iowa,312,Northwestern,509,"",3,1,Home,"",-,0
+2002,Iowa,312,Ohio St.,518,"",1,2,Neutral,Chicago,-,0
+2002,Iowa,312,Ohio St.,518,"",1,4,Away,"",-,0
+2002,Iowa,312,Ohio,519,"",0,4,Away,"",-,0
+2002,Iowa,312,Penn St.,539,"",2,1,Home,"",-,0
+2002,Iowa,312,Penn St.,539,"",3,2,Neutral,Chicago,1 OT,0
+2002,Iowa,312,Saint Louis,609,"",5,0,Home,"",-,0
+2002,Iowa,312,Missouri St.,669,"",2,0,Home,"",-,0
+2002,Iowa,312,Colgate,153,"",5,0,Neutral,Orono,-,0
+2002,James Madison,317,American,23,"",4,1,Home,"",-,0
+2002,James Madison,317,William & Mary,786,"",2,1,Neutral,Norfolk,1 OT,0
+2002,James Madison,317,Boston College,67,"",3,1,Away,"",-,0
+2002,James Madison,317,Duke,193,"",1,2,Home,"",1 OT,0
+2002,James Madison,317,Kent St.,331,"",1,2,Neutral,College Park,1 OT,0
+2002,James Madison,317,Maryland,392,"",0,5,Home,"",-,0
+2002,James Madison,317,North Carolina,457,"",1,3,Away,"",-,0
+2002,James Madison,317,Northeastern,500,"",3,2,Away,"",1 OT,0
+2002,James Madison,317,Northwestern,509,"",4,0,Neutral,College Park,-,0
+2002,James Madison,317,Old Dominion,523,"",0,5,Away,"",-,0
+2002,James Madison,317,Old Dominion,523,"",3,4,Away,"",-,0
+2002,James Madison,317,Penn St.,539,"",1,2,Away,"",-,0
+2002,James Madison,317,Radford,563,"",8,2,Away,"",-,0
+2002,James Madison,317,Richmond,575,"",3,2,Home,"",-,0
+2002,James Madison,317,Towson,711,"",3,0,Home,"",-,0
+2002,James Madison,317,VCU,740,"",1,0,Away,"",-,0
+2002,James Madison,317,VCU,740,"",4,3,Home,"",1 OT,0
+2002,James Madison,317,Virginia,746,"",1,2,Away,"",1 OT,0
+2002,James Madison,317,Wake Forest,749,"",1,3,Away,"",-,0
+2002,James Madison,317,William & Mary,786,"",2,1,Away,"",-,0
+2002,James Madison,317,Appalachian St.,27,"",8,0,Home,"",-,0
+2002,Kent St.,331,Ball St.,47,"",2,1,Away,"",-,0
+2002,Kent St.,331,Wake Forest,749,"",2,4,Away,"",-,0
+2002,Kent St.,331,California,107,"",3,1,Home,"",-,0
+2002,Kent St.,331,Central Mich.,129,"",3,1,Home,"",-,0
+2002,Kent St.,331,Central Mich.,129,"",3,2,Away,"",-,0
+2002,Kent St.,331,James Madison,317,"",2,1,Neutral,College Park,1 OT,0
+2002,Kent St.,331,Louisville,367,"",0,4,Away,"",-,0
+2002,Kent St.,331,Louisville,367,"",2,0,Home,"",-,0
+2002,Kent St.,331,Louisville,367,"",3,2,Away,"",1 OT,0
+2002,Kent St.,331,Maryland,392,"",0,5,Away,"",-,0
+2002,Kent St.,331,Miami (OH),414,"",5,0,Home,"",-,0
+2002,Kent St.,331,Miami (OH),414,"",6,2,Away,"",-,0
+2002,Kent St.,331,Michigan St.,416,"",1,3,Neutral,Ann Arbor,-,0
+2002,Kent St.,331,Michigan St.,416,"",2,3,Home,"",-,0
+2002,Kent St.,331,North Carolina,457,"",5,4,Away,"",1 OT,0
+2002,Kent St.,331,Ohio St.,518,"",2,3,Away,"",-,0
+2002,Kent St.,331,Ohio,519,"",1,2,Home,"",1 OT,0
+2002,Kent St.,331,Ohio,519,"",2,3,Neutral,Louisville,-,0
+2002,Kent St.,331,Ohio,519,"",3,2,Away,"",1 OT,0
+2002,Kent St.,331,Missouri St.,669,"",4,2,Neutral,Columbus,-,0
+2002,Kent St.,331,Ball St.,47,"",4,2,Home,"",-,0
+2002,La Salle,340,Bucknell,83,"",0,1,Home,"",1 OT,0
+2002,La Salle,340,West Chester,765,"",1,2,Away,"",-,0
+2002,La Salle,340,Drexel,191,"",0,3,Away,"",-,0
+2002,La Salle,340,Georgetown,251,"",0,3,Away,"",-,0
+2002,La Salle,340,Lafayette,342,"",1,5,Away,"",-,0
+2002,La Salle,340,Lehigh,352,"",3,2,Home,"",1 OT,0
+2002,La Salle,340,Massachusetts,400,"",1,2,Home,"",-,0
+2002,La Salle,340,Penn,540,"",1,6,Away,"",-,0
+2002,La Salle,340,Radford,563,"",0,1,Home,"",-,0
+2002,La Salle,340,Rhode Island,572,"",0,3,Home,"",-,0
+2002,La Salle,340,Richmond,575,"",2,1,Home,"",1 OT,0
+2002,La Salle,340,Rider,576,"",0,1,Home,"",-,0
+2002,La Salle,340,Saint Joseph's,606,"",0,3,Away,"",-,0
+2002,La Salle,340,Temple,690,"",0,1,Away,"",-,0
+2002,La Salle,340,Towson,711,"",0,2,Away,"",-,0
+2002,La Salle,340,Ursinus,730,"",1,0,Home,"",-,0
+2002,La Salle,340,Villanova,739,"",0,6,Home,"",-,0
+2002,La Salle,340,Columbia,158,"",0,2,Home,"",-,0
+2002,Lafayette,342,American,23,"",1,0,Neutral,Worcester,-,0
+2002,Lafayette,342,Villanova,739,"",1,3,Home,"",-,0
+2002,Lafayette,342,Bucknell,83,"",3,2,Away,"",1 OT,0
+2002,Lafayette,342,Colgate,153,"",3,0,Away,"",-,0
+2002,Lafayette,342,Columbia,158,"",2,1,Away,"",-,0
+2002,Lafayette,342,Cornell,167,"",0,1,Home,"",1 OT,0
+2002,Lafayette,342,Delaware,180,"",3,2,Home,"",1 OT,0
+2002,Lafayette,342,Fairfield,220,"",0,2,Neutral,Worcester,-,0
+2002,Lafayette,342,Fairfield,220,"",1,5,Home,"",-,0
+2002,Lafayette,342,Holy Cross,285,"",1,2,Home,"",-,0
+2002,Lafayette,342,La Salle,340,"",5,1,Home,"",-,0
+2002,Lafayette,342,Lehigh,352,"",4,0,Home,"",-,0
+2002,Lafayette,342,Monmouth,439,"",3,0,Away,"",-,0
+2002,Lafayette,342,Penn,540,"",3,2,Away,"",1 OT,0
+2002,Lafayette,342,Rider,576,"",2,1,Home,"",-,0
+2002,Lafayette,342,Rutgers,587,"",2,0,Home,"",-,0
+2002,Lafayette,342,Saint Joseph's,606,"",1,0,Home,"",1 OT,0
+2002,Lafayette,342,Ursinus,730,"",3,1,Away,"",-,0
+2002,Lafayette,342,American,23,"",4,1,Home,"",-,0
+2002,Lehigh,352,American,23,"",2,3,Neutral,Washington,-,0
+2002,Lehigh,352,Villanova,739,"",1,4,Home,"",-,0
+2002,Lehigh,352,Colgate,153,"",0,1,Home,"",-,0
+2002,Lehigh,352,Columbia,158,"",1,2,Away,"",-,0
+2002,Lehigh,352,Cornell,167,"",1,2,Home,"",1 OT,0
+2002,Lehigh,352,Fairfield,220,"",3,1,Home,"",-,0
+2002,Lehigh,352,Holy Cross,285,"",0,1,Away,"",-,0
+2002,Lehigh,352,La Salle,340,"",2,3,Away,"",1 OT,0
+2002,Lehigh,352,Lafayette,342,"",0,4,Away,"",-,0
+2002,Lehigh,352,Miami (OH),414,"",1,2,Neutral,Syracuse,-,0
+2002,Lehigh,352,Monmouth,439,"",1,2,Home,"",1 OT,0
+2002,Lehigh,352,Rider,576,"",4,2,Home,"",-,0
+2002,Lehigh,352,Saint Joseph's,606,"",0,3,Away,"",-,0
+2002,Lehigh,352,Siena,639,"",2,0,Home,"",-,0
+2002,Lehigh,352,Temple,690,"",1,2,Home,"",-,0
+2002,Lehigh,352,Ursinus,730,"",2,1,Away,"",-,0
+2002,Lehigh,352,Bucknell,83,"",2,0,Home,"",-,0
+2002,Louisville,367,Appalachian St.,27,"",4,0,Home,"",-,0
+2002,Louisville,367,VCU,740,"",6,2,Home,"",-,0
+2002,Louisville,367,Ball St.,47,"",3,2,Home,"",-,0
+2002,Louisville,367,Central Mich.,129,"",3,1,Away,"",-,0
+2002,Louisville,367,Central Mich.,129,"",3,2,Home,"",-,0
+2002,Louisville,367,Duke,193,"",2,1,Home,"",-,0
+2002,Louisville,367,Indiana,306,"",3,0,Away,"",-,0
+2002,Louisville,367,Kent St.,331,"",0,2,Away,"",-,0
+2002,Louisville,367,Kent St.,331,"",2,3,Home,"",1 OT,0
+2002,Louisville,367,Kent St.,331,"",4,0,Home,"",-,0
+2002,Louisville,367,Miami (OH),414,"",4,0,Home,"",-,0
+2002,Louisville,367,Miami (OH),414,"",4,0,Away,"",-,0
+2002,Louisville,367,Miami (OH),414,"",7,0,Home,"",-,0
+2002,Louisville,367,Michigan,418,"",0,1,Away,"",-,0
+2002,Louisville,367,Northwestern,509,"",2,1,Neutral,Bloomington,1 OT,0
+2002,Louisville,367,Ohio St.,518,"",4,3,Away,"",1 OT,0
+2002,Louisville,367,Ohio,519,"",0,2,Home,"",-,0
+2002,Louisville,367,Ohio,519,"",2,3,Away,"",1 OT,0
+2002,Louisville,367,Saint Louis,609,"",6,0,Neutral,Ann Arbor,-,0
+2002,Louisville,367,Stanford,674,"",2,0,Home,"",-,0
+2002,Louisville,367,Ball St.,47,"",3,0,Away,"",-,0
+2002,Maine,380,Albany (NY),14,"",5,1,Home,"",-,0
+2002,Maine,380,Vermont,738,"",5,1,Home,"",-,0
+2002,Maine,380,Boston U.,68,"",7,1,Home,"",-,0
+2002,Maine,380,Colgate,153,"",3,1,Home,"",-,0
+2002,Maine,380,Delaware,180,"",1,4,Home,"",-,0
+2002,Maine,380,Drexel,191,"",2,1,Away,"",1 OT,0
+2002,Maine,380,Hofstra,283,"",1,2,Away,"",-,0
+2002,Maine,380,Iowa,312,"",0,2,Home,"",-,0
+2002,Maine,380,Michigan,418,"",0,1,Neutral,Philadelphia,-,0
+2002,Maine,380,New Hampshire,469,"",4,3,Away,"",-,0
+2002,Maine,380,Northeastern,500,"",1,2,Away,"",-,0
+2002,Maine,380,Northeastern,500,"",1,5,Away,"",-,0
+2002,Maine,380,Providence,556,"",3,1,Away,"",-,0
+2002,Maine,380,Quinnipiac,562,"",3,2,Home,"",1 OT,0
+2002,Maine,380,Rhode Island,572,"",2,0,Home,"",-,0
+2002,Maine,380,Temple,690,"",3,4,Away,"",-,0
+2002,Maine,380,Towson,711,"",1,0,Home,"",-,0
+2002,Maine,380,Boston College,67,"",0,1,Away,"",-,0
+2002,Maryland,392,California,107,"",8,0,Neutral,Palo Alto,-,0
+2002,Maryland,392,Wake Forest,749,"",4,1,Home,"",-,0
+2002,Maryland,392,Drexel,191,"",6,0,Home,"",-,0
+2002,Maryland,392,Duke,193,"",6,5,Away,"",1 OT,0
+2002,Maryland,392,Fairfield,220,"",7,1,Home,"",-,0
+2002,Maryland,392,James Madison,317,"",5,0,Away,"",-,0
+2002,Maryland,392,Kent St.,331,"",5,0,Home,"",-,0
+2002,Maryland,392,Michigan St.,416,"",4,1,Neutral,Columbus,-,0
+2002,Maryland,392,Michigan,418,"",0,2,Neutral,Kent,-,0
+2002,Maryland,392,North Carolina,457,"",1,0,Away,"",1 OT,0
+2002,Maryland,392,Northwestern,509,"",4,0,Home,"",-,0
+2002,Maryland,392,Old Dominion,523,"",0,1,Home,"",1 OT,0
+2002,Maryland,392,Old Dominion,523,"",1,2,Away,"",-,0
+2002,Maryland,392,Pacific,534,"",8,0,Neutral,Palo Alto,-,0
+2002,Maryland,392,Princeton,554,"",3,1,Home,"",-,0
+2002,Maryland,392,Rutgers,587,"",10,0,Home,"",-,0
+2002,Maryland,392,Stanford,674,"",3,0,Away,"",-,0
+2002,Maryland,392,Syracuse,688,"",6,0,Home,"",-,0
+2002,Maryland,392,VCU,740,"",7,0,Home,"",-,0
+2002,Maryland,392,Virginia,746,"",2,3,Home,"",1 OT,0
+2002,Maryland,392,Virginia,746,"",4,1,Neutral,Chapel Hill,-,0
+2002,Maryland,392,Wake Forest,749,"",3,2,Neutral,Chapel Hill,-,0
+2002,Maryland,392,Wake Forest,749,"",3,2,Neutral,Kent,1 OT,0
+2002,Maryland,392,Delaware,180,"",4,1,Home,"",-,0
+2002,Massachusetts,400,Boston College,67,"",2,1,Home,"",-,0
+2002,Massachusetts,400,West Chester,765,"",3,2,Neutral,Temple,1 OT,0
+2002,Massachusetts,400,Connecticut,164,"",1,3,Away,"",-,0
+2002,Massachusetts,400,Dartmouth,172,"",1,2,Home,"",1 OT,0
+2002,Massachusetts,400,Harvard,275,"",2,4,Away,"",-,0
+2002,Massachusetts,400,Indiana,306,"",4,1,Neutral,Ann Arbor,-,0
+2002,Massachusetts,400,La Salle,340,"",2,1,Away,"",-,0
+2002,Massachusetts,400,Michigan,418,"",0,6,Away,"",-,0
+2002,Massachusetts,400,New Hampshire,469,"",3,4,Away,"",-,0
+2002,Massachusetts,400,Northeastern,500,"",2,4,Away,"",-,0
+2002,Massachusetts,400,Old Dominion,523,"",1,6,Neutral,Princeton,-,0
+2002,Massachusetts,400,Providence,556,"",0,1,Home,"",1 OT,0
+2002,Massachusetts,400,Rhode Island,572,"",4,0,Home,"",-,0
+2002,Massachusetts,400,Richmond,575,"",2,1,Away,"",1 OT,0
+2002,Massachusetts,400,Richmond,575,"",2,1,Neutral,Temple,1 OT,0
+2002,Massachusetts,400,Saint Joseph's,606,"",1,0,Home,"",-,0
+2002,Massachusetts,400,Syracuse,688,"",1,2,Away,"",-,0
+2002,Massachusetts,400,Temple,690,"",1,0,Home,"",-,0
+2002,Massachusetts,400,VCU,740,"",0,1,Away,"",-,0
+2002,Massachusetts,400,West Chester,765,"",2,0,Away,"",-,0
+2002,Massachusetts,400,Boston U.,68,"",2,1,Away,"",1 OT,0
+2002,Miami (OH),414,Appalachian St.,27,"",2,3,Home,"",1 OT,0
+2002,Miami (OH),414,Syracuse,688,"",0,2,Away,"",-,0
+2002,Miami (OH),414,Ball St.,47,"",0,7,Away,"",-,0
+2002,Miami (OH),414,California,107,"",0,2,Neutral,St. Louis,-,0
+2002,Miami (OH),414,Central Mich.,129,"",0,2,Home,"",-,0
+2002,Miami (OH),414,Central Mich.,129,"",0,4,Away,"",-,0
+2002,Miami (OH),414,Dartmouth,172,"",1,3,Neutral,St. Louis,-,0
+2002,Miami (OH),414,Indiana,306,"",2,1,Away,"",-,0
+2002,Miami (OH),414,Kent St.,331,"",0,5,Away,"",-,0
+2002,Miami (OH),414,Kent St.,331,"",2,6,Home,"",-,0
+2002,Miami (OH),414,Lehigh,352,"",2,1,Neutral,Syracuse,-,0
+2002,Miami (OH),414,Louisville,367,"",0,4,Away,"",-,0
+2002,Miami (OH),414,Louisville,367,"",0,4,Home,"",-,0
+2002,Miami (OH),414,Louisville,367,"",0,7,Away,"",-,0
+2002,Miami (OH),414,Michigan St.,416,"",0,4,Away,"",-,0
+2002,Miami (OH),414,Ohio St.,518,"",1,3,Home,"",-,0
+2002,Miami (OH),414,Ohio,519,"",0,1,Home,"",1 OT,0
+2002,Miami (OH),414,Ohio,519,"",0,9,Away,"",-,0
+2002,Miami (OH),414,Saint Louis,609,"",0,2,Away,"",-,0
+2002,Miami (OH),414,Stanford,674,"",0,4,Home,"",-,0
+2002,Miami (OH),414,Ball St.,47,"",0,4,Home,"",-,0
+2002,Michigan,418,Ball St.,47,"",5,1,Away,"",-,0
+2002,Michigan,418,Wake Forest,749,"",2,3,Home,"",1 OT,0
+2002,Michigan,418,Harvard,275,"",2,1,Home,"",1 OT,0
+2002,Michigan,418,Indiana,306,"",10,1,Home,"",-,0
+2002,Michigan,418,Iowa,312,"",4,1,Home,"",-,0
+2002,Michigan,418,Louisville,367,"",1,0,Home,"",-,0
+2002,Michigan,418,Maine,380,"",1,0,Neutral,Philadelphia,-,0
+2002,Michigan,418,Maryland,392,"",2,0,Neutral,Kent,-,0
+2002,Michigan,418,Massachusetts,400,"",6,0,Home,"",-,0
+2002,Michigan,418,Michigan St.,416,"",2,1,Away,"",1 OT,0
+2002,Michigan,418,Michigan St.,416,"",2,1,Home,"",1 OT,0
+2002,Michigan,418,North Carolina,457,"",1,2,Neutral,Philadelphia,-,0
+2002,Michigan,418,North Carolina,457,"",5,2,Home,"",-,0
+2002,Michigan,418,Northwestern,509,"",2,0,Away,"",-,0
+2002,Michigan,418,Northwestern,509,"",6,1,Away,"",-,0
+2002,Michigan,418,Ohio St.,518,"",0,3,Neutral,Chicago,-,0
+2002,Michigan,418,Ohio St.,518,"",1,2,Away,"",-,0
+2002,Michigan,418,Ohio,519,"",2,1,Away,"",-,0
+2002,Michigan,418,Old Dominion,523,"",1,0,Home,"",-,0
+2002,Michigan,418,Penn St.,539,"",1,2,Home,"",-,0
+2002,Michigan,418,Princeton,554,"",4,2,Neutral,Kent,-,0
+2002,Michigan,418,Virginia,746,"",2,0,Home,"",-,0
+2002,Michigan,418,Central Mich.,129,"",4,0,Away,"",-,0
+2002,Michigan St.,416,Ball St.,47,"",3,1,Away,"",-,0
+2002,Michigan St.,416,Wake Forest,749,"",2,0,Home,"",-,0
+2002,Michigan St.,416,Cornell,167,"",5,3,Neutral,University Park,-,0
+2002,Michigan St.,416,Duke,193,"",0,1,Neutral,Louisville,-,0
+2002,Michigan St.,416,Harvard,275,"",2,0,Neutral,Ann Arbor,-,0
+2002,Michigan St.,416,Indiana,306,"",3,2,Away,"",1 OT,0
+2002,Michigan St.,416,Iowa,312,"",2,1,Away,"",-,0
+2002,Michigan St.,416,Iowa,312,"",2,3,Neutral,Chicago,1 OT,0
+2002,Michigan St.,416,Kent St.,331,"",3,1,Neutral,Ann Arbor,-,0
+2002,Michigan St.,416,Kent St.,331,"",3,2,Away,"",-,0
+2002,Michigan St.,416,Maryland,392,"",1,4,Neutral,Columbus,-,0
+2002,Michigan St.,416,Miami (OH),414,"",4,0,Home,"",-,0
+2002,Michigan St.,416,Michigan,418,"",1,2,Home,"",1 OT,0
+2002,Michigan St.,416,Michigan,418,"",1,2,Away,"",1 OT,0
+2002,Michigan St.,416,Northwestern,509,"",5,0,Home,"",-,0
+2002,Michigan St.,416,Ohio St.,518,"",2,1,Home,"",-,0
+2002,Michigan St.,416,Old Dominion,523,"",3,2,Home,"",1 OT,0
+2002,Michigan St.,416,Pacific,534,"",3,0,Neutral,Palo Alto,-,0
+2002,Michigan St.,416,Penn St.,539,"",3,2,Away,"",1 OT,0
+2002,Michigan St.,416,Stanford,674,"",1,2,Away,"",-,0
+2002,Michigan St.,416,VCU,740,"",7,2,Neutral,Louisville,-,0
+2002,Michigan St.,416,Central Mich.,129,"",6,0,Home,"",-,0
+2002,Missouri St.,669,Appalachian St.,27,"",2,0,Away,"",-,0
+2002,Missouri St.,669,Virginia,746,"",0,4,Neutral,Athens,-,0
+2002,Missouri St.,669,Central Mich.,129,"",2,1,Neutral,Evanston,-,0
+2002,Missouri St.,669,Davidson,173,"",2,0,Home,"",-,0
+2002,Missouri St.,669,Davidson,173,"",6,1,Home,"",-,0
+2002,Missouri St.,669,Indiana,306,"",1,0,Neutral,Iowa City,-,0
+2002,Missouri St.,669,Iowa,312,"",0,2,Away,"",-,0
+2002,Missouri St.,669,Kent St.,331,"",2,4,Neutral,Columbus,-,0
+2002,Missouri St.,669,Northwestern,509,"",2,3,Away,"",1 OT,0
+2002,Missouri St.,669,Ohio St.,518,"",0,1,Away,"",-,0
+2002,Missouri St.,669,Ohio,519,"",1,2,Away,"",-,0
+2002,Missouri St.,669,Pacific,534,"",1,2,Neutral,St. Louis,1 OT,0
+2002,Missouri St.,669,Radford,563,"",3,0,Home,"",-,0
+2002,Missouri St.,669,Radford,563,"",4,0,Home,"",-,0
+2002,Missouri St.,669,Saint Louis,609,"",2,0,Away,"",-,0
+2002,Missouri St.,669,Saint Louis,609,"",3,0,Neutral,Boone,-,0
+2002,Missouri St.,669,Saint Louis,609,"",5,0,Home,"",-,0
+2002,Missouri St.,669,Stanford,674,"",0,1,Neutral,Boone,-,0
+2002,Missouri St.,669,Appalachian St.,27,"",2,0,Away,"",-,0
+2002,Monmouth,439,Bucknell,83,"",3,4,Home,"",1 OT,0
+2002,Monmouth,439,Siena,639,"",3,1,Home,"",-,0
+2002,Monmouth,439,Fairfield,220,"",1,7,Away,"",-,0
+2002,Monmouth,439,Lafayette,342,"",0,3,Home,"",-,0
+2002,Monmouth,439,Lehigh,352,"",2,1,Away,"",1 OT,0
+2002,Monmouth,439,UMBC,391,"",2,1,Away,"",1 OT,0
+2002,Monmouth,439,UMBC,391,"",4,0,Home,"",-,0
+2002,Monmouth,439,Quinnipiac,562,"",0,3,Home,"",-,0
+2002,Monmouth,439,Quinnipiac,562,"",2,3,Away,"",1 OT,0
+2002,Monmouth,439,Rider,576,"",1,2,Away,"",1 OT,0
+2002,Monmouth,439,Rider,576,"",1,2,Home,"",-,0
+2002,Monmouth,439,Rider,576,"",1,3,Neutral,Baltimore,-,0
+2002,Monmouth,439,Sacred Heart,590,"",2,1,Away,"",1 OT,0
+2002,Monmouth,439,Sacred Heart,590,"",3,4,Home,"",1 OT,0
+2002,Monmouth,439,Saint Francis (PA),600,"",3,0,Home,"",-,0
+2002,Monmouth,439,Saint Francis (PA),600,"",3,1,Away,"",-,0
+2002,Monmouth,439,Siena,639,"",1,0,Away,"",-,0
+2002,Monmouth,439,Drexel,191,"",0,2,Away,"",-,0
+2002,New Hampshire,469,Albany (NY),14,"",3,1,Away,"",-,0
+2002,New Hampshire,469,Yale,813,"",2,1,Home,"",1 OT,0
+2002,New Hampshire,469,Dartmouth,172,"",0,2,Away,"",-,0
+2002,New Hampshire,469,Delaware,180,"",0,1,Home,"",-,0
+2002,New Hampshire,469,Drexel,191,"",3,4,Away,"",1 OT,0
+2002,New Hampshire,469,Harvard,275,"",1,0,Away,"",-,0
+2002,New Hampshire,469,Hofstra,283,"",1,3,Away,"",-,0
+2002,New Hampshire,469,Iowa,312,"",1,3,Neutral,Orono,-,0
+2002,New Hampshire,469,Maine,380,"",3,4,Home,"",-,0
+2002,New Hampshire,469,Massachusetts,400,"",4,3,Home,"",-,0
+2002,New Hampshire,469,Northeastern,500,"",0,1,Home,"",-,0
+2002,New Hampshire,469,Old Dominion,523,"",0,8,Neutral,Storrs,-,0
+2002,New Hampshire,469,Providence,556,"",1,2,Away,"",1 OT,0
+2002,New Hampshire,469,Rhode Island,572,"",5,0,Home,"",-,0
+2002,New Hampshire,469,Towson,711,"",6,2,Home,"",-,0
+2002,New Hampshire,469,Vermont,738,"",1,3,Away,"",-,0
+2002,New Hampshire,469,VCU,740,"",0,3,Away,"",-,0
+2002,New Hampshire,469,William & Mary,786,"",1,5,Away,"",-,0
+2002,New Hampshire,469,Boston U.,68,"",2,1,Away,"",1 OT,0
+2002,North Carolina,457,Connecticut,164,"",4,0,Neutral,Saratoga Springs,-,0
+2002,North Carolina,457,William & Mary,786,"",2,0,Neutral,Norfolk,-,0
+2002,North Carolina,457,Duke,193,"",5,0,Home,"",-,0
+2002,North Carolina,457,James Madison,317,"",3,1,Home,"",-,0
+2002,North Carolina,457,Kent St.,331,"",4,5,Home,"",1 OT,0
+2002,North Carolina,457,Maryland,392,"",0,1,Home,"",1 OT,0
+2002,North Carolina,457,Michigan,418,"",2,1,Neutral,Philadelphia,-,0
+2002,North Carolina,457,Michigan,418,"",2,5,Away,"",-,0
+2002,North Carolina,457,Old Dominion,523,"",2,1,Home,"",-,0
+2002,North Carolina,457,Old Dominion,523,"",4,6,Away,"",-,0
+2002,North Carolina,457,Penn St.,539,"",3,1,Home,"",-,0
+2002,North Carolina,457,Radford,563,"",8,0,Home,"",-,0
+2002,North Carolina,457,Richmond,575,"",8,0,Home,"",-,0
+2002,North Carolina,457,Temple,690,"",4,1,Away,"",-,0
+2002,North Carolina,457,VCU,740,"",13,0,Home,"",-,0
+2002,North Carolina,457,Virginia,746,"",3,0,Home,"",-,0
+2002,North Carolina,457,Virginia,746,"",4,1,Away,"",-,0
+2002,North Carolina,457,Wake Forest,749,"",0,2,Home,"",-,0
+2002,North Carolina,457,Wake Forest,749,"",0,2,Away,"",-,0
+2002,North Carolina,457,Wake Forest,749,"",2,3,Home,"",1 OT,0
+2002,North Carolina,457,Duke,193,"",3,1,Away,"",-,0
+2002,Northeastern,500,Albany (NY),14,"",7,0,Home,"",-,0
+2002,Northeastern,500,William & Mary,786,"",0,3,Away,"",-,0
+2002,Northeastern,500,Boston U.,68,"",2,1,Home,"",1 OT,0
+2002,Northeastern,500,Brown,80,"",3,0,Home,"",-,0
+2002,Northeastern,500,Connecticut,164,"",1,2,Home,"",-,0
+2002,Northeastern,500,Delaware,180,"",2,1,Away,"",-,0
+2002,Northeastern,500,Delaware,180,"",4,1,Home,"",-,0
+2002,Northeastern,500,Drexel,191,"",3,1,Home,"",-,0
+2002,Northeastern,500,Harvard,275,"",1,2,Home,"",1 OT,0
+2002,Northeastern,500,Hofstra,283,"",1,0,Home,"",-,0
+2002,Northeastern,500,James Madison,317,"",2,3,Home,"",1 OT,0
+2002,Northeastern,500,Maine,380,"",2,1,Home,"",-,0
+2002,Northeastern,500,Maine,380,"",5,1,Home,"",-,0
+2002,Northeastern,500,Massachusetts,400,"",4,2,Home,"",-,0
+2002,Northeastern,500,New Hampshire,469,"",1,0,Away,"",-,0
+2002,Northeastern,500,Old Dominion,523,"",0,6,Away,"",-,0
+2002,Northeastern,500,Princeton,554,"",1,4,Away,"",-,0
+2002,Northeastern,500,Princeton,554,"",2,4,Away,"",-,0
+2002,Northeastern,500,Quinnipiac,562,"",6,1,Home,"",-,0
+2002,Northeastern,500,Syracuse,688,"",1,0,Neutral,Princeton,1 OT,0
+2002,Northeastern,500,Towson,711,"",8,0,Away,"",-,0
+2002,Northeastern,500,Vermont,738,"",1,0,Away,"",1 OT,0
+2002,Northeastern,500,Boston College,67,"",3,0,Away,"",-,0
+2002,Northwestern,509,Ball St.,47,"",0,1,Home,"",1 OT,0
+2002,Northwestern,509,Missouri St.,669,"",3,2,Home,"",1 OT,0
+2002,Northwestern,509,Hofstra,283,"",2,3,Home,"",-,0
+2002,Northwestern,509,Indiana,306,"",4,1,Away,"",-,0
+2002,Northwestern,509,Iowa,312,"",1,2,Home,"",-,0
+2002,Northwestern,509,Iowa,312,"",1,3,Away,"",-,0
+2002,Northwestern,509,James Madison,317,"",0,4,Neutral,College Park,-,0
+2002,Northwestern,509,Louisville,367,"",1,2,Neutral,Bloomington,1 OT,0
+2002,Northwestern,509,Maryland,392,"",0,4,Away,"",-,0
+2002,Northwestern,509,Michigan St.,416,"",0,5,Away,"",-,0
+2002,Northwestern,509,Michigan,418,"",0,2,Home,"",-,0
+2002,Northwestern,509,Michigan,418,"",1,6,Home,"",-,0
+2002,Northwestern,509,Ohio St.,518,"",1,3,Home,"",-,0
+2002,Northwestern,509,Penn St.,539,"",1,5,Away,"",-,0
+2002,Northwestern,509,Central Mich.,129,"",1,2,Home,"",-,0
+2002,Ohio,519,Ball St.,47,"",1,0,Neutral,Louisville,1 OT,0
+2002,Ohio,519,Wake Forest,749,"",1,2,Away,"",-,0
+2002,Ohio,519,Ball St.,47,"",4,3,Home,"",-,0
+2002,Ohio,519,Boston College,67,"",1,0,Away,"",-,0
+2002,Ohio,519,Central Mich.,129,"",2,1,Away,"",-,0
+2002,Ohio,519,Central Mich.,129,"",4,0,Home,"",-,0
+2002,Ohio,519,Iowa,312,"",4,0,Home,"",-,0
+2002,Ohio,519,Kent St.,331,"",2,1,Away,"",1 OT,0
+2002,Ohio,519,Kent St.,331,"",2,3,Home,"",1 OT,0
+2002,Ohio,519,Kent St.,331,"",3,2,Neutral,Louisville,-,0
+2002,Ohio,519,Louisville,367,"",2,0,Away,"",-,0
+2002,Ohio,519,Louisville,367,"",3,2,Home,"",1 OT,0
+2002,Ohio,519,Miami (OH),414,"",1,0,Away,"",1 OT,0
+2002,Ohio,519,Miami (OH),414,"",9,0,Home,"",-,0
+2002,Ohio,519,Michigan,418,"",1,2,Home,"",-,0
+2002,Ohio,519,Ohio St.,518,"",2,3,Away,"",-,0
+2002,Ohio,519,Sacred Heart,590,"",7,0,Neutral,Chestnut Hill,-,0
+2002,Ohio,519,Missouri St.,669,"",2,1,Home,"",-,0
+2002,Ohio,519,Stanford,674,"",3,2,Neutral,Louisville,1 OT,0
+2002,Ohio,519,Virginia,746,"",2,3,Home,"",1 OT,0
+2002,Ohio,519,Ball St.,47,"",4,1,Away,"",-,0
+2002,Ohio St.,518,California,107,"",4,5,Home,"",1 OT,0
+2002,Ohio St.,518,Virginia,746,"",1,2,Neutral,Wake Forest,1 OT,0
+2002,Ohio St.,518,Indiana,306,"",3,0,Home,"",-,0
+2002,Ohio St.,518,Indiana,306,"",5,0,Neutral,Chicago,-,0
+2002,Ohio St.,518,Iowa,312,"",2,1,Neutral,Chicago,-,0
+2002,Ohio St.,518,Iowa,312,"",4,1,Home,"",-,0
+2002,Ohio St.,518,Kent St.,331,"",3,2,Home,"",-,0
+2002,Ohio St.,518,Louisville,367,"",3,4,Home,"",1 OT,0
+2002,Ohio St.,518,Miami (OH),414,"",3,1,Away,"",-,0
+2002,Ohio St.,518,Michigan St.,416,"",1,2,Away,"",-,0
+2002,Ohio St.,518,Michigan,418,"",2,1,Home,"",-,0
+2002,Ohio St.,518,Michigan,418,"",3,0,Neutral,Chicago,-,0
+2002,Ohio St.,518,Northwestern,509,"",3,1,Away,"",-,0
+2002,Ohio St.,518,Ohio,519,"",3,2,Home,"",-,0
+2002,Ohio St.,518,Penn St.,539,"",2,1,Away,"",-,0
+2002,Ohio St.,518,Penn,540,"",4,0,Away,"",-,0
+2002,Ohio St.,518,Richmond,575,"",4,0,Away,"",-,0
+2002,Ohio St.,518,Missouri St.,669,"",1,0,Home,"",-,0
+2002,Ohio St.,518,Virginia,746,"",1,2,Away,"",-,0
+2002,Ohio St.,518,Drexel,191,"",2,1,Away,"",1 OT,0
+2002,Old Dominion,523,American,23,"",11,0,Home,"",-,0
+2002,Old Dominion,523,William & Mary,786,"",2,0,Home,"",-,0
+2002,Old Dominion,523,Connecticut,164,"",3,0,Away,"",-,0
+2002,Old Dominion,523,James Madison,317,"",4,3,Home,"",-,0
+2002,Old Dominion,523,James Madison,317,"",5,0,Home,"",-,0
+2002,Old Dominion,523,Maryland,392,"",1,0,Away,"",1 OT,0
+2002,Old Dominion,523,Maryland,392,"",2,1,Home,"",-,0
+2002,Old Dominion,523,Massachusetts,400,"",6,1,Neutral,Princeton,-,0
+2002,Old Dominion,523,Michigan St.,416,"",2,3,Away,"",1 OT,0
+2002,Old Dominion,523,Michigan,418,"",0,1,Away,"",-,0
+2002,Old Dominion,523,North Carolina,457,"",1,2,Away,"",-,0
+2002,Old Dominion,523,North Carolina,457,"",6,4,Home,"",-,0
+2002,Old Dominion,523,New Hampshire,469,"",8,0,Neutral,Storrs,-,0
+2002,Old Dominion,523,Northeastern,500,"",6,0,Home,"",-,0
+2002,Old Dominion,523,Penn St.,539,"",1,0,Home,"",1 OT,0
+2002,Old Dominion,523,Princeton,554,"",1,2,Away,"",-,0
+2002,Old Dominion,523,Princeton,554,"",1,2,Away,"",-,0
+2002,Old Dominion,523,Temple,690,"",9,0,Neutral,Princeton,-,0
+2002,Old Dominion,523,VCU,740,"",1,0,Away,"",-,0
+2002,Old Dominion,523,VCU,740,"",7,1,Home,"",-,0
+2002,Old Dominion,523,Virginia,746,"",3,2,Away,"",-,0
+2002,Old Dominion,523,Wake Forest,749,"",3,2,Home,"",-,0
+2002,Old Dominion,523,Boston U.,68,"",4,1,Home,"",-,0
+2002,Pacific,534,Appalachian St.,27,"",1,0,Away,"",-,0
+2002,Pacific,534,Wake Forest,749,"",0,10,Away,"",-,0
+2002,Pacific,534,California,107,"",0,3,Neutral,Boone,-,0
+2002,Pacific,534,California,107,"",0,5,Away,"",-,0
+2002,Pacific,534,Delaware,180,"",0,4,Neutral,Palo Alto,-,0
+2002,Pacific,534,Fairfield,220,"",1,2,Home,"",1 OT,0
+2002,Pacific,534,Maryland,392,"",0,8,Neutral,Palo Alto,-,0
+2002,Pacific,534,Michigan St.,416,"",0,3,Neutral,Palo Alto,-,0
+2002,Pacific,534,Radford,563,"",1,0,Neutral,Winston Salem,-,0
+2002,Pacific,534,Saint Louis,609,"",2,1,Away,"",-,0
+2002,Pacific,534,Saint Louis,609,"",3,2,Away,"",1 OT,0
+2002,Pacific,534,Missouri St.,669,"",2,1,Neutral,St. Louis,1 OT,0
+2002,Pacific,534,Stanford,674,"",0,1,Home,"",-,0
+2002,Pacific,534,Stanford,674,"",0,3,Away,"",-,0
+2002,Pacific,534,California,107,"",0,2,Home,"",-,0
+2002,Penn,540,Brown,80,"",1,0,Away,"",-,0
+2002,Penn,540,Yale,813,"",2,1,Home,"",1 OT,0
+2002,Penn,540,Cornell,167,"",2,1,Home,"",-,0
+2002,Penn,540,Dartmouth,172,"",2,1,Home,"",-,0
+2002,Penn,540,Georgetown,251,"",2,1,Home,"",-,0
+2002,Penn,540,Harvard,275,"",0,3,Away,"",-,0
+2002,Penn,540,La Salle,340,"",6,1,Home,"",-,0
+2002,Penn,540,Lafayette,342,"",2,3,Home,"",1 OT,0
+2002,Penn,540,Ohio St.,518,"",0,4,Home,"",-,0
+2002,Penn,540,Penn St.,539,"",1,5,Away,"",-,0
+2002,Penn,540,Princeton,554,"",1,6,Home,"",-,0
+2002,Penn,540,Saint Joseph's,606,"",2,3,Away,"",-,0
+2002,Penn,540,Temple,690,"",0,1,Away,"",-,0
+2002,Penn,540,Villanova,739,"",1,2,Home,"",-,0
+2002,Penn,540,West Chester,765,"",0,1,Away,"",-,0
+2002,Penn,540,William & Mary,786,"",1,4,Away,"",-,0
+2002,Penn,540,Columbia,158,"",0,1,Away,"",1 OT,0
+2002,Penn St.,539,Bucknell,83,"",5,1,Home,"",-,0
+2002,Penn St.,539,West Chester,765,"",3,0,Home,"",-,0
+2002,Penn St.,539,Indiana,306,"",3,0,Away,"",-,0
+2002,Penn St.,539,Iowa,312,"",1,2,Away,"",-,0
+2002,Penn St.,539,Iowa,312,"",2,3,Neutral,Chicago,1 OT,0
+2002,Penn St.,539,James Madison,317,"",2,1,Home,"",-,0
+2002,Penn St.,539,Michigan St.,416,"",2,3,Home,"",1 OT,0
+2002,Penn St.,539,Michigan,418,"",2,1,Away,"",-,0
+2002,Penn St.,539,North Carolina,457,"",1,3,Away,"",-,0
+2002,Penn St.,539,Northwestern,509,"",5,1,Home,"",-,0
+2002,Penn St.,539,Ohio St.,518,"",1,2,Home,"",-,0
+2002,Penn St.,539,Old Dominion,523,"",0,1,Away,"",1 OT,0
+2002,Penn St.,539,Penn,540,"",5,1,Home,"",-,0
+2002,Penn St.,539,Princeton,554,"",2,0,Home,"",-,0
+2002,Penn St.,539,Syracuse,688,"",2,0,Home,"",-,0
+2002,Penn St.,539,Temple,690,"",4,0,Away,"",-,0
+2002,Penn St.,539,Villanova,739,"",2,1,Away,"",1 OT,0
+2002,Penn St.,539,Wake Forest,749,"",1,2,Home,"",-,0
+2002,Penn St.,539,Connecticut,164,"",3,1,Home,"",-,0
+2002,Princeton,554,Boston U.,68,"",2,1,Away,"",-,0
+2002,Princeton,554,Yale,813,"",3,2,Home,"",-,0
+2002,Princeton,554,Columbia,158,"",7,1,Home,"",-,0
+2002,Princeton,554,Connecticut,164,"",3,2,Home,"",-,0
+2002,Princeton,554,Cornell,167,"",8,0,Home,"",-,0
+2002,Princeton,554,Dartmouth,172,"",3,1,Home,"",-,0
+2002,Princeton,554,Delaware,180,"",3,2,Away,"",-,0
+2002,Princeton,554,Drexel,191,"",4,0,Home,"",-,0
+2002,Princeton,554,Harvard,275,"",5,2,Away,"",-,0
+2002,Princeton,554,Maryland,392,"",1,3,Away,"",-,0
+2002,Princeton,554,Michigan,418,"",2,4,Neutral,Kent,-,0
+2002,Princeton,554,Northeastern,500,"",4,1,Home,"",-,0
+2002,Princeton,554,Northeastern,500,"",4,2,Home,"",-,0
+2002,Princeton,554,Old Dominion,523,"",2,1,Home,"",-,0
+2002,Princeton,554,Old Dominion,523,"",2,1,Home,"",-,0
+2002,Princeton,554,Penn St.,539,"",0,2,Away,"",-,0
+2002,Princeton,554,Penn,540,"",6,1,Away,"",-,0
+2002,Princeton,554,Rutgers,587,"",5,1,Home,"",-,0
+2002,Princeton,554,Syracuse,688,"",5,1,Home,"",-,0
+2002,Princeton,554,Brown,80,"",4,1,Away,"",-,0
+2002,Providence,556,Albany (NY),14,"",4,1,Neutral,Storrs,-,0
+2002,Providence,556,Villanova,739,"",2,4,Away,"",-,0
+2002,Providence,556,Brown,80,"",4,1,Away,"",-,0
+2002,Providence,556,Colgate,153,"",6,0,Home,"",-,0
+2002,Providence,556,Connecticut,164,"",0,3,Away,"",-,0
+2002,Providence,556,Dartmouth,172,"",0,2,Away,"",-,0
+2002,Providence,556,Davidson,173,"",1,0,Away,"",-,0
+2002,Providence,556,Harvard,275,"",0,5,Away,"",-,0
+2002,Providence,556,Holy Cross,285,"",1,0,Home,"",-,0
+2002,Providence,556,Maine,380,"",1,3,Home,"",-,0
+2002,Providence,556,Massachusetts,400,"",1,0,Away,"",1 OT,0
+2002,Providence,556,New Hampshire,469,"",2,1,Home,"",1 OT,0
+2002,Providence,556,Radford,563,"",2,1,Away,"",1 OT,0
+2002,Providence,556,Rhode Island,572,"",1,0,Home,"",-,0
+2002,Providence,556,Rutgers,587,"",2,1,Away,"",1 OT,0
+2002,Providence,556,Sacred Heart,590,"",2,0,Home,"",-,0
+2002,Providence,556,Saint Joseph's,606,"",2,5,Neutral,Storrs,-,0
+2002,Providence,556,Syracuse,688,"",0,1,Home,"",-,0
+2002,Providence,556,Boston College,67,"",0,2,Home,"",-,0
+2002,Quinnipiac,562,California,107,"",1,5,Away,"",-,0
+2002,Quinnipiac,562,Yale,813,"",0,4,Away,"",-,0
+2002,Quinnipiac,562,Maine,380,"",2,3,Away,"",1 OT,0
+2002,Quinnipiac,562,UMBC,391,"",2,0,Away,"",-,0
+2002,Quinnipiac,562,UMBC,391,"",3,0,Home,"",-,0
+2002,Quinnipiac,562,Monmouth,439,"",3,0,Away,"",-,0
+2002,Quinnipiac,562,Monmouth,439,"",3,2,Home,"",1 OT,0
+2002,Quinnipiac,562,Northeastern,500,"",1,6,Away,"",-,0
+2002,Quinnipiac,562,Rider,576,"",1,0,Neutral,Baltimore,-,0
+2002,Quinnipiac,562,Rider,576,"",1,2,Away,"",1 OT,0
+2002,Quinnipiac,562,Rider,576,"",3,2,Home,"",-,0
+2002,Quinnipiac,562,Sacred Heart,590,"",2,0,Neutral,Baltimore,-,0
+2002,Quinnipiac,562,Sacred Heart,590,"",2,3,Away,"",-,0
+2002,Quinnipiac,562,Sacred Heart,590,"",3,1,Home,"",-,0
+2002,Quinnipiac,562,Saint Francis (PA),600,"",8,1,Home,"",-,0
+2002,Quinnipiac,562,Saint Francis (PA),600,"",9,0,Away,"",-,0
+2002,Quinnipiac,562,Siena,639,"",5,2,Home,"",-,0
+2002,Quinnipiac,562,Siena,639,"",7,2,Away,"",-,0
+2002,Quinnipiac,562,Syracuse,688,"",2,6,Away,"",-,0
+2002,Quinnipiac,562,Hofstra,283,"",1,2,Away,"",-,0
+2002,Radford,563,Appalachian St.,27,"",0,1,Away,"",-,0
+2002,Radford,563,Wake Forest,749,"",0,9,Away,"",-,0
+2002,Radford,563,Appalachian St.,27,"",2,1,Away,"",-,0
+2002,Radford,563,Davidson,173,"",1,0,Neutral,Winston Salem,1 OT,0
+2002,Radford,563,Davidson,173,"",3,0,Home,"",-,0
+2002,Radford,563,Duke,193,"",0,2,Neutral,Harrisonburg,-,0
+2002,Radford,563,James Madison,317,"",2,8,Home,"",-,0
+2002,Radford,563,La Salle,340,"",1,0,Away,"",-,0
+2002,Radford,563,North Carolina,457,"",0,8,Away,"",-,0
+2002,Radford,563,Pacific,534,"",0,1,Neutral,Winston Salem,-,0
+2002,Radford,563,Providence,556,"",1,2,Home,"",1 OT,0
+2002,Radford,563,Richmond,575,"",0,2,Neutral,Boone,-,0
+2002,Radford,563,Saint Francis (PA),600,"",10,0,Home,"",-,0
+2002,Radford,563,Saint Joseph's,606,"",0,1,Away,"",-,0
+2002,Radford,563,Saint Louis,609,"",2,1,Neutral,Boone,1 OT,0
+2002,Radford,563,Missouri St.,669,"",0,3,Away,"",-,0
+2002,Radford,563,Missouri St.,669,"",0,4,Away,"",-,0
+2002,Radford,563,Stanford,674,"",1,2,Neutral,Boone,-,0
+2002,Radford,563,Towson,711,"",0,1,Neutral,Harrisonburg,1 OT,0
+2002,Radford,563,Ursinus,730,"",2,3,Away,"",-,0
+2002,Radford,563,VCU,740,"",2,1,Home,"",1 OT,0
+2002,Radford,563,Virginia,746,"",0,3,Away,"",-,0
+2002,Radford,563,Appalachian St.,27,"",2,1,Home,"",-,0
+2002,Rhode Island,572,Boston College,67,"",1,3,Away,"",-,0
+2002,Rhode Island,572,Yale,813,"",0,2,Away,"",-,0
+2002,Rhode Island,572,Colgate,153,"",7,1,Home,"",-,0
+2002,Rhode Island,572,Cornell,167,"",0,1,Neutral,New Haven,-,0
+2002,Rhode Island,572,Fairfield,220,"",1,2,Home,"",-,0
+2002,Rhode Island,572,Georgetown,251,"",2,3,Away,"",-,0
+2002,Rhode Island,572,Indiana,306,"",1,0,Neutral,Worcester,-,0
+2002,Rhode Island,572,La Salle,340,"",3,0,Away,"",-,0
+2002,Rhode Island,572,Maine,380,"",0,2,Away,"",-,0
+2002,Rhode Island,572,Massachusetts,400,"",0,4,Away,"",-,0
+2002,Rhode Island,572,New Hampshire,469,"",0,5,Away,"",-,0
+2002,Rhode Island,572,Providence,556,"",0,1,Away,"",-,0
+2002,Rhode Island,572,Richmond,575,"",1,3,Away,"",-,0
+2002,Rhode Island,572,Saint Joseph's,606,"",2,1,Home,"",1 OT,0
+2002,Rhode Island,572,Temple,690,"",0,2,Home,"",-,0
+2002,Rhode Island,572,Vermont,738,"",1,4,Home,"",-,0
+2002,Rhode Island,572,West Chester,765,"",0,1,Away,"",-,0
+2002,Rhode Island,572,Brown,80,"",3,2,Home,"",-,0
+2002,Richmond,575,American,23,"",2,1,Home,"",1 OT,0
+2002,Richmond,575,West Chester,765,"",1,2,Away,"",1 OT,0
+2002,Richmond,575,Cornell,167,"",2,1,Neutral,Newark,-,0
+2002,Richmond,575,Duke,193,"",0,3,Home,"",-,0
+2002,Richmond,575,Georgetown,251,"",1,0,Home,"",-,0
+2002,Richmond,575,James Madison,317,"",2,3,Away,"",-,0
+2002,Richmond,575,La Salle,340,"",1,2,Away,"",1 OT,0
+2002,Richmond,575,Longwood,363,"",6,2,Home,"",-,0
+2002,Richmond,575,Massachusetts,400,"",1,2,Home,"",1 OT,0
+2002,Richmond,575,Massachusetts,400,"",1,2,Neutral,Temple,1 OT,0
+2002,Richmond,575,North Carolina,457,"",0,8,Away,"",-,0
+2002,Richmond,575,Ohio St.,518,"",0,4,Home,"",-,0
+2002,Richmond,575,Radford,563,"",2,0,Neutral,Boone,-,0
+2002,Richmond,575,Rhode Island,572,"",3,1,Home,"",-,0
+2002,Richmond,575,Saint Joseph's,606,"",0,2,Home,"",-,0
+2002,Richmond,575,Temple,690,"",1,0,Home,"",1 OT,0
+2002,Richmond,575,Towson,711,"",3,1,Away,"",-,0
+2002,Richmond,575,VCU,740,"",3,0,Home,"",-,0
+2002,Richmond,575,Virginia,746,"",0,2,Away,"",-,0
+2002,Richmond,575,Appalachian St.,27,"",3,1,Away,"",-,0
+2002,Rider,576,La Salle,340,"",1,0,Away,"",-,0
+2002,Rider,576,West Chester,765,"",0,1,Home,"",-,0
+2002,Rider,576,Lehigh,352,"",2,4,Away,"",-,0
+2002,Rider,576,UMBC,391,"",3,0,Away,"",-,0
+2002,Rider,576,UMBC,391,"",4,0,Home,"",-,0
+2002,Rider,576,Monmouth,439,"",2,1,Home,"",1 OT,0
+2002,Rider,576,Monmouth,439,"",2,1,Away,"",-,0
+2002,Rider,576,Monmouth,439,"",3,1,Neutral,Baltimore,-,0
+2002,Rider,576,Quinnipiac,562,"",0,1,Neutral,Baltimore,-,0
+2002,Rider,576,Quinnipiac,562,"",2,1,Home,"",1 OT,0
+2002,Rider,576,Quinnipiac,562,"",2,3,Away,"",-,0
+2002,Rider,576,Sacred Heart,590,"",2,1,Away,"",-,0
+2002,Rider,576,Sacred Heart,590,"",2,1,Home,"",-,0
+2002,Rider,576,Saint Francis (PA),600,"",3,0,Home,"",-,0
+2002,Rider,576,Saint Francis (PA),600,"",3,1,Away,"",-,0
+2002,Rider,576,Siena,639,"",1,2,Away,"",1 OT,0
+2002,Rider,576,Siena,639,"",6,0,Home,"",-,0
+2002,Rider,576,Ursinus,730,"",3,0,Home,"",-,0
+2002,Rider,576,Lafayette,342,"",1,2,Away,"",-,0
+2002,Rutgers,587,Boston College,67,"",1,2,Away,"",-,0
+2002,Rutgers,587,Villanova,739,"",0,1,Home,"",-,0
+2002,Rutgers,587,Columbia,158,"",3,2,Home,"",-,0
+2002,Rutgers,587,Connecticut,164,"",2,1,Home,"",-,0
+2002,Rutgers,587,Delaware,180,"",1,5,Home,"",-,0
+2002,Rutgers,587,Drexel,191,"",0,2,Away,"",-,0
+2002,Rutgers,587,Fairfield,220,"",2,3,Home,"",-,0
+2002,Rutgers,587,Georgetown,251,"",1,2,Away,"",-,0
+2002,Rutgers,587,Hofstra,283,"",2,1,Away,"",-,0
+2002,Rutgers,587,Lafayette,342,"",0,2,Away,"",-,0
+2002,Rutgers,587,Maryland,392,"",0,10,Away,"",-,0
+2002,Rutgers,587,Princeton,554,"",1,5,Away,"",-,0
+2002,Rutgers,587,Providence,556,"",1,2,Home,"",1 OT,0
+2002,Rutgers,587,Saint Joseph's,606,"",3,2,Away,"",-,0
+2002,Rutgers,587,Syracuse,688,"",1,2,Away,"",-,0
+2002,Rutgers,587,Syracuse,688,"",2,3,Neutral,Chestnut Hill,-,0
+2002,Rutgers,587,Brown,80,"",1,2,Home,"",-,0
+2002,Sacred Heart,590,Albany (NY),14,"",2,3,Home,"",-,0
+2002,Sacred Heart,590,Yale,813,"",1,7,Home,"",-,0
+2002,Sacred Heart,590,Columbia,158,"",3,2,Home,"",-,0
+2002,Sacred Heart,590,Hofstra,283,"",0,3,Away,"",-,0
+2002,Sacred Heart,590,UMBC,391,"",0,1,Away,"",-,0
+2002,Sacred Heart,590,UMBC,391,"",2,0,Home,"",-,0
+2002,Sacred Heart,590,Monmouth,439,"",1,2,Home,"",1 OT,0
+2002,Sacred Heart,590,Monmouth,439,"",4,3,Away,"",1 OT,0
+2002,Sacred Heart,590,Ohio,519,"",0,7,Neutral,Chestnut Hill,-,0
+2002,Sacred Heart,590,Providence,556,"",0,2,Away,"",-,0
+2002,Sacred Heart,590,Quinnipiac,562,"",0,2,Neutral,Baltimore,-,0
+2002,Sacred Heart,590,Quinnipiac,562,"",1,3,Away,"",-,0
+2002,Sacred Heart,590,Quinnipiac,562,"",3,2,Home,"",-,0
+2002,Sacred Heart,590,Rider,576,"",1,2,Home,"",-,0
+2002,Sacred Heart,590,Rider,576,"",1,2,Away,"",-,0
+2002,Sacred Heart,590,Saint Francis (PA),600,"",5,0,Away,"",-,0
+2002,Sacred Heart,590,Saint Francis (PA),600,"",6,0,Home,"",-,0
+2002,Sacred Heart,590,Siena,639,"",2,0,Away,"",-,0
+2002,Sacred Heart,590,Siena,639,"",4,1,Home,"",-,0
+2002,Sacred Heart,590,Vermont,738,"",0,5,Neutral,Chestnut Hill,-,0
+2002,Sacred Heart,590,Brown,80,"",0,2,Home,"",-,0
+2002,Saint Francis (PA),600,Albany (NY),14,"",0,7,Away,"",-,0
+2002,Saint Francis (PA),600,Siena,639,"",2,4,Away,"",-,0
+2002,Saint Francis (PA),600,Davidson,173,"",0,7,Away,"",-,0
+2002,Saint Francis (PA),600,UMBC,391,"",0,6,Away,"",-,0
+2002,Saint Francis (PA),600,UMBC,391,"",1,3,Home,"",-,0
+2002,Saint Francis (PA),600,Monmouth,439,"",0,3,Away,"",-,0
+2002,Saint Francis (PA),600,Monmouth,439,"",1,3,Home,"",-,0
+2002,Saint Francis (PA),600,Quinnipiac,562,"",0,9,Home,"",-,0
+2002,Saint Francis (PA),600,Quinnipiac,562,"",1,8,Away,"",-,0
+2002,Saint Francis (PA),600,Radford,563,"",0,10,Away,"",-,0
+2002,Saint Francis (PA),600,Rider,576,"",0,3,Away,"",-,0
+2002,Saint Francis (PA),600,Rider,576,"",1,3,Home,"",-,0
+2002,Saint Francis (PA),600,Sacred Heart,590,"",0,5,Home,"",-,0
+2002,Saint Francis (PA),600,Sacred Heart,590,"",0,6,Away,"",-,0
+2002,Saint Francis (PA),600,Siena,639,"",1,3,Home,"",-,0
+2002,Saint Francis (PA),600,Bucknell,83,"",1,6,Away,"",-,0
+2002,Saint Joseph's,606,Connecticut,164,"",0,4,Away,"",-,0
+2002,Saint Joseph's,606,West Chester,765,"",1,2,Home,"",-,0
+2002,Saint Joseph's,606,Fairfield,220,"",2,1,Away,"",-,0
+2002,Saint Joseph's,606,Georgetown,251,"",1,2,Away,"",-,0
+2002,Saint Joseph's,606,La Salle,340,"",3,0,Home,"",-,0
+2002,Saint Joseph's,606,Lafayette,342,"",0,1,Away,"",1 OT,0
+2002,Saint Joseph's,606,Lehigh,352,"",3,0,Home,"",-,0
+2002,Saint Joseph's,606,Massachusetts,400,"",0,1,Away,"",-,0
+2002,Saint Joseph's,606,Penn,540,"",3,2,Home,"",-,0
+2002,Saint Joseph's,606,Providence,556,"",5,2,Neutral,Storrs,-,0
+2002,Saint Joseph's,606,Radford,563,"",1,0,Home,"",-,0
+2002,Saint Joseph's,606,Rhode Island,572,"",1,2,Away,"",1 OT,0
+2002,Saint Joseph's,606,Richmond,575,"",2,0,Away,"",-,0
+2002,Saint Joseph's,606,Rutgers,587,"",2,3,Home,"",-,0
+2002,Saint Joseph's,606,Temple,690,"",3,2,Away,"",-,0
+2002,Saint Joseph's,606,Ursinus,730,"",1,0,Away,"",-,0
+2002,Saint Joseph's,606,Villanova,739,"",0,4,Away,"",-,0
+2002,Saint Joseph's,606,West Chester,765,"",0,3,Neutral,Temple,-,0
+2002,Saint Joseph's,606,Drexel,191,"",1,2,Home,"",-,0
+2002,Saint Louis,609,California,107,"",0,4,Away,"",-,0
+2002,Saint Louis,609,Lindenwood (MO),,"",5,1,Home,"",-,0
+2002,Saint Louis,609,Central Mich.,129,"",0,2,Away,"",-,0
+2002,Saint Louis,609,Dartmouth,172,"",0,3,Home,"",-,0
+2002,Saint Louis,609,Davidson,173,"",2,1,Neutral,Springfield,1 OT,0
+2002,Saint Louis,609,Indiana,306,"",3,2,Home,"",1 OT,0
+2002,Saint Louis,609,Iowa,312,"",0,5,Away,"",-,0
+2002,Saint Louis,609,Louisville,367,"",0,6,Neutral,Ann Arbor,-,0
+2002,Saint Louis,609,Miami (OH),414,"",2,0,Home,"",-,0
+2002,Saint Louis,609,Pacific,534,"",1,2,Home,"",-,0
+2002,Saint Louis,609,Pacific,534,"",2,3,Home,"",1 OT,0
+2002,Saint Louis,609,Radford,563,"",1,2,Neutral,Boone,1 OT,0
+2002,Saint Louis,609,Missouri St.,669,"",0,2,Home,"",-,0
+2002,Saint Louis,609,Missouri St.,669,"",0,3,Neutral,Boone,-,0
+2002,Saint Louis,609,Missouri St.,669,"",0,5,Away,"",-,0
+2002,Saint Louis,609,Stanford,674,"",0,2,Away,"",-,0
+2002,Saint Louis,609,Stanford,674,"",1,4,Away,"",-,0
+2002,Saint Louis,609,Lindenwood (MO),,"",3,0,Away,"",-,0
+2002,Saint Louis,609,California,107,"",3,5,Home,"",-,0
+2002,Siena,639,Albany (NY),14,"",3,5,Home,"",-,0
+2002,Siena,639,Vermont,738,"",1,2,Away,"",-,0
+2002,Siena,639,Colgate,153,"",0,6,Away,"",-,0
+2002,Siena,639,Lehigh,352,"",0,2,Away,"",-,0
+2002,Siena,639,UMBC,391,"",2,1,Home,"",-,0
+2002,Siena,639,UMBC,391,"",2,6,Away,"",-,0
+2002,Siena,639,Monmouth,439,"",0,1,Home,"",-,0
+2002,Siena,639,Monmouth,439,"",1,3,Away,"",-,0
+2002,Siena,639,Quinnipiac,562,"",2,5,Away,"",-,0
+2002,Siena,639,Quinnipiac,562,"",2,7,Home,"",-,0
+2002,Siena,639,Rider,576,"",0,6,Away,"",-,0
+2002,Siena,639,Rider,576,"",2,1,Home,"",1 OT,0
+2002,Siena,639,Sacred Heart,590,"",0,2,Home,"",-,0
+2002,Siena,639,Sacred Heart,590,"",1,4,Away,"",-,0
+2002,Siena,639,Saint Francis (PA),600,"",3,1,Away,"",-,0
+2002,Siena,639,Saint Francis (PA),600,"",4,2,Home,"",-,0
+2002,Siena,639,Bucknell,83,"",0,3,Away,"",-,0
+2002,Stanford,674,Ball St.,47,"",0,1,Away,"",-,0
+2002,Stanford,674,Missouri St.,669,"",1,0,Neutral,Boone,-,0
+2002,Stanford,674,California,107,"",0,2,Neutral,Boone,-,0
+2002,Stanford,674,California,107,"",1,0,Home,"",-,0
+2002,Stanford,674,Delaware,180,"",0,1,Home,"",-,0
+2002,Stanford,674,Fairfield,220,"",3,0,Home,"",-,0
+2002,Stanford,674,Indiana,306,"",1,0,Away,"",1 OT,0
+2002,Stanford,674,Iowa,312,"",2,3,Neutral,Muncie,1 OT,0
+2002,Stanford,674,Louisville,367,"",0,2,Away,"",-,0
+2002,Stanford,674,Maryland,392,"",0,3,Home,"",-,0
+2002,Stanford,674,Miami (OH),414,"",4,0,Away,"",-,0
+2002,Stanford,674,Michigan St.,416,"",2,1,Home,"",-,0
+2002,Stanford,674,Ohio,519,"",2,3,Neutral,Louisville,1 OT,0
+2002,Stanford,674,Pacific,534,"",1,0,Away,"",-,0
+2002,Stanford,674,Pacific,534,"",3,0,Home,"",-,0
+2002,Stanford,674,Radford,563,"",2,1,Neutral,Boone,-,0
+2002,Stanford,674,Saint Louis,609,"",2,0,Home,"",-,0
+2002,Stanford,674,Saint Louis,609,"",4,1,Home,"",-,0
+2002,Stanford,674,California,107,"",0,1,Home,"",1 OT,0
+2002,Syracuse,688,Albany (NY),14,"",4,0,Home,"",-,0
+2002,Syracuse,688,West Chester,765,"",5,2,Home,"",-,0
+2002,Syracuse,688,California,107,"",2,1,Neutral,Maryland,1 OT,0
+2002,Syracuse,688,Colgate,153,"",5,1,Away,"",-,0
+2002,Syracuse,688,Connecticut,164,"",4,1,Home,"",-,0
+2002,Syracuse,688,Cornell,167,"",3,2,Home,"",1 OT,0
+2002,Syracuse,688,Fairfield,220,"",5,0,Away,"",-,0
+2002,Syracuse,688,Maryland,392,"",0,6,Away,"",-,0
+2002,Syracuse,688,Massachusetts,400,"",2,1,Home,"",-,0
+2002,Syracuse,688,Miami (OH),414,"",2,0,Home,"",-,0
+2002,Syracuse,688,Northeastern,500,"",0,1,Neutral,Princeton,1 OT,0
+2002,Syracuse,688,Penn St.,539,"",0,2,Away,"",-,0
+2002,Syracuse,688,Princeton,554,"",1,5,Away,"",-,0
+2002,Syracuse,688,Providence,556,"",1,0,Away,"",-,0
+2002,Syracuse,688,Quinnipiac,562,"",6,2,Home,"",-,0
+2002,Syracuse,688,Rutgers,587,"",2,1,Home,"",-,0
+2002,Syracuse,688,Rutgers,587,"",3,2,Neutral,Chestnut Hill,-,0
+2002,Syracuse,688,Villanova,739,"",1,0,Neutral,Chestnut Hill,-,0
+2002,Syracuse,688,Villanova,739,"",4,3,Home,"",1 OT,0
+2002,Syracuse,688,Boston College,67,"",1,0,Away,"",-,0
+2002,Temple,690,Delaware,180,"",1,2,Home,"",-,0
+2002,Temple,690,William & Mary,786,"",4,3,Home,"",-,0
+2002,Temple,690,Hofstra,283,"",1,3,Away,"",-,0
+2002,Temple,690,La Salle,340,"",1,0,Home,"",-,0
+2002,Temple,690,Lehigh,352,"",2,1,Away,"",-,0
+2002,Temple,690,Maine,380,"",4,3,Home,"",-,0
+2002,Temple,690,Massachusetts,400,"",0,1,Away,"",-,0
+2002,Temple,690,North Carolina,457,"",1,4,Home,"",-,0
+2002,Temple,690,Old Dominion,523,"",0,9,Neutral,Princeton,-,0
+2002,Temple,690,Penn St.,539,"",0,4,Home,"",-,0
+2002,Temple,690,Penn,540,"",1,0,Home,"",-,0
+2002,Temple,690,Rhode Island,572,"",2,0,Away,"",-,0
+2002,Temple,690,Richmond,575,"",0,1,Away,"",1 OT,0
+2002,Temple,690,Saint Joseph's,606,"",2,3,Home,"",-,0
+2002,Temple,690,Ursinus,730,"",2,1,Home,"",-,0
+2002,Temple,690,Villanova,739,"",0,3,Home,"",-,0
+2002,Temple,690,VCU,740,"",3,1,Home,"",-,0
+2002,Temple,690,West Chester,765,"",1,2,Home,"",-,0
+2002,Temple,690,Georgetown,251,"",0,2,Away,"",-,0
+2002,Towson,711,Albany (NY),14,"",2,1,Home,"",-,0
+2002,Towson,711,William & Mary,786,"",0,3,Away,"",-,0
+2002,Towson,711,Boston U.,68,"",2,3,Home,"",1 OT,0
+2002,Towson,711,Bucknell,83,"",1,5,Away,"",-,0
+2002,Towson,711,Delaware,180,"",0,3,Home,"",-,0
+2002,Towson,711,Drexel,191,"",1,2,Away,"",1 OT,0
+2002,Towson,711,Georgetown,251,"",2,3,Home,"",1 OT,0
+2002,Towson,711,Hofstra,283,"",0,3,Away,"",-,0
+2002,Towson,711,James Madison,317,"",0,3,Away,"",-,0
+2002,Towson,711,La Salle,340,"",2,0,Home,"",-,0
+2002,Towson,711,Maine,380,"",0,1,Away,"",-,0
+2002,Towson,711,UMBC,391,"",3,0,Home,"",-,0
+2002,Towson,711,New Hampshire,469,"",2,6,Away,"",-,0
+2002,Towson,711,Northeastern,500,"",0,8,Home,"",-,0
+2002,Towson,711,Radford,563,"",1,0,Neutral,Harrisonburg,1 OT,0
+2002,Towson,711,Richmond,575,"",1,3,Home,"",-,0
+2002,Towson,711,Vermont,738,"",3,1,Home,"",-,0
+2002,Towson,711,West Chester,765,"",1,2,Away,"",1 OT,0
+2002,Towson,711,American,23,"",1,2,Home,"",-,0
+2002,UConn,164,Albany (NY),14,"",6,1,Home,"",-,0
+2002,UConn,164,Villanova,739,"",1,2,Home,"",-,0
+2002,UConn,164,Boston U.,68,"",2,0,Home,"",-,0
+2002,UConn,164,Brown,80,"",2,4,Away,"",-,0
+2002,UConn,164,Fairfield,220,"",6,4,Home,"",-,0
+2002,UConn,164,Harvard,275,"",4,1,Home,"",-,0
+2002,UConn,164,Massachusetts,400,"",3,1,Home,"",-,0
+2002,UConn,164,North Carolina,457,"",0,4,Neutral,Saratoga Springs,-,0
+2002,UConn,164,Northeastern,500,"",2,1,Away,"",-,0
+2002,UConn,164,Old Dominion,523,"",0,3,Home,"",-,0
+2002,UConn,164,Penn St.,539,"",1,3,Away,"",-,0
+2002,UConn,164,Princeton,554,"",2,3,Away,"",-,0
+2002,UConn,164,Providence,556,"",3,0,Home,"",-,0
+2002,UConn,164,Rutgers,587,"",1,2,Away,"",-,0
+2002,UConn,164,Saint Joseph's,606,"",4,0,Home,"",-,0
+2002,UConn,164,Syracuse,688,"",1,4,Away,"",-,0
+2002,UConn,164,Boston College,67,"",1,2,Home,"",-,0
+2002,UMBC,391,Monmouth,439,"",0,4,Away,"",-,0
+2002,UMBC,391,Monmouth,439,"",1,2,Home,"",1 OT,0
+2002,UMBC,391,Quinnipiac,562,"",0,2,Home,"",-,0
+2002,UMBC,391,Quinnipiac,562,"",0,3,Away,"",-,0
+2002,UMBC,391,Rider,576,"",0,3,Home,"",-,0
+2002,UMBC,391,Rider,576,"",0,4,Away,"",-,0
+2002,UMBC,391,West Chester,765,"",0,2,Home,"",-,0
+2002,UMBC,391,Sacred Heart,590,"",1,0,Home,"",-,0
+2002,UMBC,391,Saint Francis (PA),600,"",3,1,Away,"",-,0
+2002,UMBC,391,Saint Francis (PA),600,"",6,0,Home,"",-,0
+2002,UMBC,391,Siena,639,"",1,2,Away,"",-,0
+2002,UMBC,391,Siena,639,"",6,2,Home,"",-,0
+2002,UMBC,391,Towson,711,"",0,3,Away,"",-,0
+2002,UMBC,391,Sacred Heart,590,"",0,2,Away,"",-,0
+2002,Ursinus,730,American,23,"",1,4,Away,"",-,0
+2002,Ursinus,730,West Chester,765,"",1,4,Away,"",-,0
+2002,Ursinus,730,Bucknell,83,"",0,1,Away,"",-,0
+2002,Ursinus,730,Colgate,153,"",4,1,Away,"",-,0
+2002,Ursinus,730,Davidson,173,"",2,1,Away,"",-,0
+2002,Ursinus,730,Drexel,191,"",3,2,Home,"",1 OT,0
+2002,Ursinus,730,Duke,193,"",0,8,Neutral,Villanova,-,0
+2002,Ursinus,730,Fairfield,220,"",3,4,Away,"",1 OT,0
+2002,Ursinus,730,Georgetown,251,"",0,2,Away,"",-,0
+2002,Ursinus,730,Holy Cross,285,"",3,2,Home,"",1 OT,0
+2002,Ursinus,730,La Salle,340,"",0,1,Away,"",-,0
+2002,Ursinus,730,Lafayette,342,"",1,3,Home,"",-,0
+2002,Ursinus,730,Lehigh,352,"",1,2,Home,"",-,0
+2002,Ursinus,730,Radford,563,"",3,2,Home,"",-,0
+2002,Ursinus,730,Rider,576,"",0,3,Away,"",-,0
+2002,Ursinus,730,Saint Joseph's,606,"",0,1,Home,"",-,0
+2002,Ursinus,730,Temple,690,"",1,2,Away,"",-,0
+2002,Ursinus,730,Villanova,739,"",0,4,Away,"",-,0
+2002,Ursinus,730,Appalachian St.,27,"",0,4,Away,"",-,0
+2002,VCU,740,American,23,"",1,2,Home,"",-,0
+2002,VCU,740,William & Mary,786,"",0,5,Away,"",-,0
+2002,VCU,740,Duke,193,"",1,3,Away,"",-,0
+2002,VCU,740,Georgetown,251,"",1,3,Away,"",-,0
+2002,VCU,740,James Madison,317,"",0,1,Home,"",-,0
+2002,VCU,740,James Madison,317,"",3,4,Away,"",1 OT,0
+2002,VCU,740,Longwood,363,"",3,2,Home,"",1 OT,0
+2002,VCU,740,Louisville,367,"",2,6,Away,"",-,0
+2002,VCU,740,Maryland,392,"",0,7,Away,"",-,0
+2002,VCU,740,Massachusetts,400,"",1,0,Home,"",-,0
+2002,VCU,740,Michigan St.,416,"",2,7,Neutral,Louisville,-,0
+2002,VCU,740,North Carolina,457,"",0,13,Away,"",-,0
+2002,VCU,740,New Hampshire,469,"",3,0,Home,"",-,0
+2002,VCU,740,Old Dominion,523,"",0,1,Home,"",-,0
+2002,VCU,740,Old Dominion,523,"",1,7,Away,"",-,0
+2002,VCU,740,Radford,563,"",1,2,Away,"",1 OT,0
+2002,VCU,740,Richmond,575,"",0,3,Away,"",-,0
+2002,VCU,740,Temple,690,"",1,3,Away,"",-,0
+2002,VCU,740,Virginia,746,"",0,2,Home,"",-,0
+2002,VCU,740,Delaware,180,"",1,3,Away,"",-,0
+2002,Vermont,738,Albany (NY),14,"",3,2,Away,"",1 OT,0
+2002,Vermont,738,Yale,813,"",0,1,Neutral,Durham,-,0
+2002,Vermont,738,Boston U.,68,"",0,2,Away,"",-,0
+2002,Vermont,738,Brown,80,"",0,2,Away,"",-,0
+2002,Vermont,738,Colgate,153,"",3,0,Home,"",-,0
+2002,Vermont,738,Dartmouth,172,"",0,4,Away,"",-,0
+2002,Vermont,738,Delaware,180,"",0,2,Home,"",-,0
+2002,Vermont,738,Drexel,191,"",4,2,Home,"",-,0
+2002,Vermont,738,Harvard,275,"",1,3,Away,"",-,0
+2002,Vermont,738,Hofstra,283,"",0,1,Away,"",-,0
+2002,Vermont,738,Holy Cross,285,"",1,7,Away,"",-,0
+2002,Vermont,738,Maine,380,"",1,5,Away,"",-,0
+2002,Vermont,738,New Hampshire,469,"",3,1,Home,"",-,0
+2002,Vermont,738,Northeastern,500,"",0,1,Home,"",1 OT,0
+2002,Vermont,738,Rhode Island,572,"",4,1,Away,"",-,0
+2002,Vermont,738,Sacred Heart,590,"",5,0,Neutral,Chestnut Hill,-,0
+2002,Vermont,738,Siena,639,"",2,1,Home,"",-,0
+2002,Vermont,738,Towson,711,"",1,3,Away,"",-,0
+2002,Vermont,738,Boston College,67,"",0,4,Away,"",-,0
+2002,Villanova,739,Boston College,67,"",2,4,Home,"",-,0
+2002,Villanova,739,William & Mary,786,"",3,4,Home,"",1 OT,0
+2002,Villanova,739,Connecticut,164,"",2,1,Away,"",-,0
+2002,Villanova,739,Drexel,191,"",1,2,Away,"",1 OT,0
+2002,Villanova,739,Duke,193,"",2,3,Home,"",-,0
+2002,Villanova,739,Holy Cross,285,"",1,2,Home,"",1 OT,0
+2002,Villanova,739,La Salle,340,"",6,0,Away,"",-,0
+2002,Villanova,739,Lafayette,342,"",3,1,Away,"",-,0
+2002,Villanova,739,Lehigh,352,"",4,1,Away,"",-,0
+2002,Villanova,739,Penn St.,539,"",1,2,Home,"",1 OT,0
+2002,Villanova,739,Penn,540,"",2,1,Away,"",-,0
+2002,Villanova,739,Providence,556,"",4,2,Home,"",-,0
+2002,Villanova,739,Rutgers,587,"",1,0,Away,"",-,0
+2002,Villanova,739,Saint Joseph's,606,"",4,0,Home,"",-,0
+2002,Villanova,739,Syracuse,688,"",0,1,Neutral,Chestnut Hill,-,0
+2002,Villanova,739,Syracuse,688,"",3,4,Away,"",1 OT,0
+2002,Villanova,739,Temple,690,"",3,0,Away,"",-,0
+2002,Villanova,739,Ursinus,730,"",4,0,Home,"",-,0
+2002,Villanova,739,West Chester,765,"",3,1,Home,"",-,0
+2002,Villanova,739,Boston College,67,"",3,2,Away,"",1 OT,0
+2002,Virginia,746,Appalachian St.,27,"",4,0,Home,"",-,0
+2002,Virginia,746,William & Mary,786,"",1,2,Away,"",-,0
+2002,Virginia,746,Duke,193,"",2,1,Home,"",1 OT,0
+2002,Virginia,746,Duke,193,"",3,1,Neutral,Chapel Hill,-,0
+2002,Virginia,746,Georgetown,251,"",5,0,Away,"",-,0
+2002,Virginia,746,James Madison,317,"",2,1,Home,"",1 OT,0
+2002,Virginia,746,Maryland,392,"",1,4,Neutral,Chapel Hill,-,0
+2002,Virginia,746,Maryland,392,"",3,2,Away,"",1 OT,0
+2002,Virginia,746,Michigan,418,"",0,2,Away,"",-,0
+2002,Virginia,746,North Carolina,457,"",0,3,Away,"",-,0
+2002,Virginia,746,North Carolina,457,"",1,4,Home,"",-,0
+2002,Virginia,746,Ohio St.,518,"",2,1,Neutral,Wake Forest,1 OT,0
+2002,Virginia,746,Ohio St.,518,"",2,1,Home,"",-,0
+2002,Virginia,746,Ohio,519,"",3,2,Away,"",1 OT,0
+2002,Virginia,746,Old Dominion,523,"",2,3,Home,"",-,0
+2002,Virginia,746,Radford,563,"",3,0,Home,"",-,0
+2002,Virginia,746,Richmond,575,"",2,0,Home,"",-,0
+2002,Virginia,746,Missouri St.,669,"",4,0,Neutral,Athens,-,0
+2002,Virginia,746,VCU,740,"",2,0,Away,"",-,0
+2002,Virginia,746,Wake Forest,749,"",0,3,Away,"",-,0
+2002,Virginia,746,Wake Forest,749,"",1,5,Away,"",-,0
+2002,Virginia,746,Central Mich.,129,"",7,1,Neutral,Ann Arbor,-,0
+2002,Wake Forest,749,Appalachian St.,27,"",6,0,Away,"",-,0
+2002,Wake Forest,749,Virginia,746,"",5,1,Home,"",-,0
+2002,Wake Forest,749,Duke,193,"",3,2,Away,"",1 OT,0
+2002,Wake Forest,749,Duke,193,"",4,3,Home,"",-,0
+2002,Wake Forest,749,James Madison,317,"",3,1,Home,"",-,0
+2002,Wake Forest,749,Kent St.,331,"",4,2,Home,"",-,0
+2002,Wake Forest,749,Maryland,392,"",1,4,Away,"",-,0
+2002,Wake Forest,749,Maryland,392,"",2,3,Neutral,Chapel Hill,-,0
+2002,Wake Forest,749,Maryland,392,"",2,3,Neutral,Kent,1 OT,0
+2002,Wake Forest,749,Michigan St.,416,"",0,2,Away,"",-,0
+2002,Wake Forest,749,Michigan,418,"",3,2,Away,"",1 OT,0
+2002,Wake Forest,749,North Carolina,457,"",2,0,Away,"",-,0
+2002,Wake Forest,749,North Carolina,457,"",2,0,Home,"",-,0
+2002,Wake Forest,749,North Carolina,457,"",3,2,Away,"",1 OT,0
+2002,Wake Forest,749,Ohio,519,"",2,1,Home,"",-,0
+2002,Wake Forest,749,Old Dominion,523,"",2,3,Away,"",-,0
+2002,Wake Forest,749,Pacific,534,"",10,0,Home,"",-,0
+2002,Wake Forest,749,Penn St.,539,"",2,1,Away,"",-,0
+2002,Wake Forest,749,Radford,563,"",9,0,Home,"",-,0
+2002,Wake Forest,749,Virginia,746,"",3,0,Home,"",-,0
+2002,Wake Forest,749,Davidson,173,"",7,0,Home,"",-,0
+2002,West Chester,765,Delaware,180,"",1,2,Home,"",1 OT,0
+2002,West Chester,765,William & Mary,786,"",0,1,Neutral,Philadelphia,-,0
+2002,West Chester,765,La Salle,340,"",2,1,Home,"",-,0
+2002,West Chester,765,UMBC,391,"",2,0,Away,"",-,0
+2002,West Chester,765,Massachusetts,400,"",0,2,Home,"",-,0
+2002,West Chester,765,Massachusetts,400,"",2,3,Neutral,Temple,1 OT,0
+2002,West Chester,765,Penn St.,539,"",0,3,Away,"",-,0
+2002,West Chester,765,Penn,540,"",1,0,Home,"",-,0
+2002,West Chester,765,Rhode Island,572,"",1,0,Home,"",-,0
+2002,West Chester,765,Richmond,575,"",2,1,Home,"",1 OT,0
+2002,West Chester,765,Rider,576,"",1,0,Away,"",-,0
+2002,West Chester,765,Saint Joseph's,606,"",2,1,Away,"",-,0
+2002,West Chester,765,Saint Joseph's,606,"",3,0,Neutral,Temple,-,0
+2002,West Chester,765,Syracuse,688,"",2,5,Away,"",-,0
+2002,West Chester,765,Temple,690,"",2,1,Away,"",-,0
+2002,West Chester,765,Towson,711,"",2,1,Home,"",1 OT,0
+2002,West Chester,765,Ursinus,730,"",4,1,Home,"",-,0
+2002,West Chester,765,Villanova,739,"",1,3,Away,"",-,0
+2002,West Chester,765,Drexel,191,"",1,0,Away,"",-,0
+2002,William & Mary,786,Appalachian St.,27,"",2,0,Away,"",-,0
+2002,William & Mary,786,West Chester,765,"",1,0,Neutral,Philadelphia,-,0
+2002,William & Mary,786,Dartmouth,172,"",1,0,Neutral,Villanova,-,0
+2002,William & Mary,786,Davidson,173,"",3,1,Away,"",-,0
+2002,William & Mary,786,Duke,193,"",2,1,Home,"",-,0
+2002,William & Mary,786,Georgetown,251,"",1,0,Home,"",-,0
+2002,William & Mary,786,James Madison,317,"",1,2,Home,"",-,0
+2002,William & Mary,786,James Madison,317,"",1,2,Neutral,Norfolk,1 OT,0
+2002,William & Mary,786,North Carolina,457,"",0,2,Neutral,Norfolk,-,0
+2002,William & Mary,786,New Hampshire,469,"",5,1,Home,"",-,0
+2002,William & Mary,786,Northeastern,500,"",3,0,Home,"",-,0
+2002,William & Mary,786,Old Dominion,523,"",0,2,Away,"",-,0
+2002,William & Mary,786,Penn,540,"",4,1,Home,"",-,0
+2002,William & Mary,786,Temple,690,"",3,4,Away,"",-,0
+2002,William & Mary,786,Towson,711,"",3,0,Home,"",-,0
+2002,William & Mary,786,Villanova,739,"",4,3,Away,"",1 OT,0
+2002,William & Mary,786,VCU,740,"",5,0,Home,"",-,0
+2002,William & Mary,786,Virginia,746,"",2,1,Home,"",-,0
+2002,William & Mary,786,Boston U.,68,"",4,1,Home,"",-,0
+2002,Yale,813,Boston College,67,"",2,3,Away,"",1 OT,0
+2002,Yale,813,Vermont,738,"",1,0,Neutral,Durham,-,0
+2002,Yale,813,Brown,80,"",2,3,Home,"",1 OT,0
+2002,Yale,813,Bucknell,83,"",4,1,Home,"",-,0
+2002,Yale,813,Columbia,158,"",3,2,Away,"",-,0
+2002,Yale,813,Cornell,167,"",3,4,Home,"",-,0
+2002,Yale,813,Dartmouth,172,"",2,3,Home,"",1 OT,0
+2002,Yale,813,Fairfield,220,"",4,3,Home,"",1 OT,0
+2002,Yale,813,Harvard,275,"",2,3,Home,"",-,0
+2002,Yale,813,Holy Cross,285,"",1,3,Away,"",-,0
+2002,Yale,813,New Hampshire,469,"",1,2,Away,"",1 OT,0
+2002,Yale,813,Penn,540,"",1,2,Away,"",1 OT,0
+2002,Yale,813,Princeton,554,"",2,3,Away,"",-,0
+2002,Yale,813,Quinnipiac,562,"",4,0,Home,"",-,0
+2002,Yale,813,Rhode Island,572,"",2,0,Home,"",-,0
+2002,Yale,813,Sacred Heart,590,"",7,1,Away,"",-,0
+2002,Yale,813,Boston U.,68,"",3,5,Away,"",-,0

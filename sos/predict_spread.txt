@@ -1,0 +1,7 @@
+BEGIN
+SET
+ date | team | h_div | site | opp | v_div | spread 
+------+------+-------+------+-----+-------+--------
+(0 rows)
+
+COMMIT
