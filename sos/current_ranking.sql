@@ -80,7 +80,7 @@ copy
 select
 rk,
 team,
-div_id as div,
+'D'||div_id::text as div,
 str::numeric(5,2),
 ofs::numeric(5,2),
 dfs::numeric(5,2),
