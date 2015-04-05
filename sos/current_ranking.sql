@@ -23,8 +23,6 @@ sf.team_id,
 sd.div_id as div_id,
 sf.year,
 (sf.strength*o.exp_factor/d.exp_factor) as str,
---o.exp_factor::numeric(4,3) as o_div,
---d.exp_factor::numeric(4,3) as d_div,
 (offensive*o.exp_factor) as ofs,
 (defensive*d.exp_factor) as dfs,
 schedule_strength as sos
@@ -41,16 +39,10 @@ join ncaa._factors d
 where sf.year in (2015)
 order by str desc);
 
-/*
-select
-rk,team,div_id as div,str,ofs,dfs,sos
-from r
-order by rk asc;
-*/
-
 select
 row_number() over (order by str desc nulls last) as rk,
-team,div_id as div,
+team,
+div_id as div,
 str::numeric(5,2),
 ofs::numeric(5,2),
 dfs::numeric(5,2),
@@ -61,7 +53,8 @@ order by rk asc;
 
 select
 row_number() over (order by str desc nulls last) as rk,
-team,div_id as div,
+team,
+div_id as div,
 str::numeric(5,2),
 ofs::numeric(5,2),
 dfs::numeric(5,2),
@@ -72,7 +65,8 @@ order by rk asc;
 
 select
 row_number() over (order by str desc nulls last) as rk,
-team,div_id as div,
+team,
+div_id as div,
 str::numeric(5,2),
 ofs::numeric(5,2),
 dfs::numeric(5,2),
@@ -80,5 +74,20 @@ sos::numeric(5,2)
 from r
 where div_id=3
 order by rk asc;
+
+copy
+(
+select
+rk,
+team,
+div_id as div,
+str::numeric(5,2),
+ofs::numeric(5,2),
+dfs::numeric(5,2),
+sos::numeric(5,2)
+from r
+order by rk asc
+) to '/tmp/current_ranking.csv' csv header;
+
 
 commit;

@@ -1,0 +1,1539 @@
+year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_score,location,neutral_site_location,game_length,attendance
+2006,Albany (NY),14,Connecticut,164,08/26/2005,1,4,Away,"",-,121
+2006,Albany (NY),14,Temple,690,09/02/2005,4,2,Away,"",-,165
+2006,Albany (NY),14,American,23,09/04/2005,0,4,Away,"",-,288
+2006,Albany (NY),14,Siena,639,09/06/2005,4,1,Home,"",-,0
+2006,Albany (NY),14,Ohio St.,518,09/09/2005,1,4,Away,"",-,210
+2006,Albany (NY),14,Ohio,519,09/11/2005,3,2,Away,"",-,179
+2006,Albany (NY),14,Lock Haven,360,09/17/2005,2,1,Home,"",-,0
+2006,Albany (NY),14,Rutgers,587,09/18/2005,1,2,Home,"",-,0
+2006,Albany (NY),14,Columbia,158,09/21/2005,0,1,Away,"",-,33
+2006,Albany (NY),14,Princeton,554,09/25/2005,0,3,Away,"",-,200
+2006,Albany (NY),14,Maine,380,10/02/2005,2,3,Away,"",-,312
+2006,Albany (NY),14,New Hampshire,469,10/08/2005,1,2,Home,"",-,0
+2006,Albany (NY),14,Syracuse,688,10/12/2005,2,1,Home,"",-,0
+2006,Albany (NY),14,UMBC,391,10/15/2005,5,3,Home,"",-,0
+2006,Albany (NY),14,Holy Cross,285,10/16/2005,4,3,Home,"",-,0
+2006,Albany (NY),14,Boston U.,68,10/22/2005,2,1,Away,"",-,119
+2006,Albany (NY),14,Vermont,738,10/29/2005,2,1,Home,"",-,0
+2006,Albany (NY),14,Maine,380,11/04/2005,0,1,Neutral,"Cambridge, MA",-,0
+2006,American,23,Richmond,575,08/27/2005,3,1,Away,"",-,211
+2006,American,23,Old Dominion,523,08/28/2005,3,2,Away,"",-,278
+2006,American,23,Princeton,554,09/03/2005,4,1,Home,"",-,649
+2006,American,23,Albany (NY),14,09/04/2005,4,0,Home,"",-,288
+2006,American,23,Stanford,674,09/10/2005,1,0,Neutral,"College Park, MD",-,158
+2006,American,23,California,107,09/11/2005,3,1,Neutral,"College Park, MD",-,90
+2006,American,23,Towson,711,09/18/2005,2,1,Home,"",-,513
+2006,American,23,Longwood,363,09/25/2005,6,1,Home,"",-,312
+2006,American,23,Bucknell,83,10/01/2005,3,1,Away,"",-,75
+2006,American,23,William & Mary,786,10/02/2005,6,1,Home,"",-,279
+2006,American,23,Rutgers,587,10/09/2005,4,2,Away,"",-,90
+2006,American,23,James Madison,317,10/12/2005,4,1,Away,"",-,100
+2006,American,23,Lehigh,352,10/15/2005,9,1,Home,"",-,267
+2006,American,23,Virginia,746,10/19/2005,2,1,Home,"",-,178
+2006,American,23,Holy Cross,285,10/22/2005,3,2,Away,"",-,263
+2006,American,23,Maryland,392,10/26/2005,1,2,Home,"",-,"1,188"
+2006,American,23,Colgate,153,10/29/2005,9,1,Home,"",-,321
+2006,American,23,Lafayette,342,10/31/2005,5,1,Away,"",-,61
+2006,American,23,Lehigh,352,11/05/2005,7,0,Home,"",-,0
+2006,American,23,Holy Cross,285,11/06/2005,4,2,Home,"",-,0
+2006,American,23,Penn St.,539,11/12/2005,3,2,Neutral,"College Park, MD",-,0
+2006,American,23,Maryland,392,11/13/2005,0,3,Away,"",-,0
+2006,Appalachian St.,27,Colgate,153,08/27/2005,2,3,Away,"",1 OT,0
+2006,Appalachian St.,27,Siena,639,08/28/2005,1,0,Away,"",-,0
+2006,Appalachian St.,27,Indiana,306,09/02/2005,0,1,Home,"",-,0
+2006,Appalachian St.,27,Towson,711,09/04/2005,0,4,Neutral,"Davidson, NC",-,0
+2006,Appalachian St.,27,Stanford,674,09/07/2005,0,2,Home,"",-,0
+2006,Appalachian St.,27,Louisville,367,09/10/2005,0,4,Away,"",-,0
+2006,Appalachian St.,27,Pacific,534,09/11/2005,1,5,Neutral,"Louisville, KY",-,0
+2006,Appalachian St.,27,Iowa,312,09/18/2005,1,7,Neutral,"Durham, NC",-,0
+2006,Appalachian St.,27,Radford,563,09/21/2005,0,3,Home,"",-,0
+2006,Appalachian St.,27,UMBC,391,09/25/2005,3,1,Away,"",-,0
+2006,Appalachian St.,27,Wake Forest,749,09/29/2005,1,8,Away,"",-,0
+2006,Appalachian St.,27,California,107,10/02/2005,0,11,Neutral,"Davidson, NC",-,0
+2006,Appalachian St.,27,Longwood,363,10/07/2005,2,3,Neutral,"Richmond, VA",-,0
+2006,Appalachian St.,27,Davidson,173,10/23/2005,1,2,Away,"",-,0
+2006,Appalachian St.,27,Catawba,1001,10/30/2005,4,0,Home,"",-,0
+2006,Appalachian St.,27,Stanford,674,11/03/2005,1,5,Neutral,"Berkeley, CA",-,0
+2006,Appalachian St.,27,Davidson,173,11/04/2005,4,3,Neutral,"Berkeley, CA",-,0
+2006,Ball St.,47,William & Mary,786,08/27/2005,1,4,Away,"",-,104
+2006,Ball St.,47,Virginia,746,08/28/2005,1,7,Away,"",-,0
+2006,Ball St.,47,Iowa,312,09/09/2005,1,6,Away,"",-,122
+2006,Ball St.,47,Providence,556,09/10/2005,2,1,Neutral,"Iowa City, IA",-,57
+2006,Ball St.,47,Northwestern,509,09/16/2005,3,4,Away,"",-,75
+2006,Ball St.,47,Louisville,367,09/17/2005,1,5,Neutral,"Evanston, IL",-,104
+2006,Ball St.,47,Ohio St.,518,09/20/2005,1,6,Home,"",-,77
+2006,Ball St.,47,Ohio,519,09/23/2005,1,5,Home,"",-,67
+2006,Ball St.,47,Central Mich.,129,10/01/2005,2,3,Away,"",-,132
+2006,Ball St.,47,Miami (OH),414,10/07/2005,1,0,Home,"",-,245
+2006,Ball St.,47,Missouri St.,669,10/08/2005,1,2,Home,"",-,176
+2006,Ball St.,47,Ohio,519,10/14/2005,0,3,Away,"",-,156
+2006,Ball St.,47,Kent St.,331,10/15/2005,2,3,Away,"",-,125
+2006,Ball St.,47,Central Mich.,129,10/22/2005,6,0,Home,"",-,88
+2006,Ball St.,47,Miami (OH),414,10/23/2005,0,1,Away,"",-,198
+2006,Ball St.,47,Kent St.,331,10/27/2005,0,2,Home,"",-,72
+2006,Ball St.,47,Missouri St.,669,10/30/2005,3,2,Away,"",-,103
+2006,Ball St.,47,Miami (OH),414,11/03/2005,2,3,Neutral,"Mt. Pleasant, MI",2 OT,0
+2006,Boston College,67,Massachusetts,400,08/30/2005,4,2,Away,"",-,262
+2006,Boston College,67,Boston U.,68,09/01/2005,1,2,Away,"",-,115
+2006,Boston College,67,Kent St.,331,09/04/2005,3,2,Home,"",-,230
+2006,Boston College,67,Sacred Heart,590,09/07/2005,10,2,Neutral,"New Haven, CT",-,100
+2006,Boston College,67,Hofstra,283,09/11/2005,4,0,Home,"",-,268
+2006,Boston College,67,Maryland,392,09/17/2005,0,3,Home,"",-,178
+2006,Boston College,67,Providence,556,09/21/2005,4,3,Away,"",-,276
+2006,Boston College,67,Virginia,746,09/25/2005,1,0,Away,"",-,0
+2006,Boston College,67,Duke,193,10/01/2005,1,6,Home,"",-,230
+2006,Boston College,67,Holy Cross,285,10/02/2005,2,0,Away,"",-,282
+2006,Boston College,67,North Carolina,457,10/08/2005,1,3,Away,"",-,375
+2006,Boston College,67,Brown,80,10/12/2005,9,2,Home,"",-,123
+2006,Boston College,67,Northeastern,500,10/15/2005,2,1,Away,"",-,217
+2006,Boston College,67,Vermont,738,10/16/2005,3,1,Home,"",-,254
+2006,Boston College,67,Harvard,275,10/19/2005,4,0,Home,"",-,123
+2006,Boston College,67,New Hampshire,469,10/23/2005,3,2,Away,"",-,147
+2006,Boston College,67,Connecticut,164,10/26/2005,1,0,Away,"",-,131
+2006,Boston College,67,Wake Forest,749,10/30/2005,2,5,Away,"",-,376
+2006,Boston College,67,North Carolina,457,11/03/2005,1,2,Neutral,"College Park, MD",-,0
+2006,Boston College,67,Connecticut,164,11/12/2005,2,3,Neutral,"Princeton, NJ",-,0
+2006,Boston U.,68,Michigan St.,416,08/27/2005,3,4,Neutral,"Louisville, KY",-,157
+2006,Boston U.,68,Louisville,367,08/28/2005,1,4,Away,"",-,157
+2006,Boston U.,68,Boston College,67,09/01/2005,2,1,Home,"",-,115
+2006,Boston U.,68,Hofstra,283,09/10/2005,3,2,Home,"",-,147
+2006,Boston U.,68,Quinnipiac,562,09/11/2005,3,0,Away,"",-,117
+2006,Boston U.,68,Northeastern,500,09/16/2005,2,3,Away,"",-,267
+2006,Boston U.,68,Massachusetts,400,09/20/2005,2,1,Away,"",-,299
+2006,Boston U.,68,Fairfield,220,09/24/2005,5,0,Neutral,"Hanover, NH",-,74
+2006,Boston U.,68,Dartmouth,172,09/25/2005,1,0,Away,"",-,175
+2006,Boston U.,68,New Hampshire,469,10/01/2005,3,0,Home,"",-,247
+2006,Boston U.,68,Yale,813,10/02/2005,1,0,Away,"",-,100
+2006,Boston U.,68,UMBC,391,10/08/2005,6,0,Away,"",-,100
+2006,Boston U.,68,Vermont,738,10/15/2005,4,2,Home,"",-,134
+2006,Boston U.,68,Princeton,554,10/16/2005,2,1,Home,"",-,173
+2006,Boston U.,68,Connecticut,164,10/19/2005,4,5,Away,"",-,161
+2006,Boston U.,68,Albany (NY),14,10/22/2005,1,2,Home,"",-,119
+2006,Boston U.,68,Harvard,275,10/26/2005,2,1,Away,"",-,135
+2006,Boston U.,68,Maine,380,10/30/2005,3,1,Away,"",-,340
+2006,Boston U.,68,Vermont,738,11/04/2005,5,1,Neutral,"Cambridge, MA",-,0
+2006,Boston U.,68,Maine,380,11/05/2005,3,1,Neutral,"Cambridge, MA",-,0
+2006,Boston U.,68,Central Mich.,129,11/08/2005,5,3,Home,"",-,0
+2006,Boston U.,68,Michigan,418,11/12/2005,3,4,Neutral,"Columbus, OH",1 OT,0
+2006,Brown,80,Vermont,738,09/04/2005,2,1,Home,"",-,308
+2006,Brown,80,Dartmouth,172,09/10/2005,0,3,Home,"",-,178
+2006,Brown,80,Sacred Heart,590,09/14/2005,0,3,Home,"",-,78
+2006,Brown,80,Lehigh,352,09/18/2005,0,2,Home,"",-,179
+2006,Brown,80,Rhode Island,572,09/21/2005,6,2,Home,"",-,118
+2006,Brown,80,Harvard,275,09/24/2005,1,0,Away,"",-,212
+2006,Brown,80,Northeastern,500,09/28/2005,2,3,Home,"",-,107
+2006,Brown,80,Colgate,153,10/02/2005,4,0,Home,"",-,138
+2006,Brown,80,Columbia,158,10/08/2005,2,1,Away,"",-,148
+2006,Brown,80,Boston College,67,10/12/2005,2,9,Away,"",-,123
+2006,Brown,80,Princeton,554,10/15/2005,0,3,Home,"",-,78
+2006,Brown,80,Providence,556,10/19/2005,3,4,Away,"",-,76
+2006,Brown,80,Cornell,167,10/23/2005,4,2,Away,"",-,123
+2006,Brown,80,Holy Cross,285,10/26/2005,0,1,Home,"",-,68
+2006,Brown,80,Penn,540,10/29/2005,1,0,Home,"",-,118
+2006,Brown,80,Yale,813,11/05/2005,2,1,Away,"",-,0
+2006,Bucknell,83,Vermont,738,08/27/2005,1,2,Home,"",-,250
+2006,Bucknell,83,Drexel,191,08/30/2005,0,3,Away,"",-,125
+2006,Bucknell,83,Villanova,739,09/02/2005,1,3,Away,"",-,463
+2006,Bucknell,83,Saint Francis (PA),600,09/06/2005,7,0,Home,"",-,75
+2006,Bucknell,83,Siena,639,09/10/2005,5,2,Away,"",-,105
+2006,Bucknell,83,Stanford,674,09/13/2005,0,6,Neutral,"College Park, MD",-,75
+2006,Bucknell,83,Georgetown,251,09/17/2005,3,2,Home,"",-,100
+2006,Bucknell,83,Lock Haven,360,09/21/2005,1,2,Home,"",-,50
+2006,Bucknell,83,Northwestern,509,09/25/2005,1,4,Home,"",-,115
+2006,Bucknell,83,American,23,10/01/2005,1,3,Home,"",-,75
+2006,Bucknell,83,Colgate,153,10/08/2005,3,2,Away,"",-,72
+2006,Bucknell,83,Cornell,167,10/11/2005,1,3,Away,"",-,64
+2006,Bucknell,83,Holy Cross,285,10/15/2005,3,2,Home,"",-,61
+2006,Bucknell,83,Penn St.,539,10/18/2005,0,6,Away,"",-,172
+2006,Bucknell,83,Lafayette,342,10/23/2005,5,1,Home,"",-,79
+2006,Bucknell,83,Towson,711,10/26/2005,2,1,Home,"",-,59
+2006,Bucknell,83,Lehigh,352,10/29/2005,2,1,Away,"",-,205
+2006,Bucknell,83,Holy Cross,285,11/05/2005,1,3,Neutral,"Washington, DC",-,0
+2006,California,107,Delaware,180,08/28/2005,1,2,Home,"",1 OT,0
+2006,California,107,Miami (OH),414,08/30/2005,5,0,Home,"",-,0
+2006,California,107,Michigan St.,416,09/02/2005,1,4,Home,"",-,0
+2006,California,107,Iowa,312,09/03/2005,1,2,Home,"",-,0
+2006,California,107,Syracuse,688,09/05/2005,3,1,Home,"",-,0
+2006,California,107,UMBC,391,09/08/2005,6,2,Neutral,"College Park, MD",-,0
+2006,California,107,Maryland,392,09/10/2005,2,4,Away,"",-,0
+2006,California,107,American,23,09/11/2005,1,3,Neutral,"College Park, MD",-,0
+2006,California,107,Stanford,674,09/17/2005,1,0,Home,"",-,0
+2006,California,107,Pacific,534,09/23/2005,1,2,Away,"",-,0
+2006,California,107,Davidson,173,09/29/2005,7,2,Away,"",-,0
+2006,California,107,Radford,563,10/01/2005,3,0,Neutral,"Davidson, NC",-,0
+2006,California,107,Appalachian St.,27,10/02/2005,11,0,Neutral,"Davidson, NC",-,0
+2006,California,107,Pacific,534,10/08/2005,6,1,Home,"",-,0
+2006,California,107,Longwood,363,10/16/2005,8,0,Home,"",-,0
+2006,California,107,Michigan,418,10/22/2005,2,3,Home,"",1 OT,0
+2006,California,107,Stanford,674,10/29/2005,3,2,Away,"",1 OT,0
+2006,California,107,Stanford,674,11/04/2005,2,1,Home,"",-,0
+2006,California,107,Pacific,534,11/05/2005,4,0,Home,"",-,0
+2006,California,107,Wake Forest,749,11/12/2005,0,1,Away,"",-,0
+2006,Central Mich.,129,Saint Louis,609,09/02/2005,2,3,Away,"",-,50
+2006,Central Mich.,129,New Hampshire,469,09/03/2005,5,2,Neutral,"Fenton, MO",-,0
+2006,Central Mich.,129,Northwestern,509,09/09/2005,2,4,Away,"",-,100
+2006,Central Mich.,129,Virginia,746,09/10/2005,2,1,Neutral,"Evanston, IL",-,75
+2006,Central Mich.,129,Michigan,418,09/13/2005,0,2,Home,"",-,156
+2006,Central Mich.,129,Vermont,738,09/16/2005,4,3,Neutral,"Ann Arbor, MI",-,0
+2006,Central Mich.,129,Missouri St.,669,09/24/2005,4,0,Home,"",-,75
+2006,Central Mich.,129,Missouri St.,669,09/25/2005,3,2,Home,"",-,157
+2006,Central Mich.,129,Michigan St.,416,09/27/2005,1,3,Away,"",-,100
+2006,Central Mich.,129,Miami (OH),414,09/30/2005,1,2,Home,"",-,114
+2006,Central Mich.,129,Ball St.,47,10/01/2005,3,2,Home,"",-,132
+2006,Central Mich.,129,Kent St.,331,10/07/2005,3,5,Away,"",-,112
+2006,Central Mich.,129,Ohio,519,10/08/2005,2,4,Away,"",-,75
+2006,Central Mich.,129,Michigan St.,416,10/13/2005,0,3,Home,"",-,80
+2006,Central Mich.,129,Ohio St.,518,10/16/2005,1,6,Away,"",-,303
+2006,Central Mich.,129,Miami (OH),414,10/21/2005,2,1,Away,"",-,64
+2006,Central Mich.,129,Ball St.,47,10/22/2005,0,6,Away,"",-,88
+2006,Central Mich.,129,Kent St.,331,10/28/2005,1,2,Home,"",-,60
+2006,Central Mich.,129,Ohio,519,10/29/2005,3,2,Home,"",-,75
+2006,Central Mich.,129,Missouri St.,669,11/03/2005,4,0,Home,"",-,0
+2006,Central Mich.,129,Kent St.,331,11/04/2005,2,0,Home,"",-,0
+2006,Central Mich.,129,Miami (OH),414,11/05/2005,3,1,Home,"",-,0
+2006,Central Mich.,129,Boston U.,68,11/08/2005,3,5,Away,"",-,0
+2006,Colgate,153,Appalachian St.,27,08/27/2005,3,2,Home,"",1 OT,167
+2006,Colgate,153,Rider,576,09/03/2005,1,4,Away,"",-,100
+2006,Colgate,153,Saint Francis (PA),600,09/09/2005,3,0,Home,"",-,102
+2006,Colgate,153,Columbia,158,09/11/2005,3,2,Home,"",-,177
+2006,Colgate,153,Siena,639,09/14/2005,6,1,Home,"",-,139
+2006,Colgate,153,Robert Morris,579,09/17/2005,2,0,Home,"",-,127
+2006,Colgate,153,Lock Haven,360,09/18/2005,1,2,Home,"",-,185
+2006,Colgate,153,West Chester,765,09/23/2005,2,6,Away,"",-,100
+2006,Colgate,153,Providence,556,09/25/2005,1,3,Away,"",-,223
+2006,Colgate,153,Holy Cross,285,10/01/2005,1,3,Away,"",-,311
+2006,Colgate,153,Brown,80,10/02/2005,0,4,Away,"",-,138
+2006,Colgate,153,Syracuse,688,10/05/2005,1,5,Home,"",-,186
+2006,Colgate,153,Bucknell,83,10/08/2005,2,3,Home,"",-,72
+2006,Colgate,153,Lafayette,342,10/15/2005,3,2,Home,"",-,132
+2006,Colgate,153,Cornell,167,10/18/2005,3,4,Away,"",-,95
+2006,Colgate,153,Lehigh,352,10/22/2005,2,3,Away,"",-,178
+2006,Colgate,153,American,23,10/29/2005,1,9,Away,"",-,321
+2006,Columbia,158,Monmouth,439,09/03/2005,3,2,Neutral,"Hempstead, NY",-,110
+2006,Columbia,158,Maine,380,09/04/2005,1,2,Neutral,"Hempstead, NY",-,110
+2006,Columbia,158,Cornell,167,09/10/2005,0,3,Away,"",-,274
+2006,Columbia,158,Colgate,153,09/11/2005,2,3,Away,"",-,177
+2006,Columbia,158,Lehigh,352,09/17/2005,2,0,Home,"",-,143
+2006,Columbia,158,Albany (NY),14,09/21/2005,1,0,Home,"",-,33
+2006,Columbia,158,Princeton,554,09/24/2005,0,3,Away,"",-,123
+2006,Columbia,158,Lafayette,342,09/27/2005,2,1,Away,"",-,49
+2006,Columbia,158,Saint Joseph's,606,09/30/2005,1,4,Away,"",-,135
+2006,Columbia,158,Brown,80,10/08/2005,1,2,Home,"",-,148
+2006,Columbia,158,Quinnipiac,562,10/09/2005,2,1,Away,"",-,125
+2006,Columbia,158,Hofstra,283,10/16/2005,1,0,Away,"",-,130
+2006,Columbia,158,Dartmouth,172,10/22/2005,0,2,Away,"",-,122
+2006,Columbia,158,Penn,540,10/26/2005,1,2,Home,"",-,120
+2006,Columbia,158,Yale,813,10/29/2005,1,0,Home,"",-,"1,150"
+2006,Columbia,158,Rutgers,587,10/30/2005,1,0,Away,"",-,300
+2006,Columbia,158,Harvard,275,11/05/2005,1,2,Home,"",-,0
+2006,Cornell,167,Lehigh,352,09/02/2005,5,2,Away,"",-,312
+2006,Cornell,167,Lafayette,342,09/04/2005,1,2,Away,"",-,112
+2006,Cornell,167,Columbia,158,09/10/2005,3,0,Home,"",-,274
+2006,Cornell,167,Saint Francis (PA),600,09/11/2005,9,1,Home,"",-,194
+2006,Cornell,167,Penn,540,09/17/2005,3,1,Away,"",-,84
+2006,Cornell,167,Yale,813,09/23/2005,3,2,Away,"",-,100
+2006,Cornell,167,Vermont,738,09/25/2005,0,2,Away,"",-,113
+2006,Cornell,167,Princeton,554,09/30/2005,1,2,Away,"",-,122
+2006,Cornell,167,West Chester,765,10/02/2005,1,2,Away,"",-,150
+2006,Cornell,167,Harvard,275,10/09/2005,2,1,Home,"",-,193
+2006,Cornell,167,Bucknell,83,10/11/2005,3,1,Home,"",-,64
+2006,Cornell,167,UMBC,391,10/16/2005,2,0,Home,"",-,43
+2006,Cornell,167,Colgate,153,10/18/2005,4,3,Home,"",-,95
+2006,Cornell,167,Brown,80,10/23/2005,2,4,Home,"",-,123
+2006,Cornell,167,Syracuse,688,10/26/2005,0,1,Away,"",-,45
+2006,Cornell,167,Georgetown,251,10/30/2005,3,0,Away,"",-,463
+2006,Cornell,167,Dartmouth,172,11/05/2005,2,3,Away,"",1 OT,0
+2006,Dartmouth,172,Kent St.,331,09/03/2005,2,1,Home,"",-,72
+2006,Dartmouth,172,Brown,80,09/10/2005,3,0,Away,"",-,178
+2006,Dartmouth,172,Princeton,554,09/17/2005,0,4,Home,"",-,217
+2006,Dartmouth,172,Providence,556,09/18/2005,2,1,Home,"",-,168
+2006,Dartmouth,172,Fairfield,220,09/23/2005,1,2,Home,"",-,123
+2006,Dartmouth,172,Boston U.,68,09/25/2005,0,1,Home,"",-,175
+2006,Dartmouth,172,Vermont,738,09/28/2005,3,2,Away,"",-,77
+2006,Dartmouth,172,Penn,540,10/01/2005,0,1,Away,"",-,150
+2006,Dartmouth,172,New Hampshire,469,10/02/2005,1,4,Home,"",-,102
+2006,Dartmouth,172,Yale,813,10/08/2005,4,1,Away,"",-,100
+2006,Dartmouth,172,Holy Cross,285,10/09/2005,4,5,Away,"",-,87
+2006,Dartmouth,172,Maine,380,10/16/2005,0,1,Home,"",-,116
+2006,Dartmouth,172,Massachusetts,400,10/19/2005,2,1,Away,"",-,529
+2006,Dartmouth,172,Columbia,158,10/22/2005,2,0,Home,"",-,122
+2006,Dartmouth,172,Harvard,275,10/29/2005,2,1,Away,"",-,115
+2006,Dartmouth,172,Syracuse,688,10/30/2005,1,5,Away,"",-,147
+2006,Dartmouth,172,Cornell,167,11/05/2005,3,2,Home,"",1 OT,0
+2006,Davidson,173,Rider,576,08/27/2005,3,2,Home,"",1 OT,0
+2006,Davidson,173,Towson,711,09/02/2005,1,5,Home,"",-,0
+2006,Davidson,173,Radford,563,09/10/2005,1,3,Away,"",-,0
+2006,Davidson,173,Saint Louis,609,09/17/2005,1,2,Neutral,"Oxford, OH",-,0
+2006,Davidson,173,Miami (OH),414,09/18/2005,0,2,Away,"",-,0
+2006,Davidson,173,Indiana (PA),307,09/23/2005,1,2,Home,"",-,0
+2006,Davidson,173,California,107,09/29/2005,2,7,Home,"",-,0
+2006,Davidson,173,Catawba,1001,10/03/2005,10,1,Home,"",-,0
+2006,Davidson,173,Stanford,674,10/07/2005,1,5,Home,"",-,0
+2006,Davidson,173,Georgetown,251,10/08/2005,3,2,Home,"",1 OT,0
+2006,Davidson,173,North Carolina,457,10/11/2005,0,7,Home,"",-,0
+2006,Davidson,173,Pacific,534,10/16/2005,1,3,Neutral,"Williamsburg, VA",-,0
+2006,Davidson,173,Appalachian St.,27,10/23/2005,2,1,Home,"",-,0
+2006,Davidson,173,Longwood,363,10/29/2005,1,0,Home,"",-,0
+2006,Davidson,173,Lock Haven,360,10/30/2005,3,4,Home,"",-,0
+2006,Davidson,173,Radford,563,11/03/2005,3,4,Neutral,"Berkeley, CA",-,0
+2006,Davidson,173,Appalachian St.,27,11/04/2005,3,4,Neutral,"Berkeley, CA",-,0
+2006,Delaware,180,Pacific,534,08/27/2005,3,2,Neutral,"Berkeley, CA",1 OT,75
+2006,Delaware,180,California,107,08/28/2005,2,1,Away,"",1 OT,85
+2006,Delaware,180,Stanford,674,08/30/2005,5,1,Away,"",-,68
+2006,Delaware,180,Duke,193,09/03/2005,2,7,Home,"",-,500
+2006,Delaware,180,Richmond,575,09/04/2005,2,3,Home,"",-,400
+2006,Delaware,180,Rutgers,587,09/09/2005,4,1,Home,"",-,250
+2006,Delaware,180,Saint Joseph's,606,09/16/2005,1,2,Away,"",-,135
+2006,Delaware,180,Lafayette,342,09/18/2005,5,1,Away,"",-,112
+2006,Delaware,180,Temple,690,09/23/2005,0,1,Away,"",-,105
+2006,Delaware,180,Hofstra,283,09/25/2005,1,2,Away,"",-,240
+2006,Delaware,180,VCU,740,09/30/2005,2,1,Away,"",-,87
+2006,Delaware,180,Northeastern,500,10/02/2005,1,5,Home,"",-,650
+2006,Delaware,180,William & Mary,786,10/07/2005,1,2,Away,"",-,87
+2006,Delaware,180,Old Dominion,523,10/09/2005,2,6,Away,"",-,102
+2006,Delaware,180,Maryland,392,10/16/2005,0,5,Away,"",-,464
+2006,Delaware,180,Towson,711,10/21/2005,2,3,Home,"",-,300
+2006,Delaware,180,James Madison,317,10/23/2005,2,3,Home,"",-,400
+2006,Delaware,180,Drexel,191,10/28/2005,2,1,Home,"",-,251
+2006,Delaware,180,La Salle,340,10/30/2005,3,0,Home,"",-,250
+2006,Drexel,191,Rutgers,587,08/28/2005,1,3,Away,"",-,91
+2006,Drexel,191,Bucknell,83,08/30/2005,3,0,Home,"",-,125
+2006,Drexel,191,Penn,540,09/04/2005,3,1,Home,"",-,250
+2006,Drexel,191,Villanova,739,09/07/2005,1,3,Home,"",-,175
+2006,Drexel,191,Fairfield,220,09/09/2005,1,0,Home,"",-,0
+2006,Drexel,191,Georgetown,251,09/14/2005,2,1,Away,"",-,65
+2006,Drexel,191,UMBC,391,09/17/2005,3,0,Home,"",-,163
+2006,Drexel,191,La Salle,340,09/20/2005,2,1,Home,"",-,107
+2006,Drexel,191,Old Dominion,523,09/25/2005,0,7,Away,"",-,117
+2006,Drexel,191,Temple,690,09/27/2005,2,0,Home,"",-,150
+2006,Drexel,191,William & Mary,786,09/30/2005,0,1,Home,"",-,200
+2006,Drexel,191,Hofstra,283,10/02/2005,1,4,Away,"",-,110
+2006,Drexel,191,Northeastern,500,10/07/2005,3,5,Home,"",-,50
+2006,Drexel,191,VCU,740,10/09/2005,0,1,Away,"",-,84
+2006,Drexel,191,Saint Joseph's,606,10/11/2005,1,0,Away,"",-,65
+2006,Drexel,191,James Madison,317,10/21/2005,1,0,Home,"",-,100
+2006,Drexel,191,Lehigh,352,10/25/2005,4,0,Home,"",-,50
+2006,Drexel,191,Delaware,180,10/28/2005,1,2,Away,"",-,251
+2006,Drexel,191,Towson,711,10/30/2005,1,2,Home,"",-,100
+2006,Duke,193,Louisville,367,08/27/2005,7,0,Away,"",-,308
+2006,Duke,193,Michigan St.,416,08/28/2005,3,0,Neutral,"Louisville, KY",-,117
+2006,Duke,193,Delaware,180,09/03/2005,7,2,Away,"",-,500
+2006,Duke,193,Ohio St.,518,09/04/2005,3,1,Neutral,"Newark, DE",-,225
+2006,Duke,193,Wake Forest,749,09/10/2005,1,2,Home,"",-,247
+2006,Duke,193,Iowa,312,09/17/2005,3,2,Home,"",-,184
+2006,Duke,193,Old Dominion,523,09/18/2005,2,5,Home,"",-,153
+2006,Duke,193,North Carolina,457,09/23/2005,2,1,Away,"",-,703
+2006,Duke,193,James Madison,317,09/25/2005,2,1,Away,"",-,100
+2006,Duke,193,Boston College,67,10/01/2005,6,1,Away,"",-,230
+2006,Duke,193,Harvard,275,10/02/2005,6,0,Away,"",-,186
+2006,Duke,193,Maryland,392,10/08/2005,0,2,Home,"",-,304
+2006,Duke,193,Villanova,739,10/11/2005,7,1,Home,"",-,134
+2006,Duke,193,William & Mary,786,10/15/2005,4,0,Neutral,"Norfolk, VA",-,77
+2006,Duke,193,Old Dominion,523,10/16/2005,3,2,Away,"",-,121
+2006,Duke,193,Northwestern,509,10/28/2005,9,0,Home,"",-,162
+2006,Duke,193,Virginia,746,10/28/2005,4,0,Away,"",-,0
+2006,Duke,193,Virginia,746,11/03/2005,5,1,Neutral,"College Park, MD",-,0
+2006,Duke,193,Maryland,392,11/04/2005,3,4,Away,"",-,0
+2006,Duke,193,Princeton,554,11/12/2005,2,1,Away,"",2 OT,0
+2006,Duke,193,Connecticut,164,11/13/2005,3,2,Neutral,"Princeton, NJ",2 OT,0
+2006,Duke,193,Wake Forest,749,11/18/2005,3,2,Neutral,"Louisville, KY",-,0
+2006,Duke,193,Maryland,392,11/20/2005,0,1,Neutral,"Louisville, KY",-,0
+2006,Fairfield,220,Massachusetts,400,08/27/2005,2,1,Away,"",-,218
+2006,Fairfield,220,Maine,380,08/30/2005,1,2,Home,"",-,76
+2006,Fairfield,220,Northwestern,509,09/03/2005,3,4,Home,"",-,145
+2006,Fairfield,220,Saint Joseph's,606,09/04/2005,3,4,Home,"",-,150
+2006,Fairfield,220,Drexel,191,09/09/2005,0,1,Away,"",-,0
+2006,Fairfield,220,Hofstra,283,09/14/2005,1,3,Home,"",-,121
+2006,Fairfield,220,Quinnipiac,562,09/16/2005,1,2,Home,"",-,127
+2006,Fairfield,220,Radford,563,09/17/2005,1,2,Home,"",-,124
+2006,Fairfield,220,Holy Cross,285,09/21/2005,1,4,Away,"",-,217
+2006,Fairfield,220,Dartmouth,172,09/23/2005,2,1,Away,"",-,123
+2006,Fairfield,220,Boston U.,68,09/24/2005,0,5,Neutral,"Hanover, NH",-,74
+2006,Fairfield,220,Robert Morris,579,09/30/2005,5,0,Home,"",-,123
+2006,Fairfield,220,Monmouth,439,10/02/2005,3,1,Home,"",-,277
+2006,Fairfield,220,Siena,639,10/06/2005,3,1,Away,"",-,165
+2006,Fairfield,220,Sacred Heart,590,10/09/2005,1,2,Home,"",-,223
+2006,Fairfield,220,Rider,576,10/18/2005,0,3,Away,"",-,100
+2006,Fairfield,220,Lock Haven,360,10/21/2005,0,3,Away,"",-,81
+2006,Fairfield,220,Saint Francis (PA),600,10/23/2005,4,3,Away,"",-,107
+2006,Fairfield,220,Rider,576,10/28/2005,2,3,Away,"",-,250
+2006,Georgetown,251,Villanova,739,08/29/2005,1,7,Home,"",-,0
+2006,Georgetown,251,Radford,563,09/03/2005,2,3,Neutral,"Harrisonburg, VA",4 OT,0
+2006,Georgetown,251,Longwood,363,09/07/2005,3,2,Home,"",1 OT,0
+2006,Georgetown,251,Lehigh,352,09/10/2005,2,4,Home,"",-,0
+2006,Georgetown,251,Drexel,191,09/14/2005,1,2,Home,"",-,0
+2006,Georgetown,251,Bucknell,83,09/17/2005,2,3,Away,"",-,0
+2006,Georgetown,251,Towson,711,09/21/2005,2,1,Away,"",-,0
+2006,Georgetown,251,Lafayette,342,09/24/2005,1,2,Away,"",-,0
+2006,Georgetown,251,Saint Francis (PA),600,09/30/2005,3,1,Home,"",-,0
+2006,Georgetown,251,Saint Joseph's,606,10/02/2005,1,2,Home,"",-,0
+2006,Georgetown,251,Davidson,173,10/08/2005,2,3,Away,"",1 OT,0
+2006,Georgetown,251,James Madison,317,10/16/2005,0,4,Home,"",-,0
+2006,Georgetown,251,Penn,540,10/19/2005,0,3,Away,"",-,0
+2006,Georgetown,251,Maine,380,10/23/2005,0,1,Home,"",2 OT,0
+2006,Georgetown,251,UMBC,391,10/26/2005,1,2,Home,"",-,0
+2006,Georgetown,251,Cornell,167,10/30/2005,0,3,Home,"",-,0
+2006,Georgetown,251,Vermont,738,10/31/2005,1,4,Home,"",-,0
+2006,Harvard,275,Massachusetts,400,09/04/2005,2,0,Away,"",-,247
+2006,Harvard,275,New Hampshire,469,09/08/2005,3,0,Home,"",-,153
+2006,Harvard,275,Penn,540,09/10/2005,1,0,Home,"",-,126
+2006,Harvard,275,Holy Cross,285,09/16/2005,3,0,Away,"",-,212
+2006,Harvard,275,Maryland,392,09/18/2005,0,1,Home,"",-,135
+2006,Harvard,275,Connecticut,164,09/21/2005,1,0,Away,"",-,107
+2006,Harvard,275,Brown,80,09/24/2005,0,1,Home,"",-,212
+2006,Harvard,275,Providence,556,09/28/2005,1,2,Away,"",-,178
+2006,Harvard,275,Duke,193,10/02/2005,0,6,Home,"",-,186
+2006,Harvard,275,Northeastern,500,10/05/2005,2,3,Away,"",-,227
+2006,Harvard,275,Cornell,167,10/09/2005,1,2,Away,"",-,193
+2006,Harvard,275,Yale,813,10/15/2005,0,1,Away,"",-,150
+2006,Harvard,275,Boston College,67,10/19/2005,0,4,Away,"",-,123
+2006,Harvard,275,Princeton,554,10/22/2005,1,2,Home,"",-,224
+2006,Harvard,275,Boston U.,68,10/26/2005,1,2,Home,"",-,135
+2006,Harvard,275,Dartmouth,172,10/29/2005,1,2,Home,"",-,115
+2006,Harvard,275,Columbia,158,11/05/2005,2,1,Away,"",-,0
+2006,Hofstra,283,Rhode Island,572,08/27/2005,6,1,Home,"",-,110
+2006,Hofstra,283,La Salle,340,08/28/2005,3,1,Home,"",-,120
+2006,Hofstra,283,Maine,380,09/03/2005,3,1,Home,"",-,130
+2006,Hofstra,283,Monmouth,439,09/04/2005,2,1,Home,"",-,120
+2006,Hofstra,283,Boston U.,68,09/10/2005,2,3,Away,"",-,147
+2006,Hofstra,283,Boston College,67,09/11/2005,0,4,Away,"",-,268
+2006,Hofstra,283,Fairfield,220,09/14/2005,3,1,Away,"",-,121
+2006,Hofstra,283,Syracuse,688,09/18/2005,2,0,Away,"",-,312
+2006,Hofstra,283,Delaware,180,09/25/2005,2,1,Home,"",-,240
+2006,Hofstra,283,Northeastern,500,09/30/2005,0,4,Away,"",-,229
+2006,Hofstra,283,Drexel,191,10/02/2005,4,1,Home,"",-,110
+2006,Hofstra,283,Princeton,554,10/07/2005,3,0,Away,"",-,75
+2006,Hofstra,283,Towson,711,10/09/2005,2,1,Away,"",-,103
+2006,Hofstra,283,Columbia,158,10/16/2005,0,1,Home,"",-,130
+2006,Hofstra,283,William & Mary,786,10/21/2005,3,0,Home,"",-,130
+2006,Hofstra,283,Old Dominion,523,10/23/2005,0,1,Home,"",-,150
+2006,Hofstra,283,James Madison,317,10/28/2005,3,1,Away,"",-,117
+2006,Hofstra,283,VCU,740,10/30/2005,2,3,Away,"",-,92
+2006,Hofstra,283,Towson,711,11/04/2005,4,1,Neutral,"Norfolk, VA",-,0
+2006,Hofstra,283,Northeastern,500,11/05/2005,2,3,Neutral,"Norfolk, VA",-,0
+2006,Holy Cross,285,Siena,639,08/30/2005,5,1,Home,"",-,218
+2006,Holy Cross,285,Quinnipiac,562,09/04/2005,1,2,Away,"",-,157
+2006,Holy Cross,285,Providence,556,09/07/2005,3,4,Away,"",-,448
+2006,Holy Cross,285,Northeastern,500,09/10/2005,3,6,Home,"",-,211
+2006,Holy Cross,285,Rhode Island,572,09/14/2005,3,1,Home,"",-,317
+2006,Holy Cross,285,Harvard,275,09/16/2005,0,3,Home,"",-,212
+2006,Holy Cross,285,New Hampshire,469,09/18/2005,2,1,Away,"",-,163
+2006,Holy Cross,285,Fairfield,220,09/21/2005,4,1,Home,"",-,217
+2006,Holy Cross,285,Yale,813,09/25/2005,1,2,Home,"",-,179
+2006,Holy Cross,285,Colgate,153,10/01/2005,3,1,Home,"",-,311
+2006,Holy Cross,285,Boston College,67,10/02/2005,0,2,Home,"",-,282
+2006,Holy Cross,285,Lehigh,352,10/08/2005,3,1,Home,"",-,78
+2006,Holy Cross,285,Dartmouth,172,10/09/2005,5,4,Home,"",-,87
+2006,Holy Cross,285,Bucknell,83,10/15/2005,2,3,Away,"",-,61
+2006,Holy Cross,285,Albany (NY),14,10/16/2005,3,4,Away,"",-,0
+2006,Holy Cross,285,American,23,10/22/2005,2,3,Home,"",-,263
+2006,Holy Cross,285,Brown,80,10/26/2005,1,0,Away,"",-,68
+2006,Holy Cross,285,Lafayette,342,10/29/2005,6,0,Away,"",-,89
+2006,Holy Cross,285,Bucknell,83,11/05/2005,3,1,Neutral,"Washington, DC",-,0
+2006,Holy Cross,285,American,23,11/06/2005,2,4,Away,"",-,0
+2006,Indiana,306,New Hampshire,469,08/27/2005,3,1,Away,"",-,156
+2006,Indiana,306,Northeastern,500,08/28/2005,3,2,Away,"",-,240
+2006,Indiana,306,Appalachian St.,27,09/02/2005,1,0,Away,"",-,167
+2006,Indiana,306,Wake Forest,749,09/04/2005,2,4,Away,"",-,267
+2006,Indiana,306,Pacific,534,09/09/2005,6,0,Home,"",-,117
+2006,Indiana,306,Ohio,519,09/17/2005,4,1,Home,"",-,72
+2006,Indiana,306,Missouri St.,669,09/18/2005,3,0,Home,"",-,61
+2006,Indiana,306,Michigan St.,416,09/24/2005,3,2,Home,"",-,112
+2006,Indiana,306,Lindenwood (MO),,09/25/2005,6,0,Home,"",-,72
+2006,Indiana,306,Michigan,418,09/30/2005,3,1,Away,"",-,503
+2006,Indiana,306,Kent St.,331,10/02/2005,5,2,Away,"",-,120
+2006,Indiana,306,Northwestern,509,10/08/2005,3,1,Home,"",-,86
+2006,Indiana,306,Louisville,367,10/11/2005,3,2,Home,"",-,85
+2006,Indiana,306,Ohio St.,518,10/14/2005,2,1,Away,"",-,452
+2006,Indiana,306,Iowa,312,10/22/2005,1,2,Away,"",-,67
+2006,Indiana,306,Penn St.,539,10/28/2005,3,4,Home,"",-,186
+2006,Indiana,306,Miami (OH),414,10/30/2005,4,0,Home,"",-,86
+2006,Indiana,306,Northwestern,509,11/04/2005,2,1,Neutral,"Iowa City, IA",1 OT,0
+2006,Indiana,306,Ohio St.,518,11/05/2005,3,1,Neutral,"Iowa City, IA",-,0
+2006,Indiana,306,Michigan,418,11/06/2005,0,3,Neutral,"Iowa City, IA",-,0
+2006,Indiana,306,North Carolina,457,11/12/2005,3,2,Neutral,"Winston-Salem, NC",-,0
+2006,Indiana,306,Wake Forest,749,11/13/2005,0,5,Away,"",-,0
+2006,Iowa,312,Wake Forest,749,08/27/2005,0,2,Home,"",-,265
+2006,Iowa,312,North Carolina,457,08/28/2005,0,1,Home,"",-,205
+2006,Iowa,312,Stanford,674,09/02/2005,3,1,Away,"",-,61
+2006,Iowa,312,California,107,09/03/2005,2,1,Away,"",-,75
+2006,Iowa,312,Pacific,534,09/05/2005,8,1,Neutral,"Berkeley, CA",-,100
+2006,Iowa,312,Ball St.,47,09/09/2005,6,1,Home,"",-,122
+2006,Iowa,312,Providence,556,09/11/2005,5,0,Home,"",-,97
+2006,Iowa,312,Duke,193,09/17/2005,2,3,Away,"",-,184
+2006,Iowa,312,Appalachian St.,27,09/18/2005,7,1,Neutral,"Durham, NC",-,68
+2006,Iowa,312,Ohio St.,518,09/25/2005,2,4,Away,"",-,307
+2006,Iowa,312,Michigan St.,416,10/01/2005,3,2,Home,"",-,104
+2006,Iowa,312,Northwestern,509,10/04/2005,4,3,Home,"",-,67
+2006,Iowa,312,Penn St.,539,10/08/2005,0,4,Home,"",-,106
+2006,Iowa,312,Northwestern,509,10/14/2005,3,1,Away,"",-,98
+2006,Iowa,312,Indiana,306,10/22/2005,2,1,Home,"",-,67
+2006,Iowa,312,Michigan,418,10/28/2005,1,2,Away,"",-,321
+2006,Iowa,312,Louisville,367,10/29/2005,2,5,Neutral,"Ann Arbor, MI",-,137
+2006,Iowa,312,Michigan,418,11/04/2005,2,3,Home,"",-,0
+2006,James Madison,317,Kent St.,331,08/27/2005,3,0,Home,"",-,100
+2006,James Madison,317,Longwood,363,08/28/2005,4,0,Home,"",-,220
+2006,James Madison,317,Radford,563,08/31/2005,2,0,Home,"",-,100
+2006,James Madison,317,North Carolina,457,09/05/2005,0,1,Away,"",-,224
+2006,James Madison,317,Michigan St.,416,09/09/2005,2,3,Away,"",-,100
+2006,James Madison,317,Saint Louis,609,09/11/2005,4,1,Neutral,"East Lansing, MI",-,65
+2006,James Madison,317,Virginia,746,09/16/2005,3,4,Away,"",-,0
+2006,James Madison,317,Richmond,575,09/21/2005,1,0,Home,"",-,100
+2006,James Madison,317,Duke,193,09/25/2005,1,2,Home,"",-,100
+2006,James Madison,317,Old Dominion,523,09/30/2005,2,3,Away,"",-,102
+2006,James Madison,317,VCU,740,10/02/2005,4,0,Home,"",-,125
+2006,James Madison,317,Towson,711,10/07/2005,7,2,Home,"",-,35
+2006,James Madison,317,William & Mary,786,10/09/2005,1,0,Away,"",-,212
+2006,James Madison,317,American,23,10/12/2005,1,4,Home,"",-,100
+2006,James Madison,317,Georgetown,251,10/16/2005,4,0,Away,"",-,265
+2006,James Madison,317,Drexel,191,10/21/2005,0,1,Away,"",-,100
+2006,James Madison,317,Delaware,180,10/23/2005,3,2,Away,"",-,400
+2006,James Madison,317,Hofstra,283,10/28/2005,1,3,Home,"",-,117
+2006,James Madison,317,Northeastern,500,10/30/2005,3,2,Home,"",-,100
+2006,James Madison,317,William & Mary,786,11/04/2005,0,1,Neutral,"Norfolk, VA",-,0
+2006,Kent St.,331,James Madison,317,08/27/2005,0,3,Away,"",-,100
+2006,Kent St.,331,Dartmouth,172,09/03/2005,1,2,Away,"",-,72
+2006,Kent St.,331,Boston College,67,09/04/2005,2,3,Away,"",-,230
+2006,Kent St.,331,Syracuse,688,09/09/2005,3,4,Away,"",-,128
+2006,Kent St.,331,William & Mary,786,09/10/2005,2,7,Neutral,"Syracuse, NY",-,0
+2006,Kent St.,331,Wake Forest,749,09/16/2005,0,4,Away,"",-,567
+2006,Kent St.,331,Michigan St.,416,09/17/2005,1,2,Neutral,"Winston-Salem, NC",-,86
+2006,Kent St.,331,Miami (OH),414,09/23/2005,0,4,Away,"",-,276
+2006,Kent St.,331,Michigan,418,09/25/2005,3,4,Home,"",-,584
+2006,Kent St.,331,Missouri St.,669,09/30/2005,0,1,Away,"",-,103
+2006,Kent St.,331,Indiana,306,10/02/2005,2,5,Home,"",-,120
+2006,Kent St.,331,Central Mich.,129,10/07/2005,5,3,Home,"",-,112
+2006,Kent St.,331,Ohio,519,10/09/2005,3,2,Away,"",-,123
+2006,Kent St.,331,Ohio St.,518,10/11/2005,2,4,Away,"",-,185
+2006,Kent St.,331,Miami (OH),414,10/14/2005,2,0,Home,"",-,100
+2006,Kent St.,331,Ball St.,47,10/15/2005,3,2,Home,"",-,125
+2006,Kent St.,331,Missouri St.,669,10/22/2005,4,2,Home,"",-,96
+2006,Kent St.,331,Ohio,519,10/23/2005,1,0,Home,"",-,315
+2006,Kent St.,331,Ball St.,47,10/27/2005,2,0,Away,"",-,72
+2006,Kent St.,331,Central Mich.,129,10/28/2005,2,1,Away,"",-,60
+2006,Kent St.,331,Central Mich.,129,11/04/2005,0,2,Away,"",-,0
+2006,La Salle,340,Quinnipiac,562,08/27/2005,0,1,Neutral,"Hempstead, NY",-,110
+2006,La Salle,340,Hofstra,283,08/28/2005,1,3,Away,"",-,120
+2006,La Salle,340,Missouri St.,669,09/03/2005,4,2,Neutral,"Louisville, KY",-,57
+2006,La Salle,340,Louisville,367,09/04/2005,3,9,Away,"",-,157
+2006,La Salle,340,Robert Morris,579,09/09/2005,1,0,Away,"",-,60
+2006,La Salle,340,Lock Haven,360,09/11/2005,0,2,Away,"",-,182
+2006,La Salle,340,Monmouth,439,09/13/2005,1,3,Away,"",-,115
+2006,La Salle,340,Towson,711,09/16/2005,0,2,Away,"",-,35
+2006,La Salle,340,Drexel,191,09/20/2005,1,2,Away,"",-,107
+2006,La Salle,340,Rider,576,09/25/2005,0,1,Home,"",-,50
+2006,La Salle,340,Villanova,739,09/30/2005,1,6,Away,"",-,367
+2006,La Salle,340,Lafayette,342,10/04/2005,4,5,Away,"",-,61
+2006,La Salle,340,Saint Joseph's,606,10/07/2005,2,1,Away,"",-,75
+2006,La Salle,340,Temple,690,10/09/2005,1,2,Away,"",-,213
+2006,La Salle,340,Massachusetts,400,10/14/2005,1,4,Away,"",-,117
+2006,La Salle,340,Rhode Island,572,10/16/2005,2,3,Away,"",-,122
+2006,La Salle,340,Richmond,575,10/21/2005,1,2,Home,"",-,212
+2006,La Salle,340,Saint Louis,609,10/23/2005,0,1,Home,"",-,137
+2006,La Salle,340,West Chester,765,10/29/2005,3,2,Away,"",-,150
+2006,La Salle,340,Delaware,180,10/30/2005,0,3,Away,"",-,250
+2006,Lafayette,342,Temple,690,08/28/2005,2,1,Away,"",-,60
+2006,Lafayette,342,Cornell,167,09/04/2005,2,1,Home,"",-,112
+2006,Lafayette,342,Rutgers,587,09/11/2005,1,2,Away,"",-,0
+2006,Lafayette,342,Penn,540,09/14/2005,0,2,Away,"",-,124
+2006,Lafayette,342,Penn St.,539,09/16/2005,0,7,Home,"",-,102
+2006,Lafayette,342,Delaware,180,09/18/2005,1,5,Home,"",-,112
+2006,Lafayette,342,Saint Joseph's,606,09/21/2005,3,2,Home,"",-,76
+2006,Lafayette,342,Georgetown,251,09/24/2005,2,1,Home,"",-,114
+2006,Lafayette,342,Columbia,158,09/27/2005,1,2,Home,"",-,49
+2006,Lafayette,342,Lehigh,352,09/30/2005,0,1,Home,"",-,141
+2006,Lafayette,342,La Salle,340,10/04/2005,5,4,Home,"",-,61
+2006,Lafayette,342,Rider,576,10/12/2005,2,1,Home,"",-,61
+2006,Lafayette,342,Colgate,153,10/15/2005,2,3,Away,"",-,132
+2006,Lafayette,342,Monmouth,439,10/18/2005,5,0,Home,"",-,84
+2006,Lafayette,342,Bucknell,83,10/23/2005,1,5,Away,"",-,79
+2006,Lafayette,342,Lock Haven,360,10/26/2005,0,7,Away,"",-,82
+2006,Lafayette,342,Holy Cross,285,10/29/2005,0,6,Home,"",-,89
+2006,Lafayette,342,American,23,10/31/2005,1,5,Home,"",-,61
+2006,Lehigh,352,Temple,690,08/27/2005,1,5,Home,"",-,326
+2006,Lehigh,352,Monmouth,439,08/28/2005,2,1,Home,"",-,179
+2006,Lehigh,352,Lock Haven,360,08/31/2005,1,3,Away,"",-,89
+2006,Lehigh,352,Cornell,167,09/02/2005,2,5,Home,"",-,312
+2006,Lehigh,352,West Chester,765,09/07/2005,1,3,Away,"",-,150
+2006,Lehigh,352,Georgetown,251,09/10/2005,4,2,Away,"",-,170
+2006,Lehigh,352,UMBC,391,09/14/2005,3,2,Away,"",-,150
+2006,Lehigh,352,Columbia,158,09/17/2005,0,2,Away,"",-,143
+2006,Lehigh,352,Brown,80,09/18/2005,2,0,Away,"",-,179
+2006,Lehigh,352,Villanova,739,09/21/2005,0,5,Home,"",-,198
+2006,Lehigh,352,Sacred Heart,590,09/24/2005,1,2,Away,"",-,95
+2006,Lehigh,352,Lafayette,342,09/30/2005,1,0,Away,"",-,141
+2006,Lehigh,352,Holy Cross,285,10/08/2005,1,3,Away,"",-,78
+2006,Lehigh,352,American,23,10/15/2005,1,9,Away,"",-,267
+2006,Lehigh,352,Rider,576,10/19/2005,3,4,Home,"",-,248
+2006,Lehigh,352,Colgate,153,10/22/2005,3,2,Home,"",-,178
+2006,Lehigh,352,Drexel,191,10/25/2005,0,4,Away,"",-,50
+2006,Lehigh,352,Bucknell,83,10/29/2005,1,2,Home,"",-,205
+2006,Lehigh,352,American,23,11/05/2005,0,7,Away,"",-,0
+2006,Lock Haven,360,Vermont,738,08/28/2005,3,0,Home,"",-,130
+2006,Lock Haven,360,Lehigh,352,08/31/2005,3,1,Home,"",-,89
+2006,Lock Haven,360,Penn St.,539,09/02/2005,1,4,Away,"",-,357
+2006,Lock Haven,360,Towson,711,09/09/2005,0,1,Away,"",-,145
+2006,Lock Haven,360,La Salle,340,09/11/2005,2,0,Home,"",-,182
+2006,Lock Haven,360,Albany (NY),14,09/17/2005,1,2,Away,"",-,0
+2006,Lock Haven,360,Colgate,153,09/18/2005,2,1,Away,"",-,185
+2006,Lock Haven,360,Bucknell,83,09/21/2005,2,1,Away,"",-,50
+2006,Lock Haven,360,Saint Francis (PA),600,09/25/2005,10,0,Home,"",-,177
+2006,Lock Haven,360,Sacred Heart,590,09/30/2005,3,2,Away,"",-,75
+2006,Lock Haven,360,Rider,576,10/07/2005,1,2,Away,"",-,110
+2006,Lock Haven,360,Monmouth,439,10/09/2005,3,0,Away,"",-,150
+2006,Lock Haven,360,Robert Morris,579,10/12/2005,2,0,Away,"",-,56
+2006,Lock Haven,360,Siena,639,10/14/2005,6,0,Home,"",-,81
+2006,Lock Haven,360,Quinnipiac,562,10/16/2005,2,0,Home,"",-,117
+2006,Lock Haven,360,Fairfield,220,10/21/2005,3,0,Home,"",-,81
+2006,Lock Haven,360,Ohio St.,518,10/23/2005,2,4,Neutral,"University Park, PA",-,138
+2006,Lock Haven,360,Lafayette,342,10/26/2005,7,0,Home,"",-,82
+2006,Lock Haven,360,Davidson,173,10/30/2005,4,3,Away,"",-,84
+2006,Lock Haven,360,Longwood,363,10/31/2005,5,0,Neutral,"Davidson, NC",-,0
+2006,Longwood,363,James Madison,317,08/28/2005,0,4,Away,"",-,0
+2006,Longwood,363,Robert Morris,579,09/03/2005,6,1,Neutral,"Harrisonburg, VA",-,0
+2006,Longwood,363,UMBC,391,09/04/2005,1,0,Neutral,"Richmond, VA",-,0
+2006,Longwood,363,Georgetown,251,09/07/2005,2,3,Away,"",1 OT,0
+2006,Longwood,363,VCU,740,09/11/2005,0,1,Away,"",-,0
+2006,Longwood,363,Rider,576,09/18/2005,1,2,Neutral,"Virginia Beach, VA",-,0
+2006,Longwood,363,Temple,690,09/24/2005,0,1,Away,"",-,0
+2006,Longwood,363,American,23,09/25/2005,1,6,Away,"",-,0
+2006,Longwood,363,Virginia,746,09/28/2005,1,3,Away,"",-,0
+2006,Longwood,363,Saint Francis (PA),600,10/02/2005,6,2,Neutral,"Richmond, VA",-,0
+2006,Longwood,363,Appalachian St.,27,10/07/2005,3,2,Neutral,"Richmond, VA",-,0
+2006,Longwood,363,Radford,563,10/09/2005,0,1,Away,"",-,0
+2006,Longwood,363,Stanford,674,10/15/2005,0,3,Away,"",-,0
+2006,Longwood,363,California,107,10/16/2005,0,8,Away,"",-,0
+2006,Longwood,363,Pacific,534,10/18/2005,1,6,Away,"",-,0
+2006,Longwood,363,Davidson,173,10/29/2005,0,1,Away,"",-,0
+2006,Longwood,363,Lock Haven,360,10/31/2005,0,5,Neutral,"Davidson, NC",-,0
+2006,Louisville,367,Duke,193,08/27/2005,0,7,Home,"",-,308
+2006,Louisville,367,Boston U.,68,08/28/2005,4,1,Home,"",-,157
+2006,Louisville,367,Missouri St.,669,09/02/2005,6,1,Home,"",-,101
+2006,Louisville,367,La Salle,340,09/04/2005,9,3,Home,"",-,157
+2006,Louisville,367,Pacific,534,09/08/2005,4,1,Home,"",-,292
+2006,Louisville,367,Appalachian St.,27,09/10/2005,4,0,Home,"",-,217
+2006,Louisville,367,Ohio St.,518,09/14/2005,3,4,Away,"",-,139
+2006,Louisville,367,Ball St.,47,09/17/2005,5,1,Neutral,"Evanston, IL",-,104
+2006,Louisville,367,Northwestern,509,09/18/2005,4,3,Away,"",-,207
+2006,Louisville,367,Saint Louis,609,09/23/2005,6,1,Home,"",-,289
+2006,Louisville,367,Syracuse,688,09/25/2005,6,0,Home,"",-,281
+2006,Louisville,367,Connecticut,164,09/30/2005,1,3,Away,"",-,257
+2006,Louisville,367,Providence,556,10/02/2005,6,1,Away,"",-,281
+2006,Louisville,367,Wake Forest,749,10/08/2005,2,5,Home,"",-,434
+2006,Louisville,367,Indiana,306,10/11/2005,2,3,Away,"",-,85
+2006,Louisville,367,Villanova,739,10/15/2005,5,6,Away,"",-,365
+2006,Louisville,367,Rutgers,587,10/21/2005,8,1,Home,"",-,259
+2006,Louisville,367,Radford,563,10/23/2005,8,0,Home,"",-,211
+2006,Louisville,367,Iowa,312,10/29/2005,5,2,Neutral,"Ann Arbor, MI",-,137
+2006,Louisville,367,Michigan,418,10/30/2005,3,2,Away,"",-,523
+2006,Louisville,367,Connecticut,164,11/04/2005,0,1,Neutral,"Piscataway, NJ",1 OT,0
+2006,Maine,380,Sacred Heart,590,08/27/2005,5,2,Home,"",-,220
+2006,Maine,380,Connecticut,164,08/28/2005,0,7,Away,"",-,153
+2006,Maine,380,Fairfield,220,08/30/2005,2,1,Away,"",-,76
+2006,Maine,380,Hofstra,283,09/03/2005,1,3,Away,"",-,130
+2006,Maine,380,Columbia,158,09/04/2005,2,1,Neutral,"Hempstead, NY",-,110
+2006,Maine,380,Ohio,519,09/09/2005,3,2,Away,"",-,145
+2006,Maine,380,Ohio St.,518,09/11/2005,0,6,Away,"",-,174
+2006,Maine,380,Massachusetts,400,09/18/2005,2,1,Home,"",-,283
+2006,Maine,380,Providence,556,09/24/2005,5,3,Away,"",-,231
+2006,Maine,380,Rhode Island,572,09/25/2005,2,3,Away,"",-,176
+2006,Maine,380,Albany (NY),14,10/02/2005,3,2,Home,"",-,312
+2006,Maine,380,Vermont,738,10/09/2005,1,0,Away,"",-,191
+2006,Maine,380,Quinnipiac,562,10/11/2005,1,2,Away,"",-,73
+2006,Maine,380,New Hampshire,469,10/14/2005,3,2,Away,"",-,142
+2006,Maine,380,Dartmouth,172,10/16/2005,1,0,Away,"",-,116
+2006,Maine,380,UMBC,391,10/22/2005,3,0,Away,"",-,115
+2006,Maine,380,Georgetown,251,10/23/2005,1,0,Away,"",2 OT,214
+2006,Maine,380,Boston U.,68,10/30/2005,1,3,Home,"",-,340
+2006,Maine,380,Albany (NY),14,11/04/2005,1,0,Neutral,"Cambridge, MA",-,0
+2006,Maine,380,Boston U.,68,11/05/2005,1,3,Neutral,"Cambridge, MA",-,0
+2006,Maryland,392,Northwestern,509,08/27/2005,5,2,Away,"",-,160
+2006,Maryland,392,Ohio St.,518,08/29/2005,2,1,Away,"",-,176
+2006,Maryland,392,Ohio,519,08/30/2005,3,1,Neutral,"Columbus, OH",-,103
+2006,Maryland,392,Michigan,418,09/02/2005,4,0,Home,"",-,465
+2006,Maryland,392,Old Dominion,523,09/04/2005,2,1,Away,"",-,289
+2006,Maryland,392,California,107,09/10/2005,4,2,Home,"",-,287
+2006,Maryland,392,Stanford,674,09/11/2005,6,0,Home,"",-,490
+2006,Maryland,392,Boston College,67,09/17/2005,3,0,Away,"",-,178
+2006,Maryland,392,Harvard,275,09/18/2005,1,0,Away,"",-,135
+2006,Maryland,392,Penn,540,09/21/2005,3,1,Home,"",-,173
+2006,Maryland,392,Wake Forest,749,09/24/2005,2,3,Home,"",-,"1,243"
+2006,Maryland,392,Virginia,746,10/01/2005,4,1,Home,"",-,345
+2006,Maryland,392,Rutgers,587,10/02/2005,7,1,Home,"",-,314
+2006,Maryland,392,Duke,193,10/08/2005,2,0,Away,"",-,304
+2006,Maryland,392,Princeton,554,10/11/2005,5,1,Home,"",-,213
+2006,Maryland,392,Old Dominion,523,10/14/2005,1,4,Home,"",-,432
+2006,Maryland,392,Delaware,180,10/16/2005,5,0,Home,"",-,464
+2006,Maryland,392,North Carolina,457,10/23/2005,2,1,Away,"",-,289
+2006,Maryland,392,American,23,10/26/2005,2,1,Away,"",-,"1,188"
+2006,Maryland,392,Duke,193,11/04/2005,4,3,Home,"",-,0
+2006,Maryland,392,Wake Forest,749,11/06/2005,3,2,Home,"",-,0
+2006,Maryland,392,Richmond,575,11/12/2005,4,0,Home,"",-,0
+2006,Maryland,392,American,23,11/13/2005,3,0,Home,"",-,0
+2006,Maryland,392,Old Dominion,523,11/18/2005,3,2,Neutral,"Louisville, KY",-,0
+2006,Maryland,392,Duke,193,11/20/2005,1,0,Neutral,"Louisville, KY",-,0
+2006,Massachusetts,400,Fairfield,220,08/27/2005,1,2,Home,"",-,218
+2006,Massachusetts,400,Boston College,67,08/30/2005,2,4,Home,"",-,262
+2006,Massachusetts,400,Northeastern,500,09/02/2005,1,4,Home,"",-,277
+2006,Massachusetts,400,Harvard,275,09/04/2005,0,2,Home,"",-,247
+2006,Massachusetts,400,Vermont,738,09/10/2005,3,2,Away,"",-,165
+2006,Massachusetts,400,Sacred Heart,590,09/11/2005,2,1,Neutral,"Burlington, VT",-,107
+2006,Massachusetts,400,New Hampshire,469,09/17/2005,3,2,Away,"",-,161
+2006,Massachusetts,400,Maine,380,09/18/2005,1,2,Away,"",-,283
+2006,Massachusetts,400,Boston U.,68,09/20/2005,1,2,Home,"",-,299
+2006,Massachusetts,400,Connecticut,164,09/24/2005,1,2,Away,"",-,219
+2006,Massachusetts,400,Syracuse,688,09/30/2005,0,2,Away,"",-,229
+2006,Massachusetts,400,Richmond,575,10/07/2005,1,4,Away,"",-,152
+2006,Massachusetts,400,Saint Louis,609,10/09/2005,3,2,Away,"",-,63
+2006,Massachusetts,400,La Salle,340,10/14/2005,4,1,Home,"",-,117
+2006,Massachusetts,400,West Chester,765,10/16/2005,4,0,Home,"",-,317
+2006,Massachusetts,400,Dartmouth,172,10/19/2005,1,2,Home,"",-,529
+2006,Massachusetts,400,Saint Joseph's,606,10/21/2005,3,4,Away,"",-,96
+2006,Massachusetts,400,Temple,690,10/23/2005,1,2,Away,"",-,150
+2006,Massachusetts,400,Rhode Island,572,10/30/2005,2,1,Away,"",-,200
+2006,Massachusetts,400,Temple,690,11/04/2005,2,1,Away,"",1 OT,0
+2006,Massachusetts,400,Richmond,575,11/05/2005,1,7,Neutral,"Philadelphia, PA",-,0
+2006,Miami (OH),414,Stanford,674,08/27/2005,2,1,Away,"",1 OT,178
+2006,Miami (OH),414,Pacific,534,08/28/2005,0,2,Away,"",-,150
+2006,Miami (OH),414,California,107,08/30/2005,0,5,Away,"",-,75
+2006,Miami (OH),414,Michigan,418,09/09/2005,1,2,Away,"",-,343
+2006,Miami (OH),414,Old Dominion,523,09/11/2005,0,7,Neutral,"Ann Arbor, MI",-,167
+2006,Miami (OH),414,Saint Louis,609,09/16/2005,4,2,Home,"",-,120
+2006,Miami (OH),414,Davidson,173,09/18/2005,2,0,Home,"",-,75
+2006,Miami (OH),414,Kent St.,331,09/23/2005,4,0,Home,"",-,276
+2006,Miami (OH),414,Ohio,519,09/24/2005,2,4,Home,"",-,178
+2006,Miami (OH),414,Central Mich.,129,09/30/2005,2,1,Away,"",-,114
+2006,Miami (OH),414,Ohio St.,518,10/05/2005,2,3,Home,"",-,153
+2006,Miami (OH),414,Ball St.,47,10/07/2005,0,1,Away,"",-,245
+2006,Miami (OH),414,Missouri St.,669,10/09/2005,2,0,Home,"",-,120
+2006,Miami (OH),414,Kent St.,331,10/14/2005,0,2,Away,"",-,100
+2006,Miami (OH),414,Ohio,519,10/15/2005,5,1,Away,"",-,171
+2006,Miami (OH),414,Central Mich.,129,10/21/2005,1,2,Home,"",-,64
+2006,Miami (OH),414,Ball St.,47,10/23/2005,1,0,Home,"",-,198
+2006,Miami (OH),414,Missouri St.,669,10/28/2005,3,4,Away,"",-,157
+2006,Miami (OH),414,Indiana,306,10/30/2005,0,4,Away,"",-,86
+2006,Miami (OH),414,Ball St.,47,11/03/2005,3,2,Neutral,"Mt. Pleasant, MI",2 OT,0
+2006,Miami (OH),414,Ohio,519,11/04/2005,1,0,Neutral,"Mt. Pleasant, MI",-,0
+2006,Miami (OH),414,Central Mich.,129,11/05/2005,1,3,Away,"",-,0
+2006,Michigan,418,North Carolina,457,08/27/2005,0,2,Neutral,"Iowa City, IA",-,0
+2006,Michigan,418,Wake Forest,749,08/28/2005,1,2,Neutral,"Iowa City, IA",-,80
+2006,Michigan,418,Maryland,392,09/02/2005,0,4,Away,"",-,465
+2006,Michigan,418,Temple,690,09/04/2005,3,2,Away,"",-,350
+2006,Michigan,418,Miami (OH),414,09/09/2005,2,1,Home,"",-,343
+2006,Michigan,418,Old Dominion,523,09/10/2005,4,3,Home,"",-,422
+2006,Michigan,418,Central Mich.,129,09/13/2005,2,0,Away,"",-,156
+2006,Michigan,418,Vermont,738,09/18/2005,5,0,Home,"",-,628
+2006,Michigan,418,Ohio St.,518,09/23/2005,1,6,Away,"",-,357
+2006,Michigan,418,Kent St.,331,09/25/2005,4,3,Away,"",-,584
+2006,Michigan,418,Indiana,306,09/30/2005,1,3,Home,"",-,503
+2006,Michigan,418,Penn St.,539,10/02/2005,2,3,Home,"",-,374
+2006,Michigan,418,Michigan St.,416,10/06/2005,1,0,Away,"",-,150
+2006,Michigan,418,Connecticut,164,10/09/2005,2,1,Home,"",-,413
+2006,Michigan,418,Northwestern,509,10/16/2005,6,1,Away,"",-,0
+2006,Michigan,418,California,107,10/22/2005,3,2,Away,"",1 OT,250
+2006,Michigan,418,Pacific,534,10/23/2005,3,0,Neutral,"Berkeley, CA",-,150
+2006,Michigan,418,Iowa,312,10/28/2005,2,1,Home,"",-,321
+2006,Michigan,418,Louisville,367,10/30/2005,2,3,Home,"",-,523
+2006,Michigan,418,Iowa,312,11/04/2005,3,2,Away,"",-,0
+2006,Michigan,418,Penn St.,539,11/05/2005,2,1,Neutral,"Iowa City, IA",-,0
+2006,Michigan,418,Indiana,306,11/06/2005,3,0,Neutral,"Iowa City, IA",-,0
+2006,Michigan,418,Boston U.,68,11/12/2005,4,3,Neutral,"Columbus, OH",1 OT,0
+2006,Michigan,418,Old Dominion,523,11/13/2005,2,3,Neutral,"Columbus, OH",-,0
+2006,Michigan St.,416,Boston U.,68,08/27/2005,4,3,Neutral,"Louisville, KY",-,157
+2006,Michigan St.,416,Duke,193,08/28/2005,0,3,Neutral,"Louisville, KY",-,117
+2006,Michigan St.,416,California,107,09/02/2005,4,1,Away,"",-,85
+2006,Michigan St.,416,Pacific,534,09/03/2005,2,0,Neutral,"Berkeley, CA",-,150
+2006,Michigan St.,416,Stanford,674,09/05/2005,3,0,Away,"",-,160
+2006,Michigan St.,416,James Madison,317,09/09/2005,3,2,Home,"",-,100
+2006,Michigan St.,416,Saint Louis,609,09/10/2005,2,1,Home,"",-,150
+2006,Michigan St.,416,Kent St.,331,09/17/2005,2,1,Neutral,"Winston-Salem, NC",-,86
+2006,Michigan St.,416,Wake Forest,749,09/18/2005,0,2,Away,"",-,288
+2006,Michigan St.,416,Indiana,306,09/24/2005,2,3,Away,"",-,112
+2006,Michigan St.,416,Central Mich.,129,09/27/2005,3,1,Home,"",-,100
+2006,Michigan St.,416,Iowa,312,10/01/2005,2,3,Away,"",-,104
+2006,Michigan St.,416,Michigan,418,10/06/2005,0,1,Home,"",-,150
+2006,Michigan St.,416,Connecticut,164,10/08/2005,2,4,Neutral,"Ann Arbor, MI",-,0
+2006,Michigan St.,416,Central Mich.,129,10/13/2005,3,0,Away,"",-,80
+2006,Michigan St.,416,Penn St.,539,10/15/2005,1,2,Away,"",-,377
+2006,Michigan St.,416,Northwestern,509,10/22/2005,4,1,Home,"",-,150
+2006,Michigan St.,416,Ohio St.,518,10/29/2005,3,2,Home,"",-,200
+2006,Michigan St.,416,Ohio,519,10/30/2005,2,1,Home,"",-,175
+2006,Michigan St.,416,Ohio St.,518,11/04/2005,0,1,Neutral,"Iowa City, IA",-,0
+2006,Missouri St.,669,Saint Louis,609,08/27/2005,1,2,Away,"",-,183
+2006,Missouri St.,669,Lindenwood (MO),,08/31/2005,0,1,Away,"",-,0
+2006,Missouri St.,669,Louisville,367,09/02/2005,1,6,Away,"",-,0
+2006,Missouri St.,669,La Salle,340,09/03/2005,2,4,Neutral,"Louisville, KY",-,57
+2006,Missouri St.,669,Ohio St.,518,09/17/2005,0,2,Away,"",-,170
+2006,Missouri St.,669,Indiana,306,09/18/2005,0,3,Away,"",-,61
+2006,Missouri St.,669,Central Mich.,129,09/24/2005,0,4,Away,"",-,75
+2006,Missouri St.,669,Central Mich.,129,09/25/2005,2,3,Away,"",-,157
+2006,Missouri St.,669,Kent St.,331,09/30/2005,1,0,Home,"",-,103
+2006,Missouri St.,669,Ohio,519,10/01/2005,0,1,Home,"",-,131
+2006,Missouri St.,669,Saint Louis,609,10/03/2005,1,3,Home,"",-,213
+2006,Missouri St.,669,Ball St.,47,10/08/2005,2,1,Away,"",-,176
+2006,Missouri St.,669,Miami (OH),414,10/09/2005,0,2,Away,"",-,120
+2006,Missouri St.,669,Lindenwood (MO),,10/16/2005,4,3,Home,"",-,117
+2006,Missouri St.,669,Ohio,519,10/21/2005,0,4,Away,"",-,104
+2006,Missouri St.,669,Kent St.,331,10/22/2005,2,4,Away,"",-,96
+2006,Missouri St.,669,Miami (OH),414,10/28/2005,4,3,Home,"",-,157
+2006,Missouri St.,669,Ball St.,47,10/30/2005,2,3,Home,"",-,103
+2006,Missouri St.,669,Central Mich.,129,11/03/2005,0,4,Away,"",-,0
+2006,Monmouth,439,Saint Joseph's,606,08/27/2005,0,4,Away,"",-,500
+2006,Monmouth,439,Lehigh,352,08/28/2005,1,2,Away,"",-,179
+2006,Monmouth,439,Columbia,158,09/03/2005,2,3,Neutral,"Hempstead, NY",-,110
+2006,Monmouth,439,Hofstra,283,09/04/2005,1,2,Away,"",-,120
+2006,Monmouth,439,North Carolina,457,09/11/2005,0,7,Neutral,"Philadelphia, PA",-,300
+2006,Monmouth,439,La Salle,340,09/13/2005,3,1,Home,"",-,115
+2006,Monmouth,439,Virginia,746,09/18/2005,0,5,Away,"",-,0
+2006,Monmouth,439,Robert Morris,579,09/25/2005,1,0,Away,"",-,105
+2006,Monmouth,439,West Chester,765,09/28/2005,1,4,Away,"",-,150
+2006,Monmouth,439,Quinnipiac,562,09/30/2005,1,2,Away,"",-,156
+2006,Monmouth,439,Fairfield,220,10/02/2005,1,3,Away,"",-,277
+2006,Monmouth,439,Villanova,739,10/05/2005,0,5,Home,"",-,80
+2006,Monmouth,439,Saint Francis (PA),600,10/07/2005,6,1,Home,"",-,15
+2006,Monmouth,439,Lock Haven,360,10/09/2005,0,3,Home,"",-,150
+2006,Monmouth,439,Penn,540,10/12/2005,0,3,Away,"",-,87
+2006,Monmouth,439,Lafayette,342,10/18/2005,0,5,Away,"",-,84
+2006,Monmouth,439,Siena,639,10/21/2005,2,0,Away,"",-,195
+2006,Monmouth,439,Sacred Heart,590,10/23/2005,2,4,Home,"",-,150
+2006,Monmouth,439,Rider,576,10/25/2005,0,1,Home,"",-,80
+2006,New Hampshire,469,Indiana,306,08/27/2005,1,3,Home,"",-,156
+2006,New Hampshire,469,Sacred Heart,590,08/28/2005,5,3,Home,"",-,138
+2006,New Hampshire,469,Central Mich.,129,09/03/2005,2,5,Neutral,"Fenton, MO",-,0
+2006,New Hampshire,469,Saint Louis,609,09/04/2005,2,0,Away,"",-,65
+2006,New Hampshire,469,Harvard,275,09/08/2005,0,3,Away,"",-,153
+2006,New Hampshire,469,Rider,576,09/11/2005,4,2,Home,"",-,166
+2006,New Hampshire,469,Connecticut,164,09/14/2005,0,8,Away,"",-,212
+2006,New Hampshire,469,Massachusetts,400,09/17/2005,2,3,Home,"",-,161
+2006,New Hampshire,469,Holy Cross,285,09/18/2005,1,2,Home,"",-,163
+2006,New Hampshire,469,Northeastern,500,09/23/2005,1,7,Home,"",-,147
+2006,New Hampshire,469,Boston U.,68,10/01/2005,0,3,Away,"",-,247
+2006,New Hampshire,469,Dartmouth,172,10/02/2005,4,1,Away,"",-,102
+2006,New Hampshire,469,Albany (NY),14,10/08/2005,2,1,Away,"",-,0
+2006,New Hampshire,469,Yale,813,10/09/2005,1,4,Away,"",-,100
+2006,New Hampshire,469,Maine,380,10/14/2005,2,3,Home,"",-,142
+2006,New Hampshire,469,Providence,556,10/16/2005,1,0,Away,"",-,147
+2006,New Hampshire,469,Vermont,738,10/21/2005,0,4,Away,"",-,155
+2006,New Hampshire,469,Boston College,67,10/23/2005,2,3,Home,"",-,147
+2006,New Hampshire,469,UMBC,391,10/29/2005,7,0,Home,"",-,212
+2006,North Carolina,457,Michigan,418,08/27/2005,2,0,Neutral,"Iowa City, IA",-,0
+2006,North Carolina,457,Iowa,312,08/28/2005,1,0,Away,"",-,205
+2006,North Carolina,457,William & Mary,786,09/03/2005,3,1,Away,"",-,160
+2006,North Carolina,457,James Madison,317,09/05/2005,1,0,Home,"",-,224
+2006,North Carolina,457,Temple,690,09/10/2005,1,0,Away,"",-,200
+2006,North Carolina,457,Monmouth,439,09/11/2005,7,0,Neutral,"Philadelphia, PA",-,300
+2006,North Carolina,457,Old Dominion,523,09/17/2005,1,0,Home,"",-,417
+2006,North Carolina,457,Duke,193,09/23/2005,1,2,Home,"",-,703
+2006,North Carolina,457,Radford,563,09/25/2005,4,0,Home,"",-,112
+2006,North Carolina,457,Wake Forest,749,10/01/2005,0,2,Away,"",-,467
+2006,North Carolina,457,Boston College,67,10/08/2005,3,1,Home,"",-,375
+2006,North Carolina,457,Stanford,674,10/09/2005,4,0,Neutral,"Winston-Salem, NC",-,68
+2006,North Carolina,457,Davidson,173,10/11/2005,7,0,Away,"",-,41
+2006,North Carolina,457,Wake Forest,749,10/14/2005,2,3,Home,"",-,623
+2006,North Carolina,457,Maryland,392,10/23/2005,1,2,Home,"",-,289
+2006,North Carolina,457,Virginia,746,10/26/2005,3,1,Away,"",-,0
+2006,North Carolina,457,Old Dominion,523,10/29/2005,0,5,Away,"",-,319
+2006,North Carolina,457,Penn St.,539,10/30/2005,3,2,Home,"",-,693
+2006,North Carolina,457,Boston College,67,11/03/2005,2,1,Neutral,"College Park, MD",-,0
+2006,North Carolina,457,Wake Forest,749,11/04/2005,1,2,Neutral,"College Park, MD",1 OT,0
+2006,North Carolina,457,Indiana,306,11/12/2005,2,3,Neutral,"Winston-Salem, NC",-,0
+2006,Northeastern,500,Ohio,519,08/27/2005,7,2,Home,"",-,275
+2006,Northeastern,500,Indiana,306,08/28/2005,2,3,Home,"",-,240
+2006,Northeastern,500,Massachusetts,400,09/02/2005,4,1,Away,"",-,277
+2006,Northeastern,500,Providence,556,09/04/2005,5,2,Away,"",-,327
+2006,Northeastern,500,Holy Cross,285,09/10/2005,6,3,Away,"",-,211
+2006,Northeastern,500,Boston U.,68,09/16/2005,3,2,Home,"",-,267
+2006,Northeastern,500,Princeton,554,09/18/2005,3,1,Home,"",-,240
+2006,Northeastern,500,New Hampshire,469,09/23/2005,7,1,Away,"",-,147
+2006,Northeastern,500,Towson,711,09/25/2005,3,1,Home,"",-,261
+2006,Northeastern,500,Brown,80,09/28/2005,3,2,Away,"",-,107
+2006,Northeastern,500,Hofstra,283,09/30/2005,4,0,Home,"",-,229
+2006,Northeastern,500,Delaware,180,10/02/2005,5,1,Away,"",-,650
+2006,Northeastern,500,Harvard,275,10/05/2005,3,2,Home,"",-,227
+2006,Northeastern,500,Drexel,191,10/07/2005,5,3,Away,"",-,50
+2006,Northeastern,500,Connecticut,164,10/12/2005,2,3,Home,"",-,207
+2006,Northeastern,500,Boston College,67,10/15/2005,1,2,Home,"",-,217
+2006,Northeastern,500,Old Dominion,523,10/21/2005,1,3,Home,"",-,284
+2006,Northeastern,500,William & Mary,786,10/23/2005,2,1,Home,"",-,243
+2006,Northeastern,500,VCU,740,10/28/2005,3,1,Away,"",-,100
+2006,Northeastern,500,James Madison,317,10/30/2005,2,3,Away,"",-,100
+2006,Northeastern,500,Hofstra,283,11/05/2005,3,2,Neutral,"Norfolk, VA",-,0
+2006,Northeastern,500,Old Dominion,523,11/06/2005,0,3,Away,"",-,0
+2006,Northwestern,509,Maryland,392,08/27/2005,2,5,Home,"",-,160
+2006,Northwestern,509,Fairfield,220,09/03/2005,4,3,Away,"",-,145
+2006,Northwestern,509,Yale,813,09/04/2005,2,1,Away,"",-,200
+2006,Northwestern,509,Central Mich.,129,09/09/2005,4,2,Home,"",-,100
+2006,Northwestern,509,Virginia,746,09/11/2005,4,3,Home,"",-,115
+2006,Northwestern,509,Ball St.,47,09/16/2005,4,3,Home,"",-,75
+2006,Northwestern,509,Louisville,367,09/18/2005,3,4,Home,"",-,207
+2006,Northwestern,509,Penn St.,539,09/24/2005,2,6,Away,"",-,0
+2006,Northwestern,509,Bucknell,83,09/25/2005,4,1,Away,"",-,115
+2006,Northwestern,509,Ohio St.,518,10/01/2005,2,3,Home,"",-,204
+2006,Northwestern,509,Iowa,312,10/04/2005,3,4,Away,"",-,67
+2006,Northwestern,509,Indiana,306,10/08/2005,1,3,Away,"",-,86
+2006,Northwestern,509,Lindenwood (MO),,10/09/2005,5,0,Neutral,"Bloomington, IN",-,37
+2006,Northwestern,509,Iowa,312,10/14/2005,1,3,Home,"",-,98
+2006,Northwestern,509,Michigan,418,10/16/2005,1,6,Home,"",-,0
+2006,Northwestern,509,Michigan St.,416,10/22/2005,1,4,Away,"",-,150
+2006,Northwestern,509,Duke,193,10/28/2005,0,9,Away,"",-,162
+2006,Northwestern,509,Wake Forest,749,10/29/2005,0,7,Away,"",-,167
+2006,Northwestern,509,Indiana,306,11/04/2005,1,2,Neutral,"Iowa City, IA",1 OT,0
+2006,Ohio,519,Northeastern,500,08/27/2005,2,7,Away,"",-,275
+2006,Ohio,519,Providence,556,08/28/2005,2,1,Away,"",-,300
+2006,Ohio,519,Maryland,392,08/30/2005,1,3,Neutral,"Columbus, OH",-,103
+2006,Ohio,519,Maine,380,09/09/2005,2,3,Home,"",-,145
+2006,Ohio,519,Albany (NY),14,09/11/2005,2,3,Home,"",-,179
+2006,Ohio,519,Indiana,306,09/17/2005,1,4,Away,"",-,72
+2006,Ohio,519,Ball St.,47,09/23/2005,5,1,Away,"",-,67
+2006,Ohio,519,Miami (OH),414,09/24/2005,4,2,Away,"",-,178
+2006,Ohio,519,Ohio St.,518,09/28/2005,0,4,Away,"",-,146
+2006,Ohio,519,Missouri St.,669,10/01/2005,1,0,Away,"",-,131
+2006,Ohio,519,Saint Louis,609,10/02/2005,1,0,Away,"",-,50
+2006,Ohio,519,Central Mich.,129,10/08/2005,4,2,Home,"",-,75
+2006,Ohio,519,Kent St.,331,10/09/2005,2,3,Home,"",-,123
+2006,Ohio,519,Ball St.,47,10/14/2005,3,0,Home,"",-,156
+2006,Ohio,519,Miami (OH),414,10/15/2005,1,5,Home,"",-,171
+2006,Ohio,519,Missouri St.,669,10/21/2005,4,0,Home,"",-,104
+2006,Ohio,519,Kent St.,331,10/23/2005,0,1,Away,"",-,315
+2006,Ohio,519,Central Mich.,129,10/29/2005,2,3,Away,"",-,75
+2006,Ohio,519,Michigan St.,416,10/30/2005,1,2,Away,"",-,175
+2006,Ohio,519,Miami (OH),414,11/04/2005,0,1,Neutral,"Mt. Pleasant, MI",-,0
+2006,Ohio St.,518,Maryland,392,08/29/2005,1,2,Home,"",-,176
+2006,Ohio St.,518,Richmond,575,09/03/2005,3,1,Neutral,"Newark, DE",-,225
+2006,Ohio St.,518,Duke,193,09/04/2005,1,3,Neutral,"Newark, DE",-,225
+2006,Ohio St.,518,Albany (NY),14,09/09/2005,4,1,Home,"",-,210
+2006,Ohio St.,518,Maine,380,09/11/2005,6,0,Home,"",-,174
+2006,Ohio St.,518,Louisville,367,09/14/2005,4,3,Home,"",-,139
+2006,Ohio St.,518,Missouri St.,669,09/17/2005,2,0,Home,"",-,170
+2006,Ohio St.,518,Ball St.,47,09/20/2005,6,1,Away,"",-,77
+2006,Ohio St.,518,Michigan,418,09/23/2005,6,1,Home,"",-,357
+2006,Ohio St.,518,Iowa,312,09/25/2005,4,2,Home,"",-,307
+2006,Ohio St.,518,Ohio,519,09/28/2005,4,0,Home,"",-,146
+2006,Ohio St.,518,Northwestern,509,10/01/2005,3,2,Away,"",-,204
+2006,Ohio St.,518,Miami (OH),414,10/05/2005,3,2,Away,"",-,153
+2006,Ohio St.,518,Kent St.,331,10/11/2005,4,2,Home,"",-,185
+2006,Ohio St.,518,Indiana,306,10/14/2005,1,2,Home,"",-,452
+2006,Ohio St.,518,Central Mich.,129,10/16/2005,6,1,Home,"",-,303
+2006,Ohio St.,518,Penn St.,539,10/22/2005,0,2,Away,"",-,0
+2006,Ohio St.,518,Lock Haven,360,10/23/2005,4,2,Neutral,"University Park, PA",-,138
+2006,Ohio St.,518,Michigan St.,416,10/29/2005,2,3,Away,"",-,200
+2006,Ohio St.,518,Michigan St.,416,11/04/2005,1,0,Neutral,"Iowa City, IA",-,0
+2006,Ohio St.,518,Indiana,306,11/05/2005,1,3,Neutral,"Iowa City, IA",-,0
+2006,Ohio St.,518,Old Dominion,523,11/12/2005,4,5,Home,"",-,0
+2006,Old Dominion,523,Penn St.,539,08/27/2005,3,1,Home,"",-,311
+2006,Old Dominion,523,American,23,08/28/2005,2,3,Home,"",-,278
+2006,Old Dominion,523,Virginia,746,09/03/2005,4,0,Home,"",-,214
+2006,Old Dominion,523,Maryland,392,09/04/2005,1,2,Home,"",-,289
+2006,Old Dominion,523,Michigan,418,09/10/2005,3,4,Away,"",-,422
+2006,Old Dominion,523,Miami (OH),414,09/11/2005,7,0,Neutral,"Ann Arbor, MI",-,167
+2006,Old Dominion,523,North Carolina,457,09/17/2005,0,1,Away,"",-,417
+2006,Old Dominion,523,Duke,193,09/18/2005,5,2,Away,"",-,153
+2006,Old Dominion,523,Richmond,575,09/23/2005,5,2,Away,"",-,443
+2006,Old Dominion,523,Drexel,191,09/25/2005,7,0,Home,"",-,117
+2006,Old Dominion,523,James Madison,317,09/30/2005,3,2,Home,"",-,102
+2006,Old Dominion,523,Towson,711,10/02/2005,8,2,Away,"",-,140
+2006,Old Dominion,523,VCU,740,10/07/2005,5,0,Home,"",-,94
+2006,Old Dominion,523,Delaware,180,10/09/2005,6,2,Home,"",-,102
+2006,Old Dominion,523,Maryland,392,10/14/2005,4,1,Away,"",-,432
+2006,Old Dominion,523,Duke,193,10/16/2005,2,3,Home,"",-,121
+2006,Old Dominion,523,Northeastern,500,10/21/2005,3,1,Away,"",-,284
+2006,Old Dominion,523,Hofstra,283,10/23/2005,1,0,Away,"",-,150
+2006,Old Dominion,523,North Carolina,457,10/29/2005,5,0,Home,"",-,319
+2006,Old Dominion,523,William & Mary,786,10/30/2005,4,1,Away,"",-,342
+2006,Old Dominion,523,William & Mary,786,11/05/2005,3,1,Home,"",-,0
+2006,Old Dominion,523,Northeastern,500,11/06/2005,3,0,Home,"",-,0
+2006,Old Dominion,523,Ohio St.,518,11/12/2005,5,4,Away,"",-,0
+2006,Old Dominion,523,Michigan,418,11/13/2005,3,2,Neutral,"Columbus, OH",-,0
+2006,Old Dominion,523,Maryland,392,11/18/2005,2,3,Neutral,"Louisville, KY",-,0
+2006,Pacific,534,Delaware,180,08/27/2005,2,3,Neutral,"Berkeley, CA",1 OT,0
+2006,Pacific,534,Miami (OH),414,08/28/2005,2,0,Home,"",-,0
+2006,Pacific,534,Syracuse,688,09/02/2005,4,0,Neutral,"Berkeley, CA",-,0
+2006,Pacific,534,Michigan St.,416,09/03/2005,0,2,Neutral,"Berkeley, CA",-,0
+2006,Pacific,534,Iowa,312,09/05/2005,1,8,Neutral,"Berkeley, CA",-,0
+2006,Pacific,534,Louisville,367,09/08/2005,1,4,Away,"",-,0
+2006,Pacific,534,Indiana,306,09/09/2005,0,6,Away,"",-,0
+2006,Pacific,534,Appalachian St.,27,09/11/2005,5,1,Neutral,"Louisville, KY",-,0
+2006,Pacific,534,California,107,09/23/2005,2,1,Home,"",-,0
+2006,Pacific,534,Stanford,674,09/25/2005,1,2,Home,"",-,0
+2006,Pacific,534,Stanford,674,10/01/2005,4,3,Away,"",4 OT,0
+2006,Pacific,534,California,107,10/08/2005,1,6,Away,"",-,0
+2006,Pacific,534,William & Mary,786,10/13/2005,0,4,Away,"",-,0
+2006,Pacific,534,VCU,740,10/14/2005,1,3,Away,"",-,0
+2006,Pacific,534,Davidson,173,10/16/2005,3,1,Neutral,"Williamsburg, VA",-,0
+2006,Pacific,534,Longwood,363,10/18/2005,6,1,Home,"",-,0
+2006,Pacific,534,Michigan,418,10/23/2005,0,3,Neutral,"Berkeley, CA",-,0
+2006,Pacific,534,Radford,563,10/29/2005,2,3,Home,"",-,0
+2006,Pacific,534,Radford,563,11/04/2005,2,1,Neutral,"Berkeley, CA",2 OT,0
+2006,Pacific,534,California,107,11/05/2005,0,4,Away,"",-,0
+2006,Penn,540,Rutgers,587,09/02/2005,4,0,Away,"",-,123
+2006,Penn,540,Drexel,191,09/04/2005,1,3,Away,"",-,250
+2006,Penn,540,Saint Joseph's,606,09/07/2005,2,1,Away,"",-,150
+2006,Penn,540,Harvard,275,09/10/2005,0,1,Away,"",-,126
+2006,Penn,540,Lafayette,342,09/14/2005,2,0,Home,"",-,124
+2006,Penn,540,Cornell,167,09/17/2005,1,3,Home,"",-,84
+2006,Penn,540,Maryland,392,09/21/2005,1,3,Away,"",-,173
+2006,Penn,540,Villanova,739,09/28/2005,3,2,Home,"",-,102
+2006,Penn,540,Dartmouth,172,10/01/2005,1,0,Home,"",-,150
+2006,Penn,540,Temple,690,10/05/2005,2,3,Away,"",-,115
+2006,Penn,540,Virginia,746,10/08/2005,1,2,Away,"",-,0
+2006,Penn,540,Monmouth,439,10/12/2005,3,0,Home,"",-,87
+2006,Penn,540,Georgetown,251,10/19/2005,3,0,Home,"",-,103
+2006,Penn,540,Yale,813,10/23/2005,1,0,Home,"",-,130
+2006,Penn,540,Columbia,158,10/26/2005,2,1,Away,"",-,120
+2006,Penn,540,Brown,80,10/29/2005,0,1,Away,"",-,118
+2006,Penn,540,Princeton,554,11/04/2005,1,2,Home,"",-,0
+2006,Penn St.,539,Old Dominion,523,08/27/2005,1,3,Away,"",-,311
+2006,Penn St.,539,William & Mary,786,08/28/2005,1,0,Away,"",-,207
+2006,Penn St.,539,Lock Haven,360,09/02/2005,4,1,Home,"",-,357
+2006,Penn St.,539,Connecticut,164,09/04/2005,3,1,Home,"",-,678
+2006,Penn St.,539,Princeton,554,09/07/2005,1,0,Away,"",-,385
+2006,Penn St.,539,Villanova,739,09/09/2005,3,1,Home,"",-,340
+2006,Penn St.,539,Saint Joseph's,606,09/11/2005,6,1,Home,"",-,522
+2006,Penn St.,539,Temple,690,09/14/2005,5,0,Away,"",-,150
+2006,Penn St.,539,Lafayette,342,09/16/2005,7,0,Away,"",-,102
+2006,Penn St.,539,West Chester,765,09/18/2005,6,0,Home,"",-,462
+2006,Penn St.,539,Northwestern,509,09/24/2005,6,2,Home,"",-,0
+2006,Penn St.,539,Syracuse,688,09/28/2005,3,0,Home,"",-,277
+2006,Penn St.,539,Michigan,418,10/02/2005,3,2,Away,"",-,374
+2006,Penn St.,539,Iowa,312,10/08/2005,4,0,Away,"",-,106
+2006,Penn St.,539,Michigan St.,416,10/15/2005,2,1,Home,"",-,377
+2006,Penn St.,539,Bucknell,83,10/18/2005,6,0,Home,"",-,172
+2006,Penn St.,539,Ohio St.,518,10/22/2005,2,0,Home,"",-,0
+2006,Penn St.,539,Indiana,306,10/28/2005,4,3,Away,"",-,186
+2006,Penn St.,539,North Carolina,457,10/30/2005,2,3,Away,"",-,693
+2006,Penn St.,539,Michigan,418,11/05/2005,1,2,Neutral,"Iowa City, IA",-,0
+2006,Penn St.,539,American,23,11/12/2005,2,3,Neutral,"College Park, MD",-,0
+2006,Princeton,554,American,23,09/03/2005,1,4,Away,"",-,649
+2006,Princeton,554,Penn St.,539,09/07/2005,0,1,Home,"",-,385
+2006,Princeton,554,Yale,813,09/10/2005,5,1,Home,"",-,119
+2006,Princeton,554,Connecticut,164,09/11/2005,2,4,Home,"",-,345
+2006,Princeton,554,Dartmouth,172,09/17/2005,4,0,Away,"",-,217
+2006,Princeton,554,Northeastern,500,09/18/2005,1,3,Away,"",-,240
+2006,Princeton,554,Columbia,158,09/24/2005,3,0,Home,"",-,123
+2006,Princeton,554,Albany (NY),14,09/25/2005,3,0,Home,"",-,200
+2006,Princeton,554,Cornell,167,09/30/2005,2,1,Home,"",-,122
+2006,Princeton,554,Villanova,739,10/02/2005,2,3,Home,"",-,225
+2006,Princeton,554,Hofstra,283,10/07/2005,0,3,Home,"",-,75
+2006,Princeton,554,Maryland,392,10/11/2005,1,5,Away,"",-,213
+2006,Princeton,554,Brown,80,10/15/2005,3,0,Away,"",-,78
+2006,Princeton,554,Boston U.,68,10/16/2005,1,2,Away,"",-,173
+2006,Princeton,554,Harvard,275,10/22/2005,2,1,Away,"",-,224
+2006,Princeton,554,Rutgers,587,10/28/2005,5,0,Home,"",-,300
+2006,Princeton,554,Penn,540,11/04/2005,2,1,Away,"",-,0
+2006,Princeton,554,Duke,193,11/12/2005,1,2,Home,"",2 OT,0
+2006,Providence,556,Ohio,519,08/28/2005,1,2,Home,"",-,300
+2006,Providence,556,Vermont,738,09/03/2005,8,1,Home,"",-,232
+2006,Providence,556,Northeastern,500,09/04/2005,2,5,Home,"",-,327
+2006,Providence,556,Holy Cross,285,09/07/2005,4,3,Home,"",-,448
+2006,Providence,556,Ball St.,47,09/10/2005,1,2,Neutral,"Iowa City, IA",-,57
+2006,Providence,556,Iowa,312,09/11/2005,0,5,Away,"",-,97
+2006,Providence,556,Rhode Island,572,09/16/2005,2,3,Home,"",-,256
+2006,Providence,556,Dartmouth,172,09/18/2005,1,2,Away,"",-,168
+2006,Providence,556,Boston College,67,09/21/2005,3,4,Home,"",-,276
+2006,Providence,556,Maine,380,09/24/2005,3,5,Home,"",-,231
+2006,Providence,556,Colgate,153,09/25/2005,3,1,Home,"",-,223
+2006,Providence,556,Harvard,275,09/28/2005,2,1,Home,"",-,178
+2006,Providence,556,Louisville,367,10/02/2005,1,6,Home,"",-,281
+2006,Providence,556,Rutgers,587,10/07/2005,2,1,Away,"",-,40
+2006,Providence,556,Syracuse,688,10/15/2005,1,2,Home,"",-,231
+2006,Providence,556,New Hampshire,469,10/16/2005,0,1,Home,"",-,147
+2006,Providence,556,Brown,80,10/19/2005,4,3,Home,"",-,76
+2006,Providence,556,Villanova,739,10/23/2005,1,4,Away,"",-,327
+2006,Providence,556,Connecticut,164,10/29/2005,0,5,Away,"",-,138
+2006,Quinnipiac,562,La Salle,340,08/27/2005,1,0,Neutral,"Hempstead, NY",-,110
+2006,Quinnipiac,562,Rhode Island,572,08/28/2005,0,1,Neutral,"Hempstead, NY",-,110
+2006,Quinnipiac,562,Holy Cross,285,09/04/2005,2,1,Home,"",-,157
+2006,Quinnipiac,562,Connecticut,164,09/08/2005,0,1,Home,"",-,137
+2006,Quinnipiac,562,Boston U.,68,09/11/2005,0,3,Home,"",-,117
+2006,Quinnipiac,562,Fairfield,220,09/16/2005,2,1,Away,"",-,127
+2006,Quinnipiac,562,Radford,563,09/18/2005,3,0,Home,"",-,132
+2006,Quinnipiac,562,Siena,639,09/23/2005,3,0,Home,"",-,236
+2006,Quinnipiac,562,Monmouth,439,09/30/2005,2,1,Home,"",-,156
+2006,Quinnipiac,562,Robert Morris,579,10/02/2005,4,0,Home,"",-,228
+2006,Quinnipiac,562,Sacred Heart,590,10/07/2005,0,5,Home,"",-,136
+2006,Quinnipiac,562,Columbia,158,10/09/2005,1,2,Home,"",-,125
+2006,Quinnipiac,562,Maine,380,10/11/2005,2,1,Home,"",-,73
+2006,Quinnipiac,562,Saint Francis (PA),600,10/14/2005,5,1,Away,"",-,237
+2006,Quinnipiac,562,Lock Haven,360,10/16/2005,0,2,Away,"",-,117
+2006,Quinnipiac,562,Yale,813,10/19/2005,0,2,Home,"",-,207
+2006,Quinnipiac,562,Syracuse,688,10/21/2005,0,3,Away,"",-,113
+2006,Quinnipiac,562,Rider,576,10/23/2005,0,2,Away,"",-,200
+2006,Quinnipiac,562,Sacred Heart,590,10/28/2005,1,2,Neutral,"Lawrenceville, NJ",-,250
+2006,Radford,563,Richmond,575,08/28/2005,0,3,Away,"",-,0
+2006,Radford,563,James Madison,317,08/31/2005,0,2,Away,"",-,0
+2006,Radford,563,Georgetown,251,09/03/2005,3,2,Neutral,"Harrisonburg, VA",4 OT,0
+2006,Radford,563,Robert Morris,579,09/04/2005,2,1,Home,"",1 OT,0
+2006,Radford,563,Davidson,173,09/10/2005,3,1,Home,"",-,0
+2006,Radford,563,Fairfield,220,09/17/2005,2,1,Away,"",-,0
+2006,Radford,563,Quinnipiac,562,09/18/2005,0,3,Away,"",-,0
+2006,Radford,563,Appalachian St.,27,09/21/2005,3,0,Away,"",-,0
+2006,Radford,563,VCU,740,09/23/2005,0,1,Away,"",-,0
+2006,Radford,563,North Carolina,457,09/25/2005,0,4,Away,"",-,0
+2006,Radford,563,California,107,10/01/2005,0,3,Neutral,"Davidson, NC",-,0
+2006,Radford,563,Virginia,746,10/05/2005,0,2,Away,"",-,0
+2006,Radford,563,Longwood,363,10/09/2005,1,0,Home,"",-,0
+2006,Radford,563,Wake Forest,749,10/19/2005,0,4,Away,"",-,0
+2006,Radford,563,Rutgers,587,10/22/2005,1,2,Neutral,"Louisville, KY",-,0
+2006,Radford,563,Louisville,367,10/23/2005,0,8,Away,"",-,0
+2006,Radford,563,Pacific,534,10/29/2005,3,2,Away,"",-,0
+2006,Radford,563,Stanford,674,10/31/2005,2,3,Away,"",-,0
+2006,Radford,563,Davidson,173,11/03/2005,4,3,Neutral,"Berkeley, CA",-,0
+2006,Radford,563,Pacific,534,11/04/2005,1,2,Neutral,"Berkeley, CA",2 OT,0
+2006,Radford,563,Stanford,674,11/05/2005,3,0,Neutral,"Berkeley, CA",-,0
+2006,Rhode Island,572,Hofstra,283,08/27/2005,1,6,Away,"",-,110
+2006,Rhode Island,572,Quinnipiac,562,08/28/2005,1,0,Neutral,"Hempstead, NY",-,110
+2006,Rhode Island,572,Siena,639,09/03/2005,4,0,Home,"",-,86
+2006,Rhode Island,572,Sacred Heart,590,09/04/2005,3,2,Home,"",-,104
+2006,Rhode Island,572,Rider,576,09/10/2005,1,3,Home,"",-,98
+2006,Rhode Island,572,Holy Cross,285,09/14/2005,1,3,Away,"",-,317
+2006,Rhode Island,572,Providence,556,09/16/2005,3,2,Away,"",-,256
+2006,Rhode Island,572,Brown,80,09/21/2005,2,6,Away,"",-,118
+2006,Rhode Island,572,Maine,380,09/25/2005,3,2,Home,"",-,176
+2006,Rhode Island,572,Yale,813,10/01/2005,2,3,Away,"",-,100
+2006,Rhode Island,572,Saint Louis,609,10/07/2005,1,2,Away,"",-,41
+2006,Rhode Island,572,Richmond,575,10/09/2005,0,8,Away,"",-,232
+2006,Rhode Island,572,West Chester,765,10/14/2005,2,3,Neutral,"Providence, RI",-,27
+2006,Rhode Island,572,La Salle,340,10/16/2005,3,2,Home,"",-,122
+2006,Rhode Island,572,Temple,690,10/21/2005,0,3,Away,"",-,110
+2006,Rhode Island,572,Saint Joseph's,606,10/23/2005,3,2,Away,"",-,175
+2006,Rhode Island,572,Massachusetts,400,10/30/2005,1,2,Home,"",-,200
+2006,Richmond,575,American,23,08/27/2005,1,3,Home,"",-,211
+2006,Richmond,575,Radford,563,08/28/2005,3,0,Home,"",-,204
+2006,Richmond,575,Ohio St.,518,09/03/2005,1,3,Neutral,"Newark, DE",-,125
+2006,Richmond,575,Delaware,180,09/04/2005,3,2,Away,"",-,400
+2006,Richmond,575,VCU,740,09/09/2005,1,0,Away,"",-,125
+2006,Richmond,575,Towson,711,09/11/2005,2,0,Away,"",-,165
+2006,Richmond,575,William & Mary,786,09/18/2005,2,1,Home,"",-,263
+2006,Richmond,575,James Madison,317,09/21/2005,0,1,Away,"",-,100
+2006,Richmond,575,Old Dominion,523,09/23/2005,2,5,Home,"",-,443
+2006,Richmond,575,Wake Forest,749,10/02/2005,2,4,Away,"",-,266
+2006,Richmond,575,Massachusetts,400,10/07/2005,4,1,Home,"",-,152
+2006,Richmond,575,Rhode Island,572,10/09/2005,8,0,Home,"",-,232
+2006,Richmond,575,Saint Joseph's,606,10/14/2005,9,1,Home,"",-,171
+2006,Richmond,575,Temple,690,10/16/2005,4,0,Home,"",-,356
+2006,Richmond,575,La Salle,340,10/21/2005,2,1,Away,"",-,212
+2006,Richmond,575,West Chester,765,10/23/2005,9,0,Away,"",-,150
+2006,Richmond,575,Virginia,746,10/26/2005,1,0,Away,"",-,343
+2006,Richmond,575,Saint Louis,609,10/30/2005,3,0,Away,"",-,213
+2006,Richmond,575,Saint Joseph's,606,11/04/2005,3,1,Neutral,"Philadelphia, PA",-,0
+2006,Richmond,575,Massachusetts,400,11/05/2005,7,1,Neutral,"Philadelphia, PA",-,0
+2006,Richmond,575,Sacred Heart,590,11/08/2005,7,2,Home,"",-,0
+2006,Richmond,575,Maryland,392,11/12/2005,0,4,Away,"",-,0
+2006,Rider,576,Davidson,173,08/27/2005,2,3,Away,"",1 OT,223
+2006,Rider,576,Catawba,1001,08/28/2005,9,0,Away,"",-,118
+2006,Rider,576,West Chester,765,08/31/2005,1,2,Home,"",-,200
+2006,Rider,576,Colgate,153,09/03/2005,4,1,Home,"",-,100
+2006,Rider,576,Rhode Island,572,09/10/2005,3,1,Away,"",-,98
+2006,Rider,576,New Hampshire,469,09/11/2005,2,4,Away,"",-,166
+2006,Rider,576,Longwood,363,09/18/2005,2,1,Neutral,"Virginia Beach, VA",-,145
+2006,Rider,576,Robert Morris,579,09/23/2005,0,1,Away,"",-,70
+2006,Rider,576,La Salle,340,09/25/2005,1,0,Away,"",-,50
+2006,Rider,576,Siena,639,09/30/2005,4,1,Away,"",-,165
+2006,Rider,576,Sacred Heart,590,10/02/2005,4,0,Away,"",-,110
+2006,Rider,576,Lock Haven,360,10/07/2005,2,1,Home,"",-,110
+2006,Rider,576,Saint Francis (PA),600,10/09/2005,4,0,Home,"",-,75
+2006,Rider,576,Lafayette,342,10/12/2005,1,2,Away,"",-,61
+2006,Rider,576,Fairfield,220,10/18/2005,3,0,Home,"",-,100
+2006,Rider,576,Lehigh,352,10/19/2005,4,3,Away,"",-,248
+2006,Rider,576,Quinnipiac,562,10/23/2005,2,0,Home,"",-,200
+2006,Rider,576,Monmouth,439,10/25/2005,1,0,Away,"",-,80
+2006,Rider,576,Fairfield,220,10/28/2005,3,2,Home,"",-,250
+2006,Rider,576,Sacred Heart,590,10/29/2005,0,1,Home,"",-,250
+2006,Robert Morris,579,Seton Hill,,08/28/2005,1,0,Home,"",-,101
+2006,Robert Morris,579,Longwood,363,09/03/2005,1,6,Neutral,"Harrisonburg, VA",-,127
+2006,Robert Morris,579,Radford,563,09/04/2005,1,2,Away,"",1 OT,59
+2006,Robert Morris,579,La Salle,340,09/09/2005,0,1,Home,"",-,60
+2006,Robert Morris,579,Saint Joseph's,606,09/10/2005,2,3,Home,"",-,70
+2006,Robert Morris,579,Colgate,153,09/17/2005,0,2,Away,"",-,127
+2006,Robert Morris,579,Siena,639,09/18/2005,1,2,Away,"",-,185
+2006,Robert Morris,579,Rider,576,09/23/2005,1,0,Home,"",-,70
+2006,Robert Morris,579,Monmouth,439,09/25/2005,0,1,Home,"",-,105
+2006,Robert Morris,579,Fairfield,220,09/30/2005,0,5,Away,"",-,123
+2006,Robert Morris,579,Quinnipiac,562,10/02/2005,0,4,Away,"",-,228
+2006,Robert Morris,579,Bellarmine,52,10/07/2005,0,1,Home,"",-,40
+2006,Robert Morris,579,UMBC,391,10/09/2005,3,9,Home,"",-,75
+2006,Robert Morris,579,Lock Haven,360,10/12/2005,0,2,Home,"",-,56
+2006,Robert Morris,579,Sacred Heart,590,10/16/2005,0,3,Away,"",-,105
+2006,Robert Morris,579,Saint Francis (PA),600,10/21/2005,2,1,Home,"",-,75
+2006,Rutgers,587,West Chester,765,08/27/2005,3,2,Home,"",-,85
+2006,Rutgers,587,Drexel,191,08/28/2005,3,1,Home,"",-,91
+2006,Rutgers,587,Penn,540,09/02/2005,0,4,Home,"",-,123
+2006,Rutgers,587,VCU,740,09/04/2005,3,2,Home,"",-,85
+2006,Rutgers,587,Delaware,180,09/09/2005,1,4,Away,"",-,250
+2006,Rutgers,587,Lafayette,342,09/11/2005,2,1,Home,"",-,0
+2006,Rutgers,587,Syracuse,688,09/16/2005,1,5,Away,"",-,202
+2006,Rutgers,587,Albany (NY),14,09/18/2005,2,1,Away,"",-,0
+2006,Rutgers,587,Villanova,739,09/23/2005,2,5,Home,"",-,150
+2006,Rutgers,587,Saint Joseph's,606,09/25/2005,1,3,Away,"",-,125
+2006,Rutgers,587,Temple,690,09/29/2005,2,1,Home,"",-,100
+2006,Rutgers,587,Maryland,392,10/02/2005,1,7,Away,"",-,314
+2006,Rutgers,587,Providence,556,10/07/2005,1,2,Home,"",-,40
+2006,Rutgers,587,American,23,10/09/2005,2,4,Home,"",-,90
+2006,Rutgers,587,Connecticut,164,10/15/2005,1,4,Home,"",-,215
+2006,Rutgers,587,Louisville,367,10/21/2005,1,8,Away,"",-,259
+2006,Rutgers,587,Radford,563,10/22/2005,2,1,Neutral,"Louisville, KY",-,78
+2006,Rutgers,587,Princeton,554,10/28/2005,0,5,Away,"",-,300
+2006,Rutgers,587,Columbia,158,10/30/2005,0,1,Home,"",-,300
+2006,Sacred Heart,590,Maine,380,08/27/2005,2,5,Away,"",-,220
+2006,Sacred Heart,590,New Hampshire,469,08/28/2005,3,5,Away,"",-,138
+2006,Sacred Heart,590,Yale,813,09/02/2005,0,1,Away,"",-,100
+2006,Sacred Heart,590,Rhode Island,572,09/04/2005,2,3,Away,"",-,104
+2006,Sacred Heart,590,Boston College,67,09/07/2005,2,10,Neutral,"New Haven, CT",-,77
+2006,Sacred Heart,590,Vermont,738,09/09/2005,0,2,Away,"",-,220
+2006,Sacred Heart,590,Massachusetts,400,09/11/2005,1,2,Neutral,"Burlington, VT",-,107
+2006,Sacred Heart,590,Brown,80,09/14/2005,3,0,Away,"",-,78
+2006,Sacred Heart,590,Saint Francis (PA),600,09/18/2005,7,0,Away,"",-,125
+2006,Sacred Heart,590,Lehigh,352,09/24/2005,2,1,Home,"",-,95
+2006,Sacred Heart,590,Siena,639,09/25/2005,1,0,Home,"",-,100
+2006,Sacred Heart,590,Lock Haven,360,09/30/2005,2,3,Home,"",-,75
+2006,Sacred Heart,590,Rider,576,10/02/2005,0,4,Home,"",-,110
+2006,Sacred Heart,590,Quinnipiac,562,10/07/2005,5,0,Away,"",-,136
+2006,Sacred Heart,590,Fairfield,220,10/09/2005,2,1,Away,"",-,223
+2006,Sacred Heart,590,Robert Morris,579,10/16/2005,3,0,Home,"",-,105
+2006,Sacred Heart,590,Seton Hill,,10/17/2005,4,0,Home,"",-,90
+2006,Sacred Heart,590,Monmouth,439,10/23/2005,4,2,Away,"",-,150
+2006,Sacred Heart,590,Quinnipiac,562,10/28/2005,2,1,Neutral,"Lawrenceville, NJ",-,250
+2006,Sacred Heart,590,Rider,576,10/29/2005,1,0,Away,"",-,250
+2006,Sacred Heart,590,Richmond,575,11/08/2005,2,7,Away,"",-,0
+2006,Saint Francis (PA),600,Bellarmine,52,09/02/2005,2,3,Home,"",-,122
+2006,Saint Francis (PA),600,Bucknell,83,09/06/2005,0,7,Away,"",-,75
+2006,Saint Francis (PA),600,Colgate,153,09/09/2005,0,3,Away,"",-,102
+2006,Saint Francis (PA),600,Cornell,167,09/11/2005,1,9,Away,"",-,194
+2006,Saint Francis (PA),600,Sacred Heart,590,09/18/2005,0,7,Home,"",-,125
+2006,Saint Francis (PA),600,UMBC,391,09/21/2005,5,6,Home,"",-,87
+2006,Saint Francis (PA),600,Mercyhurst,408,09/23/2005,2,3,Away,"",-,68
+2006,Saint Francis (PA),600,Lock Haven,360,09/25/2005,0,10,Away,"",-,177
+2006,Saint Francis (PA),600,Georgetown,251,09/30/2005,1,3,Away,"",-,167
+2006,Saint Francis (PA),600,Longwood,363,10/02/2005,2,6,Neutral,"Richmond, VA",-,125
+2006,Saint Francis (PA),600,Monmouth,439,10/07/2005,1,6,Away,"",-,15
+2006,Saint Francis (PA),600,Rider,576,10/09/2005,0,4,Away,"",-,75
+2006,Saint Francis (PA),600,Quinnipiac,562,10/14/2005,1,5,Home,"",-,237
+2006,Saint Francis (PA),600,Siena,639,10/16/2005,2,1,Home,"",-,92
+2006,Saint Francis (PA),600,Robert Morris,579,10/21/2005,1,2,Away,"",-,75
+2006,Saint Francis (PA),600,Fairfield,220,10/23/2005,3,4,Home,"",-,107
+2006,Saint Joseph's,606,Monmouth,439,08/27/2005,4,0,Home,"",-,500
+2006,Saint Joseph's,606,Fairfield,220,09/04/2005,4,3,Away,"",-,150
+2006,Saint Joseph's,606,Penn,540,09/07/2005,1,2,Home,"",-,150
+2006,Saint Joseph's,606,Robert Morris,579,09/10/2005,3,2,Away,"",-,70
+2006,Saint Joseph's,606,Penn St.,539,09/11/2005,1,6,Away,"",-,522
+2006,Saint Joseph's,606,Delaware,180,09/16/2005,2,1,Home,"",-,135
+2006,Saint Joseph's,606,Lafayette,342,09/21/2005,2,3,Away,"",-,76
+2006,Saint Joseph's,606,Rutgers,587,09/25/2005,3,1,Home,"",-,125
+2006,Saint Joseph's,606,Columbia,158,09/30/2005,4,1,Home,"",-,135
+2006,Saint Joseph's,606,Georgetown,251,10/02/2005,2,1,Away,"",-,215
+2006,Saint Joseph's,606,La Salle,340,10/07/2005,1,2,Home,"",-,75
+2006,Saint Joseph's,606,West Chester,765,10/09/2005,5,2,Home,"",-,278
+2006,Saint Joseph's,606,Drexel,191,10/11/2005,0,1,Home,"",-,65
+2006,Saint Joseph's,606,Richmond,575,10/14/2005,1,9,Away,"",-,171
+2006,Saint Joseph's,606,Saint Louis,609,10/16/2005,2,1,Away,"",-,58
+2006,Saint Joseph's,606,Villanova,739,10/19/2005,0,2,Away,"",-,311
+2006,Saint Joseph's,606,Massachusetts,400,10/21/2005,4,3,Home,"",-,96
+2006,Saint Joseph's,606,Rhode Island,572,10/23/2005,2,3,Home,"",-,175
+2006,Saint Joseph's,606,Temple,690,10/29/2005,1,2,Away,"",-,185
+2006,Saint Joseph's,606,Richmond,575,11/04/2005,1,3,Neutral,"Philadelphia, PA",-,0
+2006,Saint Louis,609,Missouri St.,669,08/27/2005,2,1,Home,"",-,183
+2006,Saint Louis,609,Central Mich.,129,09/02/2005,3,2,Home,"",-,50
+2006,Saint Louis,609,New Hampshire,469,09/04/2005,0,2,Home,"",-,65
+2006,Saint Louis,609,Michigan St.,416,09/10/2005,1,2,Away,"",-,150
+2006,Saint Louis,609,James Madison,317,09/11/2005,1,4,Neutral,"East Lansing, MI",-,65
+2006,Saint Louis,609,Miami (OH),414,09/16/2005,2,4,Away,"",-,120
+2006,Saint Louis,609,Davidson,173,09/17/2005,2,1,Neutral,"Oxford, OH",-,55
+2006,Saint Louis,609,Louisville,367,09/23/2005,1,6,Away,"",-,289
+2006,Saint Louis,609,Syracuse,688,09/24/2005,1,3,Neutral,"Louisville, KY",-,85
+2006,Saint Louis,609,Ohio,519,10/02/2005,0,1,Home,"",-,50
+2006,Saint Louis,609,Missouri St.,669,10/03/2005,3,1,Away,"",-,213
+2006,Saint Louis,609,Rhode Island,572,10/07/2005,2,1,Home,"",-,41
+2006,Saint Louis,609,Massachusetts,400,10/09/2005,2,3,Home,"",-,63
+2006,Saint Louis,609,Temple,690,10/14/2005,0,1,Home,"",-,87
+2006,Saint Louis,609,Saint Joseph's,606,10/16/2005,1,2,Home,"",-,58
+2006,Saint Louis,609,West Chester,765,10/21/2005,1,0,Away,"",-,50
+2006,Saint Louis,609,La Salle,340,10/23/2005,1,0,Away,"",-,137
+2006,Saint Louis,609,Richmond,575,10/30/2005,0,3,Home,"",-,213
+2006,Siena,639,Appalachian St.,27,08/28/2005,0,1,Home,"",-,165
+2006,Siena,639,Holy Cross,285,08/30/2005,1,5,Away,"",-,218
+2006,Siena,639,Rhode Island,572,09/03/2005,0,4,Away,"",-,86
+2006,Siena,639,Albany (NY),14,09/06/2005,1,4,Away,"",-,0
+2006,Siena,639,Bucknell,83,09/10/2005,2,5,Home,"",-,105
+2006,Siena,639,Colgate,153,09/14/2005,1,6,Away,"",-,139
+2006,Siena,639,Robert Morris,579,09/18/2005,2,1,Home,"",-,185
+2006,Siena,639,Quinnipiac,562,09/23/2005,0,3,Away,"",-,236
+2006,Siena,639,Sacred Heart,590,09/25/2005,0,1,Away,"",-,100
+2006,Siena,639,Rider,576,09/30/2005,1,4,Home,"",-,165
+2006,Siena,639,Fairfield,220,10/06/2005,1,3,Home,"",-,165
+2006,Siena,639,Lock Haven,360,10/14/2005,0,6,Away,"",-,81
+2006,Siena,639,Saint Francis (PA),600,10/16/2005,1,2,Away,"",-,92
+2006,Siena,639,Monmouth,439,10/21/2005,0,2,Home,"",-,195
+2006,Stanford,674,Miami (OH),414,08/27/2005,1,2,Home,"",1 OT,0
+2006,Stanford,674,Delaware,180,08/30/2005,1,5,Home,"",-,0
+2006,Stanford,674,Iowa,312,09/02/2005,1,3,Home,"",-,0
+2006,Stanford,674,Syracuse,688,09/04/2005,2,3,Home,"",1 OT,0
+2006,Stanford,674,Michigan St.,416,09/05/2005,0,3,Home,"",-,0
+2006,Stanford,674,Appalachian St.,27,09/07/2005,2,0,Away,"",-,0
+2006,Stanford,674,American,23,09/10/2005,0,1,Neutral,"College Park, MD",-,0
+2006,Stanford,674,Maryland,392,09/11/2005,0,6,Away,"",-,0
+2006,Stanford,674,Bucknell,83,09/13/2005,6,0,Neutral,"College Park, MD",-,0
+2006,Stanford,674,California,107,09/17/2005,0,1,Away,"",-,0
+2006,Stanford,674,Pacific,534,09/25/2005,2,1,Away,"",-,0
+2006,Stanford,674,Pacific,534,10/01/2005,3,4,Home,"",4 OT,0
+2006,Stanford,674,Davidson,173,10/07/2005,5,1,Away,"",-,0
+2006,Stanford,674,North Carolina,457,10/09/2005,0,4,Neutral,"Winston-Salem, NC",-,0
+2006,Stanford,674,Wake Forest,749,10/10/2005,1,6,Away,"",-,0
+2006,Stanford,674,Longwood,363,10/15/2005,3,0,Home,"",-,0
+2006,Stanford,674,California,107,10/29/2005,2,3,Home,"",1 OT,0
+2006,Stanford,674,Radford,563,10/31/2005,3,2,Home,"",-,0
+2006,Stanford,674,Appalachian St.,27,11/03/2005,5,1,Neutral,"Berkeley, CA",-,0
+2006,Stanford,674,California,107,11/04/2005,1,2,Away,"",-,0
+2006,Stanford,674,Radford,563,11/05/2005,0,3,Neutral,"Berkeley, CA",-,0
+2006,Syracuse,688,Pacific,534,09/02/2005,0,4,Neutral,"Berkeley, CA",-,100
+2006,Syracuse,688,Stanford,674,09/04/2005,3,2,Away,"",1 OT,101
+2006,Syracuse,688,California,107,09/05/2005,1,3,Away,"",-,85
+2006,Syracuse,688,Kent St.,331,09/09/2005,4,3,Home,"",-,128
+2006,Syracuse,688,William & Mary,786,09/11/2005,2,3,Home,"",-,182
+2006,Syracuse,688,Rutgers,587,09/16/2005,5,1,Home,"",-,202
+2006,Syracuse,688,Hofstra,283,09/18/2005,0,2,Home,"",-,312
+2006,Syracuse,688,Saint Louis,609,09/24/2005,3,1,Neutral,"Louisville, KY",-,85
+2006,Syracuse,688,Louisville,367,09/25/2005,0,6,Away,"",-,281
+2006,Syracuse,688,Penn St.,539,09/28/2005,0,3,Away,"",-,277
+2006,Syracuse,688,Massachusetts,400,09/30/2005,2,0,Home,"",-,229
+2006,Syracuse,688,Colgate,153,10/05/2005,5,1,Away,"",-,186
+2006,Syracuse,688,Villanova,739,10/08/2005,4,3,Home,"",-,179
+2006,Syracuse,688,Albany (NY),14,10/12/2005,1,2,Away,"",-,0
+2006,Syracuse,688,Providence,556,10/15/2005,2,1,Away,"",-,231
+2006,Syracuse,688,Quinnipiac,562,10/21/2005,3,0,Home,"",-,113
+2006,Syracuse,688,Connecticut,164,10/23/2005,2,3,Home,"",-,187
+2006,Syracuse,688,Cornell,167,10/26/2005,1,0,Home,"",-,45
+2006,Syracuse,688,Dartmouth,172,10/30/2005,5,1,Home,"",-,147
+2006,Syracuse,688,Villanova,739,11/04/2005,1,4,Neutral,"Piscataway, NJ",-,0
+2006,Temple,690,Lehigh,352,08/27/2005,5,1,Away,"",-,326
+2006,Temple,690,Lafayette,342,08/28/2005,1,2,Home,"",-,60
+2006,Temple,690,Albany (NY),14,09/02/2005,2,4,Home,"",-,165
+2006,Temple,690,Michigan,418,09/04/2005,2,3,Home,"",-,350
+2006,Temple,690,North Carolina,457,09/10/2005,0,1,Home,"",-,200
+2006,Temple,690,Villanova,739,09/11/2005,1,2,Home,"",-,300
+2006,Temple,690,Penn St.,539,09/14/2005,0,5,Home,"",-,150
+2006,Temple,690,VCU,740,09/16/2005,2,0,Away,"",-,62
+2006,Temple,690,Delaware,180,09/23/2005,1,0,Home,"",-,105
+2006,Temple,690,Longwood,363,09/24/2005,1,0,Home,"",-,200
+2006,Temple,690,Drexel,191,09/27/2005,0,2,Away,"",-,150
+2006,Temple,690,Rutgers,587,09/29/2005,1,2,Away,"",-,100
+2006,Temple,690,Penn,540,10/05/2005,3,2,Home,"",-,115
+2006,Temple,690,West Chester,765,10/07/2005,4,2,Home,"",-,126
+2006,Temple,690,La Salle,340,10/09/2005,2,1,Home,"",-,213
+2006,Temple,690,Saint Louis,609,10/14/2005,1,0,Away,"",-,87
+2006,Temple,690,Richmond,575,10/16/2005,0,4,Away,"",-,356
+2006,Temple,690,Rhode Island,572,10/21/2005,3,0,Home,"",-,110
+2006,Temple,690,Massachusetts,400,10/23/2005,2,1,Home,"",-,150
+2006,Temple,690,Saint Joseph's,606,10/29/2005,2,1,Home,"",-,185
+2006,Temple,690,Massachusetts,400,11/04/2005,1,2,Home,"",1 OT,0
+2006,Towson,711,West Chester,765,08/28/2005,3,2,Away,"",-,140
+2006,Towson,711,UMBC,391,08/31/2005,8,0,Home,"",-,186
+2006,Towson,711,Davidson,173,09/02/2005,5,1,Away,"",-,162
+2006,Towson,711,Appalachian St.,27,09/04/2005,4,0,Neutral,"Davidson, NC",-,50
+2006,Towson,711,Lock Haven,360,09/09/2005,1,0,Home,"",-,145
+2006,Towson,711,Richmond,575,09/11/2005,0,2,Home,"",-,165
+2006,Towson,711,La Salle,340,09/16/2005,2,0,Home,"",-,35
+2006,Towson,711,American,23,09/18/2005,1,2,Away,"",-,513
+2006,Towson,711,Georgetown,251,09/21/2005,1,2,Home,"",-,132
+2006,Towson,711,Northeastern,500,09/25/2005,1,3,Away,"",-,261
+2006,Towson,711,Old Dominion,523,10/02/2005,2,8,Home,"",-,140
+2006,Towson,711,James Madison,317,10/07/2005,2,7,Away,"",-,35
+2006,Towson,711,Hofstra,283,10/09/2005,1,2,Home,"",-,103
+2006,Towson,711,Delaware,180,10/21/2005,3,2,Away,"",-,300
+2006,Towson,711,VCU,740,10/23/2005,2,1,Home,"",-,153
+2006,Towson,711,Bucknell,83,10/26/2005,1,2,Away,"",-,59
+2006,Towson,711,William & Mary,786,10/28/2005,0,4,Home,"",-,162
+2006,Towson,711,Drexel,191,10/30/2005,2,1,Away,"",-,100
+2006,Towson,711,Hofstra,283,11/04/2005,1,4,Neutral,"Norfolk, VA",-,0
+2006,UConn,164,Albany (NY),14,08/26/2005,4,1,Home,"",-,121
+2006,UConn,164,Maine,380,08/28/2005,7,0,Home,"",-,153
+2006,UConn,164,Penn St.,539,09/04/2005,1,3,Away,"",-,678
+2006,UConn,164,Quinnipiac,562,09/08/2005,1,0,Away,"",-,137
+2006,UConn,164,Princeton,554,09/11/2005,4,2,Away,"",-,345
+2006,UConn,164,New Hampshire,469,09/14/2005,8,0,Home,"",-,212
+2006,UConn,164,Villanova,739,09/17/2005,3,4,Home,"",-,197
+2006,UConn,164,Harvard,275,09/21/2005,0,1,Home,"",-,107
+2006,UConn,164,Massachusetts,400,09/24/2005,2,1,Home,"",-,219
+2006,UConn,164,Yale,813,09/28/2005,1,0,Away,"",-,50
+2006,UConn,164,Louisville,367,09/30/2005,3,1,Home,"",-,257
+2006,UConn,164,Michigan St.,416,10/08/2005,4,2,Neutral,"Ann Arbor, MI",-,0
+2006,UConn,164,Michigan,418,10/09/2005,1,2,Away,"",-,413
+2006,UConn,164,Northeastern,500,10/12/2005,3,2,Away,"",-,207
+2006,UConn,164,Rutgers,587,10/15/2005,4,1,Away,"",-,215
+2006,UConn,164,Boston U.,68,10/19/2005,5,4,Home,"",-,161
+2006,UConn,164,Syracuse,688,10/23/2005,3,2,Away,"",-,187
+2006,UConn,164,Boston College,67,10/26/2005,0,1,Home,"",-,131
+2006,UConn,164,Providence,556,10/29/2005,5,0,Home,"",-,138
+2006,UConn,164,Louisville,367,11/04/2005,1,0,Neutral,"Piscataway, NJ",1 OT,0
+2006,UConn,164,Villanova,739,11/06/2005,3,2,Neutral,"Piscataway, NJ",1 OT,0
+2006,UConn,164,Boston College,67,11/12/2005,3,2,Neutral,"Princeton, NJ",-,0
+2006,UConn,164,Duke,193,11/13/2005,2,3,Neutral,"Princeton, NJ",2 OT,0
+2006,UMBC,391,Towson,711,08/31/2005,0,8,Away,"",-,186
+2006,UMBC,391,Longwood,363,09/04/2005,0,1,Neutral,"Richmond, VA",-,75
+2006,UMBC,391,California,107,09/08/2005,2,6,Neutral,"College Park, MD",-,73
+2006,UMBC,391,West Chester,765,09/10/2005,0,2,Home,"",-,243
+2006,UMBC,391,Lehigh,352,09/14/2005,2,3,Home,"",-,150
+2006,UMBC,391,Drexel,191,09/17/2005,0,3,Away,"",-,163
+2006,UMBC,391,Saint Francis (PA),600,09/21/2005,6,5,Away,"",-,87
+2006,UMBC,391,Appalachian St.,27,09/25/2005,1,3,Home,"",-,150
+2006,UMBC,391,Vermont,738,10/01/2005,5,9,Away,"",-,120
+2006,UMBC,391,Boston U.,68,10/08/2005,0,6,Home,"",-,100
+2006,UMBC,391,Robert Morris,579,10/09/2005,9,3,Away,"",-,75
+2006,UMBC,391,Albany (NY),14,10/15/2005,3,5,Away,"",-,0
+2006,UMBC,391,Cornell,167,10/16/2005,0,2,Away,"",-,43
+2006,UMBC,391,Maine,380,10/22/2005,0,3,Home,"",-,115
+2006,UMBC,391,Georgetown,251,10/26/2005,2,1,Away,"",-,162
+2006,UMBC,391,New Hampshire,469,10/29/2005,0,7,Away,"",-,212
+2006,VCU,740,Virginia,746,08/27/2005,0,3,Home,"",-,200
+2006,VCU,740,Rutgers,587,09/04/2005,2,3,Away,"",-,85
+2006,VCU,740,Richmond,575,09/09/2005,0,1,Home,"",-,125
+2006,VCU,740,Longwood,363,09/11/2005,1,0,Home,"",-,102
+2006,VCU,740,Temple,690,09/16/2005,0,2,Home,"",-,62
+2006,VCU,740,Yale,813,09/18/2005,4,2,Home,"",-,89
+2006,VCU,740,Radford,563,09/23/2005,1,0,Home,"",-,152
+2006,VCU,740,William & Mary,786,09/25/2005,0,2,Away,"",-,142
+2006,VCU,740,Delaware,180,09/30/2005,1,2,Home,"",-,87
+2006,VCU,740,James Madison,317,10/02/2005,0,4,Away,"",-,125
+2006,VCU,740,Old Dominion,523,10/07/2005,0,5,Away,"",-,94
+2006,VCU,740,Drexel,191,10/09/2005,1,0,Home,"",-,84
+2006,VCU,740,Pacific,534,10/14/2005,3,1,Home,"",-,68
+2006,VCU,740,Wake Forest,749,10/16/2005,0,4,Away,"",-,344
+2006,VCU,740,Towson,711,10/23/2005,1,2,Away,"",-,153
+2006,VCU,740,Northeastern,500,10/28/2005,1,3,Home,"",-,100
+2006,VCU,740,Hofstra,283,10/30/2005,3,2,Home,"",-,92
+2006,Vermont,738,Bucknell,83,08/27/2005,2,1,Away,"",-,250
+2006,Vermont,738,Lock Haven,360,08/28/2005,0,3,Away,"",-,130
+2006,Vermont,738,Providence,556,09/03/2005,1,8,Away,"",-,232
+2006,Vermont,738,Brown,80,09/04/2005,1,2,Away,"",-,308
+2006,Vermont,738,Sacred Heart,590,09/09/2005,2,0,Home,"",-,220
+2006,Vermont,738,Massachusetts,400,09/10/2005,2,3,Home,"",-,165
+2006,Vermont,738,Central Mich.,129,09/16/2005,3,4,Neutral,"Ann Arbor, MI",-,0
+2006,Vermont,738,Michigan,418,09/18/2005,0,5,Away,"",-,628
+2006,Vermont,738,Cornell,167,09/25/2005,2,0,Home,"",-,113
+2006,Vermont,738,Dartmouth,172,09/28/2005,2,3,Home,"",-,77
+2006,Vermont,738,UMBC,391,10/01/2005,9,5,Home,"",-,120
+2006,Vermont,738,Maine,380,10/09/2005,0,1,Home,"",-,191
+2006,Vermont,738,Boston U.,68,10/15/2005,2,4,Away,"",-,134
+2006,Vermont,738,Boston College,67,10/16/2005,1,3,Away,"",-,254
+2006,Vermont,738,New Hampshire,469,10/21/2005,4,0,Home,"",-,155
+2006,Vermont,738,Albany (NY),14,10/29/2005,1,2,Away,"",-,0
+2006,Vermont,738,Georgetown,251,10/31/2005,4,1,Away,"",-,0
+2006,Vermont,738,Boston U.,68,11/04/2005,1,5,Neutral,"Cambridge, MA",-,0
+2006,Villanova,739,Georgetown,251,08/29/2005,7,1,Away,"",-,150
+2006,Villanova,739,Bucknell,83,09/02/2005,3,1,Home,"",-,463
+2006,Villanova,739,Drexel,191,09/07/2005,3,1,Away,"",-,175
+2006,Villanova,739,Penn St.,539,09/09/2005,1,3,Away,"",-,340
+2006,Villanova,739,Temple,690,09/11/2005,2,1,Away,"",-,300
+2006,Villanova,739,West Chester,765,09/14/2005,2,0,Home,"",-,311
+2006,Villanova,739,Connecticut,164,09/17/2005,4,3,Away,"",-,197
+2006,Villanova,739,Lehigh,352,09/21/2005,5,0,Away,"",-,198
+2006,Villanova,739,Rutgers,587,09/23/2005,5,2,Away,"",-,150
+2006,Villanova,739,Penn,540,09/28/2005,2,3,Away,"",-,102
+2006,Villanova,739,La Salle,340,09/30/2005,6,1,Home,"",-,367
+2006,Villanova,739,Princeton,554,10/02/2005,3,2,Away,"",-,225
+2006,Villanova,739,Monmouth,439,10/05/2005,5,0,Away,"",-,80
+2006,Villanova,739,Syracuse,688,10/08/2005,3,4,Away,"",-,179
+2006,Villanova,739,Duke,193,10/11/2005,1,7,Away,"",-,134
+2006,Villanova,739,Louisville,367,10/15/2005,6,5,Home,"",-,365
+2006,Villanova,739,Saint Joseph's,606,10/19/2005,2,0,Home,"",-,311
+2006,Villanova,739,Providence,556,10/23/2005,4,1,Home,"",-,327
+2006,Villanova,739,Syracuse,688,11/04/2005,4,1,Neutral,"Piscataway, NJ",-,0
+2006,Villanova,739,Connecticut,164,11/06/2005,2,3,Neutral,"Piscataway, NJ",1 OT,0
+2006,Virginia,746,VCU,740,08/27/2005,3,0,Away,"",-,0
+2006,Virginia,746,Ball St.,47,08/28/2005,7,1,Home,"",-,0
+2006,Virginia,746,Old Dominion,523,09/03/2005,0,4,Away,"",-,0
+2006,Virginia,746,Central Mich.,129,09/10/2005,1,2,Neutral,"Evanston, IL",-,0
+2006,Virginia,746,Northwestern,509,09/11/2005,3,4,Away,"",-,0
+2006,Virginia,746,James Madison,317,09/16/2005,4,3,Home,"",-,0
+2006,Virginia,746,Monmouth,439,09/18/2005,5,0,Home,"",-,0
+2006,Virginia,746,William & Mary,786,09/21/2005,1,0,Away,"",-,0
+2006,Virginia,746,Boston College,67,09/25/2005,0,1,Home,"",-,0
+2006,Virginia,746,Longwood,363,09/28/2005,3,1,Home,"",-,0
+2006,Virginia,746,Maryland,392,10/01/2005,1,4,Away,"",-,345
+2006,Virginia,746,Radford,563,10/05/2005,2,0,Home,"",-,0
+2006,Virginia,746,Penn,540,10/08/2005,2,1,Home,"",-,0
+2006,Virginia,746,American,23,10/19/2005,1,2,Away,"",-,0
+2006,Virginia,746,Wake Forest,749,10/22/2005,0,1,Away,"",-,150
+2006,Virginia,746,North Carolina,457,10/26/2005,1,3,Home,"",-,0
+2006,Virginia,746,Richmond,575,10/26/2005,0,1,Home,"",-,0
+2006,Virginia,746,Duke,193,10/28/2005,0,4,Home,"",-,0
+2006,Virginia,746,Duke,193,11/03/2005,1,5,Neutral,"College Park, MD",-,0
+2006,Wake Forest,749,Iowa,312,08/27/2005,2,0,Away,"",-,265
+2006,Wake Forest,749,Michigan,418,08/28/2005,2,1,Neutral,"Iowa City, IA",-,80
+2006,Wake Forest,749,Indiana,306,09/04/2005,4,2,Home,"",-,267
+2006,Wake Forest,749,Duke,193,09/10/2005,2,1,Away,"",-,247
+2006,Wake Forest,749,Kent St.,331,09/16/2005,4,0,Home,"",-,567
+2006,Wake Forest,749,Michigan St.,416,09/18/2005,2,0,Home,"",-,288
+2006,Wake Forest,749,Maryland,392,09/24/2005,3,2,Away,"",-,"1,243"
+2006,Wake Forest,749,Appalachian St.,27,09/29/2005,8,1,Home,"",-,166
+2006,Wake Forest,749,North Carolina,457,10/01/2005,2,0,Home,"",-,467
+2006,Wake Forest,749,Richmond,575,10/02/2005,4,2,Home,"",-,266
+2006,Wake Forest,749,Louisville,367,10/08/2005,5,2,Away,"",-,434
+2006,Wake Forest,749,Stanford,674,10/10/2005,6,1,Home,"",-,178
+2006,Wake Forest,749,North Carolina,457,10/14/2005,3,2,Away,"",-,623
+2006,Wake Forest,749,VCU,740,10/16/2005,4,0,Home,"",-,344
+2006,Wake Forest,749,Radford,563,10/19/2005,4,0,Home,"",-,150
+2006,Wake Forest,749,Virginia,746,10/22/2005,1,0,Home,"",-,150
+2006,Wake Forest,749,Northwestern,509,10/29/2005,7,0,Home,"",-,167
+2006,Wake Forest,749,Boston College,67,10/30/2005,5,2,Home,"",-,376
+2006,Wake Forest,749,North Carolina,457,11/04/2005,2,1,Neutral,"College Park, MD",1 OT,0
+2006,Wake Forest,749,Maryland,392,11/06/2005,2,3,Away,"",-,0
+2006,Wake Forest,749,California,107,11/12/2005,1,0,Home,"",-,0
+2006,Wake Forest,749,Indiana,306,11/13/2005,5,0,Home,"",-,0
+2006,Wake Forest,749,Duke,193,11/18/2005,2,3,Neutral,"Louisville, KY",-,0
+2006,West Chester,765,Rutgers,587,08/27/2005,2,3,Away,"",-,85
+2006,West Chester,765,Towson,711,08/28/2005,2,3,Home,"",-,140
+2006,West Chester,765,Rider,576,08/31/2005,2,1,Away,"",-,200
+2006,West Chester,765,Ursinus,730,09/03/2005,4,1,Away,"",-,200
+2006,West Chester,765,Lehigh,352,09/07/2005,3,1,Home,"",-,150
+2006,West Chester,765,UMBC,391,09/10/2005,2,0,Away,"",-,243
+2006,West Chester,765,Villanova,739,09/14/2005,0,2,Away,"",-,311
+2006,West Chester,765,Penn St.,539,09/18/2005,0,6,Away,"",-,462
+2006,West Chester,765,Colgate,153,09/23/2005,6,2,Home,"",-,100
+2006,West Chester,765,Monmouth,439,09/28/2005,4,1,Home,"",-,150
+2006,West Chester,765,Cornell,167,10/02/2005,2,1,Home,"",-,150
+2006,West Chester,765,Temple,690,10/07/2005,2,4,Away,"",-,126
+2006,West Chester,765,Saint Joseph's,606,10/09/2005,2,5,Away,"",-,278
+2006,West Chester,765,Rhode Island,572,10/14/2005,3,2,Neutral,"Providence, RI",-,27
+2006,West Chester,765,Massachusetts,400,10/16/2005,0,4,Away,"",-,317
+2006,West Chester,765,Saint Louis,609,10/21/2005,0,1,Home,"",-,50
+2006,West Chester,765,Richmond,575,10/23/2005,0,9,Home,"",-,150
+2006,West Chester,765,La Salle,340,10/29/2005,2,3,Home,"",-,150
+2006,William & Mary,786,Ball St.,47,08/27/2005,4,1,Home,"",-,104
+2006,William & Mary,786,Penn St.,539,08/28/2005,0,1,Home,"",-,207
+2006,William & Mary,786,North Carolina,457,09/03/2005,1,3,Home,"",-,160
+2006,William & Mary,786,Kent St.,331,09/10/2005,7,2,Neutral,"Syracuse, NY",-,0
+2006,William & Mary,786,Syracuse,688,09/11/2005,3,2,Away,"",-,182
+2006,William & Mary,786,Yale,813,09/16/2005,4,0,Home,"",-,135
+2006,William & Mary,786,Richmond,575,09/18/2005,1,2,Away,"",-,263
+2006,William & Mary,786,Virginia,746,09/21/2005,0,1,Home,"",-,161
+2006,William & Mary,786,VCU,740,09/25/2005,2,0,Home,"",-,142
+2006,William & Mary,786,Drexel,191,09/30/2005,1,0,Away,"",-,200
+2006,William & Mary,786,American,23,10/02/2005,1,6,Away,"",-,279
+2006,William & Mary,786,Delaware,180,10/07/2005,2,1,Home,"",-,87
+2006,William & Mary,786,James Madison,317,10/09/2005,0,1,Home,"",-,212
+2006,William & Mary,786,Pacific,534,10/13/2005,4,0,Home,"",-,128
+2006,William & Mary,786,Duke,193,10/15/2005,0,4,Neutral,"Norfolk, VA",-,77
+2006,William & Mary,786,Hofstra,283,10/21/2005,0,3,Away,"",-,130
+2006,William & Mary,786,Northeastern,500,10/23/2005,1,2,Away,"",-,243
+2006,William & Mary,786,Towson,711,10/28/2005,4,0,Away,"",-,162
+2006,William & Mary,786,Old Dominion,523,10/30/2005,1,4,Home,"",-,342
+2006,William & Mary,786,James Madison,317,11/04/2005,1,0,Neutral,"Norfolk, VA",-,0
+2006,William & Mary,786,Old Dominion,523,11/05/2005,1,3,Away,"",-,0
+2006,Yale,813,Sacred Heart,590,09/02/2005,1,0,Home,"",-,100
+2006,Yale,813,Northwestern,509,09/04/2005,1,2,Home,"",-,200
+2006,Yale,813,Princeton,554,09/10/2005,1,5,Away,"",-,119
+2006,Yale,813,William & Mary,786,09/16/2005,0,4,Away,"",-,135
+2006,Yale,813,VCU,740,09/18/2005,2,4,Away,"",-,89
+2006,Yale,813,Cornell,167,09/23/2005,2,3,Home,"",-,100
+2006,Yale,813,Holy Cross,285,09/25/2005,2,1,Away,"",-,179
+2006,Yale,813,Connecticut,164,09/28/2005,0,1,Home,"",-,50
+2006,Yale,813,Rhode Island,572,10/01/2005,3,2,Home,"",-,100
+2006,Yale,813,Boston U.,68,10/02/2005,0,1,Home,"",-,100
+2006,Yale,813,Dartmouth,172,10/08/2005,1,4,Home,"",-,100
+2006,Yale,813,New Hampshire,469,10/09/2005,4,1,Home,"",-,100
+2006,Yale,813,Harvard,275,10/15/2005,1,0,Home,"",-,150
+2006,Yale,813,Quinnipiac,562,10/19/2005,2,0,Away,"",-,207
+2006,Yale,813,Penn,540,10/23/2005,0,1,Away,"",-,130
+2006,Yale,813,Columbia,158,10/29/2005,0,1,Away,"",-,"1,150"
+2006,Yale,813,Brown,80,11/05/2005,1,2,Home,"",-,0
