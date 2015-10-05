@@ -1,7 +1,10 @@
 BEGIN
 SET
- date | team | h_div | site | opp | v_div | spread 
-------+------+-------+------+-----+-------+--------
-(0 rows)
+    date    |         team         | h_div | site |    opp     | v_div | spread 
+------------+----------------------+-------+------+------------+-------+--------
+ 2015-10-05 | Dowling              |     2 | home | Assumption |     2 |   -1.5
+ 2015-10-05 | Johnson & Wales (RI) |     3 | home | Keene St.  |     3 |   -1.4
+ 2015-10-05 | Randolph-Macon       |     3 | home | Sewanee    |     3 |   -0.3
+(3 rows)
 
 COMMIT

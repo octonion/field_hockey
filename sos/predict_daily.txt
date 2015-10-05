@@ -1,8 +1,11 @@
 BEGIN
 SET
- date | site | home | div | score | away | div | score 
-------+------+------+-----+-------+------+-----+-------
-(0 rows)
+    date    | site |         home         | div | score |    away    | div | score 
+------------+------+----------------------+-----+-------+------------+-----+-------
+ 2015-10-05 | home | Dowling              |   2 |  1.07 | Assumption |   2 |  2.54
+ 2015-10-05 | home | Johnson & Wales (RI) |   3 |  0.91 | Keene St.  |   3 |  2.32
+ 2015-10-05 | home | Randolph-Macon       |   3 |  1.26 | Sewanee    |   3 |  1.57
+(3 rows)
 
-COPY 0
+COPY 3
 COMMIT

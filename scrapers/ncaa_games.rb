@@ -14,8 +14,8 @@ teams = CSV.read("csv/ncaa_schools.csv")
 game_path = "//table/tr[3]/td/form/table[2]/tr"
 record_path = "//table/tr[3]/td/form/table[1]/tr[2]"
 
-first_year = 2002
-last_year = 2008
+first_year = 2016
+last_year = 2016
 
 games_header = ["year","team_name","team_id","opponent_name","opponent_id",
                 "game_date","team_score","opponent_score","location",
@@ -39,13 +39,19 @@ records_header = ["year","team_id","team_name","wins","losses","ties",
     team_id = team[0]
     team_name = team[1]
     print "#{year}/#{team_name} (#{team_count}/#{game_count})\n"
+    tries = 0
     begin
       page = agent.post(search_url, {"academicYear" => "#{year}",
                           "orgId" => team_id, "sportCode" => "WFH"})
     rescue
       print "#{year}/#{team_name} -> error, retrying\n"
-      sleep 3
-      retry
+      tries += 1
+      if tries<3
+        sleep 3
+        retry
+      else
+        next
+      end
     end
 
     begin
