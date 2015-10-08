@@ -1,11 +1,20 @@
 BEGIN
 SET
-    date    | site |         home         | div | score |    away    | div | score 
-------------+------+----------------------+-----+-------+------------+-----+-------
- 2015-10-05 | home | Dowling              |   2 |  1.07 | Assumption |   2 |  2.54
- 2015-10-05 | home | Johnson & Wales (RI) |   3 |  0.91 | Keene St.  |   3 |  2.32
- 2015-10-05 | home | Randolph-Macon       |   3 |  1.26 | Sewanee    |   3 |  1.57
-(3 rows)
+    date    | site |      home       | div | score |       away       | div | score 
+------------+------+-----------------+-----+-------+------------------+-----+-------
+ 2015-10-08 | home | Lasell          |   3 |  3.41 | Roger Williams   |   3 |  2.05
+ 2015-10-08 | home | Mount Holyoke   |   3 |  1.84 | Simmons          |   3 |  1.44
+ 2015-10-08 | home | Mount Ida       |   3 |  1.93 | Regis (MA)       |   3 |  1.48
+ 2015-10-08 | home | Nichols         |   3 |  1.31 | Anna Maria       |   3 |  3.92
+ 2015-10-08 | home | Smith           |   3 |  4.65 | Western New Eng. |   3 |  1.31
+ 2015-10-08 | home | St. Mary's (MD) |   3 |  1.17 | Chris. Newport   |   3 |  3.44
+ 2015-10-08 | home | SUNY Cortland   |   3 |  2.44 | Houghton         |   3 |  0.54
+ 2015-10-08 | home | SUNY Oneonta    |   3 |  2.03 | Hamilton         |   3 |  2.79
+ 2015-10-08 | home | Va. Wesleyan    |   3 |  1.49 | Wesley           |   3 |  1.58
+ 2015-10-08 | home | Washington Col. |   3 |  5.54 | Swarthmore       |   3 |  1.63
+ 2015-10-08 | home | Wheaton (MA)    |   3 |  7.83 | Elms             |   3 |  0.69
+ 2015-10-08 | home | Wm. Paterson    |   3 |  2.09 | Misericordia     |   3 |  1.24
+(12 rows)
 
-COPY 3
+COPY 12
 COMMIT

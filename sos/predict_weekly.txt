@@ -1,265 +1,265 @@
 BEGIN
 SET
-    date    |  site   |         home         | div | score |         away         | div | score 
-------------+---------+----------------------+-----+-------+----------------------+-----+-------
- 2015-10-10 | home    | Adelphi              |   2 |  1.91 | St. Anselm           |   2 |  1.62
- 2015-10-06 | home    | Alvernia             |   3 |  2.52 | King's (PA)          |   3 |  1.89
- 2015-10-10 | home    | American Int'l       |   2 |  1.34 | Merrimack            |   2 |  3.13
- 2015-10-07 | home    | Amherst              |   3 |  4.85 | Connecticut Col.     |   3 |  0.79
- 2015-10-10 | home    | Anna Maria           |   3 |  4.01 | Rivier               |   3 |  1.01
- 2015-10-10 | home    | Appalachian St.      |   1 |  4.47 | Saint Louis          |   1 |  1.52
- 2015-10-11 | home    | Appalachian St.      |   1 |  1.57 | Davidson             |   1 |  2.79
- 2015-10-10 | home    | Arcadia              |   3 |  1.25 | Messiah              |   3 |  3.25
- 2015-10-10 | home    | Babson               |   3 |  3.87 | Smith                |   3 |  0.79
- 2015-10-06 | home    | Babson               |   3 |  2.32 | Wellesley            |   3 |  0.82
- 2015-10-11 | home    | Ball St.             |   1 |  4.85 | Bellarmine           |   2 |  0.98
- 2015-10-11 | home    | Becker               |   3 |  4.69 | Daniel Webster       |   3 |  0.88
- 2015-10-10 | home    | Bellarmine           |   2 |  3.69 | Newberry             |   2 |  1.29
- 2015-10-09 | home    | Bentley              |   2 |  1.57 | Stonehill            |   2 |  2.45
- 2015-10-10 | neutral | Bethany (WV)         |   3 |  3.61 | Transylvania         |   3 |  1.71
- 2015-10-06 | home    | Bethany (WV)         |   3 |  3.50 | Oberlin              |   3 |  2.14
- 2015-10-07 | home    | Bloomsburg           |   2 |  1.36 | Kutztown             |   2 |  1.38
- 2015-10-10 | home    | Bloomsburg           |   2 |  1.19 | West Chester         |   2 |  2.08
- 2015-10-09 | home    | Boston College       |   1 |  1.87 | Duke                 |   1 |  1.91
- 2015-10-11 | home    | Boston U.            |   1 |  1.94 | Duke                 |   1 |  2.83
- 2015-10-06 | home    | Bowdoin              |   3 |  4.13 | Me.-Farmington       |   3 |  0.60
- 2015-10-10 | home    | Bridgewater St.      |   3 |  1.52 | Keene St.            |   3 |  2.26
- 2015-10-07 | home    | Bridgewater St.      |   3 |  2.11 | Worcester St.        |   3 |  2.39
- 2015-10-06 | home    | Bridgewater (VA)     |   3 |  1.17 | Lynchburg            |   3 |  2.87
- 2015-10-10 | home    | Brockport            |   3 |  0.43 | SUNY Cortland        |   3 |  4.19
- 2015-10-10 | home    | Bryn Mawr            |   3 |  0.45 | Dickinson            |   3 |  5.85
- 2015-10-06 | home    | Cabrini              |   3 | 10.07 | Notre Dame (MD)      |   3 |  0.68
- 2015-10-10 | home    | California           |   1 |  3.09 | UMass Lowell         |   1 |  1.77
- 2015-10-09 | home    | Castleton            |   3 |  3.26 | Colby-Sawyer         |   3 |  1.85
- 2015-10-07 | home    | Catholic             |   3 |  1.48 | Salisbury            |   3 |  2.17
- 2015-10-11 | home    | Central Mich.        |   1 |  0.87 | Iowa                 |   1 |  5.18
- 2015-10-11 | home    | Centre               |   3 |  2.05 | Newberry             |   2 |  0.92
- 2015-10-07 | home    | Centre               |   3 |  1.39 | Bellarmine           |   2 |  1.46
- 2015-10-10 | home    | Chris. Newport       |   3 |  4.94 | York (PA)            |   3 |  1.24
- 2015-10-06 | home    | Colby-Sawyer         |   3 |  0.70 | Simmons              |   3 |  3.02
- 2015-10-10 | home    | Colgate              |   1 |  0.93 | American             |   1 |  4.75
- 2015-10-11 | home    | Columbia             |   1 |  4.39 | Bryant               |   1 |  1.89
- 2015-10-10 | home    | Connecticut Col.     |   3 |  1.19 | Bates                |   3 |  1.71
- 2015-10-06 | home    | Daniel Webster       |   3 |  1.63 | Elms                 |   3 |  3.31
- 2015-10-09 | home    | Davidson             |   1 |  4.37 | Saint Louis          |   1 |  0.67
- 2015-10-11 | home    | Delaware             |   1 |  2.92 | Liberty              |   1 |  2.98
- 2015-10-07 | home    | Delaware Valley      |   3 |  2.55 | Cabrini              |   3 |  2.37
- 2015-10-09 | home    | Delaware Valley      |   3 |  3.83 | DeSales              |   3 |  1.74
- 2015-10-10 | home    | Denison              |   3 |  5.34 | Oberlin              |   3 |  0.76
- 2015-10-07 | home    | DePauw               |   3 |  5.66 | Earlham              |   3 |  0.76
- 2015-10-06 | home    | DeSales              |   3 |  1.64 | Arcadia              |   3 |  3.29
- 2015-10-07 | home    | Dickinson            |   3 |  2.73 | McDaniel             |   3 |  2.08
- 2015-10-05 | home    | Dowling              |   2 |  1.07 | Assumption           |   2 |  2.54
- 2015-10-10 | home    | Drew                 |   3 |  0.91 | Catholic             |   3 |  5.15
- 2015-10-11 | home    | Drexel               |   1 |  0.72 | UConn                |   1 |  5.54
- 2015-10-10 | home    | Earlham              |   3 |  1.64 | Ohio Wesleyan        |   3 |  3.79
- 2015-10-10 | home    | Eastern              |   3 |  2.53 | King's (PA)          |   3 |  1.25
- 2015-10-07 | home    | Eastern Conn. St.    |   3 |  3.39 | Fitchburg St.        |   3 |  0.87
- 2015-10-10 | home    | Eastern Conn. St.    |   3 |  4.36 | Salem St.            |   3 |  0.76
- 2015-10-10 | home    | East. Mennonite      |   3 |  0.66 | Wash. & Lee          |   3 |  3.77
- 2015-10-07 | home    | East. Mennonite      |   3 |  0.72 | Mary Washington      |   3 |  9.78
- 2015-10-07 | home    | East Stroudsburg     |   2 |  7.10 | Mansfield            |   2 |  0.26
- 2015-10-11 | home    | Elmira               |   3 |  1.42 | Wash. & Jeff.        |   3 |  1.76
- 2015-10-10 | home    | Elms                 |   3 |  1.72 | Wheelock             |   3 |  3.77
- 2015-10-10 | home    | Endicott             |   3 |  2.05 | Salve Regina         |   3 |  2.82
- 2015-10-07 | home    | Endicott             |   3 |  1.58 | Bates                |   3 |  1.80
- 2015-10-10 | home    | Fairfield            |   1 |  2.57 | Monmouth             |   1 |  2.09
- 2015-10-10 | home    | FDU-Florham          |   3 |  1.68 | Wilkes               |   3 |  1.49
- 2015-10-10 | home    | Ferrum               |   3 |  1.90 | Va. Wesleyan         |   3 |  2.53
- 2015-10-10 | home    | Framingham St.       |   3 |  1.56 | Fitchburg St.        |   3 |  1.93
- 2015-10-07 | home    | Franklin Pierce      |   2 |  2.00 | Stonehill            |   2 |  2.90
- 2015-10-10 | home    | Frank. & Marsh.      |   3 |  2.93 | Haverford            |   3 |  1.40
- 2015-10-10 | home    | Frostburg St.        |   3 |  2.26 | St. Mary's (MD)      |   3 |  2.59
- 2015-10-10 | home    | Gettysburg           |   3 |  4.93 | Swarthmore           |   3 |  2.10
- 2015-10-06 | home    | Gordon               |   3 |  1.18 | Roger Williams       |   3 |  1.36
- 2015-10-06 | home    | Gwynedd Mercy        |   3 |  2.92 | Neumann              |   3 |  1.37
- 2015-10-10 | home    | Hamilton             |   3 |  1.57 | Amherst              |   3 |  4.40
- 2015-10-10 | home    | Hartwick             |   3 |  1.30 | St. John Fisher      |   3 |  3.18
- 2015-10-10 | home    | Harvard              |   1 |  2.45 | Brown                |   1 |  1.06
- 2015-10-07 | home    | Haverford            |   3 |  1.55 | Ursinus              |   3 |  2.76
- 2015-10-09 | home    | Hofstra              |   1 |  2.81 | Delaware             |   1 |  3.71
- 2015-10-11 | home    | Hofstra              |   1 |  6.05 | Towson               |   1 |  1.16
- 2015-10-09 | home    | Holy Cross           |   1 |  1.44 | Boston U.            |   1 |  2.96
- 2015-10-11 | home    | Holy Cross           |   1 |  1.51 | Cornell              |   1 |  2.21
- 2015-10-09 | home    | Hood                 |   3 |  0.51 | Albright             |   3 |  5.20
- 2015-10-06 | home    | Houghton             |   3 |  4.44 | Morrisville St.      |   3 |  0.86
- 2015-10-07 | home    | Husson               |   3 |  2.44 | Colby                |   3 |  3.83
- 2015-10-10 | home    | Immaculata           |   3 |  0.87 | Gwynedd Mercy        |   3 |  6.53
- 2015-10-11 | home    | Indiana              |   1 |  1.20 | Syracuse             |   1 |  4.05
- 2015-10-07 | home    | Ithaca               |   3 |  3.05 | Wells                |   3 |  0.32
- 2015-10-11 | home    | Ithaca               |   3 |  2.12 | Stevens              |   3 |  0.93
- 2015-10-10 | home    | Ithaca               |   3 |  3.19 | Elmira               |   3 |  0.54
- 2015-10-11 | home    | James Madison        |   1 |  3.83 | Northeastern         |   1 |  1.38
- 2015-10-09 | home    | James Madison        |   1 |  3.70 | Drexel               |   1 |  1.47
- 2015-10-07 | home    | Johns Hopkins        |   3 |  1.22 | Frank. & Marsh.      |   3 |  2.95
- 2015-10-05 | home    | Johnson & Wales (RI) |   3 |  0.91 | Keene St.            |   3 |  2.32
- 2015-10-10 | home    | Juniata              |   3 |  6.92 | Moravian             |   3 |  1.17
- 2015-10-06 | home    | Kean                 |   3 |  2.02 | Montclair St.        |   3 |  1.96
- 2015-10-07 | home    | Keystone             |   3 |  0.91 | FDU-Florham          |   3 |  2.85
- 2015-10-10 | home    | Keystone             |   3 |  1.19 | Cabrini              |   3 |  2.92
- 2015-10-07 | home    | King's (PA)          |   3 | 10.67 | Cedar Crest          |   3 |  0.56
- 2015-10-10 | home    | Lafayette            |   1 |  2.41 | Bucknell             |   1 |  1.88
- 2015-10-08 | home    | Lasell               |   3 |  3.61 | Roger Williams       |   3 |  2.15
- 2015-10-10 | home    | Lebanon Valley       |   3 |  2.21 | Alvernia             |   3 |  2.25
- 2015-10-09 | home    | Lehigh               |   1 |  1.11 | Liberty              |   1 |  4.74
- 2015-10-07 | home    | LIU Post             |   2 |  1.35 | Adelphi              |   2 |  1.45
- 2015-10-09 | home    | LIU Post             |   2 |  2.31 | Lindenwood (MO)      |   2 |  0.94
- 2015-10-11 | home    | Lock Haven           |   1 |  1.42 | Penn St.             |   1 |  1.14
- 2015-10-09 | home    | Lock Haven           |   1 |  1.59 | Massachusetts        |   1 |  1.04
- 2015-10-11 | home    | Longwood             |   1 |  1.87 | Georgetown           |   1 |  1.59
- 2015-10-09 | home    | Louisville           |   1 |  1.16 | Syracuse             |   1 |  2.17
- 2015-10-09 | neutral | Lynchburg            |   3 |  1.90 | Rhodes               |   3 |  2.25
- 2015-10-09 | home    | Maine                |   1 |  1.67 | Albany (NY)          |   1 |  1.57
- 2015-10-10 | home    | Manhattanville       |   3 |  1.60 | Misericordia         |   3 |  1.60
- 2015-10-10 | home    | Mansfield            |   2 |  0.52 | Kutztown             |   2 |  4.63
- 2015-10-10 | home    | Marywood             |   3 |  1.91 | Neumann              |   3 |  1.80
- 2015-10-06 | home    | Marywood             |   3 |  5.28 | Immaculata           |   3 |  0.92
- 2015-10-10 | home    | Me.-Farmington       |   3 |  2.65 | Thomas (ME)          |   3 |  0.99
- 2015-10-11 | home    | Mercy                |   2 |  1.73 | Saint Michael's      |   2 |  2.34
- 2015-10-07 | home    | Mercyhurst           |   2 |  1.80 | Indiana (PA)         |   2 |  1.38
- 2015-10-07 | home    | Merrimack            |   2 |  4.56 | Southern Conn. St.   |   2 |  0.84
- 2015-10-07 | home    | Messiah              |   3 |  4.14 | Gettysburg           |   3 |  0.95
- 2015-10-09 | home    | Miami (OH)           |   1 |  3.70 | Ball St.             |   1 |  0.71
- 2015-10-11 | home    | Miami (OH)           |   1 |  2.62 | Rutgers              |   1 |  1.46
- 2015-10-09 | home    | Michigan             |   1 |  1.97 | Iowa                 |   1 |  1.19
- 2015-10-11 | neutral | Michigan             |   1 |  1.26 | Stanford             |   1 |  1.21
- 2015-10-09 | home    | Michigan St.         |   1 |  2.33 | Indiana              |   1 |  3.01
- 2015-10-10 | home    | Millersville         |   2 |  1.74 | Limestone            |   2 |  1.01
- 2015-10-09 | home    | Missouri St.         |   1 |  1.74 | Ohio                 |   1 |  2.69
- 2015-10-11 | home    | Missouri St.         |   1 |  2.25 | Kent St.             |   1 |  2.42
- 2015-10-10 | home    | MIT                  |   3 |  3.92 | Clark (MA)           |   3 |  1.31
- 2015-10-06 | home    | MIT                  |   3 |  4.37 | Wheaton (MA)         |   3 |  1.40
- 2015-10-09 | home    | Montclair St.        |   3 |  1.61 | TCNJ                 |   3 |  2.23
- 2015-10-07 | home    | Moravian             |   3 |  1.00 | Muhlenberg           |   3 |  3.82
- 2015-10-08 | home    | Mount Holyoke        |   3 |  1.99 | Simmons              |   3 |  1.60
- 2015-10-08 | home    | Mount Ida            |   3 |  1.81 | Regis (MA)           |   3 |  1.31
- 2015-10-10 | home    | Mount Ida            |   3 |  1.41 | Lasell               |   3 |  4.62
- 2015-10-10 | home    | Muhlenberg           |   3 |  2.09 | Washington Col.      |   3 |  1.20
- 2015-10-07 | home    | Nazareth             |   3 |  1.27 | SUNY Geneseo         |   3 |  2.43
- 2015-10-10 | home    | Nazareth             |   3 |  1.68 | Stevens              |   3 |  2.37
- 2015-10-11 | home    | Nazareth             |   3 |  5.19 | Morrisville St.      |   3 |  1.03
- 2015-10-10 | home    | New England Col.     |   3 |  0.99 | Husson               |   3 |  4.50
- 2015-10-11 | home    | New Hampshire        |   1 |  1.31 | Boston College       |   1 |  2.77
- 2015-10-09 | home    | New Hampshire        |   1 |  3.71 | Vermont              |   1 |  1.30
- 2015-10-08 | home    | Nichols              |   3 |  1.28 | Anna Maria           |   3 |  3.89
- 2015-10-10 | home    | Nichols              |   3 |  0.84 | Gordon               |   3 |  1.59
- 2015-10-09 | home    | North Carolina       |   1 | 10.11 | Longwood             |   1 |  0.78
- 2015-10-09 | home    | Northwestern         |   1 |  2.05 | Stanford             |   1 |  1.27
- 2015-10-10 | home    | Notre Dame (MD)      |   3 |  3.43 | Cedar Crest          |   3 |  3.26
- 2015-10-11 | home    | Oberlin              |   3 |  0.55 | Kenyon               |   3 |  5.81
- 2015-10-11 | home    | Ohio                 |   1 |  2.94 | Michigan St.         |   1 |  2.26
- 2015-10-11 | home    | Ohio St.             |   1 |  1.24 | Louisville           |   1 |  2.21
- 2015-10-09 | home    | Ohio St.             |   1 |  2.64 | Rutgers              |   1 |  2.49
- 2015-10-11 | neutral | Ohio Wesleyan        |   3 |  1.33 | Rhodes               |   3 |  4.68
- 2015-10-09 | home    | Old Dominion         |   1 |  3.34 | Georgetown           |   1 |  0.72
- 2015-10-11 | home    | Old Dominion         |   1 |  3.01 | Virginia             |   1 |  2.98
- 2015-10-07 | home    | Pace                 |   2 |  2.28 | American Int'l       |   2 |  2.03
- 2015-10-10 | home    | Pace                 |   2 |  2.27 | Saint Michael's      |   2 |  2.20
- 2015-10-11 | home    | Pacific              |   1 |  1.78 | California           |   1 |  1.89
- 2015-10-10 | home    | Penn                 |   1 |  5.18 | Dartmouth            |   1 |  2.02
- 2015-10-06 | home    | Penn                 |   1 |  3.22 | Lafayette            |   1 |  1.70
- 2015-10-09 | home    | Penn St.             |   1 |  1.66 | Maryland             |   1 |  2.68
- 2015-10-07 | home    | Plymouth St.         |   3 |  2.95 | Salem St.            |   3 |  0.88
- 2015-10-09 | home    | Princeton            |   1 |  5.24 | Columbia             |   1 |  1.44
- 2015-10-11 | home    | Quinnipiac           |   1 |  2.12 | Providence           |   1 |  1.83
- 2015-10-09 | home    | Quinnipiac           |   1 |  3.49 | Bryant               |   1 |  1.71
- 2015-10-06 | home    | Ramapo               |   3 |  0.71 | Wm. Paterson         |   3 |  2.29
- 2015-10-10 | home    | Ramapo               |   3 |  0.81 | Rowan                |   3 |  4.72
- 2015-10-10 | home    | Randolph-Macon       |   3 |  1.86 | Bridgewater (VA)     |   3 |  1.61
- 2015-10-05 | home    | Randolph-Macon       |   3 |  1.26 | Sewanee              |   3 |  1.57
- 2015-10-10 | neutral | Regis (MA)           |   3 |  1.60 | Bay Path             |   3 |  1.01
- 2015-10-06 | home    | Regis (MA)           |   3 |  1.42 | Becker               |   3 |  1.00
- 2015-10-11 | home    | Richmond             |   1 |  2.44 | Saint Joseph's       |   1 |  2.11
- 2015-10-09 | home    | Richmond             |   1 |  1.98 | La Salle             |   1 |  1.29
- 2015-10-10 | home    | Roger Williams       |   3 |  1.23 | U New England        |   3 |  3.83
- 2015-10-07 | home    | Rowan                |   3 |  5.85 | Stockton             |   3 |  1.10
- 2015-10-11 | home    | Sacred Heart         |   1 |  1.60 | Lehigh               |   1 |  2.21
- 2015-10-09 | neutral | Sacred Heart         |   1 |  2.39 | Siena                |   1 |  1.32
- 2015-10-11 | home    | Saint Francis (PA)   |   1 |  1.50 | Massachusetts        |   1 |  1.69
- 2015-10-10 | home    | Scranton             |   3 |  2.15 | Goucher              |   3 |  0.81
- 2015-10-06 | home    | Scranton             |   3 |  2.81 | Albright             |   3 |  1.00
- 2015-10-10 | home    | Seton Hill           |   2 |  0.68 | East Stroudsburg     |   2 |  4.91
- 2015-10-10 | home    | Sewanee              |   3 |  1.10 | Rhodes               |   3 |  2.22
- 2015-10-11 | home    | Sewanee              |   3 |  5.21 | Transylvania         |   3 |  0.45
- 2015-10-07 | home    | Shenandoah           |   3 |  1.96 | Randolph-Macon       |   3 |  1.35
- 2015-10-07 | home    | Shippensburg         |   2 |  1.38 | Millersville         |   2 |  1.14
- 2015-10-10 | home    | Shippensburg         |   2 |  3.82 | Mercyhurst           |   2 |  1.02
- 2015-10-10 | home    | Skidmore             |   3 |  3.84 | Rensselaer           |   3 |  1.05
- 2015-10-10 | home    | Slippery Rock        |   2 |  2.16 | Indiana (PA)         |   2 |  1.37
- 2015-10-07 | home    | Slippery Rock        |   2 |  4.22 | Seton Hill           |   2 |  1.44
- 2015-10-06 | home    | Smith                |   3 |  2.52 | Mount Holyoke        |   3 |  2.12
- 2015-10-08 | home    | Smith                |   3 |  4.53 | Western New Eng.     |   3 |  1.41
- 2015-10-10 | home    | Southern Conn. St.   |   2 |  1.36 | Franklin Pierce      |   2 |  2.45
- 2015-10-07 | home    | Southern Me.         |   3 |  1.21 | Keene St.            |   3 |  1.46
- 2015-10-07 | home    | Southern N.H.        |   2 |  0.69 | Assumption           |   2 |  3.52
- 2015-10-10 | home    | Springfield          |   3 |  2.09 | Mount Holyoke        |   3 |  1.90
- 2015-10-07 | home    | St. Anselm           |   2 |  2.18 | Bentley              |   2 |  0.87
- 2015-10-10 | home    | St. Joseph's (ME)    |   3 |  2.38 | Johnson & Wales (RI) |   3 |  0.80
- 2015-10-06 | home    | St. Joseph's (ME)    |   3 |  2.09 | Thomas (ME)          |   3 |  1.19
- 2015-10-06 | home    | St. Lawrence         |   3 |  0.87 | Middlebury           |   3 |  7.07
- 2015-10-10 | home    | St. Lawrence         |   3 |  2.66 | Union (NY)           |   3 |  2.24
- 2015-10-10 | home    | Stockton             |   3 |  0.96 | Kean                 |   3 |  4.25
- 2015-10-07 | home    | St. Thomas Aquinas   |   2 |  1.39 | Mercy                |   2 |  2.81
- 2015-10-10 | home    | St. Thomas Aquinas   |   2 |  1.21 | Dowling              |   2 |  3.44
- 2015-10-11 | home    | St. Thomas Aquinas   |   2 |  1.21 | Lindenwood (MO)      |   2 |  3.78
- 2015-10-08 | home    | SUNY Cortland        |   3 |  2.54 | Houghton             |   3 |  0.55
- 2015-10-10 | home    | SUNY Geneseo         |   3 |  8.28 | Keuka                |   3 |  0.34
- 2015-10-07 | home    | SUNY New Paltz       |   3 |  2.72 | Stevens              |   3 |  1.10
- 2015-10-08 | home    | SUNY Oneonta         |   3 |  1.85 | Hamilton             |   3 |  2.88
- 2015-10-10 | home    | SUNY Oneonta         |   3 |  1.72 | Houghton             |   3 |  1.44
- 2015-10-10 | home    | Susquehanna          |   3 |  1.50 | Elizabethtown        |   3 |  1.59
- 2015-10-09 | home    | Sweet Briar          |   3 |  0.57 | Roanoke              |   3 |  8.79
- 2015-10-11 | home    | Sweet Briar          |   3 |  2.72 | Cedar Crest          |   3 |  3.58
- 2015-10-06 | home    | TCNJ                 |   3 |  3.11 | Eastern              |   3 |  0.92
- 2015-10-09 | home    | Temple               |   1 |  1.10 | UConn                |   1 |  6.00
- 2015-10-11 | home    | Temple               |   1 |  3.30 | Bucknell             |   1 |  2.07
- 2015-10-10 | home    | Trinity (CT)         |   3 |  1.27 | Bowdoin              |   3 |  3.68
- 2015-10-10 | home    | Tufts                |   3 |  1.50 | Middlebury           |   3 |  3.06
- 2015-10-09 | home    | UC Davis             |   1 |  1.75 | UMass Lowell         |   1 |  1.77
- 2015-10-07 | home    | UMass Dartmouth      |   3 |  4.88 | Framingham St.       |   3 |  0.85
- 2015-10-06 | home    | U New England        |   3 |  7.90 | Nichols              |   3 |  0.49
- 2015-10-06 | home    | Union (NY)           |   3 |  2.48 | Hartwick             |   3 |  1.72
- 2015-10-10 | home    | Ursinus              |   3 |  4.26 | Johns Hopkins        |   3 |  0.88
- 2015-10-10 | home    | Utica                |   3 |  1.88 | Wash. & Jeff.        |   3 |  1.47
- 2015-10-07 | home    | Utica                |   3 |  3.83 | Brockport            |   3 |  0.92
- 2015-10-06 | home    | Va. Wesleyan         |   3 |  0.94 | Sewanee              |   3 |  2.68
- 2015-10-11 | neutral | Va. Wesleyan         |   3 |  1.70 | Wells                |   3 |  1.50
- 2015-10-09 | home    | VCU                  |   1 |  1.85 | Saint Joseph's       |   1 |  3.04
- 2015-10-11 | home    | VCU                  |   1 |  1.51 | La Salle             |   1 |  1.86
- 2015-10-11 | home    | Vermont              |   1 |  1.12 | Maine                |   1 |  4.49
- 2015-10-11 | home    | Villanova            |   1 |  1.98 | Rider                |   1 |  2.61
- 2015-10-09 | home    | Villanova            |   1 |  2.18 | Providence           |   1 |  1.85
- 2015-10-09 | home    | Wake Forest          |   1 |  3.16 | Virginia             |   1 |  2.19
- 2015-10-08 | home    | Washington Col.      |   3 |  5.45 | Swarthmore           |   3 |  1.78
- 2015-10-06 | home    | Washington Col.      |   3 |  3.70 | Wilson               |   3 |  0.88
- 2015-10-07 | home    | Wash. & Lee          |   3 |  1.65 | Roanoke              |   3 |  0.92
- 2015-10-10 | home    | Wellesley            |   3 |  2.83 | WPI                  |   3 |  0.70
- 2015-10-11 | home    | Wesley               |   3 |  0.98 | Shenandoah           |   3 |  1.54
- 2015-10-10 | home    | Wesley               |   3 |  0.62 | Mary Washington      |   3 |  4.09
- 2015-10-10 | home    | Wesleyan (CT)        |   3 |  1.87 | Colby                |   3 |  2.51
- 2015-10-11 | home    | Wesleyan (CT)        |   3 |  0.78 | Middlebury           |   3 |  3.74
- 2015-10-11 | home    | Western Conn. St.    |   3 |  1.52 | Southern Me.         |   3 |  1.12
- 2015-10-06 | home    | Western New Eng.     |   3 |  1.80 | Salve Regina         |   3 |  4.31
- 2015-10-07 | home    | Westfield St.        |   3 |  1.58 | Western Conn. St.    |   3 |  1.50
- 2015-10-10 | home    | Westfield St.        |   3 |  1.68 | UMass Dartmouth      |   3 |  2.10
- 2015-10-08 | home    | Wheaton (MA)         |   3 |  8.42 | Elms                 |   3 |  0.66
- 2015-10-06 | home    | Wheelock             |   3 |  3.80 | Bay Path             |   3 |  1.40
- 2015-10-10 | home    | Widener              |   3 |  1.58 | Stevenson            |   3 |  1.45
- 2015-10-07 | home    | Wilkes               |   3 |  2.20 | Elizabethtown        |   3 |  2.22
- 2015-10-09 | home    | William & Mary       |   1 |  2.37 | Northeastern         |   1 |  1.67
- 2015-10-06 | home    | Williams             |   3 |  1.51 | Skidmore             |   3 |  2.25
- 2015-10-07 | home    | William Smith        |   3 |  2.12 | Rochester (NY)       |   3 |  1.94
- 2015-10-10 | home    | William Smith        |   3 |  2.76 | SUNY New Paltz       |   3 |  1.95
- 2015-10-07 | home    | Wittenberg           |   3 |  3.01 | Ohio Wesleyan        |   3 |  2.99
- 2015-10-10 | home    | Wittenberg           |   3 |  1.72 | DePauw               |   3 |  3.60
- 2015-10-08 | home    | Wm. Paterson         |   3 |  1.96 | Misericordia         |   3 |  1.12
- 2015-10-10 | home    | Wooster              |   3 |  0.60 | Kenyon               |   3 |  4.09
- 2015-10-06 | home    | Wooster              |   3 |  1.03 | Denison              |   3 |  3.04
- 2015-10-10 | home    | Worcester St.        |   3 |  2.29 | Plymouth St.         |   3 |  1.41
- 2015-10-06 | home    | WPI                  |   3 |  2.27 | Clark (MA)           |   3 |  1.55
- 2015-10-11 | home    | Yale                 |   1 |  0.55 | Albany (NY)          |   1 |  2.52
- 2015-10-10 | home    | Yale                 |   1 |  1.00 | Cornell              |   1 |  2.41
- 2015-10-07 | home    | York (PA)            |   3 |  2.89 | Stevenson            |   3 |  1.69
+    date    |  site   |        home        | div | score |         away         | div | score 
+------------+---------+--------------------+-----+-------+----------------------+-----+-------
+ 2015-10-10 | home    | Adelphi            |   2 |  1.90 | St. Anselm           |   2 |  1.67
+ 2015-10-14 | home    | Albright           |   3 |  5.88 | Immaculata           |   3 |  0.65
+ 2015-10-10 | home    | American Int'l     |   2 |  1.30 | Merrimack            |   2 |  3.01
+ 2015-10-10 | home    | Anna Maria         |   3 |  4.55 | Rivier               |   3 |  1.04
+ 2015-10-10 | home    | Appalachian St.    |   1 |  4.47 | Saint Louis          |   1 |  1.52
+ 2015-10-11 | home    | Appalachian St.    |   1 |  1.57 | Davidson             |   1 |  2.79
+ 2015-10-10 | home    | Arcadia            |   3 |  1.20 | Messiah              |   3 |  3.77
+ 2015-10-13 | home    | Assumption         |   2 |  3.27 | American Int'l       |   2 |  0.91
+ 2015-10-10 | home    | Babson             |   3 |  3.92 | Smith                |   3 |  0.71
+ 2015-10-11 | home    | Ball St.           |   1 |  4.72 | Bellarmine           |   2 |  0.97
+ 2015-10-14 | home    | Bates              |   3 |  0.67 | Babson               |   3 |  2.51
+ 2015-10-14 | home    | Becker             |   3 |  2.04 | Wheelock             |   3 |  2.36
+ 2015-10-11 | home    | Becker             |   3 |  5.05 | Daniel Webster       |   3 |  0.88
+ 2015-10-10 | home    | Bellarmine         |   2 |  3.61 | Newberry             |   2 |  1.26
+ 2015-10-09 | home    | Bentley            |   2 |  1.43 | Stonehill            |   2 |  2.70
+ 2015-10-10 | neutral | Bethany (WV)       |   3 |  3.29 | Transylvania         |   3 |  1.68
+ 2015-10-10 | home    | Bloomsburg         |   2 |  1.19 | West Chester         |   2 |  2.14
+ 2015-10-09 | home    | Boston College     |   1 |  1.86 | Duke                 |   1 |  1.91
+ 2015-10-11 | home    | Boston U.          |   1 |  1.93 | Duke                 |   1 |  2.84
+ 2015-10-13 | home    | Bowdoin            |   3 |  5.29 | Southern Me.         |   3 |  0.44
+ 2015-10-10 | home    | Bridgewater St.    |   3 |  1.36 | Keene St.            |   3 |  2.24
+ 2015-10-14 | home    | Brockport          |   3 |  0.66 | SUNY Geneseo         |   3 |  4.19
+ 2015-10-10 | home    | Brockport          |   3 |  0.40 | SUNY Cortland        |   3 |  4.18
+ 2015-10-14 | home    | Brown              |   1 |  1.35 | Holy Cross           |   1 |  1.54
+ 2015-10-10 | home    | Bryn Mawr          |   3 |  0.51 | Dickinson            |   3 |  6.49
+ 2015-10-13 | home    | Cabrini            |   3 |  2.47 | Gettysburg           |   3 |  2.02
+ 2015-10-10 | home    | California         |   1 |  3.09 | UMass Lowell         |   1 |  1.77
+ 2015-10-09 | home    | Castleton          |   3 |  3.06 | Colby-Sawyer         |   3 |  1.89
+ 2015-10-13 | home    | Cedar Crest        |   3 |  0.78 | Misericordia         |   3 |  6.61
+ 2015-10-11 | home    | Central Mich.      |   1 |  0.87 | Iowa                 |   1 |  5.18
+ 2015-10-11 | home    | Centre             |   3 |  2.18 | Newberry             |   2 |  0.93
+ 2015-10-14 | home    | Centre             |   3 |  5.22 | Transylvania         |   3 |  0.35
+ 2015-10-10 | home    | Chris. Newport     |   3 |  4.95 | York (PA)            |   3 |  1.18
+ 2015-10-13 | home    | Clark (MA)         |   3 |  1.86 | Worcester St.        |   3 |  2.36
+ 2015-10-10 | home    | Colgate            |   1 |  0.93 | American             |   1 |  4.76
+ 2015-10-11 | home    | Columbia           |   1 |  4.39 | Bryant               |   1 |  1.89
+ 2015-10-10 | home    | Connecticut Col.   |   3 |  1.11 | Bates                |   3 |  1.62
+ 2015-10-13 | home    | Dartmouth          |   1 |  1.87 | Maine                |   1 |  4.39
+ 2015-10-09 | home    | Davidson           |   1 |  4.37 | Saint Louis          |   1 |  0.67
+ 2015-10-11 | home    | Delaware           |   1 |  2.92 | Liberty              |   1 |  2.98
+ 2015-10-09 | home    | Delaware Valley    |   3 |  2.95 | DeSales              |   3 |  1.98
+ 2015-10-10 | home    | Denison            |   3 |  5.53 | Oberlin              |   3 |  0.82
+ 2015-10-13 | home    | DeSales            |   3 |  2.22 | Stockton             |   3 |  1.84
+ 2015-10-13 | home    | Dickinson          |   3 |  1.49 | Mary Washington      |   3 |  3.38
+ 2015-10-12 | home    | Dowling            |   2 |  1.98 | Lindenwood (MO)      |   2 |  1.85
+ 2015-10-10 | home    | Drew               |   3 |  0.81 | Catholic             |   3 |  5.40
+ 2015-10-11 | home    | Drexel             |   1 |  0.72 | UConn                |   1 |  5.52
+ 2015-10-10 | home    | Earlham            |   3 |  1.62 | Ohio Wesleyan        |   3 |  3.46
+ 2015-10-10 | home    | Eastern            |   3 |  2.43 | King's (PA)          |   3 |  1.23
+ 2015-10-13 | home    | Eastern Conn. St.  |   3 |  2.12 | Connecticut Col.     |   3 |  1.19
+ 2015-10-10 | home    | Eastern Conn. St.  |   3 |  4.14 | Salem St.            |   3 |  0.82
+ 2015-10-10 | home    | East. Mennonite    |   3 |  0.60 | Wash. & Lee          |   3 |  3.88
+ 2015-10-13 | home    | East. Mennonite    |   3 |  1.03 | Roanoke              |   3 |  4.12
+ 2015-10-13 | home    | East Stroudsburg   |   2 |  1.25 | Millersville         |   2 |  0.69
+ 2015-10-11 | home    | Elmira             |   3 |  1.34 | Wash. & Jeff.        |   3 |  1.76
+ 2015-10-14 | neutral | Elms               |   3 |  1.48 | Bay Path             |   3 |  1.57
+ 2015-10-10 | home    | Elms               |   3 |  1.80 | Wheelock             |   3 |  3.22
+ 2015-10-10 | home    | Endicott           |   3 |  1.84 | Salve Regina         |   3 |  2.82
+ 2015-10-10 | home    | Fairfield          |   1 |  2.58 | Monmouth             |   1 |  2.08
+ 2015-10-10 | home    | FDU-Florham        |   3 |  2.25 | Wilkes               |   3 |  1.55
+ 2015-10-10 | home    | Ferrum             |   3 |  1.98 | Va. Wesleyan         |   3 |  2.80
+ 2015-10-12 | home    | Ferrum             |   3 |  1.44 | Wells                |   3 |  1.63
+ 2015-10-14 | home    | Fitchburg St.      |   3 |  3.66 | Mount Ida            |   3 |  0.95
+ 2015-10-13 | home    | Framingham St.     |   3 |  1.65 | Anna Maria           |   3 |  2.56
+ 2015-10-10 | home    | Framingham St.     |   3 |  1.41 | Fitchburg St.        |   3 |  2.00
+ 2015-10-12 | home    | Franklin Pierce    |   2 |  5.15 | St. Thomas Aquinas   |   2 |  0.66
+ 2015-10-10 | home    | Frank. & Marsh.    |   3 |  3.05 | Haverford            |   3 |  1.25
+ 2015-10-14 | home    | Frank. & Marsh.    |   3 |  2.66 | Eastern              |   3 |  1.13
+ 2015-10-10 | home    | Frostburg St.      |   3 |  2.23 | St. Mary's (MD)      |   3 |  2.50
+ 2015-10-14 | home    | Frostburg St.      |   3 |  2.14 | Shenandoah           |   3 |  1.80
+ 2015-10-10 | home    | Gettysburg         |   3 |  5.25 | Swarthmore           |   3 |  2.13
+ 2015-10-12 | home    | Gordon             |   3 |  0.68 | St. Joseph's (ME)    |   3 |  1.12
+ 2015-10-14 | home    | Gordon             |   3 |  1.49 | Western New Eng.     |   3 |  1.40
+ 2015-10-14 | home    | Goucher            |   3 |  0.92 | Catholic             |   3 |  2.24
+ 2015-10-10 | home    | Hamilton           |   3 |  1.41 | Amherst              |   3 |  4.24
+ 2015-10-10 | home    | Hartwick           |   3 |  1.43 | St. John Fisher      |   3 |  3.27
+ 2015-10-10 | home    | Harvard            |   1 |  2.47 | Brown                |   1 |  1.05
+ 2015-10-09 | home    | Hofstra            |   1 |  2.80 | Delaware             |   1 |  3.72
+ 2015-10-11 | home    | Hofstra            |   1 |  6.04 | Towson               |   1 |  1.17
+ 2015-10-09 | home    | Holy Cross         |   1 |  1.44 | Boston U.            |   1 |  2.94
+ 2015-10-11 | home    | Holy Cross         |   1 |  1.50 | Cornell              |   1 |  2.22
+ 2015-10-09 | home    | Hood               |   3 |  0.49 | Albright             |   3 |  4.92
+ 2015-10-10 | home    | Immaculata         |   3 |  0.76 | Gwynedd Mercy        |   3 |  6.82
+ 2015-10-11 | home    | Indiana            |   1 |  1.19 | Syracuse             |   1 |  4.05
+ 2015-10-11 | home    | Ithaca             |   3 |  2.17 | Stevens              |   3 |  0.92
+ 2015-10-10 | home    | Ithaca             |   3 |  3.17 | Elmira               |   3 |  0.50
+ 2015-10-13 | home    | James Madison      |   1 |  3.10 | Davidson             |   1 |  1.34
+ 2015-10-11 | home    | James Madison      |   1 |  3.83 | Northeastern         |   1 |  1.38
+ 2015-10-09 | home    | James Madison      |   1 |  3.71 | Drexel               |   1 |  1.46
+ 2015-10-10 | home    | Juniata            |   3 |  7.48 | Moravian             |   3 |  1.16
+ 2015-10-14 | home    | Juniata            |   3 |  1.95 | Susquehanna          |   3 |  1.00
+ 2015-10-13 | home    | Kean               |   3 |  5.82 | Delaware Valley      |   3 |  0.99
+ 2015-10-13 | home    | Keene St.          |   3 |  4.69 | Castleton            |   3 |  1.08
+ 2015-10-13 | home    | Keuka              |   3 |  0.48 | St. John Fisher      |   3 |  7.29
+ 2015-10-10 | home    | Keystone           |   3 |  1.17 | Cabrini              |   3 |  3.42
+ 2015-10-10 | home    | Lafayette          |   1 |  2.28 | Bucknell             |   1 |  1.98
+ 2015-10-08 | home    | Lasell             |   3 |  3.41 | Roger Williams       |   3 |  2.05
+ 2015-10-14 | home    | Lebanon Valley     |   3 |  1.89 | FDU-Florham          |   3 |  1.54
+ 2015-10-10 | home    | Lebanon Valley     |   3 |  2.11 | Alvernia             |   3 |  2.09
+ 2015-10-09 | home    | Lehigh             |   1 |  1.10 | Liberty              |   1 |  4.78
+ 2015-10-09 | home    | LIU Post           |   2 |  2.26 | Lindenwood (MO)      |   2 |  1.05
+ 2015-10-11 | home    | Lock Haven         |   1 |  1.41 | Penn St.             |   1 |  1.13
+ 2015-10-09 | home    | Lock Haven         |   1 |  1.59 | Massachusetts        |   1 |  1.04
+ 2015-10-11 | home    | Longwood           |   1 |  1.88 | Georgetown           |   1 |  1.59
+ 2015-10-09 | home    | Louisville         |   1 |  1.16 | Syracuse             |   1 |  2.17
+ 2015-10-12 | home    | Lynchburg          |   3 |  4.25 | Frostburg St.        |   3 |  1.17
+ 2015-10-09 | neutral | Lynchburg          |   3 |  1.91 | Rhodes               |   3 |  2.32
+ 2015-10-09 | home    | Maine              |   1 |  1.68 | Albany (NY)          |   1 |  1.57
+ 2015-10-10 | home    | Manhattanville     |   3 |  1.49 | Misericordia         |   3 |  1.51
+ 2015-10-10 | home    | Mansfield          |   2 |  0.48 | Kutztown             |   2 |  4.87
+ 2015-10-10 | home    | Marywood           |   3 |  2.02 | Neumann              |   3 |  1.68
+ 2015-10-10 | home    | Me.-Farmington     |   3 |  2.35 | Thomas (ME)          |   3 |  0.89
+ 2015-10-11 | home    | Mercy              |   2 |  1.83 | Saint Michael's      |   2 |  2.23
+ 2015-10-13 | home    | Mercyhurst         |   2 |  5.23 | Mansfield            |   2 |  0.71
+ 2015-10-13 | home    | Merrimack          |   2 |  2.67 | Bentley              |   2 |  0.87
+ 2015-10-11 | home    | Miami (OH)         |   1 |  2.62 | Rutgers              |   1 |  1.46
+ 2015-10-09 | home    | Miami (OH)         |   1 |  3.72 | Ball St.             |   1 |  0.71
+ 2015-10-11 | neutral | Michigan           |   1 |  1.26 | Stanford             |   1 |  1.20
+ 2015-10-09 | home    | Michigan           |   1 |  1.97 | Iowa                 |   1 |  1.19
+ 2015-10-09 | home    | Michigan St.       |   1 |  2.33 | Indiana              |   1 |  3.01
+ 2015-10-10 | home    | Millersville       |   2 |  1.69 | Limestone            |   2 |  0.87
+ 2015-10-09 | home    | Missouri St.       |   1 |  1.74 | Ohio                 |   1 |  2.69
+ 2015-10-11 | home    | Missouri St.       |   1 |  2.25 | Kent St.             |   1 |  2.42
+ 2015-10-10 | home    | MIT                |   3 |  3.92 | Clark (MA)           |   3 |  1.09
+ 2015-10-09 | home    | Montclair St.      |   3 |  1.50 | TCNJ                 |   3 |  2.25
+ 2015-10-14 | home    | Montclair St.      |   3 |  2.35 | Muhlenberg           |   3 |  0.95
+ 2015-10-13 | home    | Moravian           |   3 |  1.75 | Elizabethtown        |   3 |  7.49
+ 2015-10-13 | home    | Morrisville St.    |   3 |  1.81 | Oswego St.           |   3 |  3.82
+ 2015-10-08 | home    | Mount Holyoke      |   3 |  1.84 | Simmons              |   3 |  1.44
+ 2015-10-10 | home    | Mount Ida          |   3 |  1.37 | Lasell               |   3 |  4.80
+ 2015-10-08 | home    | Mount Ida          |   3 |  1.93 | Regis (MA)           |   3 |  1.48
+ 2015-10-10 | home    | Muhlenberg         |   3 |  1.97 | Washington Col.      |   3 |  1.18
+ 2015-10-11 | home    | Nazareth           |   3 |  5.39 | Morrisville St.      |   3 |  1.04
+ 2015-10-10 | home    | Nazareth           |   3 |  1.78 | Stevens              |   3 |  2.43
+ 2015-10-14 | home    | Neumann            |   3 |  1.72 | Arcadia              |   3 |  1.89
+ 2015-10-10 | home    | New England Col.   |   3 |  0.98 | Husson               |   3 |  5.08
+ 2015-10-13 | home    | New England Col.   |   3 |  1.05 | Lasell               |   3 |  4.65
+ 2015-10-09 | home    | New Hampshire      |   1 |  3.71 | Vermont              |   1 |  1.30
+ 2015-10-11 | home    | New Hampshire      |   1 |  1.31 | Boston College       |   1 |  2.78
+ 2015-10-08 | home    | Nichols            |   3 |  1.31 | Anna Maria           |   3 |  3.92
+ 2015-10-10 | home    | Nichols            |   3 |  0.75 | Gordon               |   3 |  2.34
+ 2015-10-14 | home    | Nichols            |   3 |  1.46 | Roger Williams       |   3 |  4.14
+ 2015-10-09 | home    | North Carolina     |   1 | 10.09 | Longwood             |   1 |  0.78
+ 2015-10-09 | home    | Northwestern       |   1 |  2.05 | Stanford             |   1 |  1.27
+ 2015-10-14 | home    | Notre Dame (MD)    |   3 |  4.34 | Sweet Briar          |   3 |  2.35
+ 2015-10-10 | home    | Notre Dame (MD)    |   3 |  3.42 | Cedar Crest          |   3 |  2.89
+ 2015-10-11 | home    | Oberlin            |   3 |  0.54 | Kenyon               |   3 |  5.54
+ 2015-10-11 | home    | Ohio               |   1 |  2.94 | Michigan St.         |   1 |  2.26
+ 2015-10-11 | home    | Ohio St.           |   1 |  1.24 | Louisville           |   1 |  2.21
+ 2015-10-09 | home    | Ohio St.           |   1 |  2.63 | Rutgers              |   1 |  2.49
+ 2015-10-11 | neutral | Ohio Wesleyan      |   3 |  1.20 | Rhodes               |   3 |  4.77
+ 2015-10-13 | home    | Ohio Wesleyan      |   3 |  1.98 | Denison              |   3 |  2.34
+ 2015-10-09 | home    | Old Dominion       |   1 |  3.34 | Georgetown           |   1 |  0.72
+ 2015-10-14 | home    | Old Dominion       |   1 |  2.31 | Maryland             |   1 |  2.79
+ 2015-10-11 | home    | Old Dominion       |   1 |  3.01 | Virginia             |   1 |  2.98
+ 2015-10-10 | home    | Pace               |   2 |  1.97 | Saint Michael's      |   2 |  2.09
+ 2015-10-13 | home    | Pace               |   2 |  1.07 | Adelphi              |   2 |  2.96
+ 2015-10-11 | home    | Pacific            |   1 |  1.78 | California           |   1 |  1.89
+ 2015-10-10 | home    | Penn               |   1 |  5.44 | Dartmouth            |   1 |  1.87
+ 2015-10-09 | home    | Penn St.           |   1 |  1.66 | Maryland             |   1 |  2.68
+ 2015-10-09 | home    | Princeton          |   1 |  5.24 | Columbia             |   1 |  1.45
+ 2015-10-11 | home    | Quinnipiac         |   1 |  2.11 | Providence           |   1 |  1.84
+ 2015-10-09 | home    | Quinnipiac         |   1 |  3.48 | Bryant               |   1 |  1.72
+ 2015-10-10 | home    | Ramapo             |   3 |  0.82 | Rowan                |   3 |  5.39
+ 2015-10-10 | home    | Randolph-Macon     |   3 |  1.86 | Bridgewater (VA)     |   3 |  1.56
+ 2015-10-10 | neutral | Regis (MA)         |   3 |  1.60 | Bay Path             |   3 |  0.94
+ 2015-10-14 | home    | Regis (MA)         |   3 |  4.80 | Daniel Webster       |   3 |  0.72
+ 2015-10-09 | home    | Richmond           |   1 |  1.99 | La Salle             |   1 |  1.29
+ 2015-10-11 | home    | Richmond           |   1 |  2.42 | Saint Joseph's       |   1 |  2.12
+ 2015-10-12 | home    | Rivier             |   3 |  1.19 | Husson               |   3 |  5.09
+ 2015-10-12 | home    | Rochester (NY)     |   3 |  1.41 | Vassar               |   3 |  1.02
+ 2015-10-10 | home    | Roger Williams     |   3 |  1.13 | U New England        |   3 |  3.67
+ 2015-10-12 | home    | Rowan              |   3 |  3.45 | Haverford            |   3 |  2.01
+ 2015-10-09 | neutral | Sacred Heart       |   1 |  2.42 | Siena                |   1 |  1.31
+ 2015-10-11 | home    | Sacred Heart       |   1 |  1.62 | Lehigh               |   1 |  2.18
+ 2015-10-11 | home    | Saint Francis (PA) |   1 |  1.49 | Massachusetts        |   1 |  1.69
+ 2015-10-13 | home    | Saint Michael's    |   2 |  3.53 | Southern N.H.        |   2 |  1.07
+ 2015-10-13 | home    | Salve Regina       |   3 |  4.70 | Bridgewater St.      |   3 |  1.21
+ 2015-10-14 | home    | Scranton           |   3 |  4.82 | Drew                 |   3 |  0.67
+ 2015-10-10 | home    | Scranton           |   3 |  2.00 | Goucher              |   3 |  0.76
+ 2015-10-10 | home    | Seton Hill         |   2 |  0.62 | East Stroudsburg     |   2 |  5.00
+ 2015-10-13 | home    | Seton Hill         |   2 |  1.00 | Bloomsburg           |   2 |  2.69
+ 2015-10-11 | home    | Sewanee            |   3 |  5.29 | Transylvania         |   3 |  0.60
+ 2015-10-10 | home    | Sewanee            |   3 |  1.14 | Rhodes               |   3 |  3.13
+ 2015-10-12 | home    | Sewanee            |   3 |  4.57 | Bethany (WV)         |   3 |  1.01
+ 2015-10-10 | home    | Shippensburg       |   2 |  4.01 | Mercyhurst           |   2 |  1.22
+ 2015-10-10 | home    | Skidmore           |   3 |  3.76 | Rensselaer           |   3 |  0.99
+ 2015-10-13 | home    | Slippery Rock      |   2 |  1.40 | Shippensburg         |   2 |  2.90
+ 2015-10-10 | home    | Slippery Rock      |   2 |  2.34 | Indiana (PA)         |   2 |  1.55
+ 2015-10-08 | home    | Smith              |   3 |  4.65 | Western New Eng.     |   3 |  1.31
+ 2015-10-14 | home    | Southern Conn. St. |   2 |  1.06 | LIU Post             |   2 |  2.36
+ 2015-10-10 | home    | Southern Conn. St. |   2 |  1.35 | Franklin Pierce      |   2 |  2.46
+ 2015-10-10 | home    | Springfield        |   3 |  1.93 | Mount Holyoke        |   3 |  1.86
+ 2015-10-13 | home    | Springfield        |   3 |  1.78 | Trinity (CT)         |   3 |  2.49
+ 2015-10-14 | home    | Stevens            |   3 |  1.93 | Rowan                |   3 |  3.52
+ 2015-10-13 | home    | Stevenson          |   3 |  2.60 | McDaniel             |   3 |  2.35
+ 2015-10-10 | home    | St. Joseph's (ME)  |   3 |  2.05 | Johnson & Wales (RI) |   3 |  0.81
+ 2015-10-10 | home    | St. Lawrence       |   3 |  2.88 | Union (NY)           |   3 |  2.21
+ 2015-10-08 | home    | St. Mary's (MD)    |   3 |  1.17 | Chris. Newport       |   3 |  3.44
+ 2015-10-10 | home    | Stockton           |   3 |  0.95 | Kean                 |   3 |  4.27
+ 2015-10-13 | home    | Stonehill          |   2 |  2.55 | St. Anselm           |   2 |  2.26
+ 2015-10-11 | home    | St. Thomas Aquinas |   2 |  1.09 | Lindenwood (MO)      |   2 |  3.93
+ 2015-10-10 | home    | St. Thomas Aquinas |   2 |  1.12 | Dowling              |   2 |  3.50
+ 2015-10-08 | home    | SUNY Cortland      |   3 |  2.44 | Houghton             |   3 |  0.54
+ 2015-10-10 | home    | SUNY Geneseo       |   3 |  8.85 | Keuka                |   3 |  0.37
+ 2015-10-14 | home    | SUNY New Paltz     |   3 |  3.48 | SUNY Oneonta         |   3 |  0.77
+ 2015-10-08 | home    | SUNY Oneonta       |   3 |  2.03 | Hamilton             |   3 |  2.79
+ 2015-10-10 | home    | SUNY Oneonta       |   3 |  1.64 | Houghton             |   3 |  1.40
+ 2015-10-10 | home    | Susquehanna        |   3 |  1.51 | Elizabethtown        |   3 |  1.95
+ 2015-10-11 | home    | Sweet Briar        |   3 |  2.64 | Cedar Crest          |   3 |  3.33
+ 2015-10-09 | home    | Sweet Briar        |   3 |  0.58 | Roanoke              |   3 |  8.31
+ 2015-10-13 | home    | TCNJ               |   3 |  8.21 | Ramapo               |   3 |  0.30
+ 2015-10-09 | home    | Temple             |   1 |  1.11 | UConn                |   1 |  5.94
+ 2015-10-11 | home    | Temple             |   1 |  3.32 | Bucknell             |   1 |  2.06
+ 2015-10-14 | home    | Thomas (ME)        |   3 |  1.11 | Me.-Farmington       |   3 |  1.90
+ 2015-10-10 | home    | Trinity (CT)       |   3 |  1.33 | Bowdoin              |   3 |  3.65
+ 2015-10-10 | home    | Tufts              |   3 |  1.74 | Middlebury           |   3 |  2.31
+ 2015-10-12 | home    | Tufts              |   3 |  1.87 | Chris. Newport       |   3 |  1.91
+ 2015-10-09 | home    | UC Davis           |   1 |  1.75 | UMass Lowell         |   1 |  1.77
+ 2015-10-14 | home    | U New England      |   3 |  2.62 | Endicott             |   3 |  1.30
+ 2015-10-10 | home    | Ursinus            |   3 |  4.49 | Johns Hopkins        |   3 |  0.80
+ 2015-10-13 | home    | Ursinus            |   3 | 13.93 | Bryn Mawr            |   3 |  0.21
+ 2015-10-10 | home    | Utica              |   3 |  1.89 | Wash. & Jeff.        |   3 |  1.45
+ 2015-10-08 | home    | Va. Wesleyan       |   3 |  1.49 | Wesley               |   3 |  1.58
+ 2015-10-11 | neutral | Va. Wesleyan       |   3 |  1.87 | Wells                |   3 |  1.48
+ 2015-10-14 | home    | Va. Wesleyan       |   3 |  1.54 | Randolph-Macon       |   3 |  2.73
+ 2015-10-11 | home    | VCU                |   1 |  1.51 | La Salle             |   1 |  1.86
+ 2015-10-09 | home    | VCU                |   1 |  1.84 | Saint Joseph's       |   1 |  3.06
+ 2015-10-11 | home    | Vermont            |   1 |  1.12 | Maine                |   1 |  4.49
+ 2015-10-09 | home    | Villanova          |   1 |  2.19 | Providence           |   1 |  1.85
+ 2015-10-11 | home    | Villanova          |   1 |  1.99 | Rider                |   1 |  2.60
+ 2015-10-09 | home    | Wake Forest        |   1 |  3.16 | Virginia             |   1 |  2.19
+ 2015-10-08 | home    | Washington Col.    |   3 |  5.54 | Swarthmore           |   3 |  1.63
+ 2015-10-10 | home    | Wellesley          |   3 |  2.84 | WPI                  |   3 |  0.70
+ 2015-10-14 | home    | Wells              |   3 |  0.99 | Nazareth             |   3 |  2.02
+ 2015-10-14 | home    | Wesley             |   3 |  0.45 | Salisbury            |   3 |  4.07
+ 2015-10-10 | home    | Wesley             |   3 |  0.59 | Mary Washington      |   3 |  4.07
+ 2015-10-11 | home    | Wesley             |   3 |  0.97 | Shenandoah           |   3 |  1.49
+ 2015-10-11 | home    | Wesleyan (CT)      |   3 |  0.83 | Middlebury           |   3 |  3.66
+ 2015-10-10 | home    | Wesleyan (CT)      |   3 |  1.84 | Colby                |   3 |  2.67
+ 2015-10-13 | home    | West Chester       |   2 |  2.69 | Kutztown             |   2 |  1.30
+ 2015-10-14 | home    | Western Conn. St.  |   3 |  1.68 | Manhattanville       |   3 |  0.99
+ 2015-10-11 | home    | Western Conn. St.  |   3 |  1.49 | Southern Me.         |   3 |  1.11
+ 2015-10-13 | home    | Westfield St.      |   3 |  1.41 | Smith                |   3 |  2.21
+ 2015-10-10 | home    | Westfield St.      |   3 |  1.49 | UMass Dartmouth      |   3 |  1.95
+ 2015-10-08 | home    | Wheaton (MA)       |   3 |  7.83 | Elms                 |   3 |  0.69
+ 2015-10-10 | home    | Widener            |   3 |  1.56 | Stevenson            |   3 |  1.67
+ 2015-10-13 | home    | Wilkes             |   3 |  2.43 | Widener              |   3 |  1.50
+ 2015-10-09 | home    | William & Mary     |   1 |  2.37 | Northeastern         |   1 |  1.67
+ 2015-10-10 | home    | William Smith      |   3 |  2.83 | SUNY New Paltz       |   3 |  2.03
+ 2015-10-10 | home    | Wittenberg         |   3 |  1.67 | DePauw               |   3 |  3.32
+ 2015-10-08 | home    | Wm. Paterson       |   3 |  2.09 | Misericordia         |   3 |  1.24
+ 2015-10-13 | home    | Wm. Paterson       |   3 |  2.99 | Union (NY)           |   3 |  1.06
+ 2015-10-10 | home    | Wooster            |   3 |  0.67 | Kenyon               |   3 |  4.25
+ 2015-10-10 | home    | Worcester St.      |   3 |  2.53 | Plymouth St.         |   3 |  1.39
+ 2015-10-11 | home    | Yale               |   1 |  0.55 | Albany (NY)          |   1 |  2.51
+ 2015-10-10 | home    | Yale               |   1 |  1.00 | Cornell              |   1 |  2.43
+ 2015-10-14 | home    | York (PA)          |   3 |  3.04 | St. Mary's (MD)      |   3 |  2.28
 (258 rows)
 
 COPY 258

@@ -1,10 +1,52 @@
 BEGIN
 SET
-    date    |         team         | h_div | site |    opp     | v_div | spread 
-------------+----------------------+-------+------+------------+-------+--------
- 2015-10-05 | Dowling              |     2 | home | Assumption |     2 |   -1.5
- 2015-10-05 | Johnson & Wales (RI) |     3 | home | Keene St.  |     3 |   -1.4
- 2015-10-05 | Randolph-Macon       |     3 | home | Sewanee    |     3 |   -0.3
-(3 rows)
+    date    |        team        | h_div | site |        opp         | v_div | spread 
+------------+--------------------+-------+------+--------------------+-------+--------
+ 2015-10-07 | Amherst            |     3 | home | Connecticut Col.   |     3 |    3.3
+ 2015-10-07 | Bloomsburg         |     2 | home | Kutztown           |     2 |   -0.1
+ 2015-10-07 | Bridgewater St.    |     3 | home | Worcester St.      |     3 |   -0.5
+ 2015-10-07 | Catholic           |     3 | home | Salisbury          |     3 |   -0.4
+ 2015-10-07 | Centre             |     3 | home | Bellarmine         |     2 |    0.0
+ 2015-10-07 | Delaware Valley    |     3 | home | Cabrini            |     3 |   -0.9
+ 2015-10-07 | DePauw             |     3 | home | Earlham            |     3 |    5.0
+ 2015-10-07 | Dickinson          |     3 | home | McDaniel           |     3 |    1.1
+ 2015-10-07 | Eastern Conn. St.  |     3 | home | Fitchburg St.      |     3 |    2.2
+ 2015-10-07 | East. Mennonite    |     3 | home | Mary Washington    |     3 |   -9.5
+ 2015-10-07 | East Stroudsburg   |     2 | home | Mansfield          |     2 |    8.0
+ 2015-10-07 | Endicott           |     3 | home | Bates              |     3 |   -0.2
+ 2015-10-07 | Franklin Pierce    |     2 | home | Stonehill          |     2 |   -1.1
+ 2015-10-07 | Haverford          |     3 | home | Ursinus            |     3 |   -1.4
+ 2015-10-07 | Husson             |     3 | home | Colby              |     3 |   -2.0
+ 2015-10-07 | Ithaca             |     3 | home | Wells              |     3 |    2.7
+ 2015-10-07 | Johns Hopkins      |     3 | home | Frank. & Marsh.    |     3 |   -2.0
+ 2015-10-07 | Keystone           |     3 | home | FDU-Florham        |     3 |   -2.3
+ 2015-10-07 | King's (PA)        |     3 | home | Cedar Crest        |     3 |    8.7
+ 2015-10-07 | LIU Post           |     2 | home | Adelphi            |     2 |   -0.4
+ 2015-10-07 | Mercyhurst         |     2 | home | Indiana (PA)       |     2 |    0.8
+ 2015-10-07 | Merrimack          |     2 | home | Southern Conn. St. |     2 |    4.1
+ 2015-10-07 | Messiah            |     3 | home | Gettysburg         |     3 |    3.7
+ 2015-10-07 | Moravian           |     3 | home | Muhlenberg         |     3 |   -3.2
+ 2015-10-07 | Nazareth           |     3 | home | SUNY Geneseo       |     3 |   -1.2
+ 2015-10-07 | New England Col.   |     3 | home | Gordon             |     3 |   -1.6
+ 2015-10-07 | Pace               |     2 | home | American Int'l     |     2 |    0.0
+ 2015-10-07 | Plymouth St.       |     3 | home | Salem St.          |     3 |    1.9
+ 2015-10-07 | Rowan              |     3 | home | Stockton           |     3 |    5.6
+ 2015-10-07 | Shenandoah         |     3 | home | Randolph-Macon     |     3 |    0.6
+ 2015-10-07 | Shippensburg       |     2 | home | Millersville       |     2 |    0.0
+ 2015-10-07 | Slippery Rock      |     2 | home | Seton Hill         |     2 |    2.3
+ 2015-10-07 | Southern Me.       |     3 | home | Keene St.          |     3 |   -0.3
+ 2015-10-07 | Southern N.H.      |     2 | home | Assumption         |     2 |   -3.2
+ 2015-10-07 | St. Anselm         |     2 | home | Bentley            |     2 |    1.7
+ 2015-10-07 | St. Thomas Aquinas |     2 | home | Mercy              |     2 |   -1.8
+ 2015-10-07 | SUNY New Paltz     |     3 | home | Stevens            |     3 |    1.8
+ 2015-10-07 | UMass Dartmouth    |     3 | home | Framingham St.     |     3 |    4.4
+ 2015-10-07 | Utica              |     3 | home | Brockport          |     3 |    3.0
+ 2015-10-07 | Wash. & Lee        |     3 | home | Roanoke            |     3 |    0.8
+ 2015-10-07 | Westfield St.      |     3 | home | Western Conn. St.  |     3 |    0.1
+ 2015-10-07 | Wilkes             |     3 | home | Elizabethtown      |     3 |   -1.2
+ 2015-10-07 | William Smith      |     3 | home | Rochester (NY)     |     3 |    0.3
+ 2015-10-07 | Wittenberg         |     3 | home | Ohio Wesleyan      |     3 |    0.4
+ 2015-10-07 | York (PA)          |     3 | home | Stevenson          |     3 |    0.9
+(45 rows)
 
 COMMIT
