@@ -1,13 +1,46 @@
 date,site,home,div,score,away,div,score
-2015-10-08,home,Lasell,3,3.41,Roger Williams,3,2.05
-2015-10-08,home,Mount Holyoke,3,1.84,Simmons,3,1.44
-2015-10-08,home,Mount Ida,3,1.93,Regis (MA),3,1.48
-2015-10-08,home,Nichols,3,1.31,Anna Maria,3,3.92
-2015-10-08,home,Smith,3,4.65,Western New Eng.,3,1.31
-2015-10-08,home,St. Mary's (MD),3,1.17,Chris. Newport,3,3.44
-2015-10-08,home,SUNY Cortland,3,2.44,Houghton,3,0.54
-2015-10-08,home,SUNY Oneonta,3,2.03,Hamilton,3,2.79
-2015-10-08,home,Va. Wesleyan,3,1.49,Wesley,3,1.58
-2015-10-08,home,Washington Col.,3,5.54,Swarthmore,3,1.63
-2015-10-08,home,Wheaton (MA),3,7.83,Elms,3,0.69
-2015-10-08,home,Wm. Paterson,3,2.09,Misericordia,3,1.24
+2015-10-11,home,Appalachian St.,1,1.54,Davidson,1,2.94
+2015-10-11,home,Ball St.,1,4.18,Bellarmine,2,0.88
+2015-10-11,home,Becker,3,5.02,Daniel Webster,3,0.90
+2015-10-11,home,Boston U.,1,1.86,Duke,1,2.87
+2015-10-11,home,Central Mich.,1,0.93,Iowa,1,5.12
+2015-10-11,home,Centre,3,2.05,Newberry,2,0.87
+2015-10-11,home,Columbia,1,4.51,Bryant,1,1.70
+2015-10-11,home,Delaware,1,2.93,Liberty,1,3.21
+2015-10-11,home,Drexel,1,0.61,UConn,1,5.84
+2015-10-11,home,Elmira,3,1.29,Wash. & Jeff.,3,1.76
+2015-10-11,home,Hofstra,1,6.04,Towson,1,1.14
+2015-10-11,home,Holy Cross,1,1.44,Cornell,1,2.13
+2015-10-11,home,Indiana,1,1.16,Syracuse,1,4.13
+2015-10-11,home,Ithaca,3,2.45,Stevens,3,0.94
+2015-10-11,home,James Madison,1,3.64,Northeastern,1,1.30
+2015-10-11,home,Lock Haven,1,1.32,Penn St.,1,1.03
+2015-10-11,home,Longwood,1,2.14,Georgetown,1,1.46
+2015-10-11,home,Mercy,2,1.96,Saint Michael's,2,2.17
+2015-10-11,home,Miami (OH),1,2.62,Rutgers,1,1.35
+2015-10-11,neutral,Michigan,1,1.33,Stanford,1,1.23
+2015-10-11,home,Missouri St.,1,2.21,Kent St.,1,2.29
+2015-10-11,home,Nazareth,3,5.09,Morrisville St.,3,1.09
+2015-10-11,home,New Hampshire,1,1.28,Boston College,1,2.72
+2015-10-11,home,Oberlin,3,0.50,Kenyon,3,5.15
+2015-10-11,home,Ohio,1,2.59,Michigan St.,1,2.35
+2015-10-11,home,Ohio St.,1,1.25,Louisville,1,2.02
+2015-10-11,neutral,Ohio Wesleyan,3,1.09,Rhodes,3,4.62
+2015-10-11,home,Old Dominion,1,3.34,Virginia,1,2.89
+2015-10-11,home,Pacific,1,1.78,California,1,1.87
+2015-10-11,home,Quinnipiac,1,2.22,Providence,1,1.70
+2015-10-11,home,Richmond,1,2.91,Saint Joseph's,1,2.08
+2015-10-11,home,Sacred Heart,1,1.88,Lehigh,1,2.20
+2015-10-11,home,Saint Francis (PA),1,1.48,Massachusetts,1,1.68
+2015-10-11,home,Sewanee,3,4.92,Transylvania,3,0.49
+2015-10-11,home,St. Thomas Aquinas,2,1.25,Lindenwood (MO),2,4.10
+2015-10-11,home,Sweet Briar,3,2.41,Cedar Crest,3,4.12
+2015-10-11,home,Temple,1,3.34,Bucknell,1,2.05
+2015-10-11,neutral,Va. Wesleyan,3,2.10,Wells,3,1.46
+2015-10-11,home,VCU,1,1.75,La Salle,1,1.81
+2015-10-11,home,Vermont,1,1.14,Maine,1,4.75
+2015-10-11,home,Villanova,1,2.06,Rider,1,2.52
+2015-10-11,home,Wesley,3,0.94,Shenandoah,3,1.70
+2015-10-11,home,Wesleyan (CT),3,0.75,Middlebury,3,3.74
+2015-10-11,home,Western Conn. St.,3,1.71,Southern Me.,3,1.13
+2015-10-11,home,Yale,1,0.65,Albany (NY),1,2.47
