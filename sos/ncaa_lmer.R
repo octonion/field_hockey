@@ -25,20 +25,17 @@ from ncaa.results r
 
 where
     r.year between 2002 and 2016
---and r.game_date < '2016/11/29'::date
+
 and r.team_div_id is not null
 and r.opponent_div_id is not null
 and r.pulled_id = least(r.team_id,r.opponent_id)
 
 --and r.team_score>=0
 --and r.opponent_score>=0
---and not(r.team_score,r.opponent_score)=(0,0)
+and not(r.team_score,r.opponent_score)=(0,0)
 
--- fit all excluding March and April
-
---and not(extract(month from r.game_date)) in (1,2,3,4)
-
---and (r.year < 2016 or (r.year=2016 and r.game_date < '2016/4/6'::date))
+-- fit all excluding October,November
+--and not(extract(month from r.game_date)) in (10,11)
 
 ;")
 
