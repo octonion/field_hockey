@@ -1,36 +1,19 @@
 BEGIN
 SET
-    date    | site |       home        | div | score |       away        | div | score 
-------------+------+-------------------+-----+-------+-------------------+-----+-------
- 2015-10-20 | home | Albany (NY)       |   1 |  2.42 | Cornell           |   1 |  1.21
- 2015-10-20 | home | Becker            |   3 |  2.16 | Bay Path          |   3 |  1.03
- 2015-10-20 | home | Bethany (WV)      |   3 |  1.01 | Wash. & Jeff.     |   3 |  3.66
- 2015-10-20 | home | Clark (MA)        |   3 |  1.32 | Springfield       |   3 |  2.61
- 2015-10-20 | home | East. Mennonite   |   3 |  0.84 | Shenandoah        |   3 |  4.43
- 2015-10-20 | home | Endicott          |   3 |  2.01 | Gordon            |   3 |  0.84
- 2015-10-20 | home | Fitchburg St.     |   3 |  1.13 | Western Conn. St. |   3 |  1.80
- 2015-10-20 | home | Framingham St.    |   3 |  1.09 | Worcester St.     |   3 |  3.48
- 2015-10-20 | home | Kean              |   3 |  5.40 | Ramapo            |   3 |  0.61
- 2015-10-20 | home | McDaniel          |   3 |  3.36 | Gettysburg        |   3 |  2.93
- 2015-10-20 | home | Mount Holyoke     |   3 |  2.73 | WPI               |   3 |  0.83
- 2015-10-20 | home | Nichols           |   3 |  1.47 | Western New Eng.  |   3 |  5.08
- 2015-10-20 | home | Old Dominion      |   1 |  3.98 | Temple            |   1 |  1.23
- 2015-10-20 | home | Plymouth St.      |   3 |  1.12 | Keene St.         |   3 |  1.94
- 2015-10-20 | home | Regis (MA)        |   3 |  1.88 | Elms              |   3 |  0.98
- 2015-10-20 | home | Rivier            |   3 |  2.68 | New England Col.  |   3 |  1.48
- 2015-10-20 | home | Rochester (NY)    |   3 |  4.24 | Elmira            |   3 |  0.40
- 2015-10-20 | home | Roger Williams    |   3 |  1.41 | Salve Regina      |   3 |  4.73
- 2015-10-20 | home | Southern Me.      |   3 |  2.50 | Salem St.         |   3 |  0.96
- 2015-10-20 | home | St. Joseph's (ME) |   3 |  1.24 | Me.-Farmington    |   3 |  1.24
- 2015-10-20 | home | Sweet Briar       |   3 |  0.32 | Wash. & Lee       |   3 |  8.84
- 2015-10-20 | home | TCNJ              |   3 |  3.76 | Rowan             |   3 |  1.18
- 2015-10-20 | home | Trinity (CT)      |   3 |  3.54 | Wesleyan (CT)     |   3 |  1.11
- 2015-10-20 | home | UMass Dartmouth   |   3 |  2.86 | Bridgewater St.   |   3 |  1.36
- 2015-10-20 | home | Wellesley         |   3 |  2.51 | MIT               |   3 |  1.25
- 2015-10-20 | home | Westfield St.     |   3 |  1.56 | Eastern Conn. St. |   3 |  1.78
- 2015-10-20 | home | Wheaton (MA)      |   3 |  0.60 | Babson            |   3 |  5.00
- 2015-10-20 | home | Wilson            |   3 |  0.89 | Stevenson         |   3 |  2.77
-(28 rows)
+    date    | site |         home         | div | score |        away        | div | score 
+------------+------+----------------------+-----+-------+--------------------+-----+-------
+ 2015-10-22 | home | Anna Maria           |   3 |  1.78 | WPI                |   3 |  2.45
+ 2015-10-22 | home | Daniel Webster       |   3 |  1.48 | Elms               |   3 |  3.40
+ 2015-10-22 | home | Drew                 |   3 |  3.30 | St. Thomas Aquinas |   2 |  1.83
+ 2015-10-22 | home | Hood                 |   3 |  0.44 | Stevenson          |   3 |  5.49
+ 2015-10-22 | home | Johnson & Wales (RI) |   3 |  1.26 | Springfield        |   3 |  2.69
+ 2015-10-22 | home | Lasell               |   3 |  3.59 | Framingham St.     |   3 |  1.45
+ 2015-10-22 | home | Mount Holyoke        |   3 |  4.05 | Western New Eng.   |   3 |  0.86
+ 2015-10-22 | home | Rivier               |   3 |  0.72 | Western Conn. St.  |   3 |  3.68
+ 2015-10-22 | home | Smith                |   3 |  1.65 | Amherst            |   3 |  2.65
+ 2015-10-22 | home | Southern Me.         |   3 |  0.95 | Bates              |   3 |  1.56
+ 2015-10-22 | home | UMass Dartmouth      |   3 |  1.95 | Trinity (CT)       |   3 |  3.07
+(11 rows)
 
-COPY 28
+COPY 11
 COMMIT

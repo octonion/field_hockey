@@ -1,35 +1,51 @@
 BEGIN
 SET
-    date    |       team        | h_div | site |        opp        | v_div | spread 
-------------+-------------------+-------+------+-------------------+-------+--------
- 2015-10-20 | Albany (NY)       |     1 | home | Cornell           |     1 |    1.2
- 2015-10-20 | Becker            |     3 | home | Bay Path          |     3 |    1.1
- 2015-10-20 | Bethany (WV)      |     3 | home | Wash. & Jeff.     |     3 |   -2.7
- 2015-10-20 | Clark (MA)        |     3 | home | Springfield       |     3 |   -1.3
- 2015-10-20 | East. Mennonite   |     3 | home | Shenandoah        |     3 |   -3.6
- 2015-10-20 | Endicott          |     3 | home | Gordon            |     3 |    1.2
- 2015-10-20 | Fitchburg St.     |     3 | home | Western Conn. St. |     3 |   -0.7
- 2015-10-20 | Framingham St.    |     3 | home | Worcester St.     |     3 |   -2.4
- 2015-10-20 | Kean              |     3 | home | Ramapo            |     3 |    4.8
- 2015-10-20 | McDaniel          |     3 | home | Gettysburg        |     3 |    0.4
- 2015-10-20 | Mount Holyoke     |     3 | home | WPI               |     3 |    1.9
- 2015-10-20 | Nichols           |     3 | home | Western New Eng.  |     3 |   -3.6
- 2015-10-20 | Old Dominion      |     1 | home | Temple            |     1 |    2.7
- 2015-10-20 | Plymouth St.      |     3 | home | Keene St.         |     3 |   -0.8
- 2015-10-20 | Regis (MA)        |     3 | home | Elms              |     3 |    0.9
- 2015-10-20 | Rivier            |     3 | home | New England Col.  |     3 |    1.2
- 2015-10-20 | Rochester (NY)    |     3 | home | Elmira            |     3 |    3.8
- 2015-10-20 | Roger Williams    |     3 | home | Salve Regina      |     3 |   -3.3
- 2015-10-20 | Southern Me.      |     3 | home | Salem St.         |     3 |    1.5
- 2015-10-20 | St. Joseph's (ME) |     3 | home | Me.-Farmington    |     3 |    0.0
- 2015-10-20 | Sweet Briar       |     3 | home | Wash. & Lee       |     3 |   -8.5
- 2015-10-20 | TCNJ              |     3 | home | Rowan             |     3 |    2.6
- 2015-10-20 | Trinity (CT)      |     3 | home | Wesleyan (CT)     |     3 |    2.4
- 2015-10-20 | UMass Dartmouth   |     3 | home | Bridgewater St.   |     3 |    1.5
- 2015-10-20 | Wellesley         |     3 | home | MIT               |     3 |    1.3
- 2015-10-20 | Westfield St.     |     3 | home | Eastern Conn. St. |     3 |   -0.2
- 2015-10-20 | Wheaton (MA)      |     3 | home | Babson            |     3 |   -4.4
- 2015-10-20 | Wilson            |     3 | home | Stevenson         |     3 |   -1.9
-(28 rows)
+    date    |        team        | h_div | site |       opp        | v_div | spread 
+------------+--------------------+-------+------+------------------+-------+--------
+ 2015-10-21 | Adelphi            |     2 | home | Bentley          |     2 |    1.9
+ 2015-10-21 | American Int'l     |     2 | home | Stonehill        |     2 |   -2.1
+ 2015-10-21 | Arcadia            |     3 | home | Alvernia         |     3 |   -0.3
+ 2015-10-21 | Bowdoin            |     3 | home | Husson           |     3 |    5.8
+ 2015-10-21 | Cabrini            |     3 | home | Cedar Crest      |     3 |    7.8
+ 2015-10-21 | Castleton          |     3 | home | Skidmore         |     3 |   -9.5
+ 2015-10-21 | Cedar Crest        |     3 | home | Gwynedd Mercy    |     3 |   -9.5
+ 2015-10-21 | Drexel             |     1 | home | Penn             |     1 |   -1.2
+ 2015-10-21 | FDU-Florham        |     3 | home | Eastern          |     3 |   -0.2
+ 2015-10-21 | Ferrum             |     3 | home | Lynchburg        |     3 |   -6.5
+ 2015-10-21 | Frostburg St.      |     3 | home | York (PA)        |     3 |   -1.2
+ 2015-10-21 | Haverford          |     3 | home | Bryn Mawr        |     3 |    8.6
+ 2015-10-21 | Immaculata         |     3 | home | Neumann          |     3 |   -2.7
+ 2015-10-21 | Indiana (PA)       |     2 | home | Bloomsburg       |     2 |   -0.5
+ 2015-10-21 | Johns Hopkins      |     3 | home | Dickinson        |     3 |   -0.8
+ 2015-10-21 | Keystone           |     3 | home | Marywood         |     3 |   -1.6
+ 2015-10-21 | LIU Post           |     2 | home | Pace             |     2 |    1.1
+ 2015-10-21 | Manhattanville     |     3 | home | DeSales          |     3 |    1.2
+ 2015-10-21 | Mary Washington    |     3 | home | Chris. Newport   |     3 |    0.5
+ 2015-10-21 | Merrimack          |     2 | home | Assumption       |     2 |    0.1
+ 2015-10-21 | Messiah            |     3 | home | Lebanon Valley   |     3 |    2.8
+ 2015-10-21 | Millersville       |     2 | home | Kutztown         |     2 |    1.0
+ 2015-10-21 | Misericordia       |     3 | home | King's (PA)      |     3 |    0.3
+ 2015-10-21 | Montclair St.      |     3 | home | Wm. Paterson     |     3 |    2.3
+ 2015-10-21 | Ohio Wesleyan      |     3 | home | Wooster          |     3 |    2.2
+ 2015-10-21 | Oswego St.         |     3 | home | SUNY Cortland    |     3 |   -3.0
+ 2015-10-21 | Salisbury          |     3 | home | St. Mary's (MD)  |     3 |    2.8
+ 2015-10-21 | Seton Hill         |     2 | home | Mansfield        |     2 |    2.1
+ 2015-10-21 | Shippensburg       |     2 | home | East Stroudsburg |     2 |   -0.4
+ 2015-10-21 | Southern Conn. St. |     2 | home | Mercy            |     2 |    1.0
+ 2015-10-21 | Southern N.H.      |     2 | home | Franklin Pierce  |     2 |   -1.8
+ 2015-10-21 | St. Anselm         |     2 | home | Saint Michael's  |     2 |    2.4
+ 2015-10-21 | St. John Fisher    |     3 | home | Nazareth         |     3 |    2.0
+ 2015-10-21 | SUNY Geneseo       |     3 | home | Houghton         |     3 |    1.8
+ 2015-10-21 | SUNY New Paltz     |     3 | home | Rensselaer       |     3 |    0.8
+ 2015-10-21 | SUNY Oneonta       |     3 | home | Morrisville St.  |     3 |    4.8
+ 2015-10-21 | Swarthmore         |     3 | home | Muhlenberg       |     3 |   -2.2
+ 2015-10-21 | Ursinus            |     3 | home | Washington Col.  |     3 |    3.5
+ 2015-10-21 | Utica              |     3 | home | Keuka            |     3 |    6.3
+ 2015-10-21 | Va. Wesleyan       |     3 | home | Bridgewater (VA) |     3 |   -1.8
+ 2015-10-21 | West Chester       |     2 | home | Mercyhurst       |     2 |    3.0
+ 2015-10-21 | Widener            |     3 | home | Albright         |     3 |    0.0
+ 2015-10-21 | Wilkes             |     3 | home | Delaware Valley  |     3 |    2.0
+ 2015-10-21 | Williams           |     3 | home | Hamilton         |     3 |    1.9
+(44 rows)
 
 COMMIT
