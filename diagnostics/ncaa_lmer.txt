@@ -1,33 +1,34 @@
-[1] 48054     9
+[1] 48262     9
 [1] TRUE
-[1] 48054     8
-Generalized linear mixed model fit by maximum likelihood (Adaptive
-  Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
+[1] 48262     8
+Generalized linear mixed model fit by maximum likelihood (Laplace
+  Approximation) [glmerMod]
  Family: poisson  ( log )
 Formula: gs ~ year + field + d_div + o_div + game_length + (1 | offense) +  
     (1 | defense) + (1 | game_id)
    Data: g
       AIC       BIC    logLik  deviance  df.resid 
-167538.36 167740.30 -83746.18 167492.36     48031 
+168227.93 168429.97 -84090.97 168181.93     48239 
 Random effects:
  Groups  Name        Std.Dev.
- game_id (Intercept) 0.0000  
- defense (Intercept) 0.5707  
- offense (Intercept) 0.5722  
-Number of obs: 48054, groups:  game_id, 24027; defense, 2639; offense, 2639
+ game_id (Intercept) 0.000   
+ defense (Intercept) 0.571   
+ offense (Intercept) 0.573   
+Number of obs: 48262, groups:  game_id, 24131; defense, 2639; offense, 2639
 Fixed Effects:
       (Intercept)           year2008           year2009           year2010  
-          0.62374           -0.01607            0.03297            0.05172  
+          0.62362           -0.03213            0.03298            0.05176  
          year2011           year2012           year2013           year2014  
-          0.04481            0.07715            0.12435            0.10865  
+          0.04483            0.07719            0.12440            0.10870  
          year2015           year2016  fielddefense_home  fieldoffense_home  
-          0.06508            0.06632           -0.13851            0.07564  
+          0.06512            0.06242           -0.13833            0.07533  
            d_div2             d_div3             o_div2             o_div3  
-          1.08478            1.49756           -1.09309           -1.52937  
+          1.08635            1.50042           -1.09533           -1.53196  
   game_length1 OT    game_length2 OT    game_length3 OT    game_length4 OT  
-          0.02372            0.04131            0.09431            0.54862  
-Generalized linear mixed model fit by maximum likelihood (Adaptive
-  Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
+          0.02386            0.04027            0.09324            0.55587  
+convergence code 0; 1 optimizer warnings; 0 lme4 warnings 
+Generalized linear mixed model fit by maximum likelihood (Laplace
+  Approximation) [glmerMod]
  Family: poisson  ( log )
 Formula: gs ~ year + field + d_div + o_div + game_length + (1 | offense) +  
     (1 | defense) + (1 | game_id)
@@ -35,41 +36,41 @@ Formula: gs ~ year + field + d_div + o_div + game_length + (1 | offense) +
 Control: glmerControl(optimizer = "nloptwrap")
 
      AIC      BIC   logLik deviance df.resid 
-167538.4 167740.3 -83746.2 167492.4    48031 
+168227.9 168430.0 -84091.0 168181.9    48239 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--2.8392 -0.7317 -0.1116  0.5153  5.0516 
+-2.8391 -0.7315 -0.1115  0.5158  5.0510 
 
 Random effects:
  Groups  Name        Variance Std.Dev.
- game_id (Intercept) 0.0000   0.0000  
- defense (Intercept) 0.3258   0.5707  
- offense (Intercept) 0.3274   0.5722  
-Number of obs: 48054, groups:  game_id, 24027; defense, 2639; offense, 2639
+ game_id (Intercept) 0.0000   0.000   
+ defense (Intercept) 0.3261   0.571   
+ offense (Intercept) 0.3284   0.573   
+Number of obs: 48262, groups:  game_id, 24131; defense, 2639; offense, 2639
 
 Fixed effects:
                   Estimate Std. Error z value Pr(>|z|)    
-(Intercept)        0.62374    0.05843  10.676  < 2e-16 ***
-year2008          -0.01607    0.07344  -0.219   0.8268    
-year2009           0.03297    0.07309   0.451   0.6519    
-year2010           0.05172    0.07289   0.710   0.4780    
-year2011           0.04481    0.07291   0.615   0.5389    
-year2012           0.07715    0.07260   1.063   0.2879    
-year2013           0.12435    0.07261   1.712   0.0868 .  
-year2014           0.10865    0.07237   1.501   0.1333    
-year2015           0.06508    0.07227   0.900   0.3679    
-year2016           0.06632    0.07232   0.917   0.3592    
-fielddefense_home -0.13851    0.01375 -10.071  < 2e-16 ***
-fieldoffense_home  0.07564    0.01351   5.600 2.15e-08 ***
-d_div2             1.08478    0.09499  11.420  < 2e-16 ***
-d_div3             1.49756    0.09111  16.437  < 2e-16 ***
-o_div2            -1.09309    0.09482 -11.528  < 2e-16 ***
-o_div3            -1.52937    0.09085 -16.835  < 2e-16 ***
-game_length1 OT    0.02372    0.01379   1.720   0.0855 .  
-game_length2 OT    0.04131    0.02435   1.697   0.0898 .  
-game_length3 OT    0.09431    0.07044   1.339   0.1806    
-game_length4 OT    0.54862    0.24195   2.267   0.0234 *  
+(Intercept)        0.62362    0.05842  10.674  < 2e-16 ***
+year2008          -0.03213    0.07348  -0.437   0.6619    
+year2009           0.03298    0.07314   0.451   0.6520    
+year2010           0.05176    0.07292   0.710   0.4778    
+year2011           0.04483    0.07295   0.615   0.5388    
+year2012           0.07719    0.07265   1.063   0.2880    
+year2013           0.12440    0.07265   1.712   0.0869 .  
+year2014           0.10870    0.07241   1.501   0.1333    
+year2015           0.06512    0.07231   0.901   0.3678    
+year2016           0.06242    0.07232   0.863   0.3881    
+fielddefense_home -0.13833    0.01361 -10.165  < 2e-16 ***
+fieldoffense_home  0.07533    0.01337   5.634 1.76e-08 ***
+d_div2             1.08635    0.09402  11.554  < 2e-16 ***
+d_div3             1.50042    0.09006  16.661  < 2e-16 ***
+o_div2            -1.09533    0.09387 -11.668  < 2e-16 ***
+o_div3            -1.53196    0.08981 -17.057  < 2e-16 ***
+game_length1 OT    0.02386    0.01361   1.753   0.0796 .  
+game_length2 OT    0.04027    0.02401   1.677   0.0935 .  
+game_length3 OT    0.09324    0.06965   1.339   0.1806    
+game_length4 OT    0.55587    0.23876   2.328   0.0199 *  
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
@@ -77,23 +78,23 @@ Correlation of Fixed Effects:
             (Intr) yr2008 yr2009 yr2010 yr2011 yr2012 yr2013 yr2014 yr2015
 year2008    -0.626                                                        
 year2009    -0.628  0.501                                                 
-year2010    -0.630  0.503  0.505                                          
-year2011    -0.630  0.503  0.505  0.507                                   
-year2012    -0.632  0.505  0.507  0.509  0.509                            
-year2013    -0.632  0.505  0.507  0.509  0.509  0.511                     
-year2014    -0.634  0.506  0.509  0.511  0.510  0.513  0.513              
+year2010    -0.630  0.502  0.505                                          
+year2011    -0.630  0.502  0.505  0.507                                   
+year2012    -0.632  0.504  0.507  0.509  0.509                            
+year2013    -0.632  0.504  0.507  0.509  0.509  0.511                     
+year2014    -0.634  0.506  0.509  0.510  0.510  0.512  0.512              
 year2015    -0.632  0.507  0.509  0.511  0.511  0.513  0.513  0.515       
-year2016    -0.631  0.507  0.509  0.511  0.511  0.513  0.513  0.515  0.515
-filddfns_hm -0.190 -0.002 -0.001 -0.001 -0.001  0.000  0.000 -0.001 -0.002
-fildffns_hm -0.193 -0.002 -0.001 -0.001 -0.002  0.000  0.000 -0.001 -0.002
-d_div2      -0.079  0.000  0.000 -0.001  0.000 -0.003  0.000  0.000 -0.001
-d_div3      -0.085  0.000  0.001  0.000  0.001 -0.002  0.002  0.002  0.002
-o_div2      -0.071  0.000 -0.002 -0.001 -0.002 -0.001 -0.004 -0.005 -0.007
-o_div3      -0.074 -0.001 -0.002 -0.002 -0.003  0.000 -0.004 -0.004 -0.005
-gm_lngth1OT -0.003  0.000  0.000 -0.022 -0.020 -0.019 -0.019 -0.019 -0.020
-gm_lngth2OT  0.000  0.000 -0.001 -0.014 -0.013 -0.012 -0.008 -0.010 -0.011
-gm_lngth3OT -0.001  0.000  0.000 -0.002 -0.001 -0.001 -0.008 -0.006 -0.007
-gm_lngth4OT  0.002  0.000  0.000  0.000  0.000  0.000  0.000  0.000 -0.006
+year2016    -0.631  0.507  0.509  0.511  0.511  0.513  0.513  0.515  0.516
+filddfns_hm -0.188 -0.002 -0.001 -0.001 -0.001  0.000  0.000 -0.001 -0.002
+fildffns_hm -0.191 -0.002 -0.001 -0.001 -0.002  0.000  0.000 -0.001 -0.002
+d_div2      -0.080 -0.001  0.000 -0.001  0.000 -0.003  0.000  0.000 -0.001
+d_div3      -0.086  0.000  0.000  0.000  0.001 -0.002  0.002  0.002  0.002
+o_div2      -0.072  0.000 -0.002 -0.001 -0.002 -0.001 -0.004 -0.005 -0.007
+o_div3      -0.075  0.000 -0.002 -0.002 -0.003  0.000 -0.004 -0.004 -0.006
+gm_lngth1OT -0.003  0.000  0.000 -0.021 -0.020 -0.018 -0.019 -0.019 -0.020
+gm_lngth2OT  0.000 -0.001 -0.001 -0.014 -0.013 -0.012 -0.008 -0.010 -0.010
+gm_lngth3OT -0.001  0.000  0.000 -0.002 -0.001 -0.001 -0.007 -0.006 -0.007
+gm_lngth4OT  0.002  0.000  0.000  0.000  0.000  0.000  0.000  0.000 -0.005
             yr2016 flddf_ fldff_ d_div2 d_div3 o_div2 o_div3 gm_1OT gm_2OT
 year2008                                                                  
 year2009                                                                  
@@ -105,15 +106,15 @@ year2014
 year2015                                                                  
 year2016                                                                  
 filddfns_hm -0.005                                                        
-fildffns_hm -0.005  0.884                                                 
-d_div2      -0.003 -0.010 -0.018                                          
-d_div3       0.001 -0.010 -0.021  0.797                                   
-o_div2      -0.007  0.002  0.011 -0.808 -0.749                            
-o_div3      -0.005 -0.001  0.010 -0.746 -0.921  0.799                     
-gm_lngth1OT -0.015 -0.006  0.001  0.003  0.004 -0.001 -0.001              
-gm_lngth2OT -0.011 -0.010 -0.005  0.004  0.005 -0.004 -0.004  0.062       
-gm_lngth3OT -0.003 -0.003 -0.003  0.002  0.003 -0.002 -0.002  0.021  0.017
-gm_lngth4OT -0.003 -0.004 -0.004  0.000 -0.001  0.000  0.000  0.003  0.000
+fildffns_hm -0.005  0.885                                                 
+d_div2      -0.003 -0.009 -0.019                                          
+d_div3       0.001 -0.010 -0.021  0.796                                   
+o_div2      -0.007  0.002  0.011 -0.803 -0.747                            
+o_div3      -0.005 -0.001  0.010 -0.743 -0.919  0.798                     
+gm_lngth1OT -0.016 -0.007  0.000  0.004  0.005 -0.002 -0.002              
+gm_lngth2OT -0.011 -0.011 -0.006  0.005  0.006 -0.005 -0.004  0.064       
+gm_lngth3OT -0.003 -0.003 -0.003  0.003  0.004 -0.003 -0.003  0.022  0.017
+gm_lngth4OT -0.002 -0.004 -0.004  0.001  0.000 -0.001 -0.001  0.003  0.002
             gm_3OT
 year2008          
 year2009          
@@ -134,4 +135,7 @@ gm_lngth1OT
 gm_lngth2OT       
 gm_lngth3OT       
 gm_lngth4OT  0.000
+convergence code: 0
+Model failed to converge with max|grad| = 7.20599 (tol = 0.001, component 1)
+
 [1] TRUE

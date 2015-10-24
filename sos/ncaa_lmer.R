@@ -111,7 +111,7 @@ fit <- glmer(model,
              data=g,
 	     verbose=TRUE,
 	     family=poisson(link=log),
-	     nAGQ=0,
+	     nAGQ=1,
 	     control=glmerControl(optimizer = "nloptwrap")
 	     )
 
