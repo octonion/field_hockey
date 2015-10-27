@@ -1,91 +1,35 @@
 date,site,home,div,score,away,div,score
-2015-10-24,home,Amherst,3,3.46,Wesleyan (CT),3,0.70
-2015-10-24,home,Anna Maria,3,2.42,Johnson & Wales (RI),3,2.16
-2015-10-24,home,Arcadia,3,7.59,Hood,3,0.47
-2015-10-24,home,Ball St.,1,1.86,Missouri St.,1,1.76
-2015-10-24,home,Bates,3,0.72,Middlebury,3,3.39
-2015-10-24,home,Bay Path,3,1.64,Wheelock,3,2.39
-2015-10-24,home,Becker,3,2.02,Regis (MA),3,1.06
-2015-10-24,home,Bentley,2,1.51,Franklin Pierce,2,1.28
-2015-10-24,home,Boston U.,1,3.70,Bucknell,1,1.40
-2015-10-24,home,Bryn Mawr,3,0.51,Johns Hopkins,3,6.32
-2015-10-24,home,Cabrini,3,5.34,Immaculata,3,0.58
-2015-10-24,neutral,California,1,2.60,Kent St.,1,1.93
-2015-10-24,home,Cedar Crest,3,1.04,Neumann,3,5.57
-2015-10-24,home,Chris. Newport,3,4.72,Frostburg St.,3,0.70
-2015-10-24,home,Colby-Sawyer,3,3.38,New England Col.,3,0.80
-2015-10-24,home,Colgate,1,1.33,Lehigh,1,2.57
-2015-10-24,home,Connecticut Col.,3,0.62,Bowdoin,3,3.67
-2015-10-24,home,Cornell,1,3.87,Brown,1,0.96
-2015-10-24,home,Delaware Valley,3,1.71,Misericordia,3,3.05
-2015-10-24,home,DePauw,3,1.37,Kenyon,3,1.84
-2015-10-24,home,DeSales,3,1.00,FDU-Florham,3,3.03
-2015-10-24,home,Dickinson,3,1.26,Ursinus,3,3.27
-2015-10-24,home,Duke,1,1.55,Syracuse,1,2.09
-2015-10-24,home,Earlham,3,0.93,Denison,3,4.43
-2015-10-24,home,Eastern,3,3.39,Manhattanville,3,0.79
-2015-10-24,home,Eastern Conn. St.,3,2.48,Bridgewater St.,3,1.37
-2015-10-24,home,Elizabethtown,3,6.98,Drew,3,0.90
-2015-10-24,home,Elms,3,4.13,Daniel Webster,3,1.14
-2015-10-24,home,Framingham St.,3,1.02,Western Conn. St.,3,2.76
-2015-10-24,home,Gwynedd Mercy,3,6.41,Keystone,3,1.06
-2015-10-24,home,Hamilton,3,2.68,Colby,3,3.01
-2015-10-24,home,Harvard,1,1.66,Princeton,1,3.03
-2015-10-24,home,Houghton,3,2.39,Elmira,3,1.00
-2015-10-24,home,Husson,3,2.48,Thomas (ME),3,1.57
-2015-10-24,home,Indiana (PA),2,0.65,Millersville,2,2.02
-2015-10-24,home,Juniata,3,2.93,Goucher,3,1.01
-2015-10-24,home,Kean,3,2.14,St. Joseph's (ME),3,0.96
-2015-10-24,home,Keuka,3,0.72,Wilson,3,2.73
-2015-10-24,home,King's (PA),3,2.29,Wilkes,3,1.56
-2015-10-24,home,Kutztown,2,1.08,East Stroudsburg,2,2.10
-2015-10-24,home,Lafayette,1,2.97,Holy Cross,1,1.59
-2015-10-24,home,Lebanon Valley,3,2.35,Widener,3,1.27
-2015-10-24,home,Limestone,2,3.10,Bellarmine,2,1.30
-2015-10-24,home,LIU Post,2,2.11,American Int'l,2,0.94
-2015-10-24,home,Mary Washington,3,1.69,Salisbury,3,1.75
-2015-10-24,home,Marywood,3,11.54,Notre Dame (MD),3,0.71
-2015-10-24,home,McDaniel,3,2.52,Haverford,3,3.23
-2015-10-24,home,Me.-Farmington,3,5.52,Castleton,3,1.10
-2015-10-24,home,Mercyhurst,2,1.33,Bloomsburg,2,1.63
-2015-10-24,home,Miami (OH),1,5.01,Central Mich.,1,0.47
-2015-10-24,home,MIT,3,1.84,Mount Holyoke,3,1.79
-2015-10-24,home,Nazareth,3,2.54,Hartwick,3,1.52
-2015-10-24,home,Newberry,2,1.54,Lindenwood (MO),2,3.03
-2015-10-24,home,Pace,2,2.86,Southern N.H.,2,0.74
-2015-10-24,home,Penn,1,3.53,Yale,1,0.71
-2015-10-24,home,Ramapo,3,1.61,Stockton,3,2.07
-2015-10-24,home,Rhodes,3,3.53,Sewanee,3,0.85
-2015-10-24,home,Rivier,3,1.26,Lasell,3,3.89
-2015-10-24,home,Roanoke,3,2.13,Bridgewater (VA),3,1.56
-2015-10-24,home,Rowan,3,2.94,Montclair St.,3,2.26
-2015-10-24,home,Saint Joseph's,1,1.83,Davidson,1,1.58
-2015-10-24,home,Saint Michael's,2,1.19,Assumption,2,3.01
-2015-10-24,home,Salem St.,3,1.70,Fitchburg St.,3,2.31
-2015-10-24,home,Salve Regina,3,5.27,Western New Eng.,3,1.30
-2015-10-24,home,Seton Hill,2,0.80,Shippensburg,2,3.80
-2015-10-24,home,Shenandoah,3,1.41,Lynchburg,3,2.18
-2015-10-24,home,Slippery Rock,2,1.27,West Chester,2,4.06
-2015-10-24,home,Southern Conn. St.,2,1.13,St. Anselm,2,3.21
-2015-10-24,home,Southern Me.,3,1.56,Worcester St.,3,1.61
-2015-10-24,home,Springfield,3,1.87,Smith,3,2.01
-2015-10-24,home,Stevens,3,3.13,SUNY Oneonta,3,1.49
-2015-10-24,home,Stevenson,3,2.31,Alvernia,3,1.81
-2015-10-24,home,St. John Fisher,3,1.97,Wash. & Jeff.,3,1.11
-2015-10-24,home,SUNY Geneseo,3,4.59,Oswego St.,3,1.09
-2015-10-24,home,Susquehanna,3,0.68,Catholic,3,2.21
-2015-10-24,home,Swarthmore,3,4.66,Ferrum,3,1.16
-2015-10-24,home,UMass Dartmouth,3,1.57,Keene St.,3,1.71
-2015-10-24,home,Utica,3,0.88,Ithaca,3,2.30
-2015-10-24,home,Vassar,3,1.90,Rensselaer,3,1.44
-2015-10-24,home,Va. Wesleyan,3,3.29,East. Mennonite,3,1.53
-2015-10-24,home,Virginia,1,3.20,Boston College,1,2.70
-2015-10-24,home,Washington Col.,3,0.95,Frank. & Marsh.,3,2.87
-2015-10-24,home,Wash. & Lee,3,2.68,Randolph-Macon,3,0.82
-2015-10-24,home,Wellesley,3,4.80,Clark (MA),3,0.71
-2015-10-24,home,Westfield St.,3,1.38,Plymouth St.,3,1.35
-2015-10-24,home,Wheaton (MA),3,1.92,WPI,3,1.96
-2015-10-24,home,Williams,3,1.54,Tufts,3,1.76
-2015-10-24,home,Wittenberg,3,3.89,Wooster,3,1.51
-2015-10-24,home,Wm. Paterson,3,0.65,TCNJ,3,3.35
-2015-10-24,home,York (PA),3,4.90,Wesley,3,0.94
+2015-10-27,home,Adelphi,2,1.66,Assumption,2,1.17
+2015-10-27,home,Alvernia,3,2.73,Albright,3,1.76
+2015-10-27,home,American Int'l,2,2.40,Saint Michael's,2,2.19
+2015-10-27,home,Bellarmine,2,1.84,Centre,3,1.45
+2015-10-27,home,Bridgewater St.,3,2.54,Wheaton (MA),3,1.86
+2015-10-27,home,Catholic,3,1.85,Ursinus,3,1.66
+2015-10-27,home,Cedar Crest,3,2.23,Immaculata,3,2.51
+2015-10-27,home,DeSales,3,1.13,King's (PA),3,2.97
+2015-10-27,home,Drew,3,2.70,Keystone,3,1.99
+2015-10-27,home,Eastern,3,5.01,Delaware Valley,3,1.12
+2015-10-27,home,Fitchburg St.,3,2.50,Roger Williams,3,1.63
+2015-10-27,home,Franklin Pierce,2,1.22,St. Anselm,2,1.86
+2015-10-27,home,Goucher,3,10.46,Notre Dame (MD),3,0.52
+2015-10-27,home,Juniata,3,3.03,York (PA),3,2.13
+2015-10-27,home,Keene St.,3,1.67,Smith,3,1.67
+2015-10-27,home,Kent St.,1,2.00,Ohio St.,1,2.29
+2015-10-27,home,Manhattanville,3,1.14,FDU-Florham,3,2.18
+2015-10-27,home,Messiah,3,12.23,Hood,3,0.19
+2015-10-27,home,Mount Holyoke,3,3.08,Westfield St.,3,0.76
+2015-10-27,home,Mount Ida,3,1.88,Framingham St.,3,2.94
+2015-10-27,home,Muhlenberg,3,3.22,Stockton,3,0.66
+2015-10-27,home,Pace,2,2.58,Southern Conn. St.,2,1.59
+2015-10-27,home,Simmons,3,7.01,New England Col.,3,0.26
+2015-10-27,home,Springfield,3,4.56,Salem St.,3,0.79
+2015-10-27,home,Stevenson,3,2.15,Lebanon Valley,3,1.72
+2015-10-27,home,St. John Fisher,3,4.06,Oswego St.,3,0.97
+2015-10-27,home,Stonehill,2,3.08,Merrimack,2,2.75
+2015-10-27,home,SUNY New Paltz,3,1.85,Kean,3,1.55
+2015-10-27,home,TCNJ,3,7.20,Wesley,3,0.29
+2015-10-27,home,Union (NY),3,0.53,Babson,3,4.81
+2015-10-27,home,Va. Wesleyan,3,0.82,Wash. & Lee,3,3.21
+2015-10-27,home,Wake Forest,1,2.54,Davidson,1,0.72
+2015-10-27,home,Widener,3,1.88,Arcadia,3,1.95
+2015-10-27,home,Wilkes,3,1.82,Misericordia,3,1.81
