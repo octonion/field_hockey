@@ -1,41 +1,32 @@
 BEGIN
 SET
-    date    |      team       | h_div | site |        opp         | v_div | spread 
-------------+-----------------+-------+------+--------------------+-------+--------
- 2015-10-27 | Adelphi         |     2 | home | Assumption         |     2 |    0.5
- 2015-10-27 | Alvernia        |     3 | home | Albright           |     3 |    1.0
- 2015-10-27 | American Int'l  |     2 | home | Saint Michael's    |     2 |    0.2
- 2015-10-27 | Bellarmine      |     2 | home | Centre             |     3 |    0.4
- 2015-10-27 | Bridgewater St. |     3 | home | Wheaton (MA)       |     3 |    0.7
- 2015-10-27 | Catholic        |     3 | home | Ursinus            |     3 |    0.2
- 2015-10-27 | Cedar Crest     |     3 | home | Immaculata         |     3 |   -0.3
- 2015-10-27 | DeSales         |     3 | home | King's (PA)        |     3 |   -1.8
- 2015-10-27 | Drew            |     3 | home | Keystone           |     3 |    0.7
- 2015-10-27 | Eastern         |     3 | home | Delaware Valley    |     3 |    3.9
- 2015-10-27 | Fitchburg St.   |     3 | home | Roger Williams     |     3 |    0.9
- 2015-10-27 | Franklin Pierce |     2 | home | St. Anselm         |     2 |   -0.6
- 2015-10-27 | Goucher         |     3 | home | Notre Dame (MD)    |     3 |    9.9
- 2015-10-27 | Juniata         |     3 | home | York (PA)          |     3 |    0.9
- 2015-10-27 | Keene St.       |     3 | home | Smith              |     3 |    0.0
- 2015-10-27 | Kent St.        |     1 | home | Ohio St.           |     1 |   -0.3
- 2015-10-27 | Manhattanville  |     3 | home | FDU-Florham        |     3 |   -1.0
- 2015-10-27 | Messiah         |     3 | home | Hood               |     3 |   12.0
- 2015-10-27 | Mount Holyoke   |     3 | home | Westfield St.      |     3 |    2.3
- 2015-10-27 | Mount Ida       |     3 | home | Framingham St.     |     3 |   -1.1
- 2015-10-27 | Muhlenberg      |     3 | home | Stockton           |     3 |    2.6
- 2015-10-27 | Pace            |     2 | home | Southern Conn. St. |     2 |    1.0
- 2015-10-27 | Simmons         |     3 | home | New England Col.   |     3 |    6.8
- 2015-10-27 | Springfield     |     3 | home | Salem St.          |     3 |    3.8
- 2015-10-27 | Stevenson       |     3 | home | Lebanon Valley     |     3 |    0.4
- 2015-10-27 | St. John Fisher |     3 | home | Oswego St.         |     3 |    3.1
- 2015-10-27 | Stonehill       |     2 | home | Merrimack          |     2 |    0.3
- 2015-10-27 | SUNY New Paltz  |     3 | home | Kean               |     3 |    0.3
- 2015-10-27 | TCNJ            |     3 | home | Wesley             |     3 |    6.9
- 2015-10-27 | Union (NY)      |     3 | home | Babson             |     3 |   -4.3
- 2015-10-27 | Va. Wesleyan    |     3 | home | Wash. & Lee        |     3 |   -2.4
- 2015-10-27 | Wake Forest     |     1 | home | Davidson           |     1 |    1.8
- 2015-10-27 | Widener         |     3 | home | Arcadia            |     3 |   -0.1
- 2015-10-27 | Wilkes          |     3 | home | Misericordia       |     3 |    0.0
-(34 rows)
+    date    |       team       | h_div | site |        opp         | v_div | spread 
+------------+------------------+-------+------+--------------------+-------+--------
+ 2015-10-30 | Ball St.         |     1 | home | Central Mich.      |     1 |    1.4
+ 2015-10-30 | Bryant           |     1 | home | Rider              |     1 |   -2.2
+ 2015-10-30 | Drexel           |     1 | home | Delaware           |     1 |   -1.8
+ 2015-10-30 | Franklin Pierce  |     2 | home | LIU Post           |     2 |    0.0
+ 2015-10-30 | Indiana          |     1 | home | Rutgers            |     1 |    1.5
+ 2015-10-30 | James Madison    |     1 | home | Virginia           |     1 |   -0.3
+ 2015-10-30 | La Salle         |     1 | home | Saint Francis (PA) |     1 |   -0.6
+ 2015-10-30 | Louisville       |     1 | home | Michigan St.       |     1 |    2.4
+ 2015-10-30 | Maine            |     1 | home | Vermont            |     1 |    4.3
+ 2015-10-30 | Muhlenberg       |     3 | home | Ursinus            |     3 |   -1.2
+ 2015-10-30 | Northwestern     |     1 | home | Penn St.           |     1 |    1.4
+ 2015-10-30 | Old Dominion     |     1 | home | Providence         |     1 |    2.3
+ 2015-10-30 | Sacred Heart     |     1 | home | Fairfield          |     1 |   -1.7
+ 2015-10-30 | Saint Louis      |     1 | home | Richmond           |     1 |   -2.7
+ 2015-10-30 | Salisbury        |     3 | home | Frostburg St.      |     3 |    5.0
+ 2015-10-30 | Siena            |     1 | home | Monmouth           |     1 |   -2.3
+ 2015-10-30 | Slippery Rock    |     2 | home | Limestone          |     2 |   -0.9
+ 2015-10-30 | Stanford         |     1 | home | Pacific            |     1 |    1.7
+ 2015-10-30 | St. Mary's (MD)  |     3 | home | Wesley             |     3 |    2.3
+ 2015-10-30 | Stonehill        |     2 | home | Pace               |     2 |    3.1
+ 2015-10-30 | Towson           |     1 | home | Northeastern       |     1 |   -1.8
+ 2015-10-30 | UC Davis         |     1 | home | California         |     1 |   -0.3
+ 2015-10-30 | UMass Lowell     |     1 | home | New Hampshire      |     1 |   -0.8
+ 2015-10-30 | Western New Eng. |     3 | home | Roger Williams     |     3 |    0.9
+ 2015-10-30 | William & Mary   |     1 | home | Hofstra            |     1 |   -0.8
+(25 rows)
 
 COMMIT
