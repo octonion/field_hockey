@@ -21,6 +21,7 @@ psql field_hockey -f sos/schedule_factors.sql
 psql field_hockey -c "vacuum full verbose analyze ncaa._schedule_factors;"
 
 psql field_hockey -f sos/current_ranking.sql > sos/current_ranking.txt
+cp /tmp/current_ranking.csv sos/current_ranking.csv
 
 psql field_hockey -f sos/division_ranking.sql > sos/division_ranking.txt
 
