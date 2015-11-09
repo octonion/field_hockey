@@ -1,36 +1,22 @@
 BEGIN
 SET
-    date    |       team       | h_div |  site   |       opp       | v_div | spread 
-------------+------------------+-------+---------+-----------------+-------+--------
- 2015-11-06 | Adelphi          |     2 | home    | Stonehill       |     2 |    1.1
- 2015-11-06 | American         |     1 | neutral | Lafayette       |     1 |    0.8
- 2015-11-06 | Assumption       |     2 | home    | Merrimack       |     2 |    0.2
- 2015-11-06 | Bellarmine       |     2 | neutral | Lindenwood (MO) |     2 |    0.0
- 2015-11-06 | Bloomsburg       |     2 | neutral | Millersville    |     2 |   -0.8
- 2015-11-06 | Boston College   |     1 | neutral | North Carolina  |     1 |   -1.6
- 2015-11-06 | Bucknell         |     1 | home    | Boston U.       |     1 |   -1.5
- 2015-11-06 | California       |     1 | neutral | Maine           |     1 |   -1.7
- 2015-11-06 | Davidson         |     1 | neutral | Richmond        |     1 |   -0.2
- 2015-11-06 | Delaware         |     1 | neutral | Hofstra         |     1 |    1.6
- 2015-11-06 | East Stroudsburg |     2 | home    | West Chester    |     2 |    0.9
- 2015-11-06 | Hendrix          |     3 | home    | Transylvania    |     3 |    1.0
- 2015-11-06 | Ithaca           |     3 | home    | Wash. & Jeff.   |     3 |    1.2
- 2015-11-06 | James Madison    |     1 | home    | Drexel          |     1 |    2.6
- 2015-11-06 | Kent St.         |     1 | neutral | Ohio            |     1 |    0.3
- 2015-11-06 | Limestone        |     2 | neutral | Newberry        |     2 |    2.9
- 2015-11-06 | Lindenwood (MO)  |     2 | home    | Bellarmine      |     2 |    0.4
- 2015-11-06 | Maryland         |     1 | neutral | Northwestern    |     1 |    0.5
- 2015-11-06 | Miami (OH)       |     1 | neutral | Missouri St.    |     1 |    2.4
- 2015-11-06 | Monmouth         |     1 | home    | Fairfield       |     1 |    0.5
- 2015-11-06 | New Hampshire    |     1 | neutral | Pacific         |     1 |    0.0
- 2015-11-06 | Old Dominion     |     1 | home    | UConn           |     1 |   -2.3
- 2015-11-06 | Old Dominion     |     1 | neutral | UConn           |     1 |   -2.9
- 2015-11-06 | Quinnipiac       |     1 | neutral | Rider           |     1 |   -0.4
- 2015-11-06 | Saint Joseph's   |     1 | home    | Massachusetts   |     1 |   -1.0
- 2015-11-06 | Stevens          |     3 | neutral | St. John Fisher |     3 |   -0.2
- 2015-11-06 | Temple           |     1 | neutral | Villanova       |     1 |    1.2
- 2015-11-06 | Virginia         |     1 | home    | Syracuse        |     1 |   -1.5
- 2015-11-06 | Wash. & Lee      |     3 | home    | Shenandoah      |     3 |    0.7
-(29 rows)
+    date    |       team       | h_div |  site   |     opp      | v_div | spread 
+------------+------------------+-------+---------+--------------+-------+--------
+ 2015-11-08 | Albany (NY)      |     1 | home    | Maine        |     1 |    0.9
+ 2015-11-08 | Assumption       |     2 | home    | Stonehill    |     2 |    0.5
+ 2015-11-08 | Bellarmine       |     2 | neutral | Limestone    |     2 |   -0.9
+ 2015-11-08 | Bowdoin          |     3 | home    | Middlebury   |     3 |    0.4
+ 2015-11-08 | Columbia         |     1 | home    | Harvard      |     1 |   -0.2
+ 2015-11-08 | East Stroudsburg |     2 | home    | Millersville |     2 |    0.3
+ 2015-11-08 | Fairfield        |     1 | neutral | Quinnipiac   |     1 |    0.2
+ 2015-11-08 | Frank. & Marsh.  |     3 | home    | Ursinus      |     3 |    0.0
+ 2015-11-08 | James Madison    |     1 | home    | Delaware     |     1 |    0.5
+ 2015-11-08 | Lindenwood (MO)  |     2 | neutral | Newberry     |     2 |    2.4
+ 2015-11-08 | Maryland         |     1 | neutral | Michigan     |     1 |    0.3
+ 2015-11-08 | Mount Holyoke    |     3 | neutral | Wellesley    |     3 |   -0.5
+ 2015-11-08 | North Carolina   |     1 | neutral | Syracuse     |     1 |   -0.4
+ 2015-11-08 | Rhodes           |     3 | home    | Centre       |     3 |    1.2
+ 2015-11-08 | Temple           |     1 | neutral | UConn        |     1 |   -5.7
+(15 rows)
 
 COMMIT

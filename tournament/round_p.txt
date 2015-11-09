@@ -7,7 +7,7 @@ BEGIN
   2 | Fairfield      | 0.173
   3 | North Carolina | 0.970
   3 | Maryland       | 0.958
-  3 | Syracuse       | 0.925
+  3 | Syracuse       | 0.924
   3 | Virginia       | 0.877
   3 | Albany (NY)    | 0.826
   3 | UConn          | 0.792
@@ -48,7 +48,7 @@ BEGIN
   5 | Albany (NY)    | 0.165
   5 | Virginia       | 0.087
   5 | Stanford       | 0.080
-  5 | Duke           | 0.051
+  5 | Duke           | 0.050
   5 | Wake Forest    | 0.036
   5 | Michigan       | 0.026
   5 | Louisville     | 0.019
