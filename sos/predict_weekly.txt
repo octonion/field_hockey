@@ -1,8 +1,10 @@
 BEGIN
 SET
- date | site | home | div | score | away | div | score 
-------+------+------+-----+-------+------+-----+-------
-(0 rows)
+    date    | site |     home     | div | score |     away     | div | score 
+------------+------+--------------+-----+-------+--------------+-----+-------
+ 2015-11-14 | home | Merrimack    |   2 |  2.10 | Adelphi      |   2 |  1.83
+ 2015-11-14 | home | Millersville |   2 |  1.38 | West Chester |   2 |  0.96
+(2 rows)
 
-COPY 0
+COPY 2
 COMMIT

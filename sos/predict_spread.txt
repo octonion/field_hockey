@@ -1,22 +1,7 @@
 BEGIN
 SET
-    date    |       team       | h_div |  site   |     opp      | v_div | spread 
-------------+------------------+-------+---------+--------------+-------+--------
- 2015-11-08 | Albany (NY)      |     1 | home    | Maine        |     1 |    0.9
- 2015-11-08 | Assumption       |     2 | home    | Stonehill    |     2 |    0.5
- 2015-11-08 | Bellarmine       |     2 | neutral | Limestone    |     2 |   -0.9
- 2015-11-08 | Bowdoin          |     3 | home    | Middlebury   |     3 |    0.4
- 2015-11-08 | Columbia         |     1 | home    | Harvard      |     1 |   -0.2
- 2015-11-08 | East Stroudsburg |     2 | home    | Millersville |     2 |    0.3
- 2015-11-08 | Fairfield        |     1 | neutral | Quinnipiac   |     1 |    0.2
- 2015-11-08 | Frank. & Marsh.  |     3 | home    | Ursinus      |     3 |    0.0
- 2015-11-08 | James Madison    |     1 | home    | Delaware     |     1 |    0.5
- 2015-11-08 | Lindenwood (MO)  |     2 | neutral | Newberry     |     2 |    2.4
- 2015-11-08 | Maryland         |     1 | neutral | Michigan     |     1 |    0.3
- 2015-11-08 | Mount Holyoke    |     3 | neutral | Wellesley    |     3 |   -0.5
- 2015-11-08 | North Carolina   |     1 | neutral | Syracuse     |     1 |   -0.4
- 2015-11-08 | Rhodes           |     3 | home    | Centre       |     3 |    1.2
- 2015-11-08 | Temple           |     1 | neutral | UConn        |     1 |   -5.7
-(15 rows)
+ date | team | h_div | site | opp | v_div | spread 
+------+------+-------+------+-----+-------+--------
+(0 rows)
 
 COMMIT

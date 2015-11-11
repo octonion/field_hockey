@@ -1,5 +1,5 @@
 year,team_id,team_name,wins,losses,ties,total_games
-2016,3,Adelphi,14,5,0,19
+2016,3,Adelphi,14,5,1,20
 2016,14,Albany (NY),19,2,0,21
 2016,16,Albright,12,9,0,21
 2016,938,Alvernia,12,7,0,19
@@ -130,13 +130,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,379,Me.-Farmington,10,5,0,15
 2016,407,Mercy,6,10,0,16
 2016,408,Mercyhurst,8,10,0,18
-2016,410,Merrimack,14,5,0,19
+2016,410,Merrimack,14,5,1,20
 2016,411,Messiah,15,5,0,20
 2016,414,Miami (OH),12,8,0,20
 2016,418,Michigan,17,4,0,21
 2016,416,Michigan St.,5,14,0,19
 2016,420,Middlebury,16,2,0,18
-2016,423,Millersville,18,2,0,20
+2016,423,Millersville,18,2,1,21
 2016,16142,Misericordia,10,11,0,21
 2016,669,Missouri St.,6,12,0,18
 2016,398,MIT,9,6,0,15
@@ -254,7 +254,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2016,761,Wells,5,11,0,16
 2016,763,Wesley,4,14,0,18
 2016,764,Wesleyan (CT),4,11,0,15
-2016,765,West Chester,16,4,0,20
+2016,765,West Chester,16,4,1,21
 2016,770,Western Conn. St.,8,10,0,18
 2016,775,Western New Eng.,8,10,0,18
 2016,777,Westfield St.,8,10,0,18
