@@ -122,7 +122,7 @@ h_mu::numeric(4,2) as score,
 
 away,
 a_div as div,
-h_mu::numeric(4,2) as score,
+a_mu::numeric(4,2) as score,
 
 (skellam(h_mu,a_mu,'win')
 +skellam(h_mu,a_mu,'draw')*ho_mu/(ho_mu+ao_mu)*(1-exp(-ho_mu-ao_mu))
@@ -161,7 +161,7 @@ h_mu::numeric(4,2) as score,
 
 away,
 a_div as div,
-h_mu::numeric(4,2) as score,
+a_mu::numeric(4,2) as score,
 
 (skellam(h_mu,a_mu,'win')
 +skellam(h_mu,a_mu,'draw')*ho_mu/(ho_mu+ao_mu)*(1-exp(-ho_mu-ao_mu))
