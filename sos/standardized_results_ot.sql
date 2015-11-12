@@ -72,7 +72,7 @@ g.opponent_id,
        when location='Neutral' then 0 end) as location_id,
  (case when location='Home' then 'offense_home'
        when location='Away' then 'defense_home'
-       when location='Neutral' then 'none' end) as field,
+       when location='Neutral' then 'neutral' end) as field,
 
 (case when g.game_length='' then g.team_score
       else least(g.team_score,g.opponent_score) end) as team_score,
@@ -125,7 +125,7 @@ g.team_id,
        when location='Neutral' then 0 end) as location_id,
  (case when location='Home' then 'defense_home'
        when location='Away' then 'offense_home'
-       when location='Neutral' then 'none' end) as field,
+       when location='Neutral' then 'neutral' end) as field,
 
 (case when g.game_length='' then g.opponent_score
       else least(g.team_score,g.opponent_score) end) as opponent_score,

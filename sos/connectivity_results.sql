@@ -61,7 +61,7 @@ join ncaa.teams_divisions vd
 where
 TRUE
 and g.year = 2016
-and g.field='none'
+and g.field='neutral'
 
 --and g.team_score>0
 --and g.opponent_score>0

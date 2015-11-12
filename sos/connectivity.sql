@@ -17,7 +17,7 @@ where
     t.div_id <= o.div_id
 and r.pulled_id = least(r.team_id,r.opponent_id)
 --and r.team_name < r.opponent_name
---and r.field in ('none','offense_home')
+--and r.field in ('neutral','offense_home')
 and r.team_score > 0
 and r.opponent_score > 0
 and r.year between 2002 and 2016

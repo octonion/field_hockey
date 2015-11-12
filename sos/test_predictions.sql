@@ -14,7 +14,7 @@ count(*))::numeric(4,3) as model,
 sum(
 case when r.team_score>r.opponent_score and r.field='offense_home' then 1
      when r.team_score<r.opponent_score and r.field='defense_home' then 1
-     when r.field='none' then 0.5
+     when r.field='neutral' then 0.5
      else 0 end)::float/
 --sum(
 count(*)
@@ -38,7 +38,7 @@ count(*)
 sum(
 case when r.team_score>r.opponent_score and r.field='offense_home' then 1
      when r.team_score<r.opponent_score and r.field='defense_home' then 1
-     when r.field='none' then 0.5
+     when r.field='neutral' then 0.5
      else 0 end)::float/
 --sum(
 --case when r.field in ('offense_home','defense_home') then 1
@@ -95,7 +95,7 @@ count(*))::numeric(4,3) as model,
 sum(
 case when r.team_score>r.opponent_score and r.field='offense_home' then 1
      when r.team_score<r.opponent_score and r.field='defense_home' then 1
-     when r.field='none' then 0.5
+     when r.field='neutral' then 0.5
      else 0 end)::float/
 count(*)
 )::numeric(4,3) as naive,
@@ -115,7 +115,7 @@ count(*)
 sum(
 case when r.team_score>r.opponent_score and r.field='offense_home' then 1
      when r.team_score<r.opponent_score and r.field='defense_home' then 1
-     when r.field='none' then 0.5
+     when r.field='neutral' then 0.5
      else 0 end)::float/
 count(*)
 )::numeric(4,3) as diff,
@@ -165,7 +165,7 @@ count(*))::numeric(4,3) as model,
 sum(
 case when r.team_score>r.opponent_score and r.field='offense_home' then 1
      when r.team_score<r.opponent_score and r.field='defense_home' then 1
-     when r.field='none' then 0.5
+     when r.field='neutral' then 0.5
      else 0 end)::float/
 --sum(
 count(*)
@@ -189,7 +189,7 @@ count(*)
 sum(
 case when r.team_score>r.opponent_score and r.field='offense_home' then 1
      when r.team_score<r.opponent_score and r.field='defense_home' then 1
-     when r.field='none' then 0.5
+     when r.field='neutral' then 0.5
      else 0 end)::float/
 --sum(
 --case when r.field in ('offense_home','defense_home') then 1
