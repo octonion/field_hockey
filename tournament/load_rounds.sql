@@ -57,7 +57,7 @@ join ncaa._factors o
 join ncaa._factors d
   on (d.parameter,d.level)=('field','defense_home')
 where
-  r1.year=2015
+  r1.year=2016
 );
 
 insert into ncaa.matrix_p
@@ -85,7 +85,7 @@ join ncaa._factors o
 join ncaa._factors d
   on (d.parameter,d.level)=('field','defense_home')
 where
-  r1.year=2015
+  r1.year=2016
 );
 
 insert into ncaa.matrix_p
@@ -109,7 +109,7 @@ join ncaa._schedule_factors v
 join ncaa._schedule_factors h
   on (h.year,h.team_id)=(r1.year,r1.team_id)
 where
-  r1.year=2015
+  r1.year=2016
 );
 
 -- home advantage
@@ -141,28 +141,28 @@ join ncaa.rounds r2
 join (select generate_series(1, 5) round_id) gs
   on TRUE
 where
-  r1.year=2015
+  r1.year=2016
 );
 
 -- Massachusetts vs Kent St.
 
 update ncaa.matrix_field
 set field='home'
-where (year,round_id,team_id,opponent_id)=(2015,1,400,331);
+where (year,round_id,team_id,opponent_id)=(2016,1,400,331);
 
 update ncaa.matrix_field
 set field='away'
-where (year,round_id,team_id,opponent_id)=(2015,1,331,400);
+where (year,round_id,team_id,opponent_id)=(2016,1,331,400);
 
 -- Boston U. vs Fairfield
 
 update ncaa.matrix_field
 set field='home'
-where (year,round_id,team_id,opponent_id)=(2015,1,68,220);
+where (year,round_id,team_id,opponent_id)=(2016,1,68,220);
 
 update ncaa.matrix_field
 set field='away'
-where (year,round_id,team_id,opponent_id)=(2015,1,220,68);
+where (year,round_id,team_id,opponent_id)=(2016,1,220,68);
 
 -- 1st and 2nd round seeds have home
 
@@ -190,59 +190,59 @@ and r.seed is null;
 
 update ncaa.matrix_field
 set field='home'
-where (year,round_id,team_id)=(2015,3,688);
+where (year,round_id,team_id)=(2016,3,688);
 
 update ncaa.matrix_field
 set field='away'
-where (year,round_id,opponent_id)=(2015,3,688);
+where (year,round_id,opponent_id)=(2016,3,688);
 
 -- Virginia
 
 update ncaa.matrix_field
 set field='home'
-where (year,round_id,team_id)=(2015,3,746);
+where (year,round_id,team_id)=(2016,3,746);
 
 update ncaa.matrix_field
 set field='away'
-where (year,round_id,opponent_id)=(2015,3,746);
+where (year,round_id,opponent_id)=(2016,3,746);
 
 -- UConn
 
 update ncaa.matrix_field
 set field='home'
-where (year,round_id,team_id)=(2015,3,164);
+where (year,round_id,team_id)=(2016,3,164);
 
 update ncaa.matrix_field
 set field='away'
-where (year,round_id,opponent_id)=(2015,3,164);
+where (year,round_id,opponent_id)=(2016,3,164);
 
 -- North Carolina
 
 update ncaa.matrix_field
 set field='home'
-where (year,round_id,team_id)=(2015,3,457);
+where (year,round_id,team_id)=(2016,3,457);
 
 update ncaa.matrix_field
 set field='away'
-where (year,round_id,opponent_id)=(2015,3,457);
+where (year,round_id,opponent_id)=(2016,3,457);
 
 
 -- 3rd and 4th round Michigan home
 
 update ncaa.matrix_field
 set field='home'
-where (year,round_id,team_id)=(2015,4,418);
+where (year,round_id,team_id)=(2016,4,418);
 
 update ncaa.matrix_field
 set field='away'
-where (year,round_id,opponent_id)=(2015,4,418);
+where (year,round_id,opponent_id)=(2016,4,418);
 
 update ncaa.matrix_field
 set field='home'
-where (year,round_id,team_id)=(2015,5,418);
+where (year,round_id,team_id)=(2016,5,418);
 
 update ncaa.matrix_field
 set field='away'
-where (year,round_id,opponent_id)=(2015,5,418);
+where (year,round_id,opponent_id)=(2016,5,418);
 
 commit;
