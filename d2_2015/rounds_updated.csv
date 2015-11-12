@@ -1,0 +1,7 @@
+year,round_id,seed,division_id,team_id,team_name,bracket,p
+2016,1,1,2,682,Stonehill,"{1,1,1,1}",1.0
+2016,1,2,2,410,Merrimack,"{2,2,1,1}",1.0
+2016,1,,2,3,Adelphi,"{3,2,1,1}",1.0
+2016,1,2,2,423,Millersville,"{4,3,2,1}",1.0
+2016,1,,2,765,West Chester,"{5,3,2,1}",1.0
+2016,1,1,2,197,East Stroudsburg,"{6,4,2,1}",1.0
