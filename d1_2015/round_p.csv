@@ -1,65 +1,25 @@
 rd,name,p
-3,Syracuse,0.954
-3,North Carolina,0.929
-3,UConn,0.910
-3,Virginia,0.772
-3,Maryland,0.759
-3,Duke,0.713
-3,Albany (NY),0.548
-3,Wake Forest,0.536
-3,Michigan,0.464
-3,Boston College,0.452
-3,Stanford,0.287
-3,Princeton,0.241
-3,Delaware,0.228
-3,Louisville,0.090
-3,Boston U.,0.071
-3,Massachusetts,0.046
-4,UConn,0.849
-4,Syracuse,0.793
-4,North Carolina,0.776
-4,Virginia,0.446
-4,Duke,0.374
-4,Maryland,0.170
-4,Michigan,0.107
-4,Stanford,0.102
-4,Wake Forest,0.092
-4,Delaware,0.077
-4,Albany (NY),0.056
-4,Boston College,0.052
-4,Louisville,0.043
-4,Princeton,0.026
-4,Boston U.,0.025
-4,Massachusetts,0.011
-5,North Carolina,0.589
-5,UConn,0.570
-5,Syracuse,0.351
-5,Duke,0.138
-5,Virginia,0.126
-5,Michigan,0.061
-5,Wake Forest,0.040
-5,Maryland,0.039
-5,Stanford,0.025
-5,Delaware,0.014
-5,Albany (NY),0.013
-5,Boston College,0.013
-5,Louisville,0.011
-5,Boston U.,0.008
-5,Princeton,0.003
-5,Massachusetts,0.001
-6,UConn,0.440
-6,Syracuse,0.232
-6,North Carolina,0.222
-6,Duke,0.032
-6,Virginia,0.019
-6,Maryland,0.016
-6,Michigan,0.016
-6,Wake Forest,0.006
-6,Boston College,0.004
-6,Albany (NY),0.004
-6,Louisville,0.003
-6,Stanford,0.003
-6,Boston U.,0.001
+4,UConn,0.929
+4,Syracuse,0.919
+4,North Carolina,0.803
+4,Virginia,0.531
+4,Duke,0.469
+4,Michigan,0.197
+4,Princeton,0.081
+4,Boston College,0.071
+5,UConn,0.602
+5,North Carolina,0.594
+5,Syracuse,0.375
+5,Duke,0.162
+5,Virginia,0.135
+5,Michigan,0.108
+5,Boston College,0.016
+5,Princeton,0.007
+6,UConn,0.460
+6,Syracuse,0.243
+6,North Carolina,0.211
+6,Duke,0.035
+6,Michigan,0.026
+6,Virginia,0.018
+6,Boston College,0.005
 6,Princeton,0.001
-6,Delaware,0.001
-6,Massachusetts,0.000
