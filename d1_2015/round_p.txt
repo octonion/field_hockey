@@ -1,31 +1,15 @@
 BEGIN
  rd |      name      |   p   
 ----+----------------+-------
-  4 | UConn          | 0.930
-  4 | Syracuse       | 0.901
-  4 | North Carolina | 0.791
-  4 | Virginia       | 0.532
-  4 | Duke           | 0.468
-  4 | Michigan       | 0.209
-  4 | Princeton      | 0.099
-  4 | Boston College | 0.070
-  5 | UConn          | 0.638
-  5 | North Carolina | 0.579
-  5 | Syracuse       | 0.336
-  5 | Duke           | 0.165
-  5 | Virginia       | 0.140
-  5 | Michigan       | 0.117
-  5 | Boston College | 0.017
-  5 | Princeton      | 0.009
-  6 | UConn          | 0.500
-  6 | Syracuse       | 0.216
-  6 | North Carolina | 0.195
-  6 | Duke           | 0.035
-  6 | Michigan       | 0.028
-  6 | Virginia       | 0.018
-  6 | Boston College | 0.006
-  6 | Princeton      | 0.002
-(24 rows)
+  5 | North Carolina | 0.681
+  5 | UConn          | 0.658
+  5 | Syracuse       | 0.342
+  5 | Duke           | 0.319
+  6 | UConn          | 0.504
+  6 | North Carolina | 0.221
+  6 | Syracuse       | 0.211
+  6 | Duke           | 0.064
+(8 rows)
 
-COPY 24
+COPY 8
 COMMIT
