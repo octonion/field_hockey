@@ -1,18 +1,8 @@
 BEGIN
 SET
-    date    |  site   |     home      | div | score |      away      | div | score 
-------------+---------+---------------+-----+-------+----------------+-----+-------
- 2015-11-14 | neutral | Albany (NY)   |   1 |  2.05 | Boston College |   1 |  2.27
- 2015-11-11 | home    | Boston U.     |   1 |  4.90 | Fairfield      |   1 |  1.33
- 2015-11-14 | neutral | Duke          |   1 |  1.86 | Stanford       |   1 |  1.26
- 2015-11-14 | neutral | Maryland      |   1 |  2.71 | Princeton      |   1 |  1.78
- 2015-11-11 | home    | Massachusetts |   1 |  2.94 | Kent St.       |   1 |  1.45
- 2015-11-14 | home    | Merrimack     |   2 |  2.10 | Adelphi        |   2 |  1.83
- 2015-11-14 | neutral | Michigan      |   1 |  1.73 | Wake Forest    |   1 |  1.53
- 2015-11-14 | home    | Millersville  |   2 |  1.38 | West Chester   |   2 |  0.96
- 2015-11-14 | home    | UConn         |   1 |  2.92 | Louisville     |   1 |  0.70
- 2015-11-14 | home    | Virginia      |   1 |  4.36 | Delaware       |   1 |  2.52
-(10 rows)
+ date | site | home | div | score | away | div | score 
+------+------+------+-----+-------+------+-----+-------
+(0 rows)
 
-COPY 10
+COPY 0
 COMMIT

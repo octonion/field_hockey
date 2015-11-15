@@ -1,0 +1,23 @@
+BEGIN
+   team_name    |   p   
+----------------+-------
+ UConn          | 0.440
+ Syracuse       | 0.232
+ North Carolina | 0.222
+ Duke           | 0.032
+ Virginia       | 0.019
+ Maryland       | 0.016
+ Michigan       | 0.016
+ Wake Forest    | 0.006
+ Boston College | 0.004
+ Albany (NY)    | 0.004
+ Louisville     | 0.003
+ Stanford       | 0.003
+ Boston U.      | 0.001
+ Princeton      | 0.001
+ Delaware       | 0.001
+ Massachusetts  | 0.000
+(16 rows)
+
+COPY 16
+COMMIT
