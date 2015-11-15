@@ -1,13 +1,11 @@
 BEGIN
     team_name     |   p   
 ------------------+-------
- East Stroudsburg | 0.461
- Stonehill        | 0.156
- Millersville     | 0.154
- Merrimack        | 0.083
- Adelphi          | 0.077
- West Chester     | 0.069
-(6 rows)
+ East Stroudsburg | 0.498
+ West Chester     | 0.192
+ Merrimack        | 0.155
+ Stonehill        | 0.155
+(4 rows)
 
-COPY 6
+COPY 4
 COMMIT
