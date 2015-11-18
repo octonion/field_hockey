@@ -1,10 +1,10 @@
 BEGIN
    team_name    |   p   
 ----------------+-------
- UConn          | 0.504
- North Carolina | 0.221
- Syracuse       | 0.211
- Duke           | 0.064
+ UConn          | 0.490
+ Syracuse       | 0.224
+ North Carolina | 0.215
+ Duke           | 0.072
 (4 rows)
 
 COPY 4
