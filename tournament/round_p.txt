@@ -1,83 +1,9 @@
 BEGIN
  rd |      name      |   p   
 ----+----------------+-------
-  2 | Boston U.      | 0.931
-  2 | Massachusetts  | 0.804
-  2 | Kent St        | 0.196
-  2 | Fairfield      | 0.069
-  3 | Syracuse       | 0.968
-  3 | UConn          | 0.946
-  3 | North Carolina | 0.927
-  3 | Maryland       | 0.781
-  3 | Duke           | 0.769
-  3 | Virginia       | 0.750
-  3 | Albany (NY)    | 0.555
-  3 | Wake Forest    | 0.546
-  3 | Michigan       | 0.454
-  3 | Boston College | 0.445
-  3 | Delaware       | 0.250
-  3 | Stanford       | 0.231
-  3 | Princeton      | 0.219
-  3 | Boston U.      | 0.072
-  3 | Louisville     | 0.054
-  3 | Massachusetts  | 0.030
-  3 | Kent St        | 0.003
-  3 | Fairfield      | 0.001
-  4 | UConn          | 0.887
-  4 | Syracuse       | 0.833
-  4 | North Carolina | 0.796
-  4 | Virginia       | 0.431
-  4 | Duke           | 0.409
-  4 | Maryland       | 0.140
-  4 | Wake Forest    | 0.091
-  4 | Michigan       | 0.089
-  4 | Stanford       | 0.081
-  4 | Delaware       | 0.079
-  4 | Albany (NY)    | 0.045
-  4 | Boston College | 0.043
-  4 | Louisville     | 0.025
-  4 | Boston U.      | 0.024
-  4 | Princeton      | 0.021
-  4 | Massachusetts  | 0.006
-  4 | Kent St        | 0.000
-  4 | Fairfield      | 0.000
-  5 | UConn          | 0.604
-  5 | North Carolina | 0.603
-  5 | Syracuse       | 0.344
-  5 | Duke           | 0.143
-  5 | Virginia       | 0.125
-  5 | Michigan       | 0.052
-  5 | Wake Forest    | 0.038
-  5 | Maryland       | 0.027
-  5 | Stanford       | 0.017
-  5 | Delaware       | 0.014
-  5 | Boston College | 0.009
-  5 | Albany (NY)    | 0.009
-  5 | Boston U.      | 0.007
-  5 | Louisville     | 0.004
-  5 | Princeton      | 0.002
-  5 | Fairfield      | 0.000
-  5 | Massachusetts  | 0.000
-  5 | Kent St        | 0.000
-  6 | UConn          | 0.472
-  6 | Syracuse       | 0.232
-  6 | North Carolina | 0.213
-  6 | Duke           | 0.027
-  6 | Virginia       | 0.019
-  6 | Maryland       | 0.011
-  6 | Michigan       | 0.011
-  6 | Wake Forest    | 0.005
-  6 | Boston College | 0.003
-  6 | Stanford       | 0.002
-  6 | Albany (NY)    | 0.002
-  6 | Louisville     | 0.001
-  6 | Delaware       | 0.001
-  6 | Boston U.      | 0.001
-  6 | Massachusetts  | 0.000
-  6 | Princeton      | 0.000
-  6 | Kent St        | 0.000
-  6 | Fairfield      | 0.000
-(76 rows)
+  6 | Syracuse       | 0.603
+  6 | North Carolina | 0.397
+(2 rows)
 
-COPY 76
+COPY 2
 COMMIT

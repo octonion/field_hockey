@@ -1,7 +1,11 @@
 BEGIN
 SET
- date | team | h_div | site | opp | v_div | spread 
-------+------+-------+------+-----+-------+--------
-(0 rows)
+    date    |       team       | h_div |  site   |      opp       | v_div | spread 
+------------+------------------+-------+---------+----------------+-------+--------
+ 2015-11-20 | Duke             |     1 | neutral | North Carolina |     1 |   -0.9
+ 2015-11-20 | East Stroudsburg |     2 | neutral | West Chester   |     2 |    0.8
+ 2015-11-20 | Merrimack        |     2 | neutral | Stonehill      |     2 |    0.4
+ 2015-11-20 | Syracuse         |     1 | neutral | UConn          |     1 |   -0.4
+(4 rows)
 
 COMMIT

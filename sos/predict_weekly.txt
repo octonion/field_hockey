@@ -1,12 +1,9 @@
 BEGIN
 SET
-    date    |  site   |       home       | div | score |      away      | div | score 
-------------+---------+------------------+-----+-------+----------------+-----+-------
- 2015-11-20 | neutral | Duke             |   1 |  1.60 | North Carolina |   1 |  2.38
- 2015-11-20 | neutral | East Stroudsburg |   2 |  2.09 | West Chester   |   2 |  1.58
- 2015-11-20 | neutral | Merrimack        |   2 |  2.95 | Stonehill      |   2 |  2.66
- 2015-11-20 | neutral | UConn            |   1 |  2.25 | Syracuse       |   1 |  1.59
-(4 rows)
+    date    |  site   |      home      | div | score |   away   | div | score 
+------------+---------+----------------+-----+-------+----------+-----+-------
+ 2015-11-22 | neutral | North Carolina |   1 |  1.88 | Syracuse |   1 |  2.32
+(1 row)
 
-COPY 4
+COPY 1
 COMMIT
