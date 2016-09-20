@@ -1,184 +1,288 @@
 BEGIN
 SET
-    date    |  site   |         home         | div | score |        away        | div | score 
-------------+---------+----------------------+-----+-------+--------------------+-----+-------
- 2016-09-13 | home    | Adelphi              |   2 |  3.24 | Southern Conn. St. |   2 |  1.99
- 2016-09-17 | home    | Albany (NY)          |   1 |  2.95 | Yale               |   1 |  1.08
- 2016-09-15 | home    | Albright             |   3 |  2.16 | Wm. Paterson       |   3 |  1.56
- 2016-09-17 | home    | Appalachian St.      |   1 |  3.71 | Longwood           |   1 |  2.98
- 2016-09-18 | home    | Appalachian St.      |   1 |  3.13 | VCU                |   1 |  2.12
- 2016-09-14 | home    | Assumption           |   2 |  1.79 | Bentley            |   2 |  1.82
- 2016-09-17 | home    | Babson               |   3 |  4.80 | Union (NY)         |   3 |  1.40
- 2016-09-17 | neutral | Ball St.             |   1 |  0.81 | Penn St.           |   1 |  3.51
- 2016-09-14 | home    | Belmont Abbey        |   2 |  2.25 | Newberry           |   2 |  0.85
- 2016-09-16 | home    | Belmont Abbey        |   2 |  1.56 | Lindenwood (MO)    |   2 |  1.96
- 2016-09-16 | home    | Boston College       |   1 |  1.22 | North Carolina     |   1 |  2.49
- 2016-09-17 | home    | Boston U.            |   1 |  5.65 | Colgate            |   1 |  0.45
- 2016-09-17 | home    | Bridgewater St.      |   3 |  2.64 | Plymouth St.       |   3 |  2.22
- 2016-09-13 | home    | Bridgewater (VA)     |   3 |  1.49 | Mary Washington    |   3 |  1.88
- 2016-09-18 | home    | Brown                |   1 |  4.07 | Colgate            |   1 |  0.83
- 2016-09-16 | home    | Brown                |   1 |  3.93 | Sacred Heart       |   1 |  1.03
- 2016-09-18 | neutral | Bucknell             |   1 |  1.94 | Quinnipiac         |   1 |  1.14
- 2016-09-14 | home    | California           |   1 |  2.23 | Drexel             |   1 |  2.23
- 2016-09-17 | home    | Chris. Newport       |   3 |  3.16 | Bridgewater (VA)   |   3 |  0.70
- 2016-09-13 | home    | Clark (MA)           |   3 |  3.34 | UMass Dartmouth    |   3 |  2.12
- 2016-09-16 | home    | Clark (MA)           |   3 |  1.69 | Babson             |   3 |  5.07
- 2016-09-13 | home    | Colby-Sawyer         |   3 |  1.62 | Fitchburg St.      |   3 |  2.05
- 2016-09-17 | home    | Colby-Sawyer         |   3 |  5.01 | Becker             |   3 |  1.08
- 2016-09-18 | home    | Columbia             |   1 |  4.13 | Fairfield          |   1 |  2.12
- 2016-09-13 | home    | Cornell              |   1 |  2.13 | Stanford           |   1 |  1.99
- 2016-09-16 | home    | Dartmouth            |   1 |  2.44 | Vermont            |   1 |  2.49
- 2016-09-18 | home    | Davidson             |   1 |  2.74 | William & Mary     |   1 |  2.48
- 2016-09-16 | home    | Davidson             |   1 |  2.89 | VCU                |   1 |  1.87
- 2016-09-18 | home    | Delaware             |   1 |  3.65 | Indiana            |   1 |  2.00
- 2016-09-16 | home    | Delaware             |   1 |  5.00 | Columbia           |   1 |  2.47
- 2016-09-14 | home    | Delaware Valley      |   3 |  1.21 | Kean               |   3 |  1.74
- 2016-09-16 | home    | Denison              |   3 |  1.38 | East. Mennonite    |   3 |  3.02
- 2016-09-17 | home    | Dickinson            |   3 |  2.12 | Haverford          |   3 |  1.64
- 2016-09-14 | home    | Eastern Conn. St.    |   3 |  2.15 | Wesleyan (CT)      |   3 |  1.18
- 2016-09-14 | home    | East Stroudsburg     |   2 |  5.50 | West Chester       |   2 |  1.93
- 2016-09-12 | home    | East Stroudsburg     |   2 |  2.44 | LIU Post           |   2 |  1.92
- 2016-09-14 | home    | Elizabethtown        |   3 |  1.71 | Ursinus            |   3 |  2.16
- 2016-09-17 | home    | Elmira               |   3 |  1.42 | Houghton           |   3 |  5.72
- 2016-09-16 | home    | Fairfield            |   1 |  2.36 | Penn               |   1 |  2.92
- 2016-09-13 | home    | FDU-Florham          |   3 |  1.23 | Ramapo             |   3 |  2.25
- 2016-09-17 | home    | Fitchburg St.        |   3 |  2.83 | UMass Dartmouth    |   3 |  1.06
- 2016-09-17 | home    | Framingham St.       |   3 |  1.26 | Eastern Conn. St.  |   3 |  4.11
- 2016-09-17 | home    | Franklin Pierce      |   2 |  3.04 | Assumption         |   2 |  1.64
- 2016-09-17 | home    | Frank. & Marsh.      |   3 |  3.12 | Swarthmore         |   3 |  1.71
- 2016-09-16 | neutral | Georgetown           |   1 |  2.00 | Quinnipiac         |   1 |  1.22
- 2016-09-17 | home    | Gordon               |   3 |  3.12 | Salve Regina       |   3 |  2.95
- 2016-09-17 | home    | Goucher              |   3 |  2.14 | Stockton           |   3 |  1.85
- 2016-09-17 | home    | Gwynedd Mercy        |   3 |  3.09 | Elizabethtown      |   3 |  1.98
- 2016-09-16 | home    | Harvard              |   1 |  1.16 | Northeastern       |   1 |  1.45
- 2016-09-17 | home    | Hendrix              |   3 |  3.32 | Transylvania       |   3 |  2.68
- 2016-09-18 | home    | Hendrix              |   3 |  2.24 | Centre             |   3 |  9.94
- 2016-09-17 | home    | Hofstra              |   1 |  2.22 | Rider              |   1 |  3.01
- 2016-09-17 | home    | Holy Cross           |   1 |  1.48 | American           |   1 |  2.66
- 2016-09-14 | home    | Immaculata           |   3 |  2.59 | Haverford          |   3 |  0.71
- 2016-09-16 | home    | Iowa                 |   1 |  2.00 | Penn St.           |   1 |  2.32
- 2016-09-18 | home    | Iowa                 |   1 |  2.51 | Ball St.           |   1 |  0.67
- 2016-09-16 | home    | James Madison        |   1 |  3.93 | New Hampshire      |   1 |  2.09
- 2016-09-18 | home    | Johns Hopkins        |   3 |  2.49 | Goucher            |   3 |  1.70
- 2016-09-13 | home    | Johnson & Wales (RI) |   3 |  1.96 | Westfield St.      |   3 |  1.86
- 2016-09-17 | home    | Johnson & Wales (RI) |   3 |  2.12 | St. Joseph's (ME)  |   3 |  1.40
- 2016-09-14 | home    | Keene St.            |   3 |  5.35 | Amherst            |   3 |  1.20
- 2016-09-18 | home    | Kent St.             |   1 |  1.30 | Northwestern       |   1 |  2.75
- 2016-09-17 | home    | Kenyon               |   3 |  1.49 | Ohio Wesleyan      |   3 |  1.33
- 2016-09-14 | home    | Keystone             |   3 |  1.47 | Wesley             |   3 |  1.28
- 2016-09-16 | home    | King's (PA)          |   3 |  1.03 | Immaculata         |   3 |  1.77
- 2016-09-13 | home    | King's (PA)          |   3 |  1.22 | Muhlenberg         |   3 |  2.78
- 2016-09-16 | home    | Lafayette            |   1 |  2.85 | Towson             |   1 |  0.73
- 2016-09-15 | home    | Lasell               |   3 |  1.69 | MIT                |   3 |  1.16
- 2016-09-13 | home    | Lasell               |   3 |  2.11 | Nichols            |   3 |  0.74
- 2016-09-13 | neutral | Lebanon Valley       |   3 |  1.08 | Lynchburg          |   3 |  2.03
- 2016-09-17 | neutral | Lebanon Valley       |   3 |  1.74 | St. Lawrence       |   3 |  3.09
- 2016-09-18 | home    | Lehigh               |   1 |  1.17 | Providence         |   1 |  2.03
- 2016-09-17 | home    | Lehigh               |   1 |  1.21 | Bucknell           |   1 |  1.74
- 2016-09-16 | home    | Limestone            |   2 |  4.18 | Newberry           |   2 |  1.34
- 2016-09-18 | home    | Limestone            |   2 |  2.83 | Queens (NC)        |   2 |  2.07
- 2016-09-18 | home    | Lock Haven           |   1 |  3.26 | Cornell            |   1 |  1.41
- 2016-09-16 | home    | Lock Haven           |   1 |  4.93 | La Salle           |   1 |  0.93
- 2016-09-16 | home    | Louisville           |   1 |  3.19 | Duke               |   1 |  1.57
- 2016-09-18 | home    | Louisville           |   1 |  5.47 | Ohio St.           |   1 |  0.81
- 2016-09-16 | home    | Maine                |   1 |  5.18 | Bryant             |   1 |  0.52
- 2016-09-18 | home    | Maine                |   1 |  2.25 | North Carolina     |   1 |  2.78
- 2016-09-18 | neutral | Manhattanville       |   3 |  2.53 | St. Lawrence       |   3 |  2.91
- 2016-09-14 | home    | Mansfield            |   2 |  0.72 | Bloomsburg         |   2 |  2.68
- 2016-09-17 | home    | Maryland             |   1 |  3.84 | Indiana            |   1 |  1.51
- 2016-09-17 | home    | Mary Washington      |   3 |  1.65 | Lynchburg          |   3 |  1.55
- 2016-09-16 | home    | Massachusetts        |   1 |  6.57 | Saint Louis        |   1 |  0.98
- 2016-09-18 | home    | Massachusetts        |   1 |  1.91 | Harvard            |   1 |  0.97
- 2016-09-14 | home    | Me.-Farmington       |   3 |  1.81 | Southern Me.       |   3 |  0.97
- 2016-09-14 | home    | Mercy                |   2 |  1.04 | American Int'l     |   2 |  1.37
- 2016-09-18 | home    | Mercy                |   2 |  1.00 | St. Anselm         |   2 |  1.41
- 2016-09-14 | home    | Mercyhurst           |   2 |  1.14 | Kutztown           |   2 |  4.58
- 2016-09-17 | home    | Merrimack            |   2 |  1.51 | LIU Post           |   2 |  3.22
- 2016-09-17 | home    | Messiah              |   3 |  5.99 | TCNJ               |   3 |  0.91
- 2016-09-18 | home    | Miami (OH)           |   1 |  1.64 | Duke               |   1 |  3.15
- 2016-09-18 | home    | Michigan             |   1 |  3.52 | Central Mich.      |   1 |  0.43
- 2016-09-16 | home    | Michigan St.         |   1 |  1.68 | Michigan           |   1 |  1.63
- 2016-09-17 | home    | Middlebury           |   3 |  3.46 | Amherst            |   3 |  1.37
- 2016-09-17 | home    | Millersville         |   2 |  1.29 | Kutztown           |   2 |  2.19
- 2016-09-14 | home    | Misericordia         |   3 |  1.78 | Scranton           |   3 |  2.42
- 2016-09-17 | home    | MIT                  |   3 |  1.83 | Springfield        |   3 |  2.07
- 2016-09-16 | home    | Monmouth             |   1 |  3.06 | Saint Joseph's     |   1 |  1.41
- 2016-09-12 | home    | Moravian             |   3 |  1.05 | Wilkes             |   3 |  2.21
- 2016-09-17 | home    | Moravian             |   3 |  1.34 | FDU-Florham        |   3 |  1.55
- 2016-09-18 | home    | Northeastern         |   1 |  1.57 | Boston College     |   1 |  1.48
- 2016-09-16 | home    | Ohio St.             |   1 |  1.37 | Northwestern       |   1 |  3.84
- 2016-09-18 | home    | Old Dominion         |   1 |  3.14 | James Madison      |   1 |  1.79
- 2016-09-16 | home    | Old Dominion         |   1 |  1.85 | UConn              |   1 |  2.64
- 2016-09-17 | home    | Pace                 |   2 |  0.89 | St. Anselm         |   2 |  0.95
- 2016-09-13 | neutral | Pacific              |   1 |  3.62 | Vermont            |   1 |  2.12
- 2016-09-18 | home    | Pacific              |   1 |  4.21 | Drexel             |   1 |  1.86
- 2016-09-13 | home    | Penn St.             |   1 |  5.47 | Bucknell           |   1 |  0.83
- 2016-09-17 | home    | Queens (NC)          |   2 |  2.76 | Lindenwood (MO)    |   2 |  3.24
- 2016-09-18 | home    | Rensselaer           |   3 |  1.09 | Montclair St.      |   3 |  2.05
- 2016-09-18 | home    | Rhodes               |   3 |  3.63 | Transylvania       |   3 |  0.69
- 2016-09-17 | home    | Rhodes               |   3 |  2.44 | Centre             |   3 |  2.58
- 2016-09-16 | home    | Richmond             |   1 |  2.71 | William & Mary     |   1 |  1.54
- 2016-09-13 | home    | Rider                |   1 |  5.65 | Villanova          |   1 |  1.08
- 2016-09-15 | home    | Rochester (NY)       |   3 |  8.20 | Brockport          |   3 |  0.57
- 2016-09-13 | home    | Rowan                |   3 |  2.96 | Cabrini            |   3 |  1.88
- 2016-09-15 | home    | Rowan                |   3 |  2.22 | FDU-Florham        |   3 |  1.52
- 2016-09-18 | home    | Sacred Heart         |   1 |  1.72 | Dartmouth          |   1 |  2.95
- 2016-09-18 | home    | Saint Francis (PA)   |   1 |  1.54 | Richmond           |   1 |  1.76
- 2016-09-18 | home    | Saint Joseph's       |   1 |  2.96 | La Salle           |   1 |  1.46
- 2016-09-14 | home    | Saint Michael's      |   2 |  1.61 | Southern N.H.      |   2 |  0.71
- 2016-09-13 | home    | Salem St.            |   3 |  3.62 | Becker             |   3 |  1.67
- 2016-09-17 | home    | Salisbury            |   3 |  6.76 | Cabrini            |   3 |  1.13
- 2016-09-18 | home    | Scranton             |   3 |  3.07 | King's (PA)        |   3 |  1.44
- 2016-09-17 | home    | Seton Hill           |   2 |  1.25 | Mansfield          |   2 |  2.00
- 2016-09-17 | home    | Shippensburg         |   2 |  2.97 | East Stroudsburg   |   2 |  1.23
- 2016-09-16 | home    | Siena                |   1 |  4.56 | UMass Lowell       |   1 |  2.23
- 2016-09-17 | home    | Skidmore             |   3 |  2.05 | Montclair St.      |   3 |  2.83
- 2016-09-14 | home    | Slippery Rock        |   2 |  1.63 | Millersville       |   2 |  1.25
- 2016-09-17 | home    | Slippery Rock        |   2 |  1.88 | Bellarmine         |   2 |  1.40
- 2016-09-13 | home    | Smith                |   3 |  2.55 | Connecticut Col.   |   3 |  2.08
- 2016-09-17 | home    | Southern Conn. St.   |   2 |  1.22 | American Int'l     |   2 |  2.02
- 2016-09-17 | home    | Southern Me.         |   3 |  1.57 | Westfield St.      |   3 |  0.97
- 2016-09-17 | home    | Southern N.H.        |   2 |  1.08 | Bentley            |   2 |  1.10
- 2016-09-13 | home    | St. John Fisher      |   3 |  1.34 | SUNY Cortland      |   3 |  3.24
- 2016-09-14 | home    | St. Joseph's (ME)    |   3 |  1.53 | Gordon             |   3 |  2.00
- 2016-09-13 | home    | Stockton             |   3 |  1.94 | DeSales            |   3 |  2.15
- 2016-09-14 | home    | Stonehill            |   2 |  2.72 | Merrimack          |   2 |  1.19
- 2016-09-17 | home    | Stonehill            |   2 |  1.31 | Saint Michael's    |   2 |  1.10
- 2016-09-14 | home    | St. Thomas Aquinas   |   2 |  1.66 | Manhattanville     |   3 |  1.33
- 2016-09-16 | home    | SUNY Cortland        |   3 |  3.63 | SUNY Geneseo       |   3 |  1.15
- 2016-09-13 | home    | SUNY Geneseo         |   3 |  2.45 | Hamilton           |   3 |  2.22
- 2016-09-16 | home    | Temple               |   1 |  1.65 | Providence         |   1 |  2.71
- 2016-09-18 | home    | Temple               |   1 |  1.20 | Monmouth           |   1 |  3.60
- 2016-09-17 | home    | Thomas (ME)          |   3 |  5.16 | Mount Holyoke      |   3 |  2.37
- 2016-09-18 | home    | Towson               |   1 |  2.43 | LIU Brooklyn       |   1 |  1.28
- 2016-09-16 | home    | UC Davis             |   1 |  1.51 | Drexel             |   1 |  1.89
- 2016-09-18 | home    | UMass Lowell         |   1 |  6.06 | Saint Louis        |   1 |  2.60
- 2016-09-17 | home    | U New England        |   3 |  3.97 | Western New Eng.   |   3 |  1.46
- 2016-09-17 | home    | Utica                |   3 |  3.70 | St. John Fisher    |   3 |  1.92
- 2016-09-14 | home    | Utica                |   3 |  2.12 | Rensselaer         |   3 |  2.18
- 2016-09-17 | home    | Vassar               |   3 |  1.60 | Ramapo             |   3 |  1.28
- 2016-09-18 | home    | Vermont              |   1 |  2.48 | Bryant             |   1 |  0.79
- 2016-09-18 | home    | Villanova            |   1 |  2.48 | Ohio               |   1 |  2.87
- 2016-09-16 | home    | Villanova            |   1 |  1.48 | Liberty            |   1 |  3.11
- 2016-09-12 | home    | Virginia             |   1 |  2.23 | Liberty            |   1 |  1.20
- 2016-09-18 | home    | Virginia             |   1 |  1.60 | UConn              |   1 |  2.35
- 2016-09-16 | home    | Virginia             |   1 |  2.08 | Princeton          |   1 |  2.04
- 2016-09-13 | home    | Wake Forest          |   1 |  4.30 | Davidson           |   1 |  1.34
- 2016-09-18 | home    | Wake Forest          |   1 |  1.58 | Syracuse           |   1 |  2.55
- 2016-09-17 | home    | Wells                |   3 |  2.86 | Bryn Mawr          |   3 |  1.44
- 2016-09-15 | home    | Wesley               |   3 |  2.35 | Stockton           |   3 |  1.86
- 2016-09-17 | home    | West Chester         |   2 |  4.73 | Mercyhurst         |   2 |  2.37
- 2016-09-14 | home    | Western New Eng.     |   3 |  3.97 | Roger Williams     |   3 |  1.77
- 2016-09-13 | home    | Wheaton (MA)         |   3 |  4.59 | Salve Regina       |   3 |  3.45
- 2016-09-17 | home    | Wheaton (MA)         |   3 |  1.97 | Wellesley          |   3 |  2.78
- 2016-09-14 | home    | Widener              |   3 |  2.08 | Gwynedd Mercy      |   3 |  2.47
- 2016-09-17 | home    | William Smith        |   3 |  3.34 | Manhattanville     |   3 |  1.40
- 2016-09-18 | home    | William Smith        |   3 |  3.55 | Lebanon Valley     |   3 |  0.96
- 2016-09-17 | home    | Wm. Paterson         |   3 |  2.42 | DeSales            |   3 |  1.39
- 2016-09-17 | home    | Wooster              |   3 |  1.12 | DePauw             |   3 |  4.57
- 2016-09-17 | home    | WPI                  |   3 |  2.76 | Smith              |   3 |  1.89
- 2016-09-18 | home    | Yale                 |   1 |  2.30 | Georgetown         |   1 |  1.57
-(176 rows)
+    date    |  site   |         home         | div | score |         away         | div | score 
+------------+---------+----------------------+-----+-------+----------------------+-----+-------
+ 2016-09-21 | home    | Adelphi              |   2 |  2.33 | Stonehill            |   2 |  3.71
+ 2016-09-24 | home    | Adelphi              |   2 |  4.04 | Saint Michael's      |   2 |  2.03
+ 2016-09-20 | home    | Albright             |   3 |  1.94 | Cedar Crest          |   3 |  1.38
+ 2016-09-24 | home    | Alvernia             |   3 |  3.76 | Arcadia              |   3 |  0.42
+ 2016-09-21 | home    | Alvernia             |   3 |  2.25 | Stockton             |   3 |  1.08
+ 2016-09-25 | home    | American             |   1 |  2.61 | Princeton            |   1 |  2.09
+ 2016-09-24 | home    | American             |   1 |  4.02 | Lehigh               |   1 |  0.71
+ 2016-09-21 | home    | American Int'l       |   2 |  1.31 | Franklin Pierce      |   2 |  0.65
+ 2016-09-24 | home    | Amherst              |   3 |  2.84 | Williams             |   3 |  1.59
+ 2016-09-24 | home    | Anna Maria           |   3 |  1.81 | Simmons              |   3 |  3.84
+ 2016-09-20 | home    | Anna Maria           |   3 |  2.35 | New England Col.     |   3 |  2.52
+ 2016-09-23 | home    | Appalachian St.      |   1 |  2.18 | California           |   1 |  2.48
+ 2016-09-25 | home    | Appalachian St.      |   1 |  0.81 | Louisville           |   1 |  6.12
+ 2016-09-26 | home    | Arcadia              |   3 |  1.45 | Immaculata           |   3 |  1.15
+ 2016-09-24 | home    | Assumption           |   2 |  3.88 | Southern Conn. St.   |   2 |  1.31
+ 2016-09-25 | home    | Bates                |   3 |  1.95 | Williams             |   3 |  1.50
+ 2016-09-24 | home    | Bates                |   3 |  2.16 | Wesleyan (CT)        |   3 |  1.15
+ 2016-09-24 | home    | Bay Path             |   3 |  1.66 | Elms                 |   3 |  3.11
+ 2016-09-22 | home    | Bellarmine           |   2 |  5.13 | Concordia Wisconsin  |   3 |  0.82
+ 2016-09-23 | home    | Bellarmine           |   2 |  4.15 | Newberry             |   2 |  1.14
+ 2016-09-24 | home    | Bellarmine           |   2 |  2.35 | Mercy                |   2 |  1.31
+ 2016-09-24 | home    | Belmont Abbey        |   2 |  6.40 | Sweet Briar          |   3 |  0.39
+ 2016-09-24 | home    | Bentley              |   2 |  1.03 | Pace                 |   2 |  0.89
+ 2016-09-21 | home    | Bentley              |   2 |  2.74 | Southern Conn. St.   |   2 |  0.89
+ 2016-09-24 | home    | Bloomsburg           |   2 |  5.64 | Mercyhurst           |   2 |  0.60
+ 2016-09-20 | home    | Bloomsburg           |   2 |  3.44 | Slippery Rock        |   2 |  0.94
+ 2016-09-25 | home    | Boston College       |   1 |  2.68 | Massachusetts        |   1 |  1.39
+ 2016-09-23 | home    | Boston College       |   1 |  2.69 | Virginia             |   1 |  1.11
+ 2016-09-25 | home    | Boston U.            |   1 |  1.65 | UConn                |   1 |  2.52
+ 2016-09-24 | home    | Bridgewater St.      |   3 |  1.89 | Fitchburg St.        |   3 |  2.45
+ 2016-09-24 | home    | Brockport            |   3 |  1.79 | SUNY Oneonta         |   3 |  2.15
+ 2016-09-23 | home    | Brockport            |   3 |  1.10 | SUNY New Paltz       |   3 |  4.15
+ 2016-09-24 | home    | Brown                |   1 |  3.05 | Columbia             |   1 |  2.81
+ 2016-09-25 | home    | Bryant               |   1 |  1.30 | Columbia             |   1 |  2.40
+ 2016-09-21 | home    | Bryn Mawr            |   3 |  0.49 | Ursinus              |   3 |  5.01
+ 2016-09-24 | home    | Bryn Mawr            |   3 |  1.31 | McDaniel             |   3 |  3.01
+ 2016-09-24 | home    | Cabrini              |   3 |  3.27 | Neumann              |   3 |  2.67
+ 2016-09-21 | home    | Cabrini              |   3 |  2.35 | Stevens              |   3 |  2.96
+ 2016-09-24 | home    | Castleton            |   3 |  1.59 | Me.-Farmington       |   3 |  6.43
+ 2016-09-24 | home    | Catholic             |   3 |  2.43 | Susquehanna          |   3 |  1.43
+ 2016-09-23 | home    | Central Mich.        |   1 |  0.95 | Miami (OH)           |   1 |  3.47
+ 2016-09-25 | home    | Central Mich.        |   1 |  1.16 | Indiana              |   1 |  4.06
+ 2016-09-24 | home    | Centre               |   3 |  4.27 | Roanoke              |   3 |  1.82
+ 2016-09-25 | home    | Centre               |   3 |  6.93 | Ferrum               |   3 |  0.86
+ 2016-09-21 | home    | Centre               |   3 |  5.52 | Transylvania         |   3 |  0.63
+ 2016-09-20 | home    | Clark (MA)           |   3 |  5.27 | Daniel Webster       |   3 |  1.78
+ 2016-09-20 | home    | Colby                |   3 |  1.65 | Bowdoin              |   3 |  2.73
+ 2016-09-21 | home    | Colby-Sawyer         |   3 |  5.53 | Wheelock             |   3 |  1.64
+ 2016-09-25 | home    | Colgate              |   1 |  0.90 | Rider                |   1 |  3.81
+ 2016-09-24 | home    | Colgate              |   1 |  1.29 | Holy Cross           |   1 |  2.34
+ 2016-09-21 | home    | Connecticut Col.     |   3 |  1.86 | Manhattanville       |   3 |  2.13
+ 2016-09-25 | home    | Connecticut Col.     |   3 |  1.76 | Colby                |   3 |  3.25
+ 2016-09-24 | home    | Cornell              |   1 |  2.92 | Penn                 |   1 |  1.22
+ 2016-09-25 | home    | Cornell              |   1 |  4.02 | Vermont              |   1 |  0.98
+ 2016-09-23 | home    | Delaware Valley      |   3 |  1.53 | Manhattanville       |   3 |  1.62
+ 2016-09-24 | home    | DePauw               |   3 |  2.90 | Denison              |   3 |  1.88
+ 2016-09-25 | home    | DePauw               |   3 |  3.06 | Kenyon               |   3 |  1.71
+ 2016-09-24 | home    | DeSales              |   3 |  2.00 | Wilkes               |   3 |  2.73
+ 2016-09-21 | home    | DeSales              |   3 |  0.89 | Muhlenberg           |   3 |  3.64
+ 2016-09-21 | home    | Dickinson            |   3 |  3.73 | Gettysburg           |   3 |  3.25
+ 2016-09-24 | home    | Drew                 |   3 |  0.91 | Elizabethtown        |   3 |  2.48
+ 2016-09-20 | home    | Drew                 |   3 |  1.03 | FDU-Florham          |   3 |  2.77
+ 2016-09-23 | home    | Drexel               |   1 |  1.48 | Monmouth             |   1 |  2.50
+ 2016-09-24 | home    | Earlham              |   3 |  1.29 | Kenyon               |   3 |  2.34
+ 2016-09-23 | home    | Earlham              |   3 |  1.23 | Denison              |   3 |  2.56
+ 2016-09-24 | home    | Eastern Conn. St.    |   3 |  2.35 | Worcester St.        |   3 |  1.54
+ 2016-09-25 | home    | East. Mennonite      |   3 |  7.02 | Notre Dame (MD)      |   3 |  1.30
+ 2016-09-24 | home    | East Stroudsburg     |   2 |  1.92 | Kutztown             |   2 |  1.21
+ 2016-09-21 | home    | Elizabethtown        |   3 |  1.97 | York (PA)            |   3 |  2.16
+ 2016-09-22 | home    | Elms                 |   3 |  1.54 | Mount Ida            |   3 |  2.72
+ 2016-09-24 | home    | Endicott             |   3 |  3.09 | Gordon               |   3 |  1.51
+ 2016-09-22 | home    | Endicott             |   3 |  2.77 | Amherst              |   3 |  2.90
+ 2016-09-25 | home    | Fairfield            |   1 |  1.26 | Virginia             |   1 |  2.34
+ 2016-09-24 | home    | FDU-Florham          |   3 |  3.13 | Misericordia         |   3 |  1.07
+ 2016-09-20 | home    | Fitchburg St.        |   3 |  1.41 | Westfield St.        |   3 |  1.05
+ 2016-09-25 | neutral | Framingham St.       |   3 |  0.77 | Mary Washington      |   3 | 10.40
+ 2016-09-24 | home    | Framingham St.       |   3 |  2.87 | Salem St.            |   3 |  3.32
+ 2016-09-22 | home    | Framingham St.       |   3 |  1.56 | Regis (MA)           |   3 |  2.76
+ 2016-09-20 | home    | Framingham St.       |   3 |  1.47 | Bridgewater St.      |   3 |  5.73
+ 2016-09-21 | home    | Frank. & Marsh.      |   3 |  1.22 | Messiah              |   3 |  2.49
+ 2016-09-24 | home    | Frank. & Marsh.      |   3 |  1.42 | Ursinus              |   3 |  1.85
+ 2016-09-24 | home    | Frostburg St.        |   3 |  2.35 | Bridgewater (VA)     |   3 |  1.64
+ 2016-09-23 | home    | Georgetown           |   1 |  1.20 | Old Dominion         |   1 |  3.45
+ 2016-09-25 | home    | Georgetown           |   1 |  2.21 | Lehigh               |   1 |  1.39
+ 2016-09-24 | home    | Gettysburg           |   3 |  5.82 | Washington Col.      |   3 |  1.44
+ 2016-09-20 | home    | Gordon               |   3 |  2.94 | Western New Eng.     |   3 |  1.65
+ 2016-09-24 | home    | Goucher              |   3 |  1.90 | Juniata              |   3 |  1.61
+ 2016-09-20 | home    | Gwynedd Mercy        |   3 |  2.45 | TCNJ                 |   3 |  3.59
+ 2016-09-24 | home    | Gwynedd Mercy        |   3 |  1.97 | Montclair St.        |   3 |  3.05
+ 2016-09-25 | home    | Hamilton             |   3 |  2.03 | Middlebury           |   3 |  3.12
+ 2016-09-24 | home    | Hamilton             |   3 |  3.86 | Connecticut Col.     |   3 |  1.63
+ 2016-09-24 | home    | Hartwick             |   3 |  1.26 | Wash. & Jeff.        |   3 |  1.56
+ 2016-09-25 | home    | Harvard              |   1 |  1.21 | Maine                |   1 |  2.79
+ 2016-09-23 | home    | Harvard              |   1 |  1.62 | Yale                 |   1 |  1.49
+ 2016-09-21 | home    | Haverford            |   3 |  3.22 | Misericordia         |   3 |  1.26
+ 2016-09-24 | home    | Haverford            |   3 |  1.80 | Rowan                |   3 |  2.58
+ 2016-09-24 | home    | Hendrix              |   3 |  2.90 | Concordia Wisconsin  |   3 |  3.10
+ 2016-09-25 | neutral | Hofstra              |   1 |  2.94 | Saint Francis (PA)   |   1 |  1.38
+ 2016-09-21 | home    | Holy Cross           |   1 |  1.76 | Fairfield            |   1 |  2.41
+ 2016-09-20 | home    | Hood                 |   3 |  1.77 | Roanoke              |   3 |  2.63
+ 2016-09-24 | home    | Husson               |   3 |  4.68 | Thomas (ME)          |   3 |  2.81
+ 2016-09-24 | home    | Immaculata           |   3 |  1.35 | Wilson               |   3 |  2.13
+ 2016-09-23 | home    | Indiana              |   1 |  2.33 | Rutgers              |   1 |  3.29
+ 2016-09-25 | home    | Iowa                 |   1 |  3.14 | Rutgers              |   1 |  1.96
+ 2016-09-23 | home    | Iowa                 |   1 |  2.26 | Maryland             |   1 |  2.10
+ 2016-09-24 | home    | Ithaca               |   3 |  3.61 | Nazareth             |   3 |  0.94
+ 2016-09-21 | home    | Ithaca               |   3 |  1.99 | Houghton             |   3 |  1.46
+ 2016-09-21 | home    | Johns Hopkins        |   3 |  1.01 | Salisbury            |   3 |  3.47
+ 2016-09-22 | home    | Johnson & Wales (RI) |   3 |  0.96 | Babson               |   3 |  5.82
+ 2016-09-22 | home    | Keene St.            |   3 |  3.79 | Trinity (CT)         |   3 |  3.03
+ 2016-09-23 | home    | Kent St.             |   1 |  2.15 | Ball St.             |   1 |  0.93
+ 2016-09-25 | home    | Keuka                |   3 |  1.67 | Utica                |   3 |  3.27
+ 2016-09-23 | home    | King's (PA)          |   3 |  3.19 | Eastern              |   3 |  1.61
+ 2016-09-20 | home    | Kutztown             |   2 |  1.25 | Shippensburg         |   2 |  1.40
+ 2016-09-25 | home    | Lafayette            |   1 |  2.04 | Delaware             |   1 |  3.57
+ 2016-09-23 | home    | Lafayette            |   1 |  1.07 | Boston U.            |   1 |  2.67
+ 2016-09-25 | home    | La Salle             |   1 |  2.21 | Davidson             |   1 |  1.42
+ 2016-09-24 | home    | Lebanon Valley       |   3 |  2.35 | Albright             |   3 |  1.49
+ 2016-09-20 | home    | Liberty              |   1 |  3.48 | Longwood             |   1 |  1.34
+ 2016-09-23 | home    | Liberty              |   1 |  3.03 | Quinnipiac           |   1 |  0.86
+ 2016-09-24 | home    | Limestone            |   2 |  2.43 | Mansfield            |   2 |  0.96
+ 2016-09-25 | home    | Lindenwood (MO)      |   2 |  3.16 | Mercy                |   2 |  1.65
+ 2016-09-24 | home    | Lindenwood (MO)      |   2 |  5.58 | Newberry             |   2 |  1.44
+ 2016-09-21 | home    | LIU Post             |   2 |  3.32 | Assumption           |   2 |  0.96
+ 2016-09-25 | home    | Longwood             |   1 |  1.78 | Kent St.             |   1 |  2.53
+ 2016-09-20 | home    | Mansfield            |   2 |  0.64 | Indiana (PA)         |   2 |  2.04
+ 2016-09-21 | home    | Mary Washington      |   3 |  3.04 | Wash. & Lee          |   3 |  1.53
+ 2016-09-24 | home    | Marywood             |   3 |  1.44 | Cedar Crest          |   3 |  0.85
+ 2016-09-23 | home    | Massachusetts        |   1 |  1.83 | Stanford             |   1 |  1.84
+ 2016-09-20 | home    | Mercyhurst           |   2 |  2.27 | Seton Hill           |   2 |  1.63
+ 2016-09-24 | home    | Merrimack            |   2 |  1.56 | Franklin Pierce      |   2 |  1.52
+ 2016-09-24 | home    | Messiah              |   3 |  5.99 | Stevenson            |   3 |  0.82
+ 2016-09-23 | home    | Michigan             |   1 |  3.52 | Ohio St.             |   1 |  0.72
+ 2016-09-25 | home    | Michigan             |   1 |  2.08 | Penn St.             |   1 |  1.93
+ 2016-09-24 | home    | Michigan St.         |   1 |  2.99 | Miami (OH)           |   1 |  1.81
+ 2016-09-25 | home    | Michigan St.         |   1 |  3.69 | Ohio St.             |   1 |  1.83
+ 2016-09-24 | home    | Middlebury           |   3 |  1.78 | Bowdoin              |   3 |  1.85
+ 2016-09-20 | home    | Millersville         |   2 |  2.83 | West Chester         |   2 |  1.16
+ 2016-09-24 | home    | Millersville         |   2 |  1.20 | Indiana (PA)         |   2 |  0.58
+ 2016-09-22 | home    | Missouri St.         |   1 |  2.78 | LIU Brooklyn         |   1 |  1.66
+ 2016-09-24 | home    | Missouri St.         |   1 |  1.04 | UC Davis             |   1 |  1.78
+ 2016-09-26 | home    | Missouri St.         |   1 |  0.86 | Pacific              |   1 |  6.74
+ 2016-09-24 | home    | MIT                  |   3 |  2.93 | WPI                  |   3 |  1.09
+ 2016-09-25 | home    | Molloy               |   2 |  1.13 | Saint Michael's      |   2 |  2.28
+ 2016-09-25 | home    | Monmouth             |   1 |  3.04 | Bucknell             |   1 |  1.30
+ 2016-09-21 | home    | Moravian             |   3 |  0.72 | King's (PA)          |   3 |  3.45
+ 2016-09-24 | home    | Morrisville St.      |   3 |  3.64 | Wells                |   3 |  1.81
+ 2016-09-23 | home    | Morrisville St.      |   3 |  1.55 | SUNY Cortland        |   3 |  5.12
+ 2016-09-20 | home    | Morrisville St.      |   3 |  1.77 | Union (NY)           |   3 |  2.32
+ 2016-09-24 | home    | Mount Ida            |   3 |  3.56 | Rivier               |   3 |  1.55
+ 2016-09-23 | home    | Muhlenberg           |   3 |  2.78 | Johns Hopkins        |   3 |  0.90
+ 2016-09-25 | home    | Nazareth             |   3 |  0.89 | Skidmore             |   3 |  5.92
+ 2016-09-20 | home    | Nazareth             |   3 |  1.17 | St. John Fisher      |   3 |  2.77
+ 2016-09-24 | home    | New England Col.     |   3 |  1.96 | Colby-Sawyer         |   3 |  2.31
+ 2016-09-20 | home    | Nichols              |   3 |  2.16 | Roger Williams       |   3 |  2.67
+ 2016-09-23 | home    | North Carolina       |   1 |  2.26 | Syracuse             |   1 |  1.98
+ 2016-09-25 | home    | North Carolina       |   1 |  2.32 | Duke                 |   1 |  1.97
+ 2016-09-25 | home    | Northeastern         |   1 |  3.39 | New Hampshire        |   1 |  2.41
+ 2016-09-24 | home    | Northeastern         |   1 |  1.88 | Maine                |   1 |  3.89
+ 2016-09-25 | home    | Northwestern         |   1 |  2.82 | Maryland             |   1 |  1.73
+ 2016-09-23 | home    | Northwestern         |   1 |  2.73 | Penn St.             |   1 |  2.51
+ 2016-09-24 | home    | Notre Dame (MD)      |   3 |  1.02 | Keystone             |   3 |  3.16
+ 2016-09-23 | home    | Oberlin              |   3 |  0.96 | Ohio Wesleyan        |   3 |  3.01
+ 2016-09-25 | home    | Ohio                 |   1 |  1.86 | Ball St.             |   1 |  1.73
+ 2016-09-24 | home    | Ohio Wesleyan        |   3 |  3.25 | Wooster              |   3 |  1.45
+ 2016-09-20 | home    | Ohio Wesleyan        |   3 |  1.42 | Denison              |   3 |  1.50
+ 2016-09-21 | home    | Oswego St.           |   3 |  4.72 | Keuka                |   3 |  0.81
+ 2016-09-25 | neutral | Pacific              |   1 | 12.23 | Saint Louis          |   1 |  1.24
+ 2016-09-23 | home    | Pacific              |   1 | 12.94 | LIU Brooklyn         |   1 |  0.80
+ 2016-09-24 | home    | Plymouth St.         |   3 |  5.22 | Western Conn. St.    |   3 |  0.82
+ 2016-09-20 | home    | Princeton            |   1 |  1.90 | Maryland             |   1 |  2.73
+ 2016-09-24 | home    | Princeton            |   1 |  3.86 | Dartmouth            |   1 |  1.39
+ 2016-09-23 | home    | Providence           |   1 |  3.46 | Villanova            |   1 |  1.52
+ 2016-09-25 | home    | Providence           |   1 |  3.76 | UMass Lowell         |   1 |  1.80
+ 2016-09-25 | home    | Queens (NC)          |   2 |  2.35 | Mansfield            |   2 |  1.10
+ 2016-09-24 | home    | Regis (MA)           |   3 |  2.98 | Becker               |   3 |  1.04
+ 2016-09-24 | home    | Rensselaer           |   3 |  2.02 | William Smith        |   3 |  1.79
+ 2016-09-25 | home    | Rhodes               |   3 |  3.94 | Concordia Wisconsin  |   3 |  0.71
+ 2016-09-24 | home    | Rhodes               |   3 |  2.64 | St. Mary's (MD)      |   3 |  1.59
+ 2016-09-25 | home    | Richmond             |   1 |  1.65 | Lock Haven           |   1 |  2.10
+ 2016-09-23 | home    | Richmond             |   1 |  3.10 | Davidson             |   1 |  1.47
+ 2016-09-23 | home    | Rider                |   1 |  2.50 | Saint Francis (PA)   |   1 |  1.34
+ 2016-09-21 | home    | Rider                |   1 |  2.26 | La Salle             |   1 |  1.35
+ 2016-09-22 | home    | Rivier               |   3 |  2.84 | Becker               |   3 |  1.44
+ 2016-09-26 | home    | Rivier               |   3 |  4.15 | Daniel Webster       |   3 |  2.21
+ 2016-09-20 | home    | Rivier               |   3 |  2.30 | Elms                 |   3 |  1.58
+ 2016-09-25 | home    | Sacred Heart         |   1 |  1.55 | Temple               |   1 |  2.99
+ 2016-09-25 | home    | Saint Joseph's       |   1 |  1.57 | Albany (NY)          |   1 |  2.17
+ 2016-09-23 | home    | Saint Louis          |   1 |  1.34 | Saint Joseph's       |   1 |  5.91
+ 2016-09-21 | home    | Saint Michael's      |   2 |  2.33 | Merrimack            |   2 |  1.65
+ 2016-09-20 | home    | Salem St.            |   3 |  1.42 | Keene St.            |   3 |  8.44
+ 2016-09-24 | home    | Salisbury            |   3 |  3.57 | TCNJ                 |   3 |  1.68
+ 2016-09-20 | home    | Salve Regina         |   3 |  2.80 | Lasell               |   3 |  1.98
+ 2016-09-22 | home    | Salve Regina         |   3 |  5.33 | Roger Williams       |   3 |  1.29
+ 2016-09-24 | home    | Salve Regina         |   3 |  1.91 | U New England        |   3 |  3.52
+ 2016-09-20 | home    | Scranton             |   3 |  1.03 | Marywood             |   3 |  0.95
+ 2016-09-24 | home    | Scranton             |   3 |  2.18 | Moravian             |   3 |  0.42
+ 2016-09-25 | home    | Sewanee              |   3 |  1.92 | St. Mary's (MD)      |   3 |  3.90
+ 2016-09-23 | home    | Sewanee              |   3 |  1.19 | Rhodes               |   3 |  3.25
+ 2016-09-26 | neutral | Shippensburg         |   2 |  2.46 | Limestone            |   2 |  0.60
+ 2016-09-24 | home    | Shippensburg         |   2 |  3.80 | Seton Hill           |   2 |  0.40
+ 2016-09-24 | home    | Skidmore             |   3 |  3.28 | SUNY Cortland        |   3 |  2.18
+ 2016-09-21 | home    | Skidmore             |   3 |  8.96 | Castleton            |   3 |  1.23
+ 2016-09-20 | home    | Smith                |   3 |  1.60 | Williams             |   3 |  2.00
+ 2016-09-24 | home    | Smith                |   3 |  3.39 | Wheaton (MA)         |   3 |  2.20
+ 2016-09-20 | home    | Southern Me.         |   3 |  1.00 | Plymouth St.         |   3 |  2.09
+ 2016-09-25 | home    | Southern N.H.        |   2 |  1.65 | St. Thomas Aquinas   |   2 |  0.80
+ 2016-09-24 | home    | Southern N.H.        |   2 |  0.74 | American Int'l       |   2 |  1.47
+ 2016-09-20 | home    | Springfield          |   3 |  2.93 | St. Joseph's (ME)    |   3 |  0.94
+ 2016-09-22 | home    | Springfield          |   3 |  4.26 | Western New Eng.     |   3 |  1.89
+ 2016-09-24 | home    | Springfield          |   3 |  1.47 | Babson               |   3 |  4.05
+ 2016-09-21 | home    | St. Anselm           |   2 |  3.08 | Southern N.H.        |   2 |  0.90
+ 2016-09-24 | home    | St. Anselm           |   2 |  3.05 | St. Thomas Aquinas   |   2 |  0.53
+ 2016-09-20 | home    | Stevenson            |   3 |  1.45 | Rowan                |   3 |  2.92
+ 2016-09-24 | home    | St. John Fisher      |   3 |  3.22 | Elmira               |   3 |  0.77
+ 2016-09-24 | home    | St. Joseph's (ME)    |   3 |  0.68 | Kean                 |   3 |  2.76
+ 2016-09-23 | home    | St. Joseph's (ME)    |   3 |  0.95 | Lasell               |   3 |  1.80
+ 2016-09-24 | home    | St. Lawrence         |   3 |  0.98 | Vassar               |   3 |  3.84
+ 2016-09-25 | home    | St. Lawrence         |   3 |  2.02 | St. John Fisher      |   3 |  1.99
+ 2016-09-20 | home    | St. Mary's (MD)      |   3 |  2.82 | Shenandoah           |   3 |  2.15
+ 2016-09-24 | home    | Stonehill            |   2 |  1.96 | LIU Post             |   2 |  1.54
+ 2016-09-20 | home    | St. Thomas Aquinas   |   2 |  0.58 | Pace                 |   2 |  1.35
+ 2016-09-23 | home    | SUNY Geneseo         |   3 |  2.63 | SUNY Oneonta         |   3 |  1.29
+ 2016-09-24 | home    | SUNY Geneseo         |   3 |  1.61 | SUNY New Paltz       |   3 |  2.49
+ 2016-09-21 | home    | Susquehanna          |   3 |  1.80 | Lebanon Valley       |   3 |  1.46
+ 2016-09-22 | home    | Swarthmore           |   3 |  2.59 | Albright             |   3 |  1.86
+ 2016-09-24 | home    | Swarthmore           |   3 |  2.09 | Dickinson            |   3 |  2.38
+ 2016-09-25 | home    | Sweet Briar          |   3 |  0.67 | Wilson               |   3 |  8.35
+ 2016-09-25 | home    | Syracuse             |   1 |  5.85 | Penn                 |   1 |  1.04
+ 2016-09-21 | home    | Thomas (ME)          |   3 |  1.51 | Bates                |   3 |  2.45
+ 2016-09-25 | home    | Thomas (ME)          |   3 |  1.20 | Kean                 |   3 |  3.14
+ 2016-09-25 | home    | Transylvania         |   3 |  0.92 | Roanoke              |   3 |  2.77
+ 2016-09-24 | home    | Transylvania         |   3 |  1.49 | Ferrum               |   3 |  1.31
+ 2016-09-24 | home    | Trinity (CT)         |   3 |  4.17 | Colby                |   3 |  2.37
+ 2016-09-24 | home    | Tufts                |   3 |  3.02 | Mary Washington      |   3 |  1.80
+ 2016-09-20 | home    | Tufts                |   3 |  1.93 | Wellesley            |   3 |  1.21
+ 2016-09-23 | home    | UConn                |   1 |  7.98 | Temple               |   1 |  0.76
+ 2016-09-22 | home    | UMass Dartmouth      |   3 |  1.49 | Tufts                |   3 |  3.98
+ 2016-09-24 | home    | UMass Dartmouth      |   3 |  2.27 | Southern Me.         |   3 |  1.22
+ 2016-09-20 | home    | UMass Dartmouth      |   3 |  3.98 | Worcester St.        |   3 |  2.36
+ 2016-09-23 | home    | UMass Lowell         |   1 |  2.64 | Hofstra              |   1 |  4.71
+ 2016-09-20 | home    | U New England        |   3 |  3.66 | Endicott             |   3 |  1.59
+ 2016-09-24 | home    | Union (NY)           |   3 |  0.91 | Rochester (NY)       |   3 |  2.09
+ 2016-09-20 | home    | Utica                |   3 |  0.96 | Hartwick             |   3 |  2.14
+ 2016-09-24 | home    | Utica                |   3 |  1.35 | Stevens              |   3 |  3.58
+ 2016-09-21 | home    | Vassar               |   3 |  2.09 | Montclair St.        |   3 |  1.26
+ 2016-09-24 | home    | Va. Wesleyan         |   3 |  0.90 | Lynchburg            |   3 |  2.07
+ 2016-09-25 | home    | VCU                  |   1 |  1.96 | James Madison        |   1 |  2.83
+ 2016-09-23 | home    | VCU                  |   1 |  1.76 | Lock Haven           |   1 |  2.41
+ 2016-09-23 | home    | Vermont              |   1 |  4.42 | Siena                |   1 |  1.96
+ 2016-09-25 | home    | Villanova            |   1 |  3.32 | Towson               |   1 |  1.26
+ 2016-09-25 | home    | Wake Forest          |   1 |  3.91 | California           |   1 |  0.86
+ 2016-09-23 | home    | Wake Forest          |   1 |  1.44 | Louisville           |   1 |  2.13
+ 2016-09-22 | home    | Washington Col.      |   3 |  2.19 | Wesley               |   3 |  1.17
+ 2016-09-20 | home    | Wash. & Jeff.        |   3 |  2.26 | Juniata              |   3 |  0.90
+ 2016-09-24 | home    | Wash. & Lee          |   3 |  2.40 | Shenandoah           |   3 |  1.42
+ 2016-09-24 | home    | Wellesley            |   3 |  3.11 | Mount Holyoke        |   3 |  0.94
+ 2016-09-20 | home    | Wells                |   3 |  2.49 | Elmira               |   3 |  1.71
+ 2016-09-25 | home    | Wesley               |   3 |  0.94 | Juniata              |   3 |  1.99
+ 2016-09-20 | home    | Wesley               |   3 |  1.56 | Neumann              |   3 |  3.38
+ 2016-09-21 | home    | Wesleyan (CT)        |   3 |  2.09 | Mount Holyoke        |   3 |  1.68
+ 2016-09-24 | home    | West Chester         |   2 |  3.29 | Slippery Rock        |   2 |  2.58
+ 2016-09-22 | home    | Western Conn. St.    |   3 |  1.94 | Ramapo               |   3 |  2.06
+ 2016-09-20 | home    | Western Conn. St.    |   3 |  1.00 | Eastern Conn. St.    |   3 |  2.19
+ 2016-09-24 | home    | Western New Eng.     |   3 |  5.68 | Nichols              |   3 |  1.74
+ 2016-09-24 | home    | Westfield St.        |   3 |  1.68 | Keene St.            |   3 |  2.02
+ 2016-09-20 | home    | Wheaton (MA)         |   3 |  2.73 | Simmons              |   3 |  3.28
+ 2016-09-24 | home    | Wheelock             |   3 |  5.55 | Daniel Webster       |   3 |  2.81
+ 2016-09-21 | home    | Widener              |   3 |  1.81 | Delaware Valley      |   3 |  1.31
+ 2016-09-24 | home    | Widener              |   3 |  2.30 | Hood                 |   3 |  1.59
+ 2016-09-21 | home    | Wilkes               |   3 |  3.38 | Immaculata           |   3 |  1.16
+ 2016-09-25 | home    | William & Mary       |   1 |  2.19 | Liberty              |   1 |  2.04
+ 2016-09-21 | home    | Wilson               |   3 |  1.60 | Frostburg St.        |   3 |  2.44
+ 2016-09-23 | home    | Wittenberg           |   3 |  4.76 | Wooster              |   3 |  1.79
+ 2016-09-25 | home    | Wittenberg           |   3 |  5.44 | Oberlin              |   3 |  0.95
+ 2016-09-22 | home    | Worcester St.        |   3 |  4.60 | Anna Maria           |   3 |  2.06
+ 2016-09-20 | home    | WPI                  |   3 |  2.82 | Johnson & Wales (RI) |   3 |  1.33
+ 2016-09-25 | home    | WPI                  |   3 |  1.38 | Me.-Farmington       |   3 |  2.57
+ 2016-09-25 | home    | Yale                 |   1 |  1.30 | Stanford             |   1 |  2.56
+ 2016-09-24 | home    | York (PA)            |   3 |  1.62 | Chris. Newport       |   3 |  1.84
+(280 rows)
 
-COPY 176
+COPY 280
 COMMIT
