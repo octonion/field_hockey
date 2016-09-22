@@ -1,281 +1,286 @@
 date,site,home,div,score,away,div,score
-2016-09-21,home,Adelphi,D2,2.33,Stonehill,D2,3.71
-2016-09-24,home,Adelphi,D2,4.04,Saint Michael's,D2,2.03
-2016-09-20,home,Albright,D3,1.94,Cedar Crest,D3,1.38
-2016-09-21,home,Alvernia,D3,2.25,Stockton,D3,1.08
-2016-09-24,home,Alvernia,D3,3.76,Arcadia,D3,0.42
-2016-09-24,home,American,D1,4.02,Lehigh,D1,0.71
-2016-09-25,home,American,D1,2.61,Princeton,D1,2.09
-2016-09-21,home,American Int'l,D2,1.31,Franklin Pierce,D2,0.65
-2016-09-24,home,Amherst,D3,2.84,Williams,D3,1.59
-2016-09-20,home,Anna Maria,D3,2.35,New England Col.,D3,2.52
-2016-09-24,home,Anna Maria,D3,1.81,Simmons,D3,3.84
-2016-09-23,home,Appalachian St.,D1,2.18,California,D1,2.48
-2016-09-25,home,Appalachian St.,D1,0.81,Louisville,D1,6.12
-2016-09-26,home,Arcadia,D3,1.45,Immaculata,D3,1.15
-2016-09-24,home,Assumption,D2,3.88,Southern Conn. St.,D2,1.31
-2016-09-24,home,Bates,D3,2.16,Wesleyan (CT),D3,1.15
-2016-09-25,home,Bates,D3,1.95,Williams,D3,1.50
-2016-09-24,home,Bay Path,D3,1.66,Elms,D3,3.11
-2016-09-22,home,Bellarmine,D2,5.13,Concordia Wisconsin,D3,0.82
-2016-09-23,home,Bellarmine,D2,4.15,Newberry,D2,1.14
-2016-09-24,home,Bellarmine,D2,2.35,Mercy,D2,1.31
-2016-09-24,home,Belmont Abbey,D2,6.40,Sweet Briar,D3,0.39
-2016-09-21,home,Bentley,D2,2.74,Southern Conn. St.,D2,0.89
-2016-09-24,home,Bentley,D2,1.03,Pace,D2,0.89
-2016-09-20,home,Bloomsburg,D2,3.44,Slippery Rock,D2,0.94
-2016-09-24,home,Bloomsburg,D2,5.64,Mercyhurst,D2,0.60
-2016-09-23,home,Boston College,D1,2.69,Virginia,D1,1.11
-2016-09-25,home,Boston College,D1,2.68,Massachusetts,D1,1.39
+2016-09-24,home,Adelphi,D2,4.26,Saint Michael's,D2,1.96
+2016-09-24,home,Alvernia,D3,3.85,Arcadia,D3,0.46
+2016-09-24,home,American,D1,3.91,Lehigh,D1,0.70
+2016-09-25,home,American,D1,2.45,Princeton,D1,1.97
+2016-09-27,home,American Int'l,D2,1.13,Bentley,D2,0.69
+2016-09-24,home,Amherst,D3,2.60,Williams,D3,1.58
+2016-09-27,home,Amherst,D3,2.69,MIT,D3,1.89
+2016-09-24,home,Anna Maria,D3,1.65,Simmons,D3,2.87
+2016-09-23,home,Appalachian St.,D1,2.19,California,D1,2.41
+2016-09-25,home,Appalachian St.,D1,0.81,Louisville,D1,6.03
+2016-09-26,home,Arcadia,D3,1.58,Immaculata,D3,1.15
+2016-09-24,home,Assumption,D2,3.90,Southern Conn. St.,D2,1.34
+2016-09-24,home,Bates,D3,2.87,Wesleyan (CT),D3,1.06
+2016-09-25,home,Bates,D3,2.38,Williams,D3,1.40
+2016-09-24,home,Bay Path,D3,1.52,Elms,D3,3.70
+2016-09-22,home,Bellarmine,D2,5.12,Concordia Wisconsin,D3,0.82
+2016-09-23,home,Bellarmine,D2,4.02,Newberry,D2,1.16
+2016-09-24,home,Bellarmine,D2,2.41,Mercy,D2,1.35
+2016-09-24,home,Belmont Abbey,D2,6.89,Sweet Briar,D3,0.37
+2016-09-24,home,Bentley,D2,1.12,Pace,D2,1.14
+2016-09-24,home,Bloomsburg,D2,5.89,Mercyhurst,D2,0.51
+2016-09-28,home,Bloomsburg,D2,5.12,Mansfield,D2,0.41
+2016-09-23,home,Boston College,D1,2.71,Virginia,D1,1.10
+2016-09-25,home,Boston College,D1,2.69,Massachusetts,D1,1.41
 2016-09-25,home,Boston U.,D1,1.65,UConn,D1,2.52
-2016-09-24,home,Bridgewater St.,D3,1.89,Fitchburg St.,D3,2.45
-2016-09-23,home,Brockport,D3,1.10,SUNY New Paltz,D3,4.15
-2016-09-24,home,Brockport,D3,1.79,SUNY Oneonta,D3,2.15
-2016-09-24,home,Brown,D1,3.05,Columbia,D1,2.81
-2016-09-25,home,Bryant,D1,1.30,Columbia,D1,2.40
-2016-09-21,home,Bryn Mawr,D3,0.49,Ursinus,D3,5.01
-2016-09-24,home,Bryn Mawr,D3,1.31,McDaniel,D3,3.01
-2016-09-21,home,Cabrini,D3,2.35,Stevens,D3,2.96
-2016-09-24,home,Cabrini,D3,3.27,Neumann,D3,2.67
-2016-09-24,home,Castleton,D3,1.59,Me.-Farmington,D3,6.43
-2016-09-24,home,Catholic,D3,2.43,Susquehanna,D3,1.43
-2016-09-23,home,Central Mich.,D1,0.95,Miami (OH),D1,3.47
-2016-09-25,home,Central Mich.,D1,1.16,Indiana,D1,4.06
-2016-09-21,home,Centre,D3,5.52,Transylvania,D3,0.63
-2016-09-24,home,Centre,D3,4.27,Roanoke,D3,1.82
-2016-09-25,home,Centre,D3,6.93,Ferrum,D3,0.86
-2016-09-20,home,Clark (MA),D3,5.27,Daniel Webster,D3,1.78
-2016-09-20,home,Colby,D3,1.65,Bowdoin,D3,2.73
-2016-09-21,home,Colby-Sawyer,D3,5.53,Wheelock,D3,1.64
-2016-09-24,home,Colgate,D1,1.29,Holy Cross,D1,2.34
-2016-09-25,home,Colgate,D1,0.90,Rider,D1,3.81
-2016-09-21,home,Connecticut Col.,D3,1.86,Manhattanville,D3,2.13
-2016-09-25,home,Connecticut Col.,D3,1.76,Colby,D3,3.25
-2016-09-24,home,Cornell,D1,2.92,Penn,D1,1.22
+2016-09-28,home,Bowdoin,D3,1.93,Wellesley,D3,1.09
+2016-09-24,home,Bridgewater St.,D3,2.45,Fitchburg St.,D3,2.39
+2016-09-23,home,Brockport,D3,1.04,SUNY New Paltz,D3,4.25
+2016-09-24,home,Brockport,D3,1.70,SUNY Oneonta,D3,2.18
+2016-09-27,home,Brockport,D3,1.32,Houghton,D3,2.79
+2016-09-24,home,Brown,D1,2.99,Columbia,D1,2.73
+2016-09-25,home,Bryant,D1,1.28,Columbia,D1,2.35
+2016-09-24,home,Bryn Mawr,D3,1.18,McDaniel,D3,3.78
+2016-09-24,home,Cabrini,D3,4.19,Neumann,D3,2.50
+2016-09-24,home,Castleton,D3,1.42,Me.-Farmington,D3,6.27
+2016-09-24,home,Catholic,D3,2.64,Susquehanna,D3,1.58
+2016-09-28,home,Catholic,D3,2.24,Mary Washington,D3,2.85
+2016-09-28,home,Cedar Crest,D3,1.66,Wilson,D3,1.38
+2016-09-23,home,Central Mich.,D1,0.95,Miami (OH),D1,3.50
+2016-09-25,home,Central Mich.,D1,1.15,Indiana,D1,4.07
+2016-09-24,home,Centre,D3,3.55,Roanoke,D3,1.95
+2016-09-25,home,Centre,D3,6.94,Ferrum,D3,0.85
+2016-09-24,home,Colgate,D1,1.33,Holy Cross,D1,2.63
+2016-09-25,home,Colgate,D1,0.92,Rider,D1,4.01
+2016-09-25,home,Connecticut Col.,D3,1.59,Colby,D3,2.87
+2016-09-24,home,Cornell,D1,2.90,Penn,D1,1.20
 2016-09-25,home,Cornell,D1,4.02,Vermont,D1,0.98
-2016-09-23,home,Delaware Valley,D3,1.53,Manhattanville,D3,1.62
-2016-09-24,home,DePauw,D3,2.90,Denison,D3,1.88
-2016-09-25,home,DePauw,D3,3.06,Kenyon,D3,1.71
-2016-09-21,home,DeSales,D3,0.89,Muhlenberg,D3,3.64
-2016-09-24,home,DeSales,D3,2.00,Wilkes,D3,2.73
-2016-09-21,home,Dickinson,D3,3.73,Gettysburg,D3,3.25
-2016-09-20,home,Drew,D3,1.03,FDU-Florham,D3,2.77
-2016-09-24,home,Drew,D3,0.91,Elizabethtown,D3,2.48
-2016-09-23,home,Drexel,D1,1.48,Monmouth,D1,2.50
-2016-09-23,home,Earlham,D3,1.23,Denison,D3,2.56
-2016-09-24,home,Earlham,D3,1.29,Kenyon,D3,2.34
-2016-09-24,home,Eastern Conn. St.,D3,2.35,Worcester St.,D3,1.54
-2016-09-25,home,East. Mennonite,D3,7.02,Notre Dame (MD),D3,1.30
-2016-09-24,home,East Stroudsburg,D2,1.92,Kutztown,D2,1.21
-2016-09-21,home,Elizabethtown,D3,1.97,York (PA),D3,2.16
-2016-09-22,home,Elms,D3,1.54,Mount Ida,D3,2.72
-2016-09-22,home,Endicott,D3,2.77,Amherst,D3,2.90
-2016-09-24,home,Endicott,D3,3.09,Gordon,D3,1.51
-2016-09-25,home,Fairfield,D1,1.26,Virginia,D1,2.34
-2016-09-24,home,FDU-Florham,D3,3.13,Misericordia,D3,1.07
-2016-09-20,home,Fitchburg St.,D3,1.41,Westfield St.,D3,1.05
-2016-09-20,home,Framingham St.,D3,1.47,Bridgewater St.,D3,5.73
-2016-09-22,home,Framingham St.,D3,1.56,Regis (MA),D3,2.76
-2016-09-24,home,Framingham St.,D3,2.87,Salem St.,D3,3.32
-2016-09-25,neutral,Framingham St.,D3,0.77,Mary Washington,D3,10.40
-2016-09-21,home,Frank. & Marsh.,D3,1.22,Messiah,D3,2.49
-2016-09-24,home,Frank. & Marsh.,D3,1.42,Ursinus,D3,1.85
-2016-09-24,home,Frostburg St.,D3,2.35,Bridgewater (VA),D3,1.64
-2016-09-23,home,Georgetown,D1,1.20,Old Dominion,D1,3.45
-2016-09-25,home,Georgetown,D1,2.21,Lehigh,D1,1.39
-2016-09-24,home,Gettysburg,D3,5.82,Washington Col.,D3,1.44
-2016-09-20,home,Gordon,D3,2.94,Western New Eng.,D3,1.65
-2016-09-24,home,Goucher,D3,1.90,Juniata,D3,1.61
-2016-09-20,home,Gwynedd Mercy,D3,2.45,TCNJ,D3,3.59
-2016-09-24,home,Gwynedd Mercy,D3,1.97,Montclair St.,D3,3.05
-2016-09-24,home,Hamilton,D3,3.86,Connecticut Col.,D3,1.63
-2016-09-25,home,Hamilton,D3,2.03,Middlebury,D3,3.12
-2016-09-24,home,Hartwick,D3,1.26,Wash. & Jeff.,D3,1.56
-2016-09-23,home,Harvard,D1,1.62,Yale,D1,1.49
-2016-09-25,home,Harvard,D1,1.21,Maine,D1,2.79
-2016-09-21,home,Haverford,D3,3.22,Misericordia,D3,1.26
-2016-09-24,home,Haverford,D3,1.80,Rowan,D3,2.58
-2016-09-24,home,Hendrix,D3,2.90,Concordia Wisconsin,D3,3.10
+2016-09-23,home,Delaware Valley,D3,1.50,Manhattanville,D3,1.50
+2016-09-27,home,Delaware Valley,D3,0.86,Alvernia,D3,2.51
+2016-09-24,home,DePauw,D3,2.84,Denison,D3,1.97
+2016-09-25,home,DePauw,D3,3.10,Kenyon,D3,1.68
+2016-09-24,home,DeSales,D3,1.88,Wilkes,D3,3.07
+2016-09-24,home,Drew,D3,0.79,Elizabethtown,D3,2.41
+2016-09-23,home,Drexel,D1,1.48,Monmouth,D1,2.52
+2016-09-23,home,Earlham,D3,1.18,Denison,D3,2.72
+2016-09-24,home,Earlham,D3,1.29,Kenyon,D3,2.33
+2016-09-28,home,Eastern,D3,1.48,Elizabethtown,D3,1.95
+2016-09-24,home,Eastern Conn. St.,D3,1.87,Worcester St.,D3,1.37
+2016-09-25,home,East. Mennonite,D3,7.41,Notre Dame (MD),D3,1.28
+2016-09-24,home,East Stroudsburg,D2,2.26,Kutztown,D2,1.11
+2016-09-28,home,Elmira,D3,3.27,Keuka,D3,1.58
+2016-09-22,home,Elms,D3,1.74,Mount Ida,D3,2.49
+2016-09-27,home,Elms,D3,1.92,Clark (MA),D3,2.38
+2016-09-22,home,Endicott,D3,2.61,Amherst,D3,2.96
+2016-09-24,home,Endicott,D3,3.08,Gordon,D3,1.27
+2016-09-25,home,Fairfield,D1,1.31,Virginia,D1,2.52
+2016-09-24,home,FDU-Florham,D3,2.97,Misericordia,D3,1.05
+2016-09-27,home,FDU-Florham,D3,1.49,TCNJ,D3,3.11
+2016-09-28,home,Ferrum,D3,1.15,Bridgewater (VA),D3,3.00
+2016-09-28,home,Fitchburg St.,D3,1.84,Eastern Conn. St.,D3,1.20
+2016-09-22,home,Framingham St.,D3,1.31,Regis (MA),D3,2.80
+2016-09-24,home,Framingham St.,D3,2.64,Salem St.,D3,3.21
+2016-09-25,neutral,Framingham St.,D3,0.60,Mary Washington,D3,10.97
+2016-09-28,home,Framingham St.,D3,1.07,UMass Dartmouth,D3,5.09
+2016-09-27,home,Franklin Pierce,D2,1.58,Saint Michael's,D2,1.18
+2016-09-24,home,Frank. & Marsh.,D3,1.47,Ursinus,D3,2.24
+2016-09-24,home,Frostburg St.,D3,2.27,Bridgewater (VA),D3,1.41
+2016-09-28,home,Frostburg St.,D3,2.14,Dickinson,D3,1.88
+2016-09-23,home,Georgetown,D1,1.21,Old Dominion,D1,3.41
+2016-09-25,home,Georgetown,D1,2.20,Lehigh,D1,1.37
+2016-09-24,home,Gettysburg,D3,5.61,Washington Col.,D3,1.33
+2016-09-28,home,Gordon,D3,0.83,U New England,D3,2.71
+2016-09-24,home,Goucher,D3,1.82,Juniata,D3,1.47
+2016-09-27,home,Goucher,D3,3.46,Hood,D3,1.66
+2016-09-24,home,Gwynedd Mercy,D3,1.61,Montclair St.,D3,3.08
+2016-09-24,home,Hamilton,D3,3.61,Connecticut Col.,D3,1.18
+2016-09-25,home,Hamilton,D3,2.14,Middlebury,D3,2.91
+2016-09-24,home,Hartwick,D3,1.08,Wash. & Jeff.,D3,1.73
+2016-09-23,home,Harvard,D1,1.61,Yale,D1,1.49
+2016-09-25,home,Harvard,D1,1.20,Maine,D1,2.78
+2016-09-24,home,Haverford,D3,1.49,Rowan,D3,2.29
+2016-09-28,home,Haverford,D3,1.19,Muhlenberg,D3,2.67
+2016-09-24,home,Hendrix,D3,2.94,Concordia Wisconsin,D3,3.05
 2016-09-25,neutral,Hofstra,D1,2.94,Saint Francis (PA),D1,1.38
-2016-09-21,home,Holy Cross,D1,1.76,Fairfield,D1,2.41
-2016-09-20,home,Hood,D3,1.77,Roanoke,D3,2.63
-2016-09-24,home,Husson,D3,4.68,Thomas (ME),D3,2.81
-2016-09-24,home,Immaculata,D3,1.35,Wilson,D3,2.13
-2016-09-23,home,Indiana,D1,2.33,Rutgers,D1,3.29
-2016-09-23,home,Iowa,D1,2.26,Maryland,D1,2.10
-2016-09-25,home,Iowa,D1,3.14,Rutgers,D1,1.96
-2016-09-21,home,Ithaca,D3,1.99,Houghton,D3,1.46
-2016-09-24,home,Ithaca,D3,3.61,Nazareth,D3,0.94
-2016-09-21,home,Johns Hopkins,D3,1.01,Salisbury,D3,3.47
-2016-09-22,home,Johnson & Wales (RI),D3,0.96,Babson,D3,5.82
-2016-09-22,home,Keene St.,D3,3.79,Trinity (CT),D3,3.03
-2016-09-23,home,Kent St.,D1,2.15,Ball St.,D1,0.93
-2016-09-25,home,Keuka,D3,1.67,Utica,D3,3.27
-2016-09-23,home,King's (PA),D3,3.19,Eastern,D3,1.61
-2016-09-20,home,Kutztown,D2,1.25,Shippensburg,D2,1.40
-2016-09-23,home,Lafayette,D1,1.07,Boston U.,D1,2.67
-2016-09-25,home,Lafayette,D1,2.04,Delaware,D1,3.57
-2016-09-25,home,La Salle,D1,2.21,Davidson,D1,1.42
-2016-09-24,home,Lebanon Valley,D3,2.35,Albright,D3,1.49
-2016-09-20,home,Liberty,D1,3.48,Longwood,D1,1.34
-2016-09-23,home,Liberty,D1,3.03,Quinnipiac,D1,0.86
-2016-09-24,home,Limestone,D2,2.43,Mansfield,D2,0.96
-2016-09-24,home,Lindenwood (MO),D2,5.58,Newberry,D2,1.44
-2016-09-25,home,Lindenwood (MO),D2,3.16,Mercy,D2,1.65
-2016-09-21,home,LIU Post,D2,3.32,Assumption,D2,0.96
-2016-09-25,home,Longwood,D1,1.78,Kent St.,D1,2.53
-2016-09-20,home,Mansfield,D2,0.64,Indiana (PA),D2,2.04
-2016-09-21,home,Mary Washington,D3,3.04,Wash. & Lee,D3,1.53
-2016-09-24,home,Marywood,D3,1.44,Cedar Crest,D3,0.85
-2016-09-23,home,Massachusetts,D1,1.83,Stanford,D1,1.84
-2016-09-20,home,Mercyhurst,D2,2.27,Seton Hill,D2,1.63
-2016-09-24,home,Merrimack,D2,1.56,Franklin Pierce,D2,1.52
-2016-09-24,home,Messiah,D3,5.99,Stevenson,D3,0.82
-2016-09-23,home,Michigan,D1,3.52,Ohio St.,D1,0.72
-2016-09-25,home,Michigan,D1,2.08,Penn St.,D1,1.93
-2016-09-24,home,Michigan St.,D1,2.99,Miami (OH),D1,1.81
+2016-09-24,home,Husson,D3,5.31,Thomas (ME),D3,2.65
+2016-09-24,home,Immaculata,D3,1.33,Wilson,D3,2.02
+2016-09-23,home,Indiana,D1,2.32,Rutgers,D1,3.31
+2016-09-23,home,Iowa,D1,2.16,Maryland,D1,2.04
+2016-09-25,home,Iowa,D1,3.11,Rutgers,D1,1.96
+2016-09-24,home,Ithaca,D3,3.97,Nazareth,D3,0.76
+2016-09-22,home,Johnson & Wales (RI),D3,0.97,Babson,D3,6.40
+2016-09-22,home,Keene St.,D3,3.61,Trinity (CT),D3,2.91
+2016-09-28,home,Keene St.,D3,3.04,Southern Me.,D3,0.81
+2016-09-23,home,Kent St.,D1,2.16,Ball St.,D1,0.94
+2016-09-25,home,Keuka,D3,1.56,Utica,D3,3.99
+2016-09-23,home,King's (PA),D3,3.05,Eastern,D3,1.52
+2016-09-28,home,King's (PA),D3,2.89,Keystone,D3,0.72
+2016-09-28,home,Kutztown,D2,4.95,Mercyhurst,D2,0.95
+2016-09-23,home,Lafayette,D1,1.06,Boston U.,D1,2.63
+2016-09-25,home,Lafayette,D1,2.05,Delaware,D1,3.54
+2016-09-25,home,La Salle,D1,2.22,Davidson,D1,1.53
+2016-09-24,home,Lebanon Valley,D3,2.18,Albright,D3,1.77
+2016-09-28,home,Lebanon Valley,D3,2.82,Misericordia,D3,1.05
+2016-09-23,home,Liberty,D1,2.95,Quinnipiac,D1,1.00
+2016-09-24,home,Limestone,D2,2.36,Mansfield,D2,0.96
+2016-09-24,home,Lindenwood (MO),D2,5.35,Newberry,D2,1.42
+2016-09-25,home,Lindenwood (MO),D2,3.21,Mercy,D2,1.65
+2016-09-25,home,Longwood,D1,1.95,Kent St.,D1,2.51
+2016-09-28,neutral,Lynchburg,D3,0.81,Salisbury,D3,4.03
+2016-09-24,home,Marywood,D3,2.03,Cedar Crest,D3,0.84
+2016-09-28,home,Marywood,D3,2.09,Gwynedd Mercy,D3,1.73
+2016-09-23,home,Massachusetts,D1,1.85,Stanford,D1,1.84
+2016-09-28,home,McDaniel,D3,1.46,Frank. & Marsh.,D3,3.27
+2016-09-27,home,Mercy,D2,2.00,St. Thomas Aquinas,D2,0.76
+2016-09-24,home,Merrimack,D2,1.54,Franklin Pierce,D2,1.27
+2016-09-24,home,Messiah,D3,6.22,Stevenson,D3,0.85
+2016-09-23,home,Michigan,D1,3.51,Ohio St.,D1,0.71
+2016-09-25,home,Michigan,D1,2.09,Penn St.,D1,1.93
+2016-09-24,home,Michigan St.,D1,3.02,Miami (OH),D1,1.83
 2016-09-25,home,Michigan St.,D1,3.69,Ohio St.,D1,1.83
-2016-09-24,home,Middlebury,D3,1.78,Bowdoin,D3,1.85
-2016-09-20,home,Millersville,D2,2.83,West Chester,D2,1.16
-2016-09-24,home,Millersville,D2,1.20,Indiana (PA),D2,0.58
-2016-09-22,home,Missouri St.,D1,2.78,LIU Brooklyn,D1,1.66
-2016-09-24,home,Missouri St.,D1,1.04,UC Davis,D1,1.78
-2016-09-26,home,Missouri St.,D1,0.86,Pacific,D1,6.74
-2016-09-24,home,MIT,D3,2.93,WPI,D3,1.09
-2016-09-25,home,Molloy,D2,1.13,Saint Michael's,D2,2.28
-2016-09-25,home,Monmouth,D1,3.04,Bucknell,D1,1.30
-2016-09-21,home,Moravian,D3,0.72,King's (PA),D3,3.45
-2016-09-20,home,Morrisville St.,D3,1.77,Union (NY),D3,2.32
-2016-09-23,home,Morrisville St.,D3,1.55,SUNY Cortland,D3,5.12
-2016-09-24,home,Morrisville St.,D3,3.64,Wells,D3,1.81
-2016-09-24,home,Mount Ida,D3,3.56,Rivier,D3,1.55
-2016-09-23,home,Muhlenberg,D3,2.78,Johns Hopkins,D3,0.90
-2016-09-20,home,Nazareth,D3,1.17,St. John Fisher,D3,2.77
-2016-09-25,home,Nazareth,D3,0.89,Skidmore,D3,5.92
-2016-09-24,home,New England Col.,D3,1.96,Colby-Sawyer,D3,2.31
-2016-09-20,home,Nichols,D3,2.16,Roger Williams,D3,2.67
-2016-09-23,home,North Carolina,D1,2.26,Syracuse,D1,1.98
-2016-09-25,home,North Carolina,D1,2.32,Duke,D1,1.97
-2016-09-24,home,Northeastern,D1,1.88,Maine,D1,3.89
+2016-09-24,home,Middlebury,D3,1.67,Bowdoin,D3,2.52
+2016-09-24,home,Millersville,D2,1.21,Indiana (PA),D2,0.57
+2016-09-28,home,Millersville,D2,2.20,Slippery Rock,D2,0.79
+2016-09-22,home,Missouri St.,D1,2.80,LIU Brooklyn,D1,1.67
+2016-09-24,home,Missouri St.,D1,1.05,UC Davis,D1,1.78
+2016-09-26,home,Missouri St.,D1,0.87,Pacific,D1,6.75
+2016-09-24,home,MIT,D3,2.88,WPI,D3,1.27
+2016-09-25,home,Molloy,D2,1.07,Saint Michael's,D2,2.08
+2016-09-25,home,Monmouth,D1,3.08,Bucknell,D1,1.31
+2016-09-28,home,Moravian,D3,0.61,Albright,D3,2.67
+2016-09-23,home,Morrisville St.,D3,1.44,SUNY Cortland,D3,5.47
+2016-09-24,home,Morrisville St.,D3,3.57,Wells,D3,1.75
+2016-09-24,home,Mount Ida,D3,3.75,Rivier,D3,1.55
+2016-09-28,home,Mount Ida,D3,2.29,New England Col.,D3,1.76
+2016-09-23,home,Muhlenberg,D3,3.35,Johns Hopkins,D3,0.76
+2016-09-25,home,Nazareth,D3,0.71,Skidmore,D3,6.52
+2016-09-28,home,Nazareth,D3,0.60,Rochester (NY),D3,4.29
+2016-09-28,home,Neumann,D3,3.92,Immaculata,D3,1.22
+2016-09-24,home,New England Col.,D3,1.92,Colby-Sawyer,D3,2.42
+2016-09-28,home,Nichols,D3,1.55,Salve Regina,D3,7.65
+2016-09-23,home,North Carolina,D1,2.29,Syracuse,D1,1.96
+2016-09-25,home,North Carolina,D1,2.35,Duke,D1,1.95
+2016-09-24,home,Northeastern,D1,1.87,Maine,D1,3.92
 2016-09-25,home,Northeastern,D1,3.39,New Hampshire,D1,2.41
 2016-09-23,home,Northwestern,D1,2.73,Penn St.,D1,2.51
-2016-09-25,home,Northwestern,D1,2.82,Maryland,D1,1.73
-2016-09-24,home,Notre Dame (MD),D3,1.02,Keystone,D3,3.16
-2016-09-23,home,Oberlin,D3,0.96,Ohio Wesleyan,D3,3.01
-2016-09-25,home,Ohio,D1,1.86,Ball St.,D1,1.73
-2016-09-20,home,Ohio Wesleyan,D3,1.42,Denison,D3,1.50
-2016-09-24,home,Ohio Wesleyan,D3,3.25,Wooster,D3,1.45
-2016-09-21,home,Oswego St.,D3,4.72,Keuka,D3,0.81
-2016-09-23,home,Pacific,D1,12.94,LIU Brooklyn,D1,0.80
-2016-09-25,neutral,Pacific,D1,12.23,Saint Louis,D1,1.24
-2016-09-24,home,Plymouth St.,D3,5.22,Western Conn. St.,D3,0.82
-2016-09-20,home,Princeton,D1,1.90,Maryland,D1,2.73
-2016-09-24,home,Princeton,D1,3.86,Dartmouth,D1,1.39
-2016-09-23,home,Providence,D1,3.46,Villanova,D1,1.52
-2016-09-25,home,Providence,D1,3.76,UMass Lowell,D1,1.80
-2016-09-25,home,Queens (NC),D2,2.35,Mansfield,D2,1.10
-2016-09-24,home,Regis (MA),D3,2.98,Becker,D3,1.04
-2016-09-24,home,Rensselaer,D3,2.02,William Smith,D3,1.79
-2016-09-24,home,Rhodes,D3,2.64,St. Mary's (MD),D3,1.59
-2016-09-25,home,Rhodes,D3,3.94,Concordia Wisconsin,D3,0.71
-2016-09-23,home,Richmond,D1,3.10,Davidson,D1,1.47
-2016-09-25,home,Richmond,D1,1.65,Lock Haven,D1,2.10
-2016-09-21,home,Rider,D1,2.26,La Salle,D1,1.35
-2016-09-23,home,Rider,D1,2.50,Saint Francis (PA),D1,1.34
-2016-09-20,home,Rivier,D3,2.30,Elms,D3,1.58
-2016-09-22,home,Rivier,D3,2.84,Becker,D3,1.44
-2016-09-26,home,Rivier,D3,4.15,Daniel Webster,D3,2.21
-2016-09-25,home,Sacred Heart,D1,1.55,Temple,D1,2.99
-2016-09-25,home,Saint Joseph's,D1,1.57,Albany (NY),D1,2.17
-2016-09-23,home,Saint Louis,D1,1.34,Saint Joseph's,D1,5.91
-2016-09-21,home,Saint Michael's,D2,2.33,Merrimack,D2,1.65
-2016-09-20,home,Salem St.,D3,1.42,Keene St.,D3,8.44
-2016-09-24,home,Salisbury,D3,3.57,TCNJ,D3,1.68
-2016-09-20,home,Salve Regina,D3,2.80,Lasell,D3,1.98
-2016-09-22,home,Salve Regina,D3,5.33,Roger Williams,D3,1.29
-2016-09-24,home,Salve Regina,D3,1.91,U New England,D3,3.52
-2016-09-20,home,Scranton,D3,1.03,Marywood,D3,0.95
-2016-09-24,home,Scranton,D3,2.18,Moravian,D3,0.42
-2016-09-23,home,Sewanee,D3,1.19,Rhodes,D3,3.25
-2016-09-25,home,Sewanee,D3,1.92,St. Mary's (MD),D3,3.90
-2016-09-24,home,Shippensburg,D2,3.80,Seton Hill,D2,0.40
-2016-09-26,neutral,Shippensburg,D2,2.46,Limestone,D2,0.60
-2016-09-21,home,Skidmore,D3,8.96,Castleton,D3,1.23
-2016-09-24,home,Skidmore,D3,3.28,SUNY Cortland,D3,2.18
-2016-09-20,home,Smith,D3,1.60,Williams,D3,2.00
-2016-09-24,home,Smith,D3,3.39,Wheaton (MA),D3,2.20
-2016-09-20,home,Southern Me.,D3,1.00,Plymouth St.,D3,2.09
-2016-09-24,home,Southern N.H.,D2,0.74,American Int'l,D2,1.47
-2016-09-25,home,Southern N.H.,D2,1.65,St. Thomas Aquinas,D2,0.80
-2016-09-20,home,Springfield,D3,2.93,St. Joseph's (ME),D3,0.94
-2016-09-22,home,Springfield,D3,4.26,Western New Eng.,D3,1.89
-2016-09-24,home,Springfield,D3,1.47,Babson,D3,4.05
-2016-09-21,home,St. Anselm,D2,3.08,Southern N.H.,D2,0.90
-2016-09-24,home,St. Anselm,D2,3.05,St. Thomas Aquinas,D2,0.53
-2016-09-20,home,Stevenson,D3,1.45,Rowan,D3,2.92
-2016-09-24,home,St. John Fisher,D3,3.22,Elmira,D3,0.77
-2016-09-23,home,St. Joseph's (ME),D3,0.95,Lasell,D3,1.80
-2016-09-24,home,St. Joseph's (ME),D3,0.68,Kean,D3,2.76
-2016-09-24,home,St. Lawrence,D3,0.98,Vassar,D3,3.84
-2016-09-25,home,St. Lawrence,D3,2.02,St. John Fisher,D3,1.99
-2016-09-20,home,St. Mary's (MD),D3,2.82,Shenandoah,D3,2.15
-2016-09-24,home,Stonehill,D2,1.96,LIU Post,D2,1.54
-2016-09-20,home,St. Thomas Aquinas,D2,0.58,Pace,D2,1.35
-2016-09-23,home,SUNY Geneseo,D3,2.63,SUNY Oneonta,D3,1.29
-2016-09-24,home,SUNY Geneseo,D3,1.61,SUNY New Paltz,D3,2.49
-2016-09-21,home,Susquehanna,D3,1.80,Lebanon Valley,D3,1.46
-2016-09-22,home,Swarthmore,D3,2.59,Albright,D3,1.86
-2016-09-24,home,Swarthmore,D3,2.09,Dickinson,D3,2.38
-2016-09-25,home,Sweet Briar,D3,0.67,Wilson,D3,8.35
-2016-09-25,home,Syracuse,D1,5.85,Penn,D1,1.04
-2016-09-21,home,Thomas (ME),D3,1.51,Bates,D3,2.45
-2016-09-25,home,Thomas (ME),D3,1.20,Kean,D3,3.14
-2016-09-24,home,Transylvania,D3,1.49,Ferrum,D3,1.31
-2016-09-25,home,Transylvania,D3,0.92,Roanoke,D3,2.77
-2016-09-24,home,Trinity (CT),D3,4.17,Colby,D3,2.37
-2016-09-20,home,Tufts,D3,1.93,Wellesley,D3,1.21
-2016-09-24,home,Tufts,D3,3.02,Mary Washington,D3,1.80
-2016-09-23,home,UConn,D1,7.98,Temple,D1,0.76
-2016-09-20,home,UMass Dartmouth,D3,3.98,Worcester St.,D3,2.36
-2016-09-22,home,UMass Dartmouth,D3,1.49,Tufts,D3,3.98
-2016-09-24,home,UMass Dartmouth,D3,2.27,Southern Me.,D3,1.22
-2016-09-23,home,UMass Lowell,D1,2.64,Hofstra,D1,4.71
-2016-09-20,home,U New England,D3,3.66,Endicott,D3,1.59
-2016-09-24,home,Union (NY),D3,0.91,Rochester (NY),D3,2.09
-2016-09-20,home,Utica,D3,0.96,Hartwick,D3,2.14
-2016-09-24,home,Utica,D3,1.35,Stevens,D3,3.58
-2016-09-21,home,Vassar,D3,2.09,Montclair St.,D3,1.26
-2016-09-24,home,Va. Wesleyan,D3,0.90,Lynchburg,D3,2.07
-2016-09-23,home,VCU,D1,1.76,Lock Haven,D1,2.41
-2016-09-25,home,VCU,D1,1.96,James Madison,D1,2.83
-2016-09-23,home,Vermont,D1,4.42,Siena,D1,1.96
-2016-09-25,home,Villanova,D1,3.32,Towson,D1,1.26
-2016-09-23,home,Wake Forest,D1,1.44,Louisville,D1,2.13
-2016-09-25,home,Wake Forest,D1,3.91,California,D1,0.86
-2016-09-22,home,Washington Col.,D3,2.19,Wesley,D3,1.17
-2016-09-20,home,Wash. & Jeff.,D3,2.26,Juniata,D3,0.90
-2016-09-24,home,Wash. & Lee,D3,2.40,Shenandoah,D3,1.42
-2016-09-24,home,Wellesley,D3,3.11,Mount Holyoke,D3,0.94
-2016-09-20,home,Wells,D3,2.49,Elmira,D3,1.71
-2016-09-20,home,Wesley,D3,1.56,Neumann,D3,3.38
-2016-09-25,home,Wesley,D3,0.94,Juniata,D3,1.99
-2016-09-21,home,Wesleyan (CT),D3,2.09,Mount Holyoke,D3,1.68
-2016-09-24,home,West Chester,D2,3.29,Slippery Rock,D2,2.58
-2016-09-20,home,Western Conn. St.,D3,1.00,Eastern Conn. St.,D3,2.19
-2016-09-22,home,Western Conn. St.,D3,1.94,Ramapo,D3,2.06
-2016-09-24,home,Western New Eng.,D3,5.68,Nichols,D3,1.74
-2016-09-24,home,Westfield St.,D3,1.68,Keene St.,D3,2.02
-2016-09-20,home,Wheaton (MA),D3,2.73,Simmons,D3,3.28
-2016-09-24,home,Wheelock,D3,5.55,Daniel Webster,D3,2.81
-2016-09-21,home,Widener,D3,1.81,Delaware Valley,D3,1.31
-2016-09-24,home,Widener,D3,2.30,Hood,D3,1.59
-2016-09-21,home,Wilkes,D3,3.38,Immaculata,D3,1.16
-2016-09-25,home,William & Mary,D1,2.19,Liberty,D1,2.04
-2016-09-21,home,Wilson,D3,1.60,Frostburg St.,D3,2.44
-2016-09-23,home,Wittenberg,D3,4.76,Wooster,D3,1.79
-2016-09-25,home,Wittenberg,D3,5.44,Oberlin,D3,0.95
-2016-09-22,home,Worcester St.,D3,4.60,Anna Maria,D3,2.06
-2016-09-20,home,WPI,D3,2.82,Johnson & Wales (RI),D3,1.33
-2016-09-25,home,WPI,D3,1.38,Me.-Farmington,D3,2.57
-2016-09-25,home,Yale,D1,1.30,Stanford,D1,2.56
-2016-09-24,home,York (PA),D3,1.62,Chris. Newport,D3,1.84
+2016-09-25,home,Northwestern,D1,2.72,Maryland,D1,1.69
+2016-09-24,home,Notre Dame (MD),D3,0.98,Keystone,D3,3.38
+2016-09-23,home,Oberlin,D3,1.09,Ohio Wesleyan,D3,2.89
+2016-09-25,home,Ohio,D1,1.87,Ball St.,D1,1.74
+2016-09-24,home,Ohio Wesleyan,D3,3.14,Wooster,D3,1.66
+2016-09-28,home,Ohio Wesleyan,D3,1.69,Wittenberg,D3,1.95
+2016-09-28,home,Oswego St.,D3,2.86,Morrisville St.,D3,1.36
+2016-09-27,home,Pace,D2,1.99,Merrimack,D2,0.98
+2016-09-23,home,Pacific,D1,13.01,LIU Brooklyn,D1,0.81
+2016-09-25,neutral,Pacific,D1,12.04,Saint Louis,D1,1.23
+2016-09-27,home,Penn,D1,2.93,Drexel,D1,1.98
+2016-09-24,home,Plymouth St.,D3,5.13,Western Conn. St.,D3,0.77
+2016-09-24,home,Princeton,D1,3.64,Dartmouth,D1,1.34
+2016-09-23,home,Providence,D1,3.42,Villanova,D1,1.50
+2016-09-25,home,Providence,D1,3.69,UMass Lowell,D1,1.80
+2016-09-25,home,Queens (NC),D2,2.37,Mansfield,D2,1.15
+2016-09-27,home,Ramapo,D3,1.53,Manhattanville,D3,2.42
+2016-09-24,home,Regis (MA),D3,2.94,Becker,D3,1.04
+2016-09-27,home,Regis (MA),D3,2.07,Anna Maria,D3,2.06
+2016-09-24,home,Rensselaer,D3,2.01,William Smith,D3,1.77
+2016-09-28,home,Rensselaer,D3,5.85,Castleton,D3,1.05
+2016-09-24,home,Rhodes,D3,2.74,St. Mary's (MD),D3,1.34
+2016-09-25,home,Rhodes,D3,4.00,Concordia Wisconsin,D3,0.69
+2016-09-23,home,Richmond,D1,3.04,Davidson,D1,1.47
+2016-09-25,home,Richmond,D1,1.65,Lock Haven,D1,2.11
+2016-09-23,home,Rider,D1,2.62,Saint Francis (PA),D1,1.37
+2016-09-22,home,Rivier,D3,2.88,Becker,D3,1.54
+2016-09-26,home,Rivier,D3,4.45,Daniel Webster,D3,2.43
+2016-09-28,home,Rivier,D3,1.69,Colby-Sawyer,D3,3.97
+2016-09-28,home,Rowan,D3,4.34,Wesley,D3,0.57
+2016-09-25,home,Sacred Heart,D1,1.55,Temple,D1,2.93
+2016-09-25,home,Saint Joseph's,D1,1.58,Albany (NY),D1,2.19
+2016-09-23,home,Saint Louis,D1,1.33,Saint Joseph's,D1,5.79
+2016-09-28,home,Salem St.,D3,1.22,Plymouth St.,D3,7.39
+2016-09-24,home,Salisbury,D3,3.04,TCNJ,D3,1.51
+2016-09-22,home,Salve Regina,D3,5.43,Roger Williams,D3,1.55
+2016-09-24,home,Salve Regina,D3,1.96,U New England,D3,4.12
+2016-09-24,home,Scranton,D3,2.33,Moravian,D3,0.44
+2016-09-23,home,Sewanee,D3,1.16,Rhodes,D3,3.29
+2016-09-25,home,Sewanee,D3,1.97,St. Mary's (MD),D3,3.35
+2016-09-28,home,Shenandoah,D3,3.97,East. Mennonite,D3,1.22
+2016-09-24,home,Shippensburg,D2,4.06,Seton Hill,D2,0.39
+2016-09-26,neutral,Shippensburg,D2,2.53,Limestone,D2,0.51
+2016-09-28,home,Shippensburg,D2,1.56,Indiana (PA),D2,0.47
+2016-09-27,home,Simmons,D3,2.26,Smith,D3,1.45
+2016-09-24,home,Skidmore,D3,3.41,SUNY Cortland,D3,1.97
+2016-09-28,home,Skidmore,D3,2.92,Middlebury,D3,1.66
+2016-09-24,home,Smith,D3,2.86,Wheaton (MA),D3,2.24
+2016-09-27,home,Southern Conn. St.,D2,2.02,Adelphi,D2,6.05
+2016-09-24,home,Southern N.H.,D2,0.70,American Int'l,D2,1.25
+2016-09-25,home,Southern N.H.,D2,2.03,St. Thomas Aquinas,D2,0.69
+2016-09-22,home,Springfield,D3,3.35,Western New Eng.,D3,2.21
+2016-09-24,home,Springfield,D3,1.42,Babson,D3,5.18
+2016-09-24,home,St. Anselm,D2,3.49,St. Thomas Aquinas,D2,0.52
+2016-09-27,home,St. Anselm,D2,2.78,Assumption,D2,1.29
+2016-09-28,home,Stevens,D3,3.78,Drew,D3,1.07
+2016-09-28,home,Stevenson,D3,2.50,Gettysburg,D3,4.19
+2016-09-24,home,St. John Fisher,D3,3.47,Elmira,D3,0.69
+2016-09-23,home,St. Joseph's (ME),D3,1.39,Lasell,D3,1.76
+2016-09-24,home,St. Joseph's (ME),D3,0.93,Kean,D3,2.75
+2016-09-28,home,St. Joseph's (ME),D3,2.83,Husson,D3,3.16
+2016-09-24,home,St. Lawrence,D3,0.85,Vassar,D3,3.76
+2016-09-25,home,St. Lawrence,D3,1.82,St. John Fisher,D3,2.18
+2016-09-27,home,Stockton,D3,3.29,Widener,D3,1.05
+2016-09-24,home,Stonehill,D2,2.12,LIU Post,D2,1.75
+2016-09-27,home,Stonehill,D2,4.01,Southern N.H.,D2,0.86
+2016-09-28,home,SUNY Cortland,D3,3.20,William Smith,D3,2.32
+2016-09-23,home,SUNY Geneseo,D3,2.75,SUNY Oneonta,D3,1.30
+2016-09-24,home,SUNY Geneseo,D3,1.68,SUNY New Paltz,D3,2.54
+2016-09-28,home,SUNY Geneseo,D3,1.57,St. John Fisher,D3,1.80
+2016-09-28,home,SUNY Oneonta,D3,1.25,SUNY New Paltz,D3,3.23
+2016-09-28,home,Susquehanna,D3,3.67,DeSales,D3,1.08
+2016-09-22,home,Swarthmore,D3,2.21,Albright,D3,2.02
+2016-09-24,home,Swarthmore,D3,2.09,Dickinson,D3,2.47
+2016-09-25,home,Sweet Briar,D3,0.62,Wilson,D3,7.56
+2016-09-25,home,Syracuse,D1,5.71,Penn,D1,1.03
+2016-09-25,home,Thomas (ME),D3,1.08,Kean,D3,3.75
+2016-09-24,home,Transylvania,D3,1.38,Ferrum,D3,1.37
+2016-09-25,home,Transylvania,D3,0.71,Roanoke,D3,3.15
+2016-09-24,home,Trinity (CT),D3,4.98,Colby,D3,2.28
+2016-09-28,home,Trinity (CT),D3,5.16,Connecticut Col.,D3,1.06
+2016-09-24,home,Tufts,D3,2.67,Mary Washington,D3,1.53
+2016-09-27,home,Tufts,D3,3.14,Wesleyan (CT),D3,0.69
+2016-09-23,home,UConn,D1,7.98,Temple,D1,0.75
+2016-09-28,home,UConn,D1,3.92,Massachusetts,D1,1.22
+2016-09-22,home,UMass Dartmouth,D3,1.01,Tufts,D3,3.57
+2016-09-24,home,UMass Dartmouth,D3,1.87,Southern Me.,D3,1.16
+2016-09-23,home,UMass Lowell,D1,2.64,Hofstra,D1,4.63
+2016-09-24,home,Union (NY),D3,0.96,Rochester (NY),D3,2.01
+2016-09-28,home,Union (NY),D3,2.08,Wm. Paterson,D3,1.28
+2016-09-28,home,Ursinus,D3,4.57,Swarthmore,D3,1.03
+2016-09-24,home,Utica,D3,1.82,Stevens,D3,3.41
+2016-09-28,home,Utica,D3,1.67,Hamilton,D3,3.44
+2016-09-28,home,Vassar,D3,2.54,Hartwick,D3,0.50
+2016-09-24,home,Va. Wesleyan,D3,0.88,Lynchburg,D3,2.13
+2016-09-27,home,Va. Wesleyan,D3,0.49,Chris. Newport,D3,2.80
+2016-09-23,home,VCU,D1,1.77,Lock Haven,D1,2.39
+2016-09-25,home,VCU,D1,1.98,James Madison,D1,2.78
+2016-09-23,home,Vermont,D1,4.32,Siena,D1,1.95
+2016-09-25,home,Villanova,D1,3.20,Towson,D1,1.23
+2016-09-23,home,Wake Forest,D1,1.45,Louisville,D1,2.14
+2016-09-25,home,Wake Forest,D1,3.93,California,D1,0.85
+2016-09-22,home,Washington Col.,D3,2.06,Wesley,D3,1.10
+2016-09-27,home,Washington Col.,D3,2.76,Bryn Mawr,D3,0.78
+2016-09-28,home,Wash. & Jeff.,D3,5.28,Wooster,D3,1.19
+2016-09-24,home,Wash. & Lee,D3,2.02,Shenandoah,D3,1.59
+2016-09-24,home,Wellesley,D3,3.01,Mount Holyoke,D3,0.84
+2016-09-27,home,Wells,D3,1.03,Ithaca,D3,3.35
+2016-09-25,home,Wesley,D3,0.87,Juniata,D3,1.64
+2016-09-24,home,West Chester,D2,3.20,Slippery Rock,D2,2.39
+2016-09-28,home,West Chester,D2,1.55,East Stroudsburg,D2,3.11
+2016-09-22,home,Western Conn. St.,D3,1.81,Ramapo,D3,2.06
+2016-09-28,home,Western Conn. St.,D3,0.83,Westfield St.,D3,2.79
+2016-09-24,home,Western New Eng.,D3,5.81,Nichols,D3,1.21
+2016-09-28,home,Western New Eng.,D3,2.28,Endicott,D3,3.65
+2016-09-24,home,Westfield St.,D3,1.75,Keene St.,D3,2.21
+2016-09-28,home,Wheaton (MA),D3,3.91,Johnson & Wales (RI),D3,2.18
+2016-09-24,home,Wheelock,D3,7.36,Daniel Webster,D3,3.02
+2016-09-24,home,Widener,D3,2.48,Hood,D3,1.57
+2016-09-28,home,Wilkes,D3,2.02,Scranton,D3,1.69
+2016-09-25,home,William & Mary,D1,2.53,Liberty,D1,2.00
+2016-09-28,home,Williams,D3,3.12,Springfield,D3,1.48
+2016-09-23,home,Wittenberg,D3,4.79,Wooster,D3,1.77
+2016-09-25,home,Wittenberg,D3,5.44,Oberlin,D3,0.94
+2016-09-22,home,Worcester St.,D3,3.62,Anna Maria,D3,1.59
+2016-09-28,home,Worcester St.,D3,2.73,Bridgewater St.,D3,2.50
+2016-09-25,home,WPI,D3,1.50,Me.-Farmington,D3,2.48
+2016-09-25,home,Yale,D1,1.31,Stanford,D1,2.56
+2016-09-24,home,York (PA),D3,1.58,Chris. Newport,D3,1.80
+2016-09-28,home,York (PA),D3,3.23,Johns Hopkins,D3,1.30

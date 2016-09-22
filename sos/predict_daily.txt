@@ -1,49 +1,23 @@
 BEGIN
 SET
-    date    | site |        home        | div | score |         away         | div | score 
-------------+------+--------------------+-----+-------+----------------------+-----+-------
- 2016-09-20 | home | Albright           |   3 |  1.94 | Cedar Crest          |   3 |  1.38
- 2016-09-20 | home | Anna Maria         |   3 |  2.35 | New England Col.     |   3 |  2.52
- 2016-09-20 | home | Bloomsburg         |   2 |  3.44 | Slippery Rock        |   2 |  0.94
- 2016-09-20 | home | Clark (MA)         |   3 |  5.27 | Daniel Webster       |   3 |  1.78
- 2016-09-20 | home | Colby              |   3 |  1.65 | Bowdoin              |   3 |  2.73
- 2016-09-20 | home | Drew               |   3 |  1.03 | FDU-Florham          |   3 |  2.77
- 2016-09-20 | home | Fitchburg St.      |   3 |  1.41 | Westfield St.        |   3 |  1.05
- 2016-09-20 | home | Framingham St.     |   3 |  1.47 | Bridgewater St.      |   3 |  5.73
- 2016-09-20 | home | Gordon             |   3 |  2.94 | Western New Eng.     |   3 |  1.65
- 2016-09-20 | home | Gwynedd Mercy      |   3 |  2.45 | TCNJ                 |   3 |  3.59
- 2016-09-20 | home | Hood               |   3 |  1.77 | Roanoke              |   3 |  2.63
- 2016-09-20 | home | Kutztown           |   2 |  1.25 | Shippensburg         |   2 |  1.40
- 2016-09-20 | home | Liberty            |   1 |  3.48 | Longwood             |   1 |  1.34
- 2016-09-20 | home | Mansfield          |   2 |  0.64 | Indiana (PA)         |   2 |  2.04
- 2016-09-20 | home | Mercyhurst         |   2 |  2.27 | Seton Hill           |   2 |  1.63
- 2016-09-20 | home | Millersville       |   2 |  2.83 | West Chester         |   2 |  1.16
- 2016-09-20 | home | Morrisville St.    |   3 |  1.77 | Union (NY)           |   3 |  2.32
- 2016-09-20 | home | Nazareth           |   3 |  1.17 | St. John Fisher      |   3 |  2.77
- 2016-09-20 | home | Nichols            |   3 |  2.16 | Roger Williams       |   3 |  2.67
- 2016-09-20 | home | Ohio Wesleyan      |   3 |  1.42 | Denison              |   3 |  1.50
- 2016-09-20 | home | Princeton          |   1 |  1.90 | Maryland             |   1 |  2.73
- 2016-09-20 | home | Rivier             |   3 |  2.30 | Elms                 |   3 |  1.58
- 2016-09-20 | home | Salem St.          |   3 |  1.42 | Keene St.            |   3 |  8.44
- 2016-09-20 | home | Salve Regina       |   3 |  2.80 | Lasell               |   3 |  1.98
- 2016-09-20 | home | Scranton           |   3 |  1.03 | Marywood             |   3 |  0.95
- 2016-09-20 | home | Smith              |   3 |  1.60 | Williams             |   3 |  2.00
- 2016-09-20 | home | Southern Me.       |   3 |  1.00 | Plymouth St.         |   3 |  2.09
- 2016-09-20 | home | Springfield        |   3 |  2.93 | St. Joseph's (ME)    |   3 |  0.94
- 2016-09-20 | home | Stevenson          |   3 |  1.45 | Rowan                |   3 |  2.92
- 2016-09-20 | home | St. Mary's (MD)    |   3 |  2.82 | Shenandoah           |   3 |  2.15
- 2016-09-20 | home | St. Thomas Aquinas |   2 |  0.58 | Pace                 |   2 |  1.35
- 2016-09-20 | home | Tufts              |   3 |  1.93 | Wellesley            |   3 |  1.21
- 2016-09-20 | home | UMass Dartmouth    |   3 |  3.98 | Worcester St.        |   3 |  2.36
- 2016-09-20 | home | U New England      |   3 |  3.66 | Endicott             |   3 |  1.59
- 2016-09-20 | home | Utica              |   3 |  0.96 | Hartwick             |   3 |  2.14
- 2016-09-20 | home | Wash. & Jeff.      |   3 |  2.26 | Juniata              |   3 |  0.90
- 2016-09-20 | home | Wells              |   3 |  2.49 | Elmira               |   3 |  1.71
- 2016-09-20 | home | Wesley             |   3 |  1.56 | Neumann              |   3 |  3.38
- 2016-09-20 | home | Western Conn. St.  |   3 |  1.00 | Eastern Conn. St.    |   3 |  2.19
- 2016-09-20 | home | Wheaton (MA)       |   3 |  2.73 | Simmons              |   3 |  3.28
- 2016-09-20 | home | WPI                |   3 |  2.82 | Johnson & Wales (RI) |   3 |  1.33
-(41 rows)
+    date    | site |         home         | div | score |        away         | div | score 
+------------+------+----------------------+-----+-------+---------------------+-----+-------
+ 2016-09-22 | home | Bellarmine           |   2 |  5.12 | Concordia Wisconsin |   3 |  0.82
+ 2016-09-22 | home | Elms                 |   3 |  1.74 | Mount Ida           |   3 |  2.49
+ 2016-09-22 | home | Endicott             |   3 |  2.61 | Amherst             |   3 |  2.96
+ 2016-09-22 | home | Framingham St.       |   3 |  1.31 | Regis (MA)          |   3 |  2.80
+ 2016-09-22 | home | Johnson & Wales (RI) |   3 |  0.97 | Babson              |   3 |  6.40
+ 2016-09-22 | home | Keene St.            |   3 |  3.61 | Trinity (CT)        |   3 |  2.91
+ 2016-09-22 | home | Missouri St.         |   1 |  2.80 | LIU Brooklyn        |   1 |  1.67
+ 2016-09-22 | home | Rivier               |   3 |  2.88 | Becker              |   3 |  1.54
+ 2016-09-22 | home | Salve Regina         |   3 |  5.43 | Roger Williams      |   3 |  1.55
+ 2016-09-22 | home | Springfield          |   3 |  3.35 | Western New Eng.    |   3 |  2.21
+ 2016-09-22 | home | Swarthmore           |   3 |  2.21 | Albright            |   3 |  2.02
+ 2016-09-22 | home | UMass Dartmouth      |   3 |  1.01 | Tufts               |   3 |  3.57
+ 2016-09-22 | home | Washington Col.      |   3 |  2.06 | Wesley              |   3 |  1.10
+ 2016-09-22 | home | Western Conn. St.    |   3 |  1.81 | Ramapo              |   3 |  2.06
+ 2016-09-22 | home | Worcester St.        |   3 |  3.62 | Anna Maria          |   3 |  1.59
+(15 rows)
 
-COPY 41
+COPY 15
 COMMIT
