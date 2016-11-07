@@ -45,7 +45,7 @@ order by year asc;
 
 select
 year,
-div,
+'D'||div as div,
 exp(avg(log(str)))::numeric(5,3) as str,
 exp(avg(log(ofs)))::numeric(5,3) as ofs,
 exp(-avg(log(dfs)))::numeric(5,3) as dfs,

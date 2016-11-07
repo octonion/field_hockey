@@ -42,7 +42,7 @@ order by str desc);
 select
 row_number() over (order by str desc nulls last) as rk,
 team,
-div_id as div,
+'D'||div_id as div,
 str::numeric(5,2),
 ofs::numeric(5,2),
 dfs::numeric(5,2),
@@ -54,7 +54,7 @@ order by rk asc;
 select
 row_number() over (order by str desc nulls last) as rk,
 team,
-div_id as div,
+'D'||div_id as div,
 str::numeric(5,2),
 ofs::numeric(5,2),
 dfs::numeric(5,2),
@@ -66,7 +66,7 @@ order by rk asc;
 select
 row_number() over (order by str desc nulls last) as rk,
 team,
-div_id as div,
+'D'||div_id as div,
 str::numeric(5,2),
 ofs::numeric(5,2),
 dfs::numeric(5,2),
@@ -88,6 +88,5 @@ sos::numeric(5,2)
 from r
 order by rk asc
 ) to '/tmp/current_ranking.csv' csv header;
-
 
 commit;

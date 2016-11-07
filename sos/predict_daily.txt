@@ -1,23 +1,8 @@
 BEGIN
 SET
-    date    | site |         home         | div | score |        away         | div | score 
-------------+------+----------------------+-----+-------+---------------------+-----+-------
- 2016-09-22 | home | Bellarmine           |   2 |  5.12 | Concordia Wisconsin |   3 |  0.82
- 2016-09-22 | home | Elms                 |   3 |  1.74 | Mount Ida           |   3 |  2.49
- 2016-09-22 | home | Endicott             |   3 |  2.61 | Amherst             |   3 |  2.96
- 2016-09-22 | home | Framingham St.       |   3 |  1.31 | Regis (MA)          |   3 |  2.80
- 2016-09-22 | home | Johnson & Wales (RI) |   3 |  0.97 | Babson              |   3 |  6.40
- 2016-09-22 | home | Keene St.            |   3 |  3.61 | Trinity (CT)        |   3 |  2.91
- 2016-09-22 | home | Missouri St.         |   1 |  2.80 | LIU Brooklyn        |   1 |  1.67
- 2016-09-22 | home | Rivier               |   3 |  2.88 | Becker              |   3 |  1.54
- 2016-09-22 | home | Salve Regina         |   3 |  5.43 | Roger Williams      |   3 |  1.55
- 2016-09-22 | home | Springfield          |   3 |  3.35 | Western New Eng.    |   3 |  2.21
- 2016-09-22 | home | Swarthmore           |   3 |  2.21 | Albright            |   3 |  2.02
- 2016-09-22 | home | UMass Dartmouth      |   3 |  1.01 | Tufts               |   3 |  3.57
- 2016-09-22 | home | Washington Col.      |   3 |  2.06 | Wesley              |   3 |  1.10
- 2016-09-22 | home | Western Conn. St.    |   3 |  1.81 | Ramapo              |   3 |  2.06
- 2016-09-22 | home | Worcester St.        |   3 |  3.62 | Anna Maria          |   3 |  1.59
-(15 rows)
+ date | site | home | div | score | away | div | score 
+------+------+------+-----+-------+------+-----+-------
+(0 rows)
 
-COPY 15
+COPY 0
 COMMIT

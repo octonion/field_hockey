@@ -1,22 +1,23 @@
 BEGIN
 SET
-    date    |         team         | h_div | site |         opp         | v_div | spread 
-------------+----------------------+-------+------+---------------------+-------+--------
- 2016-09-22 | Bellarmine           |     2 | home | Concordia Wisconsin |     3 |    4.3
- 2016-09-22 | Elms                 |     3 | home | Mount Ida           |     3 |   -0.7
- 2016-09-22 | Endicott             |     3 | home | Amherst             |     3 |   -0.4
- 2016-09-22 | Framingham St.       |     3 | home | Regis (MA)          |     3 |   -1.5
- 2016-09-22 | Johnson & Wales (RI) |     3 | home | Babson              |     3 |   -5.4
- 2016-09-22 | Keene St.            |     3 | home | Trinity (CT)        |     3 |    0.7
- 2016-09-22 | Missouri St.         |     1 | home | LIU Brooklyn        |     1 |    1.1
- 2016-09-22 | Rivier               |     3 | home | Becker              |     3 |    1.3
- 2016-09-22 | Salve Regina         |     3 | home | Roger Williams      |     3 |    3.9
- 2016-09-22 | Springfield          |     3 | home | Western New Eng.    |     3 |    1.1
- 2016-09-22 | Swarthmore           |     3 | home | Albright            |     3 |    0.2
- 2016-09-22 | UMass Dartmouth      |     3 | home | Tufts               |     3 |   -2.6
- 2016-09-22 | Washington Col.      |     3 | home | Wesley              |     3 |    1.0
- 2016-09-22 | Western Conn. St.    |     3 | home | Ramapo              |     3 |   -0.3
- 2016-09-22 | Worcester St.        |     3 | home | Anna Maria          |     3 |    2.0
-(15 rows)
+    date    |        team        | h_div |  site   |       opp       | v_div | spread 
+------------+--------------------+-------+---------+-----------------+-------+--------
+ 2016-11-06 | Babson             |     3 | home    | MIT             |     3 |    1.9
+ 2016-11-06 | Bellarmine         |     2 | neutral | Mercy           |     2 |    3.5
+ 2016-11-06 | Boston U.          |     1 | home    | American        |     1 |    0.8
+ 2016-11-06 | Delaware           |     1 | home    | James Madison   |     1 |    2.0
+ 2016-11-06 | Liberty            |     1 | neutral | UConn           |     1 |   -2.3
+ 2016-11-06 | Limestone          |     2 | neutral | Lindenwood (MO) |     2 |   -0.4
+ 2016-11-06 | Maryland           |     1 | home    | Penn St.        |     1 |    0.1
+ 2016-11-06 | Millersville       |     2 | neutral | Shippensburg    |     2 |   -0.2
+ 2016-11-06 | Monmouth           |     1 | home    | Fairfield       |     1 |    1.9
+ 2016-11-06 | North Carolina     |     1 | neutral | Virginia        |     1 |    1.0
+ 2016-11-06 | Pacific            |     1 | home    | Stanford        |     1 |   -0.4
+ 2016-11-06 | Rhodes             |     3 | home    | Centre          |     3 |    0.5
+ 2016-11-06 | St. Anselm         |     2 | home    | LIU Post        |     2 |   -0.1
+ 2016-11-06 | St. Thomas Aquinas |     2 | home    | Queens (NC)     |     2 |   -1.0
+ 2016-11-06 | Tufts              |     3 | home    | Middlebury      |     3 |    1.2
+ 2016-11-06 | Ursinus            |     3 | home    | Frank. & Marsh. |     3 |    0.7
+(16 rows)
 
 COMMIT
