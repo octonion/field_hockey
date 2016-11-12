@@ -1,11 +1,7 @@
 rd,name,p
-2,American,0.615
-2,Monmouth,0.579
-2,Massachusetts,0.421
-2,Kent St,0.385
-3,Duke,0.939
+3,Duke,0.938
 3,Syracuse,0.933
-3,Maryland,0.894
+3,Maryland,0.889
 3,North Carolina,0.844
 3,UConn,0.835
 3,Penn St,0.823
@@ -16,34 +12,30 @@ rd,name,p
 3,Princeton,0.177
 3,Boston College,0.165
 3,Stanford,0.156
+3,Massachusetts,0.111
 3,Harvard,0.067
-3,Monmouth,0.059
-3,Massachusetts,0.047
-3,American,0.038
-3,Kent St,0.023
-4,Duke,0.742
+3,American,0.062
+4,Duke,0.741
 4,Penn St,0.636
 4,Syracuse,0.631
-4,Maryland,0.472
-4,North Carolina,0.470
+4,North Carolina,0.472
+4,Maryland,0.469
 4,UConn,0.330
 4,Virginia,0.162
-4,Louisville,0.137
+4,Louisville,0.138
 4,Michigan,0.127
-4,Delaware,0.108
+4,Delaware,0.109
 4,Princeton,0.075
 4,Stanford,0.044
 4,Boston College,0.030
+4,Massachusetts,0.015
+4,American,0.013
 4,Harvard,0.010
-4,American,0.008
-4,Monmouth,0.007
-4,Massachusetts,0.006
-4,Kent St,0.005
 5,Duke,0.456
-5,Syracuse,0.369
+5,Syracuse,0.370
 5,Penn St,0.317
-5,North Carolina,0.242
-5,Maryland,0.186
+5,North Carolina,0.243
+5,Maryland,0.185
 5,UConn,0.181
 5,Virginia,0.064
 5,Louisville,0.061
@@ -52,17 +44,15 @@ rd,name,p
 5,Princeton,0.019
 5,Stanford,0.010
 5,Boston College,0.008
-5,American,0.001
-5,Monmouth,0.001
+5,Massachusetts,0.002
+5,American,0.002
 5,Harvard,0.001
-5,Kent St,0.001
-5,Massachusetts,0.001
-6,Duke,0.256
+6,Duke,0.255
 6,Syracuse,0.202
 6,Penn St,0.159
-6,North Carolina,0.129
+6,North Carolina,0.130
 6,UConn,0.092
-6,Maryland,0.078
+6,Maryland,0.077
 6,Virginia,0.026
 6,Louisville,0.024
 6,Michigan,0.014
@@ -70,8 +60,6 @@ rd,name,p
 6,Princeton,0.005
 6,Stanford,0.003
 6,Boston College,0.002
-6,Kent St,0.000
-6,Harvard,0.000
 6,Massachusetts,0.000
+6,Harvard,0.000
 6,American,0.000
-6,Monmouth,0.000
