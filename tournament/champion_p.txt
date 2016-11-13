@@ -1,23 +1,15 @@
 BEGIN
    team_name    |   p   
 ----------------+-------
- Duke           | 0.255
- Syracuse       | 0.202
- Penn St        | 0.159
- North Carolina | 0.130
- UConn          | 0.092
- Maryland       | 0.077
- Virginia       | 0.026
- Louisville     | 0.024
- Michigan       | 0.014
- Delaware       | 0.011
- Princeton      | 0.005
- Stanford       | 0.003
- Boston College | 0.002
- Massachusetts  | 0.000
- Harvard        | 0.000
- American       | 0.000
-(16 rows)
+ Duke           | 0.328
+ Syracuse       | 0.208
+ North Carolina | 0.145
+ UConn          | 0.102
+ Virginia       | 0.085
+ Maryland       | 0.082
+ Princeton      | 0.027
+ Delaware       | 0.024
+(8 rows)
 
-COPY 16
+COPY 8
 COMMIT

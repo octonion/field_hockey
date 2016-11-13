@@ -1,65 +1,25 @@
 rd,name,p
-3,Duke,0.938
-3,Syracuse,0.933
-3,Maryland,0.889
-3,North Carolina,0.844
-3,UConn,0.835
-3,Penn St,0.823
-3,Virginia,0.578
-3,Delaware,0.507
-3,Louisville,0.493
-3,Michigan,0.422
-3,Princeton,0.177
-3,Boston College,0.165
-3,Stanford,0.156
-3,Massachusetts,0.111
-3,Harvard,0.067
-3,American,0.062
-4,Duke,0.741
-4,Penn St,0.636
-4,Syracuse,0.631
-4,North Carolina,0.472
-4,Maryland,0.469
-4,UConn,0.330
-4,Virginia,0.162
-4,Louisville,0.138
-4,Michigan,0.127
-4,Delaware,0.109
-4,Princeton,0.075
-4,Stanford,0.044
-4,Boston College,0.030
-4,Massachusetts,0.015
-4,American,0.013
-4,Harvard,0.010
-5,Duke,0.456
-5,Syracuse,0.370
-5,Penn St,0.317
-5,North Carolina,0.243
-5,Maryland,0.185
-5,UConn,0.181
-5,Virginia,0.064
-5,Louisville,0.061
-5,Michigan,0.042
-5,Delaware,0.038
-5,Princeton,0.019
-5,Stanford,0.010
-5,Boston College,0.008
-5,Massachusetts,0.002
-5,American,0.002
-5,Harvard,0.001
-6,Duke,0.255
-6,Syracuse,0.202
-6,Penn St,0.159
-6,North Carolina,0.130
-6,UConn,0.092
-6,Maryland,0.077
-6,Virginia,0.026
-6,Louisville,0.024
-6,Michigan,0.014
-6,Delaware,0.011
-6,Princeton,0.005
-6,Stanford,0.003
-6,Boston College,0.002
-6,Massachusetts,0.000
-6,Harvard,0.000
-6,American,0.000
+4,Duke,0.823
+4,Syracuse,0.641
+4,Virginia,0.564
+4,North Carolina,0.517
+4,Maryland,0.483
+4,Princeton,0.436
+4,UConn,0.359
+4,Delaware,0.177
+5,Duke,0.591
+5,Syracuse,0.365
+5,North Carolina,0.260
+5,Virginia,0.218
+5,UConn,0.191
+5,Maryland,0.184
+5,Princeton,0.108
+5,Delaware,0.082
+6,Duke,0.328
+6,Syracuse,0.208
+6,North Carolina,0.145
+6,UConn,0.102
+6,Virginia,0.085
+6,Maryland,0.082
+6,Princeton,0.027
+6,Delaware,0.024
